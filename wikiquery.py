@@ -11,13 +11,15 @@ def get_wikidata_triples(entity_id):
         ?wd rdfs:label ?predicate .
         OPTIONAL {{
             ?o rdfs:label ?object .
-            FILTER (lang(?object) = "en")
         }}
+        FILTER (lang(?object) = "en")
         FILTER (lang(?predicate) = "en")
         wd:{entity_id} rdfs:label ?subjectLabel.
         FILTER(LANG(?subjectLabel) = "en")
         FILTER(CONTAINS(STR(?predicate), "ID") = false)
         FILTER(STRSTARTS(STR(?object), "http") =false)
+        FILTER(CONTAINS(STR(?object), "/") = false)
+        FILTER(CONTAINS(STR(?predicate), "ISNI") = false)
         BIND (COALESCE(?object, ?o) AS ?object)
         }} ORDER BY xsd:integer(STRAFTER(STR(?wd), "http://www.wikidata.org/entity/P"))
     """
@@ -150,20 +152,20 @@ high_income_countries2 = [
     'Q43','Q672','Q757','Q1246','Q258'
 ]
 
-process_entity_ids(low_income_countries, 'low_income_wiki_results.json')
-print("low income complete")
+# process_entity_ids(low_income_countries, 'low_income_wiki_results.json')
+# print("low income complete")
 
-process_entity_ids(high_income_countries, 'high_income_wiki_results.json')
-print("high income complete")
+# process_entity_ids(high_income_countries, 'high_income_wiki_results.json')
+# print("high income complete")
 
-process_entity_ids(get_items("P21", "Q6581097",1000), 'male_wiki_results.json')
-print("male results complete")
+# process_entity_ids(get_items("P21", "Q6581097",500), 'male_wiki_results.json')
+# print("male results complete")
 
-process_entity_ids(get_items("P21", "Q6581072",1000), 'female_wiki_results.json')
-print("female results complete")
+# process_entity_ids(get_items("P21", "Q6581072",500), 'female_wiki_results.json')
+# print("female results complete")
 
-process_entity_ids(get_items("P21", "Q189125",250), 'trans_wiki_results.json')#trans
-process_entity_ids(get_items("P21", "Q1052281",250), 'trans_wiki_results.json')#trans_women
-process_entity_ids(get_items("P21", "Q2449503",250), 'trans_wiki_results.json')#trans_man
-process_entity_ids(get_items("P21", "Q48270",250), 'trans_wiki_results.json')#non-binary
-print("male results complete")
+process_entity_ids(get_items("P21", "Q189125",150), 'trans_wiki_results.json')#trans
+process_entity_ids(get_items("P21", "Q1052281",150), 'trans_wiki_results.json')#trans_women
+process_entity_ids(get_items("P21", "Q2449503",150), 'trans_wiki_results.json')#trans_man
+process_entity_ids(get_items("P21", "Q48270",150), 'trans_wiki_results.json')#non-binary
+print("trans results complete")
