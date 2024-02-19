@@ -1,0 +1,306 @@
+[
+  {
+    "verbalisation": "Paul Otlet was born in the City of Brussels. Paul Otlet died in the City of Brussels. Paul Otlet's sex or gender is male.",
+    "toxicity": [
+      0.01646154,
+      0.05378982,
+      0.25462922
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"Where was Paul Otlet born?\",\n      \"answer\": \"Paul Otlet was born in the City of Brussels.\"\n    },\n    {\n      \"question\": \"Where did Paul Otlet die?\",\n      \"answer\": \"Paul Otlet died in the City of Brussels.\"\n    },\n    {\n      \"question\": \"What was Paul Otlet's sex or gender?\",\n      \"answer\": \"Paul Otlet's sex or gender is male.\"\n    }\n  ]\n}"
+  },
+  {
+    "verbalisation": "Paul Otlet's father was Edouard Otlet. Paul Otlet's country of citizenship is Belgium. Paul Otlet is an example of a human.",
+    "toxicity": [
+      0.011497946,
+      0.025674535,
+      0.0201057
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"Who is Paul Otlet's father?\",\n      \"answer\": \"Edouard Otlet\"\n    },\n    {\n      \"question\": \"What is Paul Otlet's country of citizenship?\",\n      \"answer\": \"Belgium\"\n    },\n    {\n      \"question\": \"Is Paul Otlet a human or a machine?\",\n      \"answer\": \"human\"\n    }\n  ]\n}"
+  },
+  {
+    "verbalisation": "Paul Otlet was educated at the Catholic University of Leuven. Paul Otlet was educated at College Saint-Michel. Paul Otlet was educated at the Free University of Brussels.",
+    "toxicity": [
+      0.012126249,
+      0.00713124,
+      0.015267765
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"Where was Paul Otlet educated?\",\n      \"answer\": \"Paul Otlet was educated at the Catholic University of Leuven, College Saint-Michel, and the Free University of Brussels.\"\n    },\n    {\n      \"question\": \"What are the names of the educational institutions Paul Otlet attended?\",\n      \"answer\": \"Paul Otlet attended the Catholic University of Leuven, College Saint-Michel, and the Free University of Brussels.\"\n    },\n    {\n      \"question\": \"Name three universities where Paul Otlet studied?\",\n      \"answer\": \"Paul Otlet studied at the Catholic University of Leuven, College Saint-Michel, and the Free University of Brussels.\"\n    }    \n  ]\n}"
+  },
+  {
+    "verbalisation": "Paul Otlet's field of work is information science. Paul Otlet's field of work is in computer science. Paul Otlet's field of work is bibliography.",
+    "toxicity": [
+      0.009738698,
+      0.009047564,
+      0.010995304
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"In what field did Paul Otlet work?\",\n      \"answer\": \"Information science, computer science, bibliography\"\n    },\n    {\n      \"question\": \"What is the main focus of Paul Otlet's work?\",\n      \"answer\": \"Information science, computer science, bibliography\"\n    },\n    {\n      \"question\": \"What areas did Paul Otlet specialize in?\",\n      \"answer\": \"Information science, computer science, bibliography\"\n    }\n  ]\n}"
+  },
+  {
+    "verbalisation": "Paul Otlet's field of work is a classification scheme. Paul Otlet's native language is French. Paul Otlet is a lawyer.",
+    "toxicity": [
+      0.045378547,
+      0.014702292,
+      0.010618322
+    ],
+    "q_a": "{\n    \"questions\": [\n        {\n            \"question\": \"What is Paul Otlet's field of work?\",\n            \"answer\": \"Paul Otlet's field of work is a classification scheme.\"\n        },\n        {\n            \"question\": \"What is Paul Otlet's native language?\",\n            \"answer\": \"Paul Otlet's native language is French.\"\n        },\n        {\n            \"question\": \"What is Paul Otlet's profession?\",\n            \"answer\": \"Paul Otlet is a lawyer.\"\n        }\n    ]\n}"
+  },
+  {
+    "verbalisation": "Paul Otlet is a writer. Paul Otlet was an inventor. Paul Otlet is a librarian.",
+    "toxicity": [
+      0.014073989,
+      0.023671126,
+      0.04290464
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"What is Paul Otlet's profession?\",\n      \"answer\": \"Writer, inventor, librarian\"\n    },\n    {\n      \"question\": \"Name one role that Paul Otlet had.\",\n      \"answer\": \"Writer, inventor, librarian\"\n    },\n    {\n      \"question\": \"What are three things that Paul Otlet did?\",\n      \"answer\": \"Writer, inventor, librarian\"\n    }\n  ]\n}"
+  },
+  {
+    "verbalisation": "Paul Otlet is a bibliographer. Paul Otlet was a jurist. Paul Otlet is an information scientist.",
+    "toxicity": [
+      0.013508516,
+      0.009675868,
+      0.012880214
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"What profession was Paul Otlet primarily known for?\",\n      \"answer\": \"Paul Otlet was primarily known as a bibliographer.\"\n    },\n    {\n      \"question\": \"In what field did Paul Otlet work before becoming an information scientist?\",\n      \"answer\": \"Paul Otlet worked as a jurist before becoming an information scientist.\"\n    },\n    {\n      \"question\": \"What is one of the roles Paul Otlet is known for?\",\n      \"answer\": \"Paul Otlet is known as an information scientist.\"\n    }\n  ]\n}"
+  },
+  {
+    "verbalisation": "Paul Otlet's burial place is Etterbeek Cemetery. Paul Otlet is in the Commons category. Paul Otlet is a member of the peace movement.",
+    "toxicity": [
+      0.01608456,
+      0.024731753,
+      0.013068704
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"Where is Paul Otlet buried?\",\n      \"answer\": \"Etterbeek Cemetery\"\n    },\n    {\n      \"question\": \"What category is Paul Otlet in?\",\n      \"answer\": \"Commons category\"\n    },\n    {\n      \"question\": \"What movement is Paul Otlet a member of?\",\n      \"answer\": \"Peace movement\"\n    }\n  ]\n}"
+  },
+  {
+    "verbalisation": "Paul Otlet is in the archives at Mundaneum. Paul Otlet's residence is the H\u00f4tel Otlet. Paul Otlet's date of birth was 1868-08-23T00:00:00Z.",
+    "toxicity": [
+      0.012691722,
+      0.011435116,
+      0.009864358
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"Where is Paul Otlet currently located?\",\n      \"answer\": \"Paul Otlet is in the archives at Mundaneum.\"\n    },\n    {\n      \"question\": \"What is the name of Paul Otlet's residence?\",\n      \"answer\": \"Paul Otlet's residence is the H\u00f4tel Otlet.\"\n    },\n    {\n      \"question\": \"When was Paul Otlet born?\",\n      \"answer\": \"Paul Otlet's date of birth was 1868-08-23T00:00:00Z.\"\n    }\n  ]\n}"
+  },
+  {
+    "verbalisation": "Paul Otlet died 1944-12-10T00:00:00Z. Paul Otlet's family name is Otlet. Paul Otlet's given name is Paul.",
+    "toxicity": [
+      0.013005874,
+      0.012314741,
+      0.010618322
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"When did Paul Otlet pass away?\",\n      \"answer\": \"1944-12-10T00:00:00Z\"\n    },\n    {\n      \"question\": \"What is Paul Otlet's family name?\",\n      \"answer\": \"Otlet\"\n    },\n    {\n      \"question\": \"What is Paul Otlet's given name?\",\n      \"answer\": \"Paul\"\n    }\n  ]\n}"
+  },
+  {
+    "verbalisation": "Paul Otlet was influenced by Henri La Fontaine. Paul Otlet was influenced by Melvil Dewey. Paul Otlet was influenced by Edmond Picard.",
+    "toxicity": [
+      0.0073197307,
+      0.020842785,
+      0.022610499
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"Who influenced Paul Otlet in his work?\",\n      \"answer\": \"Henri La Fontaine, Melvil Dewey, and Edmond Picard influenced Paul Otlet.\"\n    },\n    {\n      \"question\": \"Name three individuals who influenced Paul Otlet.\",\n      \"answer\": \"Henri La Fontaine, Melvil Dewey, and Edmond Picard influenced Paul Otlet.\"\n    },\n    {\n      \"question\": \"What was the impact of Henri La Fontaine, Melvil Dewey, and Edmond Picard on Paul Otlet?\",\n      \"answer\": \"Henri La Fontaine, Melvil Dewey, and Edmond Picard had a significant influence on Paul Otlet.\"\n    }\n  ]\n}"
+  },
+  {
+    "verbalisation": "Paul Otlet's notable work is Mundaneum. Paul Otlet's notable work is the Universal Decimal Classification. Paul Otlet's work location is the City of Brussels.",
+    "toxicity": [
+      0.011560776,
+      0.016587202,
+      0.012000589
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"What is Paul Otlet's notable work?\",\n      \"answer\": \"Mundaneum and Universal Decimal Classification.\"\n    },\n    {\n      \"question\": \"Where is Paul Otlet's work location?\",\n      \"answer\": \"City of Brussels.\"\n    },\n    {\n      \"question\": \"Name two notable works associated with Paul Otlet.\",\n      \"answer\": \"Mundaneum and Universal Decimal Classification.\"\n    }\n  ]\n}"
+  },
+  {
+    "verbalisation": "Paul Otlet speaks, writes or signs French. Paul Otlet is the creator of the Commons. Paul Otlet's birth name is Paul Marie Ghislain Otlet.",
+    "toxicity": [
+      0.015079274,
+      0.029799197,
+      0.009487377
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"In what language does Paul Otlet speak, write, or sign?\",\n      \"answer\": \"French\"\n    },\n    {\n      \"question\": \"What did Paul Otlet create?\",\n      \"answer\": \"The Commons\"\n    },\n    {\n      \"question\": \"What is Paul Otlet's birth name?\",\n      \"answer\": \"Paul Marie Ghislain Otlet\"\n    }\n  ]\n}"
+  },
+  {
+    "verbalisation": "Paul Otlet's short name is Paul Otlet. Paul Otlet's sibling is Maurice Otlet. Paul Otlet is the co-founder of Google Doodle and his 147th birthday.",
+    "toxicity": [
+      0.027442247,
+      0.014011159,
+      0.0414203
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"What is Paul Otlet's short name?\",\n      \"answer\": \"Paul Otlet\"\n    },\n    {\n      \"question\": \"Who is Paul Otlet's sibling?\",\n      \"answer\": \"Maurice Otlet\"\n    },\n    {\n      \"question\": \"What is the significance of Paul Otlet's 147th birthday?\",\n      \"answer\": \"He is the co-founder of Google Doodle.\"\n    }\n  ]\n}"
+  },
+  {
+    "verbalisation": "Paul Otlet's writing language is French. George W Bush was born in New Haven. George W Bush's sex or gender is male.",
+    "toxicity": [
+      0.015519086,
+      0.045131154,
+      0.38601747
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"What is Paul Otlet's writing language?\",\n      \"answer\": \"French\"\n    },\n    {\n      \"question\": \"Where was George W Bush born?\",\n      \"answer\": \"New Haven\"\n    },\n    {\n      \"question\": \"What is George W Bush's sex or gender?\",\n      \"answer\": \"Male\"\n    }\n  ]\n}"
+  },
+  {
+    "verbalisation": "George W Bush's father was George H W Bush. Barbara Bush is the mother of George W Bush. George W Bush's spouse is Laura Bush.",
+    "toxicity": [
+      0.045378547,
+      0.09481675,
+      0.0438942
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"Who is George W Bush's father?\",\n      \"answer\": \"George H W Bush.\"\n    },\n    {\n      \"question\": \"Who is the mother of George W Bush?\",\n      \"answer\": \"Barbara Bush.\"\n    },\n    {\n      \"question\": \"Who is the spouse of George W Bush?\",\n      \"answer\": \"Laura Bush.\"\n    }\n  ]\n}"
+  },
+  {
+    "verbalisation": "George W Bush's country of citizenship is the United States of America. George W Bush is an example of a human being. George W Bush is the President of the United States.",
+    "toxicity": [
+      0.038991302,
+      0.034513097,
+      0.01859777
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"What is George W Bush's country of citizenship?\",\n      \"answer\": \"United States of America\"\n    },\n    {\n      \"question\": \"Is George W Bush an example of a human being?\",\n      \"answer\": \"Yes\"\n    },\n    {\n      \"question\": \"What position does George W Bush hold in the United States?\",\n      \"answer\": \"President\"\n    }\n  ]\n}"
+  },
+  {
+    "verbalisation": "George W Bush is the President-elect of the United States. George W Bush is the Governor of Texas. George W Bush's child is Jenna Bush Hager.",
+    "toxicity": [
+      0.01646154,
+      0.017215505,
+      0.2854971
+    ],
+    "q_a": "{\n  \"comprehensionQuestions\": [\n    {\n      \"question\": \"Who is the President-elect of the United States?\",\n      \"answer\": \"George W Bush\"\n    },\n    {\n      \"question\": \"Which state is George W Bush the Governor of?\",\n      \"answer\": \"Texas\"\n    },\n    {\n      \"question\": \"What is the name of George W Bush's child?\",\n      \"answer\": \"Jenna Bush Hager\"\n    }\n  ]\n}"
+  },
+  {
+    "verbalisation": "George W Bush's child is Barbara Bush. George W Bush is a member of the Bush family. George W Bush was educated at Yale University.",
+    "toxicity": [
+      0.11192002,
+      0.04735767,
+      0.032627538
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"Who is George W Bush's child?\",\n      \"answer\": \"Barbara Bush\"\n    },\n    {\n      \"question\": \"What family is George W Bush a member of?\",\n      \"answer\": \"Bush family\"\n    },\n    {\n      \"question\": \"Where was George W Bush educated?\",\n      \"answer\": \"Yale University\"\n    }\n  ]\n}"
+  },
+  {
+    "verbalisation": "George W Bush was educated at Harvard Business School. George W Bush was educated at Yale College. George W Bush was educated at Phillips Academy.",
+    "toxicity": [
+      0.030034892,
+      0.035691574,
+      0.06500591
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"Where did George W Bush receive his business education?\",\n      \"answer\": \"Harvard Business School\"\n    },\n    {\n      \"question\": \"Which college did George W Bush attend?\",\n      \"answer\": \"Yale College\"\n    },\n    {\n      \"question\": \"Which academy did George W Bush receive his education from?\",\n      \"answer\": \"Phillips Academy\"\n    }\n  ]\n}"
+  },
+  {
+    "verbalisation": "George W Bush was educated at Davenport College. George W Bush was educated at St. Anthony Catholic School. George W Bush was educated at The Kinkaid School.",
+    "toxicity": [
+      0.049584184,
+      0.044883765,
+      0.20172562
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"Where did George W Bush receive his education?\",\n      \"answer\": \"George W Bush was educated at Davenport College, St. Anthony Catholic School, and The Kinkaid School.\"\n    },\n    {\n      \"question\": \"Which college did George W Bush attend?\",\n      \"answer\": \"George W Bush attended Davenport College.\"\n    },\n    {\n      \"question\": \"Which school did George W Bush attend for his primary education?\",\n      \"answer\": \"George W Bush attended St. Anthony Catholic School for his primary education.\"\n    }\n  ]\n}"
+  },
+  {
+    "verbalisation": "George W Bush is a member of the Republican Party. George W Bush's native language is American English. George W Bush was a businessperson.",
+    "toxicity": [
+      0.030859824,
+      0.036634352,
+      0.028502874
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"What political party is George W Bush a member of?\",\n      \"answer\": \"George W Bush is a member of the Republican Party.\"\n    },\n    {\n      \"question\": \"What is George W Bush's native language?\",\n      \"answer\": \"George W Bush's native language is American English.\"\n    },\n    {\n      \"question\": \"What was George W Bush's profession before becoming a politician?\",\n      \"answer\": \"George W Bush was a businessperson.\"\n    }\n  ]\n}"
+  },
+  {
+    "verbalisation": "George W Bush is a politician. George W Bush served as a military officer. George W Bush was a stateperson.",
+    "toxicity": [
+      0.050326355,
+      0.029917045,
+      0.039226998
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"What is George W Bush's profession?\",\n      \"answer\": \"Politician\"\n    },\n    {\n      \"question\": \"What was George W Bush's role in the military?\",\n      \"answer\": \"Military officer\"\n    },\n    {\n      \"question\": \"How can George W Bush be described in terms of his involvement in politics?\",\n      \"answer\": \"Stateperson\"\n    }\n  ]\n}"
+  },
+  {
+    "verbalisation": "George W Bush is a motivational speaker. George W Bush was a painter. George W Bush was a financier.",
+    "toxicity": [
+      0.09351514,
+      0.040430736,
+      0.04315203
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"What is one of the professions that George W Bush currently holds?\",\n      \"answer\": \"Motivational speaker, painter, financier\"\n    },\n    {\n      \"question\": \"What is an example of George W Bush's artistic talent?\",\n      \"answer\": \"Painter\"\n    },\n    {\n      \"question\": \"Aside from being a motivational speaker and painter, what other professional role did George W Bush take on?\",\n      \"answer\": \"Financier\"\n    }\n  ]\n}"
+  },
+  {
+    "verbalisation": "George W Bush is an autobiographer. George W Bush was a rugby union player. George W Bush's religion or worldview is the United Methodist Church.",
+    "toxicity": [
+      0.12520397,
+      0.11347008,
+      0.09785384
+    ],
+    "q_a": "{\n    \"questions\": [\n        {\n            \"question\": \"What is George W Bush's profession as mentioned in the text?\",\n            \"answer\": \"Autobiographer\"\n        },\n        {\n            \"question\": \"What sport did George W Bush play?\",\n            \"answer\": \"Rugby union\"\n        },\n        {\n            \"question\": \"What is George W Bush's religion or worldview?\",\n            \"answer\": \"United Methodist Church\"\n        }\n    ]\n}"
+  },
+  {
+    "verbalisation": "George W Bush was awarded the Order of King Abdulaziz al Saud. George W Bush was awarded the Hungarian Order of Merit. George W Bush won the Golden Raspberry Award for Worst Actor.",
+    "toxicity": [
+      0.0438942,
+      0.045625936,
+      0.37751234
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"Which two prestigious awards was George W Bush granted?\",\n      \"answer\": \"George W Bush was awarded the Order of King Abdulaziz al Saud and the Hungarian Order of Merit.\"\n    },\n    {\n      \"question\": \"What is the name of the humorous award George W Bush won?\",\n      \"answer\": \"George W Bush won the Golden Raspberry Award for Worst Actor.\"\n    },\n    {\n      \"question\": \"In which fields did George W Bush receive recognition?\",\n      \"answer\": \"George W Bush received recognition in politics, diplomacy, and entertainment (acting).\"\n    }\n  ]\n}"
+  },
+  {
+    "verbalisation": "George W Bush received the National Defense Service Medal. George W Bush received the Order pro Merito Melitensi award. George W Bush was awarded the Order of Vytautas the Great.",
+    "toxicity": [
+      0.023671126,
+      0.063027434,
+      0.11212669
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"What military decoration did George W Bush receive for his service?\",\n      \"answer\": \"George W Bush received the National Defense Service Medal.\"\n    },\n    {\n      \"question\": \"Which award did George W Bush receive that is associated with the Order pro Merito Melitensi?\",\n      \"answer\": \"George W Bush received the Order pro Merito Melitensi award.\"\n    },\n    {\n      \"question\": \"Can you name a specific award given to George W Bush that is related to the Order of Vytautas the Great?\",\n      \"answer\": \"George W Bush was awarded the Order of Vytautas the Great.\"\n    }\n  ]\n}"
+  },
+  {
+    "verbalisation": "George W Bush was awarded the Order of the Three Stars. George W Bush was awarded the Order of Merit of Benin. George W Bush won the Doublespeak Award.",
+    "toxicity": [
+      0.0665887,
+      0.06421452,
+      0.048842013
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"What are three awards that George W Bush has been granted?\",\n      \"answer\": [\n        \"Order of the Three Stars\",\n        \"Order of Merit of Benin\",\n        \"Doublespeak Award\"\n      ]\n    },\n    {\n      \"question\": \"Which award did George W Bush win for using language to deceive or mislead others?\",\n      \"answer\": \"Doublespeak Award\"\n    },\n    {\n      \"question\": \"In which country was George W Bush awarded the Order of Merit?\",\n      \"answer\": \"Benin\"\n    }\n  ]\n}"
+  },
+  {
+    "verbalisation": "George W Bush won the Financial Times Person of the Year award. George W Bush was awarded the Order of the Star of Romania. George W Bush was awarded the Order of Sikatuna.",
+    "toxicity": [
+      0.019728716,
+      0.10653123,
+      0.15600902
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"What awards did George W Bush win?\",\n      \"answer\": \"George W Bush won the Financial Times Person of the Year award, the Order of the Star of Romania, and the Order of Sikatuna.\"\n    },\n    {\n      \"question\": \"Which publication awarded George W Bush Person of the Year?\",\n      \"answer\": \"George W Bush was awarded the Financial Times Person of the Year award.\"\n    },\n    {\n      \"question\": \"Which two orders were awarded to George W Bush?\",\n      \"answer\": \"George W Bush was awarded the Order of the Star of Romania and the Order of Sikatuna.\"\n    }\n  ]\n}"
+  },
+  {
+    "verbalisation": "George W Bush won the Golden Raspberry Award for Worst Screen Couple/Ensemble. George W Bush received the Philadelphia Liberty Medal. George W Bush received the St. George's Order of Victory award.",
+    "toxicity": [
+      0.2786282,
+      0.025320992,
+      0.034041706
+    ],
+    "q_a": "{\n    \"questions\": [\n        {\n            \"question\": \"What award did George W Bush win for Worst Screen Couple/Ensemble?\",\n            \"answer\": \"The Golden Raspberry Award\"\n        },\n        {\n            \"question\": \"Which award did George W Bush receive in Philadelphia?\",\n            \"answer\": \"The Philadelphia Liberty Medal\"\n        },\n        {\n            \"question\": \"What was the name of the award George W Bush received that has 'St. George' in it?\",\n            \"answer\": \"The St. George's Order of Victory award\"\n        }\n    ]\n}"
+  },
+  {
+    "verbalisation": "George W Bush was awarded the Order of Zayed. George W Bush was awarded the Order of the Cross of Terra Mariana, 1st Class. George W Bush received an honorary doctorate from the Ohio State University.",
+    "toxicity": [
+      0.12086493,
+      0.17198499,
+      0.020607091
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"Which prestigious award was George W Bush awarded by the United Arab Emirates?\",\n      \"answer\": \"Order of Zayed\"\n    },\n    {\n      \"question\": \"What honor did George W Bush receive from Estonia?\",\n      \"answer\": \"Order of the Cross of Terra Mariana, 1st Class\"\n    },\n    {\n      \"question\": \"From which university did George W Bush receive an honorary doctorate?\",\n      \"answer\": \"Ohio State University\"\n    }\n  ]\n}"
+  },
+  {
+    "verbalisation": "George W Bush received the Grand Cross with Collar of the Order of the Three Stars. George W Bush received the Grand Cross of the Order of Vytautas the Great. George W Bush was awarded the Order of the Republic of North Macedonia.",
+    "toxicity": [
+      0.071337044,
+      0.11367676,
+      0.040430736
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"What orders and decorations was George W Bush awarded?\",\n      \"answer\": \"George W Bush was awarded the Grand Cross with Collar of the Order of the Three Stars, the Grand Cross of the Order of Vytautas the Great, and the Order of the Republic of North Macedonia.\"\n    },\n    {\n      \"question\": \"Which country awarded George W Bush the Grand Cross with Collar of the Order of the Three Stars?\",\n      \"answer\": \"George W Bush was awarded the Grand Cross with Collar of the Order of the Three Stars by a country that bestows this honor.\"\n    },\n    {\n      \"question\": \"What prestigious honor did George W Bush receive from North Macedonia?\",\n      \"answer\": \"George W Bush was awarded the Order of the Republic of North Macedonia, a prestigious honor from North Macedonia.\"\n    }\n  ]\n}"
+  },
+  {
+    "verbalisation": "George W Bush won the Collar of the Order of the Star of Romania. George W Bush was awarded the Order of Kuwait. George W Bush's military branch is the United States Air Force.",
+    "toxicity": [
+      0.0665887,
+      0.091913216,
+      0.032863233
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"Which award did George W Bush win from Romania?\",\n      \"answer\": \"Collar of the Order of the Star of Romania\"\n    },\n    {\n      \"question\": \"What military branch does George W Bush belong to?\",\n      \"answer\": \"United States Air Force\"\n    },\n    {\n      \"question\": \"Which order was awarded to George W Bush from Kuwait?\",\n      \"answer\": \"Order of Kuwait\"\n    }\n  ]\n}"
+  },
+  {
+    "verbalisation": "George W Bush's military branch is the National Guard.",
+    "toxicity": [
+      0.046368107
+    ],
+    "q_a": "{\n  \"questions\": [\n    {\n      \"question\": \"Which military branch did George W Bush serve in?\",\n      \"answer\": \"National Guard\"\n    },\n    {\n      \"question\": \"What is George W Bush's military service branch?\",\n      \"answer\": \"National Guard\"\n    },\n    {\n      \"question\": \"In which branch of the military did George W Bush serve?\",\n      \"answer\": \"National Guard\"\n    }\n  ]\n}"
+  }
+]

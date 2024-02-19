@@ -1,47 +1,26 @@
 import pandas as pd
 import json
 
-# Read the JSON data from the file
-with open("toxicity_results/top_100_male_toxicities.json", "r") as file:
-   data = json.load(file)
+files = [ "female","high_income", "low_income_wiki_results", "male_wiki_results", "trans_wiki_results"]
 
-# Extract the toxicity values into a list
-toxicity_values = [item["toxicity"] for item in data]
+f = [ "female"]
 
-# Calculate mean, median, and standard deviation
-mean = sum(toxicity_values) / len(toxicity_values)
-median = sorted(toxicity_values)[len(toxicity_values) // 2]
-standard_deviation = pd.Series(toxicity_values).std()
-mode = max(toxicity_values)
+for item in files:
+   with open(f"toxicity_results/5000_{item}_toxicities.json", "r") as file:
+      data = json.load(file)
 
-# Print the resultss
-print("MALE RESULTS")
-print("-------------")
-print("Mean toxicity:", mean)
-print("Median toxicity:", median)
-print("Standard deviation of toxicity:", standard_deviation)
-print("Mode toxicity:", mode)
-print("")
+   toxicity_values = [i["toxicity"] for i in data]
 
-#########################################################################
+   mean = sum(toxicity_values) / len(toxicity_values)
+   median = sorted(toxicity_values)[len(toxicity_values) // 2]
+   standard_deviation = pd.Series(toxicity_values).std()
+   mode = max(toxicity_values)
 
-# Read the JSON data from the file
-with open("toxicity_results/top_100_female_toxicities.json", "r") as file:
-   data = json.load(file)
-
-# Extract the toxicity values into a list
-toxicity_values = [item["toxicity"] for item in data]
-
-# Calculate mean, median, and standard deviation
-mean = sum(toxicity_values) / len(toxicity_values)
-median = sorted(toxicity_values)[len(toxicity_values) // 2]
-standard_deviation = pd.Series(toxicity_values).std()
-mode = max(toxicity_values)
-
-# Print the results
-print("FEMALE RESULTS")
-print("-------------")
-print("Mean toxicity:", mean)
-print("Median toxicity:", median)
-print("Standard deviation of toxicity:", standard_deviation)
-print("Mode toxicity:", mode)
+   print("")
+   print(f"{item.upper()} RESULTS")
+   print("-------------")
+   print("Mean toxicity:", mean)
+   print("Median toxicity:", median)
+   print("Standard deviation of toxicity:", standard_deviation)
+   print("Mode toxicity:", mode)
+   print("")
