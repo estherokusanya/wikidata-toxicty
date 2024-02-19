@@ -1,9 +1,10 @@
 from WDV.Verbalisation.verbalisation_module import VerbModule
 import json
 
-# files = ["female_wiki_results", "high_income_wiki_results", "low_income_wiki_results", "male_wiki_results", "trans_wiki_results"]
+#"female_wiki_results"
+files = [ "high_income_wiki_results", "low_income_wiki_results", "male_wiki_results", "trans_wiki_results"]
 
-files = [ "trans_wiki_results"]
+
 vm = VerbModule()
 
 for item in files:
@@ -23,8 +24,8 @@ for item in files:
         verbalized_triples.append(verbalized_triple)
         # print("",verbalized_triple)
 
-    with open(f"verbalised_triples/{item}verbalised.json", "w") as f:
-        json.dump(verbalized_triples, f, indent=2)  # Indent for readability
+    with open(f"verbalised_triples/{item}_verbalised.json", "w") as f:
+        json.dump(verbalized_triples, f, indent=2)
 
 
 
