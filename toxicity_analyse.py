@@ -1,7 +1,7 @@
 import pandas as pd
 import json
 
-files = [ "female","high_income", "low_income_wiki_results", "male_wiki_results", "trans_wiki_results"]
+files = [ "female","high_income", "low_income", "male", "trans"]
 
 f = [ "female"]
 
