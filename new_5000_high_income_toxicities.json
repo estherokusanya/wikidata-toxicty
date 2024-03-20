@@ -8998,8 +8998,7 @@
       0.010743983,
       0.013068704
     ]
-  }
-][
+  },
   {
     "subject": "Iceland",
     "predicate": "diplomatic relation",
@@ -11999,8 +11998,7 @@
       0.016210219,
       0.01834645
     ]
-  }
-][
+  },
   {
     "subject": "Portugal",
     "predicate": "member of",
@@ -13499,6 +13497,5256 @@
       0.027913637,
       0.0061573703,
       0.009361716
+    ]
+  },
+  {
+    "subject": "Seychelles",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Port Glaud",
+    "verbalisation": "Port Glaud is the administrative territorial entity of the Seychelles.",
+    "toxicity": 0.011497946,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008859074,
+      0.009550206,
+      0.020960633,
+      0.006722843,
+      0.010995304
+    ]
+  },
+  {
+    "subject": "Gibraltar",
+    "predicate": "significant event",
+    "object": "Tenth Siege of Gibraltar",
+    "verbalisation": "The Tenth Siege of Gibraltar was a significant event in Gibraltar.",
+    "toxicity": 0.09872158,
+    "sentiment": 0.2023,
+    "toxic_fraction": [
+      0.022610499,
+      0.032863233,
+      0.07371122,
+      0.043646812,
+      0.03639866
+    ]
+  },
+  {
+    "subject": "Switzerland",
+    "predicate": "diplomatic relation",
+    "object": "Serbia",
+    "verbalisation": "Switzerland has a diplomatic relation with Serbia.",
+    "toxicity": 0.029917045,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010806813,
+      0.02968135,
+      0.03545588,
+      0.011686437,
+      0.013382856
+    ]
+  },
+  {
+    "subject": "Oman",
+    "predicate": "diplomatic relation",
+    "object": "Bangladesh",
+    "verbalisation": "Oman has a diplomatic relation with Bangladesh.",
+    "toxicity": 0.027560094,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011058134,
+      0.0137598375,
+      0.040183347,
+      0.009361716,
+      0.00823077
+    ]
+  },
+  {
+    "subject": "Australia",
+    "predicate": "diplomatic relation",
+    "object": "Malta",
+    "verbalisation": "Australia has a diplomatic relation with Malta.",
+    "toxicity": 0.023671126,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0072569004,
+      0.014890783,
+      0.013005874,
+      0.01225191,
+      0.0074453913
+    ]
+  },
+  {
+    "subject": "Denmark",
+    "predicate": "short name",
+    "object": "Denmark",
+    "verbalisation": "The short name of Denmark is \"Denmark\".",
+    "toxicity": 0.043646812,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.050078966,
+      0.037577134,
+      0.029092113,
+      0.016838523,
+      0.02873857
+    ]
+  },
+  {
+    "subject": "Cayman Islands",
+    "predicate": "flag",
+    "object": "flag of the Cayman Islands",
+    "verbalisation": "The flag of the Cayman Islands is the Cayman Islands flag.",
+    "toxicity": 0.020960633,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.023671126,
+      0.024613906,
+      0.03734144,
+      0.022610499,
+      0.009990019
+    ]
+  },
+  {
+    "subject": "Italy",
+    "predicate": "public holiday",
+    "object": "Epiphany",
+    "verbalisation": "Epiphany is a public holiday in Italy.",
+    "toxicity": 0.021667719,
+    "sentiment": 0.4019,
+    "toxic_fraction": [
+      0.013382856,
+      0.014011159,
+      0.112953395,
+      0.01225191,
+      0.05824285
+    ]
+  },
+  {
+    "subject": "Canada",
+    "predicate": "member of",
+    "object": "Commonwealth of Nations",
+    "verbalisation": "Canada is a member of the Commonwealth of Nations.",
+    "toxicity": 0.009613037,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0074139764,
+      0.007916619,
+      0.022139108,
+      0.00719407,
+      0.02779579
+    ]
+  },
+  {
+    "subject": "Portugal",
+    "predicate": "open data portal",
+    "object": "Open Data Portugal",
+    "verbalisation": "Open Data Portugal is the open data portal in Portugal.",
+    "toxicity": 0.01005285,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009361716,
+      0.009487377,
+      0.017969469,
+      0.009738698,
+      0.017466826
+    ]
+  },
+  {
+    "subject": "Greece",
+    "predicate": "member of",
+    "object": "International Centre for Migration Policy Development",
+    "verbalisation": "Greece is a member of the International Centre for Migration Policy Development.",
+    "toxicity": 0.018849092,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.012754552,
+      0.017215505,
+      0.035691574,
+      0.01005285,
+      0.033806015
+    ]
+  },
+  {
+    "subject": "Finland",
+    "predicate": "language used",
+    "object": "Chinese",
+    "verbalisation": "The language used in Finland is Chinese.",
+    "toxicity": 0.028974265,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.03734144,
+      0.039935954,
+      0.37751234,
+      0.039935954,
+      0.046120718
+    ]
+  },
+  {
+    "subject": "France",
+    "predicate": "motto",
+    "object": "Libert\u00e9, \u00e9galit\u00e9, fraternit\u00e9",
+    "verbalisation": "The motto of France is Libert\u00e9, \u00e9galit\u00e9, fraternit\u00e9.",
+    "toxicity": 0.012691722,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013697007,
+      0.028502874,
+      0.083999306,
+      0.01218908,
+      0.010115679
+    ]
+  },
+  {
+    "subject": "Iceland",
+    "predicate": "Wikimedia outline",
+    "object": "outline of Iceland",
+    "verbalisation": "The Wikimedia outline of Iceland is the outline of Iceland.",
+    "toxicity": 0.016964182,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.021432023,
+      0.016210219,
+      0.020842785,
+      0.03015274,
+      0.15435068
+    ]
+  },
+  {
+    "subject": "Nauru",
+    "predicate": "member of",
+    "object": "Organisation for the Prohibition of Chemical Weapons",
+    "verbalisation": "Nauru is a member of the Organisation for the Prohibition of Chemical Weapons.",
+    "toxicity": 0.014450971,
+    "sentiment": -0.4404,
+    "toxic_fraction": [
+      0.013068704,
+      0.017843807,
+      0.019728716,
+      0.011058134,
+      0.011560776
+    ]
+  },
+  {
+    "subject": "Barbados",
+    "predicate": "executive body",
+    "object": "Government of Barbados",
+    "verbalisation": "Barbados's executive body is the Government of Barbados.",
+    "toxicity": 0.041172907,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01237757,
+      0.029917045,
+      0.044388983,
+      0.015267765,
+      0.00816794
+    ]
+  },
+  {
+    "subject": "New Zealand",
+    "predicate": "diplomatic relation",
+    "object": "Serbia",
+    "verbalisation": "New Zealand has a diplomatic relation with Serbia.",
+    "toxicity": 0.022374803,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009047564,
+      0.041915078,
+      0.046368107,
+      0.013445686,
+      0.028502874
+    ]
+  },
+  {
+    "subject": "Andorra",
+    "predicate": "has list",
+    "object": "List\u0103 de scriitori andorrani",
+    "verbalisation": "List\u0103 de scriitori andorrani is a list in Andorra.",
+    "toxicity": 0.004272461,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.018723432,
+      0.015330595,
+      0.026145924,
+      0.013320025,
+      0.021432023
+    ]
+  },
+  {
+    "subject": "Faroe Islands",
+    "predicate": "Wikimedia outline",
+    "object": "outline of the Faroe Islands",
+    "verbalisation": "The Wikimedia outline of the Faroe Islands is the outline of the Faroe Islands.",
+    "toxicity": 0.014073989,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015079274,
+      0.0070684096,
+      0.012503231,
+      0.012817383,
+      0.021432023
+    ]
+  },
+  {
+    "subject": "Saudi Arabia",
+    "predicate": "diplomatic relation",
+    "object": "Qatar",
+    "verbalisation": "Saudi Arabia has a diplomatic relation with Qatar.",
+    "toxicity": 0.032627538,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009801528,
+      0.06579731,
+      0.075294,
+      0.025320992,
+      0.03192045
+    ]
+  },
+  {
+    "subject": "Norway",
+    "predicate": "diplomatic relation",
+    "object": "Nepal",
+    "verbalisation": "Norway has a diplomatic relation with Nepal.",
+    "toxicity": 0.027088705,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010681152,
+      0.016210219,
+      0.027324399,
+      0.028974265,
+      0.009738698
+    ]
+  },
+  {
+    "subject": "Austria",
+    "predicate": "ethnic group",
+    "object": "Germans",
+    "verbalisation": "Germans are an ethnic group in Austria.",
+    "toxicity": 0.051563308,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.030034892,
+      0.031213367,
+      0.08241652,
+      0.04067813,
+      0.040925518
+    ]
+  },
+  {
+    "subject": "Switzerland",
+    "predicate": "diplomatic relation",
+    "object": "North Korea",
+    "verbalisation": "Switzerland has a diplomatic relation with North Korea.",
+    "toxicity": 0.025556687,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014073989,
+      0.02543884,
+      0.035691574,
+      0.0076652975,
+      0.042657252
+    ]
+  },
+  {
+    "subject": "Puerto Rico",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Yauco",
+    "verbalisation": "The administrative territorial entity of Puerto Rico is Yauco.",
+    "toxicity": 0.011686437,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.021314176,
+      0.009801528,
+      0.015267765,
+      0.01218908,
+      0.011749268
+    ]
+  },
+  {
+    "subject": "Gibraltar",
+    "predicate": "shares border with",
+    "object": "Spain",
+    "verbalisation": "Gibraltar has a border with Spain.",
+    "toxicity": 0.025910228,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014890783,
+      0.034513097,
+      0.0466155,
+      0.012943043,
+      0.012691722
+    ]
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "on focus list of Wikimedia project",
+    "object": "WikiProject Hungary",
+    "verbalisation": "Hungary is on the focus list of Wikimedia project WikiProject Hungary.",
+    "toxicity": 0.014765122,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008733413,
+      0.009298885,
+      0.018849092,
+      0.016838523,
+      0.01822079
+    ]
+  },
+  {
+    "subject": "Germany",
+    "predicate": "member of",
+    "object": "International Military Sports Council",
+    "verbalisation": "Germany is a member of the International Military Sports Council.",
+    "toxicity": 0.034984488,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015393426,
+      0.029917045,
+      0.08004235,
+      0.022728346,
+      0.013571346
+    ]
+  },
+  {
+    "subject": "Oman",
+    "predicate": "diplomatic relation",
+    "object": "Serbia",
+    "verbalisation": "Oman has a diplomatic relation with Serbia.",
+    "toxicity": 0.030859824,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013382856,
+      0.020842785,
+      0.11336674,
+      0.009990019,
+      0.034277402
+    ]
+  },
+  {
+    "subject": "Netherlands",
+    "predicate": "member of",
+    "object": "Schengen Area",
+    "verbalisation": "The Netherlands is a member of the Schengen Area.",
+    "toxicity": 0.032627538,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017969469,
+      0.018095128,
+      0.119997114,
+      0.017089844,
+      0.0143253105
+    ]
+  },
+  {
+    "subject": "Sweden",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Stockholm County",
+    "verbalisation": "The administrative territorial entity of Sweden is Stockholm County.",
+    "toxicity": 0.021903414,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014513801,
+      0.026617315,
+      0.046368107,
+      0.0126288915,
+      0.027677942
+    ]
+  },
+  {
+    "subject": "Australia",
+    "predicate": "diplomatic relation",
+    "object": "Vietnam",
+    "verbalisation": "Australia has a diplomatic relation with Vietnam.",
+    "toxicity": 0.025792383,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010806813,
+      0.011183795,
+      0.058737632,
+      0.009864358,
+      0.023199737
+    ]
+  },
+  {
+    "subject": "Denmark",
+    "predicate": "diplomatic relation",
+    "object": "Russia",
+    "verbalisation": "Denmark has a diplomatic relationship with Russia.",
+    "toxicity": 0.030270588,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011749268,
+      0.0137598375,
+      0.059479803,
+      0.0109324735,
+      0.009487377
+    ]
+  },
+  {
+    "subject": "American Samoa",
+    "predicate": "located in time zone",
+    "object": "Samoa Time Zone",
+    "verbalisation": "American Samoa is located in the Samoa Time Zone.",
+    "toxicity": 0.014953613,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.007351146,
+      0.015770407,
+      0.02035702,
+      0.01646154,
+      0.0069741644
+    ]
+  },
+  {
+    "subject": "Denmark",
+    "predicate": "demonym",
+    "object": "Danish",
+    "verbalisation": "Denmark's demonym is Danish.",
+    "toxicity": 0.47119883,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.24924077,
+      0.11088664,
+      0.1693855,
+      0.32182294,
+      0.23451406
+    ]
+  },
+  {
+    "subject": "Oman",
+    "predicate": "continent",
+    "object": "Asia",
+    "verbalisation": "Oman is on the continent of Asia.",
+    "toxicity": 0.050078966,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0201057,
+      0.027206551,
+      0.03875561,
+      0.012754552,
+      0.01633588
+    ]
+  },
+  {
+    "subject": "Puerto Rico",
+    "predicate": "named after",
+    "object": "Puerto Rico",
+    "verbalisation": "Puerto Rico is named after Puerto Rico.",
+    "toxicity": 0.010743983,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013068704,
+      0.020842785,
+      0.5885171,
+      0.012126249,
+      0.011183795
+    ]
+  },
+  {
+    "subject": "Spain",
+    "predicate": "emergency phone number",
+    "object": "061",
+    "verbalisation": "The emergency phone number in Spain is 061.",
+    "toxicity": 0.016712861,
+    "sentiment": -0.3182,
+    "toxic_fraction": [
+      0.017969469,
+      0.012754552,
+      0.01633588,
+      0.02072494,
+      0.008984734
+    ]
+  },
+  {
+    "subject": "Chile",
+    "predicate": "member of",
+    "object": "Multilateral Investment Guarantee Agency",
+    "verbalisation": "Chile is a member of the Multilateral Investment Guarantee Agency.",
+    "toxicity": 0.012817383,
+    "sentiment": 0.25,
+    "toxic_fraction": [
+      0.00823077,
+      0.011435116,
+      0.023199737,
+      0.019728716,
+      0.03969839
+    ]
+  },
+  {
+    "subject": "Slovenia",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Municipality of Jezersko",
+    "verbalisation": "The municipality of Jezersko is the administrative territorial entity of Slovenia.",
+    "toxicity": 0.01646154,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011937759,
+      0.01218908,
+      0.02048268,
+      0.010681152,
+      0.027206551
+    ]
+  },
+  {
+    "subject": "Cyprus",
+    "predicate": "electrical plug type",
+    "object": "BS 1363",
+    "verbalisation": "The electrical plug type in Cyprus is BS 1363.",
+    "toxicity": 0.061444655,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.03875561,
+      0.01426248,
+      0.027088705,
+      0.016712861,
+      0.02826718
+    ]
+  },
+  {
+    "subject": "Guam",
+    "predicate": "currency",
+    "object": "United States dollar",
+    "verbalisation": "The currency of Guam is the United States dollar.",
+    "toxicity": 0.011058134,
+    "sentiment": 0.4215,
+    "toxic_fraction": [
+      0.008105109,
+      0.011812098,
+      0.02402467,
+      0.009236055,
+      0.012691722
+    ]
+  },
+  {
+    "subject": "Canada",
+    "predicate": "diplomatic relation",
+    "object": "France",
+    "verbalisation": "The diplomatic relation between Canada and France is also strong.",
+    "toxicity": 0.0066600125,
+    "sentiment": 0.5106,
+    "toxic_fraction": [
+      0.006440107,
+      0.028502874,
+      0.022964042,
+      0.0060002944,
+      0.021667719
+    ]
+  },
+  {
+    "subject": "Macau",
+    "predicate": "emergency phone number",
+    "object": "999",
+    "verbalisation": "The emergency phone number in Macau is 999.",
+    "toxicity": 0.015958898,
+    "sentiment": -0.3182,
+    "toxic_fraction": [
+      0.01017851,
+      0.012063419,
+      0.37795907,
+      0.014765122,
+      0.01005285
+    ]
+  },
+  {
+    "subject": "United Arab Emirates",
+    "predicate": "emergency phone number",
+    "object": "997",
+    "verbalisation": "The emergency phone number of the United Arab Emirates is 997.",
+    "toxicity": 0.032391842,
+    "sentiment": 0.128,
+    "toxic_fraction": [
+      0.015581916,
+      0.021314176,
+      0.023906821,
+      0.011937759,
+      0.016712861
+    ]
+  },
+  {
+    "subject": "Switzerland",
+    "predicate": "basic form of government",
+    "object": "directorial system",
+    "verbalisation": "The basic form of government in Switzerland is the directorial system.",
+    "toxicity": 0.028385026,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011372286,
+      0.05131592,
+      0.026735162,
+      0.010429831,
+      0.03015274
+    ]
+  },
+  {
+    "subject": "New Zealand",
+    "predicate": "member of",
+    "object": "Southeast Asia Treaty Organization",
+    "verbalisation": "New Zealand is a member of the Southeast Asia Treaty Organization.",
+    "toxicity": 0.01633588,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.016712861,
+      0.013822667,
+      0.01633588,
+      0.012440401,
+      0.010806813
+    ]
+  },
+  {
+    "subject": "Japan",
+    "predicate": "category for people born here",
+    "object": "Category:Births in Japan",
+    "verbalisation": "The category of people born in Japan is \"Births in Japan\".",
+    "toxicity": 0.018849092,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.021903414,
+      0.033806015,
+      0.036870047,
+      0.017341165,
+      0.028149333
+    ]
+  },
+  {
+    "subject": "Switzerland",
+    "predicate": "open data portal",
+    "object": "opendata.swiss",
+    "verbalisation": "The open data portal for Switzerland is opendata.swiss.",
+    "toxicity": 0.014765122,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009864358,
+      0.009675868,
+      0.019477395,
+      0.01633588,
+      0.011246625
+    ]
+  },
+  {
+    "subject": "Latvia",
+    "predicate": "instance of",
+    "object": "country bordering the Baltic Sea",
+    "verbalisation": "Latvia is a country bordering the Baltic Sea.",
+    "toxicity": 0.04834723,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.02638162,
+      0.022964042,
+      0.010555492,
+      0.021903414,
+      0.015707577
+    ]
+  },
+  {
+    "subject": "Romania",
+    "predicate": "member of",
+    "object": "European Union",
+    "verbalisation": "Romania is a member of the European Union.",
+    "toxicity": 0.027677942,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011309455,
+      0.022374803,
+      0.01005285,
+      0.03357032,
+      0.009550206
+    ]
+  },
+  {
+    "subject": "Denmark",
+    "predicate": "topic's main template",
+    "object": "Template:Denmark topics",
+    "verbalisation": "The main template for Denmark is \"Denmark topics\".",
+    "toxicity": 0.025910228,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.019226074,
+      0.014639461,
+      0.044636376,
+      0.014890783,
+      0.036162965
+    ]
+  },
+  {
+    "subject": "New Zealand",
+    "predicate": "member of",
+    "object": "International Centre for Settlement of Investment Disputes",
+    "verbalisation": "New Zealand is a member of the International Centre for Settlement of Investment Disputes.",
+    "toxicity": 0.007288316,
+    "sentiment": -0.2732,
+    "toxic_fraction": [
+      0.0103670005,
+      0.026617315,
+      0.027442247,
+      0.01608456,
+      0.022728346
+    ]
+  },
+  {
+    "subject": "France",
+    "predicate": "public holiday",
+    "object": "Armistice Day",
+    "verbalisation": "Armistice Day is a public holiday in France.",
+    "toxicity": 0.048099842,
+    "sentiment": 0.4019,
+    "toxic_fraction": [
+      0.019226074,
+      0.026499467,
+      0.051810697,
+      0.0201057,
+      0.019854378
+    ]
+  },
+  {
+    "subject": "United Kingdom",
+    "predicate": "diplomatic relation",
+    "object": "Republic of Ireland",
+    "verbalisation": "The United Kingdom has a diplomatic relation with the Republic of Ireland.",
+    "toxicity": 0.022964042,
+    "sentiment": 0.4215,
+    "toxic_fraction": [
+      0.009613037,
+      0.044141594,
+      0.06896287,
+      0.011372286,
+      0.033334624
+    ]
+  },
+  {
+    "subject": "Netherlands",
+    "predicate": "member of",
+    "object": "European Air Transport Command",
+    "verbalisation": "The Netherlands is a member of the European Air Transport Command.",
+    "toxicity": 0.01419965,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.007099825,
+      0.01859777,
+      0.15103401,
+      0.010429831,
+      0.01218908
+    ]
+  },
+  {
+    "subject": "Hong Kong",
+    "predicate": "driving side",
+    "object": "left",
+    "verbalisation": "Hong Kong's driving side is left.",
+    "toxicity": 0.03828422,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009990019,
+      0.017466826,
+      0.025910228,
+      0.03192045,
+      0.010681152
+    ]
+  },
+  {
+    "subject": "Faroe Islands",
+    "predicate": "category of people buried here",
+    "object": "Category:Burials in the Faroe Islands",
+    "verbalisation": "The category of people buried in the Faroe Islands is \"Burials in the Faroe Islands\".",
+    "toxicity": 0.02779579,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008859074,
+      0.013131535,
+      0.030270588,
+      0.01847211,
+      0.011937759
+    ]
+  },
+  {
+    "subject": "Norway",
+    "predicate": "member of",
+    "object": "European Economic Area",
+    "verbalisation": "Norway is a member of the European Economic Area.",
+    "toxicity": 0.019226074,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013822667,
+      0.013697007,
+      0.036634352,
+      0.01633588,
+      0.012063419
+    ]
+  },
+  {
+    "subject": "Portugal",
+    "predicate": "located in or next to body of water",
+    "object": "Atlantic Ocean",
+    "verbalisation": "Portugal is located in or next to body of water in the Atlantic Ocean.",
+    "toxicity": 0.06184035,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013822667,
+      0.022846194,
+      0.05378982,
+      0.018849092,
+      0.009927189
+    ]
+  },
+  {
+    "subject": "Malta",
+    "predicate": "different from",
+    "object": "Malta",
+    "verbalisation": "Malta is different from Malta.",
+    "toxicity": 0.029799197,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.021196328,
+      0.0154562555,
+      0.048594624,
+      0.017843807,
+      0.033806015
+    ]
+  },
+  {
+    "subject": "Estonia",
+    "predicate": "member of",
+    "object": "World Meteorological Organization",
+    "verbalisation": "Estonia is a member of the World Meteorological Organization.",
+    "toxicity": 0.019980038,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.007759543,
+      0.029327808,
+      0.021432023,
+      0.011874928,
+      0.008293601
+    ]
+  },
+  {
+    "subject": "Latvia",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Tukums Municipality  (2009-2021)",
+    "verbalisation": "The administrative territorial entity of Latvia is Tukums Municipality (2009-2021).",
+    "toxicity": 0.009236055,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.006942749,
+      0.008482091,
+      0.02035702,
+      0.023553278,
+      0.024142517
+    ]
+  },
+  {
+    "subject": "Cura\u00e7ao",
+    "predicate": "related category",
+    "object": "Category:Cura\u00e7ao-related lists",
+    "verbalisation": "Cura\u00e7ao related lists are categorised as Cura\u00e7ao related.",
+    "toxicity": 0.007508222,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0079480335,
+      0.009424546,
+      0.102626406,
+      0.025792383,
+      0.017089844
+    ]
+  },
+  {
+    "subject": "Australia",
+    "predicate": "topic's main Wikimedia portal",
+    "object": "Portal:Australia",
+    "verbalisation": "The main Wikimedia portal for Australia is Portal:Australia.",
+    "toxicity": 0.009864358,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.016021729,
+      0.009675868,
+      0.017341165,
+      0.012817383,
+      0.020231359
+    ]
+  },
+  {
+    "subject": "Oman",
+    "predicate": "diplomatic relation",
+    "object": "Germany",
+    "verbalisation": "Oman has a diplomatic relation with Germany.",
+    "toxicity": 0.04834723,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.016210219,
+      0.012440401,
+      0.11316007,
+      0.022964042,
+      0.011372286
+    ]
+  },
+  {
+    "subject": "Germany",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Bremen",
+    "verbalisation": "Bremen is the administrative territorial entity of Germany.",
+    "toxicity": 0.03828422,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017466826,
+      0.012880214,
+      0.036870047,
+      0.022610499,
+      0.023671126
+    ]
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "member of",
+    "object": "International Finance Corporation",
+    "verbalisation": "Hungary is a member of the International Finance Corporation.",
+    "toxicity": 0.019226074,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009487377,
+      0.020607091,
+      0.017215505,
+      0.014953613,
+      0.009487377
+    ]
+  },
+  {
+    "subject": "Brunei",
+    "predicate": "shares border with",
+    "object": "Malaysia",
+    "verbalisation": "Brunei has a border with Malaysia.",
+    "toxicity": 0.02543884,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.012126249,
+      0.020960633,
+      0.17371799,
+      0.010995304,
+      0.027560094
+    ]
+  },
+  {
+    "subject": "Japan",
+    "predicate": "member of",
+    "object": "World Trade Organization",
+    "verbalisation": "Japan is a member of the World Trade Organization.",
+    "toxicity": 0.028974265,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011058134,
+      0.010995304,
+      0.033334624,
+      0.012126249,
+      0.009173225
+    ]
+  },
+  {
+    "subject": "Australia",
+    "predicate": "shares border with",
+    "object": "Papua New Guinea",
+    "verbalisation": "Australia has a border with Papua New Guinea.",
+    "toxicity": 0.034984488,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01237757,
+      0.019603057,
+      0.0414203,
+      0.009864358,
+      0.00719407
+    ]
+  },
+  {
+    "subject": "Liechtenstein",
+    "predicate": "public holiday",
+    "object": "Saint Stephen's Day",
+    "verbalisation": "Saint Stephen's Day is a public holiday in Liechtenstein.",
+    "toxicity": 0.022256956,
+    "sentiment": 0.4019,
+    "toxic_fraction": [
+      0.019351736,
+      0.018095128,
+      0.041172907,
+      0.012126249,
+      0.029445656
+    ]
+  },
+  {
+    "subject": "Estonia",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Saare County",
+    "verbalisation": "The administrative territorial entity of Estonia is Saare County.",
+    "toxicity": 0.017215505,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014136819,
+      0.023788974,
+      0.044636376,
+      0.009550206,
+      0.0072254855
+    ]
+  },
+  {
+    "subject": "Slovakia",
+    "predicate": "member of",
+    "object": "World Trade Organization",
+    "verbalisation": "Slovakia is a member of the World Trade Organization.",
+    "toxicity": 0.02873857,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015016444,
+      0.009110395,
+      0.027560094,
+      0.009298885,
+      0.009675868
+    ]
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "highest point",
+    "object": "K\u00e9kes",
+    "verbalisation": "K\u00e9kes is the highest point in Hungary.",
+    "toxicity": 0.061444655,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013257195,
+      0.011183795,
+      0.042657252,
+      0.009675868,
+      0.006754258
+    ]
+  },
+  {
+    "subject": "Guyana",
+    "predicate": "member of",
+    "object": "Organisation of African, Caribbean and Pacific States",
+    "verbalisation": "Guyana is a member of the Organisation of African, Caribbean and Pacific States.",
+    "toxicity": 0.013131535,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014576632,
+      0.030388435,
+      0.11129999,
+      0.024142517,
+      0.011749268
+    ]
+  },
+  {
+    "subject": "Denmark",
+    "predicate": "award received",
+    "object": "Victoria Medal of Honour",
+    "verbalisation": "The Victoria Medal of Honour was awarded to Denmark.",
+    "toxicity": 0.02543884,
+    "sentiment": 0.8591,
+    "toxic_fraction": [
+      0.018723432,
+      0.024967449,
+      0.11057663,
+      0.01024134,
+      0.014765122
+    ]
+  },
+  {
+    "subject": "Hong Kong",
+    "predicate": "category for films shot at this location",
+    "object": "Category:Films shot in Hong Kong",
+    "verbalisation": "Hong Kong is the location of the film \"Films shot in Hong Kong\".",
+    "toxicity": 0.02107848,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.027677942,
+      0.019351736,
+      0.47772613,
+      0.034748793,
+      0.044636376
+    ]
+  },
+  {
+    "subject": "French Polynesia",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Maupiti",
+    "verbalisation": "Maupiti is the administrative territorial entity of French Polynesia.",
+    "toxicity": 0.01633588,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.00804228,
+      0.015958898,
+      0.02035702,
+      0.014011159,
+      0.008859074
+    ]
+  },
+  {
+    "subject": "Saudi Arabia",
+    "predicate": "culture",
+    "object": "culture of Saudi Arabia",
+    "verbalisation": "Saudi Arabia has a culture of Saudi Arabia.",
+    "toxicity": 0.0438942,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.022728346,
+      0.019603057,
+      0.2553839,
+      0.0969861,
+      0.09394901
+    ]
+  },
+  {
+    "subject": "United Kingdom",
+    "predicate": "has characteristic",
+    "object": "free country",
+    "verbalisation": "The United Kingdom has a characteristic of being a free country.",
+    "toxicity": 0.025556687,
+    "sentiment": 0.7269,
+    "toxic_fraction": [
+      0.015079274,
+      0.019351736,
+      0.08479069,
+      0.01646154,
+      0.02826718
+    ]
+  },
+  {
+    "subject": "New Zealand",
+    "predicate": "follows",
+    "object": "Colony of New Zealand",
+    "verbalisation": "Colony of New Zealand is the name given to New Zealand.",
+    "toxicity": 0.016838523,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.012000589,
+      0.019603057,
+      0.05725329,
+      0.009047564,
+      0.014450971
+    ]
+  },
+  {
+    "subject": "Germany",
+    "predicate": "maintained by WikiProject",
+    "object": "WikiProject Germany",
+    "verbalisation": "WikiProject Germany is the maintainer of WikiProject.",
+    "toxicity": 0.035220183,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.016712861,
+      0.020231359,
+      0.102626406,
+      0.04785245,
+      0.030034892
+    ]
+  },
+  {
+    "subject": "Belgium",
+    "predicate": "country",
+    "object": "Belgium",
+    "verbalisation": "Belgium is a country in Belgium.",
+    "toxicity": 0.032156147,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.046368107,
+      0.024967449,
+      0.05304765,
+      0.026970858,
+      0.048842013
+    ]
+  },
+  {
+    "subject": "Hong Kong",
+    "predicate": "religion or worldview",
+    "object": "Hinduism",
+    "verbalisation": "Hinduism is a religion in Hong Kong.",
+    "toxicity": 0.05280026,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.03734144,
+      0.043399423,
+      0.01847211,
+      0.028385026,
+      0.0665887
+    ]
+  },
+  {
+    "subject": "Denmark",
+    "predicate": "member of",
+    "object": "Treaty on Open Skies",
+    "verbalisation": "Denmark is a member of the Treaty on Open Skies.",
+    "toxicity": 0.02249265,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.020960633,
+      0.025674535,
+      0.06896287,
+      0.01859777,
+      0.009047564
+    ]
+  },
+  {
+    "subject": "Denmark",
+    "predicate": "contains the administrative territorial entity",
+    "object": "North Denmark Region",
+    "verbalisation": "The administrative territorial entity of Denmark is the North Denmark Region.",
+    "toxicity": 0.020960633,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014011159,
+      0.018849092,
+      0.02402467,
+      0.020842785,
+      0.040430736
+    ]
+  },
+  {
+    "subject": "Sweden",
+    "predicate": "has part(s)",
+    "object": "\u00d6sterg\u00f6tland",
+    "verbalisation": "<unk>sterg\u00f6tland is part of Sweden.",
+    "toxicity": 0.024849601,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015267765,
+      0.025792383,
+      0.025674535,
+      0.017215505,
+      0.014450971
+    ]
+  },
+  {
+    "subject": "Norway",
+    "predicate": "diplomatic relation",
+    "object": "Croatia",
+    "verbalisation": "Norway has diplomatic relations with Croatia.",
+    "toxicity": 0.029799197,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009801528,
+      0.025792383,
+      0.4850187,
+      0.01005285,
+      0.009236055
+    ]
+  },
+  {
+    "subject": "Brunei",
+    "predicate": "language used",
+    "object": "Standard Mandarin",
+    "verbalisation": "Standard Mandarin is a language used in Brunei.",
+    "toxicity": 0.015142105,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.018095128,
+      0.019351736,
+      0.028974265,
+      0.017089844,
+      0.01859777
+    ]
+  },
+  {
+    "subject": "South Korea",
+    "predicate": "diplomatic relation",
+    "object": "Paraguay",
+    "verbalisation": "South Korea has a diplomatic relation with Paraguay.",
+    "toxicity": 0.02249265,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008670582,
+      0.017969469,
+      0.024142517,
+      0.007916619,
+      0.008984734
+    ]
+  },
+  {
+    "subject": "Sweden",
+    "predicate": "member of",
+    "object": "Group on Earth Observations",
+    "verbalisation": "Sweden is a member of the Group on Earth Observations.",
+    "toxicity": 0.054779384,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0076338826,
+      0.02035702,
+      0.011246625,
+      0.011120965,
+      0.026145924
+    ]
+  },
+  {
+    "subject": "Australia",
+    "predicate": "diplomatic relation",
+    "object": "Estonia",
+    "verbalisation": "Australia has a diplomatic relation with Estonia.",
+    "toxicity": 0.021785567,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009236055,
+      0.019351736,
+      0.025085296,
+      0.008859074,
+      0.008419261
+    ]
+  },
+  {
+    "subject": "American Samoa",
+    "predicate": "executive body",
+    "object": "Government of American Samoa",
+    "verbalisation": "The government of American Samoa is the executive body of American Samoa.",
+    "toxicity": 0.014513801,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009110395,
+      0.027206551,
+      0.03192045,
+      0.008105109,
+      0.024849601
+    ]
+  },
+  {
+    "subject": "Austria",
+    "predicate": "language used",
+    "object": "German",
+    "verbalisation": "German is the language used in Austria.",
+    "toxicity": 0.03592727,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.027324399,
+      0.037105743,
+      0.08241652,
+      0.022610499,
+      0.02685301
+    ]
+  },
+  {
+    "subject": "Japan",
+    "predicate": "significant event",
+    "object": "World War II",
+    "verbalisation": "Japan was the site of the World War II.",
+    "toxicity": 0.19986437,
+    "sentiment": -0.5994,
+    "toxic_fraction": [
+      0.02920996,
+      0.025203144,
+      0.6667219,
+      0.02543884,
+      0.014639461
+    ]
+  },
+  {
+    "subject": "Luxembourg",
+    "predicate": "part of",
+    "object": "European Union",
+    "verbalisation": "Luxembourg is part of the European Union.",
+    "toxicity": 0.025085296,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01426248,
+      0.012691722,
+      0.11347008,
+      0.009927189,
+      0.016838523
+    ]
+  },
+  {
+    "subject": "Finland",
+    "predicate": "language used",
+    "object": "Marathi",
+    "verbalisation": "Marathi is a language used in Finland.",
+    "toxicity": 0.014953613,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01633588,
+      0.04760506,
+      0.20102765,
+      0.02107848,
+      0.02449606
+    ]
+  },
+  {
+    "subject": "Czech Republic",
+    "predicate": "diplomatic relation",
+    "object": "Philippines",
+    "verbalisation": "The Czech Republic has diplomatic relations with the Philippines.",
+    "toxicity": 0.0414203,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009550206,
+      0.012566062,
+      0.03734144,
+      0.009047564,
+      0.011309455
+    ]
+  },
+  {
+    "subject": "Slovenia",
+    "predicate": "diplomatic relation",
+    "object": "Croatia",
+    "verbalisation": "Slovenia has a diplomatic relation with Croatia.",
+    "toxicity": 0.024378212,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.012440401,
+      0.02779579,
+      0.1991664,
+      0.008670582,
+      0.009738698
+    ]
+  },
+  {
+    "subject": "Aruba",
+    "predicate": "category of associated people",
+    "object": "Category:Aruban people",
+    "verbalisation": "Aruba is associated with the Aruban people.",
+    "toxicity": 0.030506283,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017089844,
+      0.045873325,
+      0.08479069,
+      0.027324399,
+      0.050326355
+    ]
+  },
+  {
+    "subject": "Romania",
+    "predicate": "member of",
+    "object": "International Finance Corporation",
+    "verbalisation": "Romania is a member of the International Finance Corporation.",
+    "toxicity": 0.017215505,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009487377,
+      0.014639461,
+      0.015142105,
+      0.008105109,
+      0.031213367
+    ]
+  },
+  {
+    "subject": "Luxembourg",
+    "predicate": "member of",
+    "object": "Organisation internationale de la Francophonie",
+    "verbalisation": "Luxembourg is a member of the Organisation internationale de la Francophonie.",
+    "toxicity": 0.0029059018,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.012817383,
+      0.015958898,
+      0.041172907,
+      0.016587202,
+      0.019854378
+    ]
+  },
+  {
+    "subject": "South Korea",
+    "predicate": "public holiday",
+    "object": "Christmas",
+    "verbalisation": "Christmas is a public holiday in South Korea.",
+    "toxicity": 0.023671126,
+    "sentiment": 0.4019,
+    "toxic_fraction": [
+      0.012126249,
+      0.02402467,
+      0.039226998,
+      0.015896067,
+      0.039226998
+    ]
+  },
+  {
+    "subject": "Taiwan",
+    "predicate": "official language",
+    "object": "O-ku-u\u0101",
+    "verbalisation": "O-ku-u<unk> is the official language of Taiwan.",
+    "toxicity": 0.021432023,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.022964042,
+      0.01847211,
+      0.112540044,
+      0.013697007,
+      0.021432023
+    ]
+  },
+  {
+    "subject": "Seychelles",
+    "predicate": "emergency phone number",
+    "object": "112",
+    "verbalisation": "112 is the emergency phone number in the Seychelles.",
+    "toxicity": 0.017718147,
+    "sentiment": -0.3182,
+    "toxic_fraction": [
+      0.009550206,
+      0.021903414,
+      0.019351736,
+      0.016964182,
+      0.009801528
+    ]
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "member of",
+    "object": "Strategic Airlift Capability",
+    "verbalisation": "Hungary is a member of Strategic Airlift Capability.",
+    "toxicity": 0.032391842,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0071626552,
+      0.040925518,
+      0.02543884,
+      0.032156147,
+      0.022610499
+    ]
+  },
+  {
+    "subject": "Czech Republic",
+    "predicate": "flag",
+    "object": "flag of the Czech Republic",
+    "verbalisation": "The flag of the Czech Republic is the flag of the Czech Republic.",
+    "toxicity": 0.059232414,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.04240986,
+      0.04785245,
+      0.040430736,
+      0.11336674,
+      0.025792383
+    ]
+  },
+  {
+    "subject": "Israel",
+    "predicate": "member of",
+    "object": "United Nations",
+    "verbalisation": "Israel is a member of the United Nations.",
+    "toxicity": 0.03015274,
+    "sentiment": 0.4215,
+    "toxic_fraction": [
+      0.09828771,
+      0.023906821,
+      0.15324512,
+      0.032391842,
+      0.04735767
+    ]
+  },
+  {
+    "subject": "Netherlands",
+    "predicate": "member of",
+    "object": "European Bank for Reconstruction and Development",
+    "verbalisation": "The Netherlands is a member of the European Bank for Reconstruction and Development.",
+    "toxicity": 0.01608456,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009927189,
+      0.037577134,
+      0.02072494,
+      0.008105109,
+      0.03015274
+    ]
+  },
+  {
+    "subject": "Malta",
+    "predicate": "diplomatic relation",
+    "object": "Cyprus",
+    "verbalisation": "Malta has a diplomatic relation with Cyprus.",
+    "toxicity": 0.020960633,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010492661,
+      0.022256956,
+      0.0466155,
+      0.01218908,
+      0.010429831
+    ]
+  },
+  {
+    "subject": "Monaco",
+    "predicate": "emergency phone number",
+    "object": "18",
+    "verbalisation": "The emergency phone number in Monaco is 18.",
+    "toxicity": 0.011183795,
+    "sentiment": -0.3182,
+    "toxic_fraction": [
+      0.015581916,
+      0.017718147,
+      0.018095128,
+      0.006440107,
+      0.009675868
+    ]
+  },
+  {
+    "subject": "United Kingdom",
+    "predicate": "public holiday",
+    "object": "International Workers' Day",
+    "verbalisation": "International Workers' Day is a public holiday in the UK.",
+    "toxicity": 0.013257195,
+    "sentiment": 0.4019,
+    "toxic_fraction": [
+      0.0065971822,
+      0.013948329,
+      0.026263772,
+      0.013822667,
+      0.023671126
+    ]
+  },
+  {
+    "subject": "Republic of Ireland",
+    "predicate": "diplomatic relation",
+    "object": "Italy",
+    "verbalisation": "The Republic of Ireland has diplomatic relations with Italy.",
+    "toxicity": 0.03192045,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010115679,
+      0.01847211,
+      0.027560094,
+      0.04760506,
+      0.014513801
+    ]
+  },
+  {
+    "subject": "Hong Kong",
+    "predicate": "public holiday",
+    "object": "Christmas",
+    "verbalisation": "Hong Kong has a public holiday called Christmas.",
+    "toxicity": 0.021903414,
+    "sentiment": 0.4019,
+    "toxic_fraction": [
+      0.010806813,
+      0.034041706,
+      0.03545588,
+      0.022139108,
+      0.023199737
+    ]
+  },
+  {
+    "subject": "Romania",
+    "predicate": "diplomatic relation",
+    "object": "Republic of Ireland",
+    "verbalisation": "Romania has a diplomatic relation with the Republic of Ireland.",
+    "toxicity": 0.025792383,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015393426,
+      0.032156147,
+      0.11652588,
+      0.013697007,
+      0.013885498
+    ]
+  },
+  {
+    "subject": "Australia",
+    "predicate": "diplomatic relation",
+    "object": "Brunei",
+    "verbalisation": "Brunei is a diplomatic relation between Australia and Brunei.",
+    "toxicity": 0.016712861,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008482091,
+      0.014576632,
+      0.027913637,
+      0.008921904,
+      0.022964042
+    ]
+  },
+  {
+    "subject": "New Caledonia",
+    "predicate": "language used",
+    "object": "Pije",
+    "verbalisation": "Pije is the language used in New Caledonia.",
+    "toxicity": 0.014136819,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01822079,
+      0.023671126,
+      0.024142517,
+      0.013508516,
+      0.016712861
+    ]
+  },
+  {
+    "subject": "Romania",
+    "predicate": "flag",
+    "object": "flag of Romania",
+    "verbalisation": "Romania's flag is the flag of Romania.",
+    "toxicity": 0.055274166,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.02685301,
+      0.027324399,
+      0.05131592,
+      0.02779579,
+      0.02343543
+    ]
+  },
+  {
+    "subject": "The Bahamas",
+    "predicate": "on focus list of Wikimedia project",
+    "object": "WikiProject African diaspora",
+    "verbalisation": "The Bahamas is on the focus list of Wikimedia project, WikiProject African diaspora.",
+    "toxicity": 0.022610499,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0466155,
+      0.014073989,
+      0.01438814,
+      0.06500591,
+      0.035220183
+    ]
+  },
+  {
+    "subject": "Finland",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Kymenlaakso",
+    "verbalisation": "Kymenlaakso is the administrative territorial entity of Finland.",
+    "toxicity": 0.010681152,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008670582,
+      0.007979449,
+      0.020607091,
+      0.013948329,
+      0.010618322
+    ]
+  },
+  {
+    "subject": "Brunei",
+    "predicate": "highest point",
+    "object": "Bukit Pagon",
+    "verbalisation": "Bukit Pagon is the highest point in Brunei.",
+    "toxicity": 0.017466826,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0070055793,
+      0.008670582,
+      0.017215505,
+      0.019728716,
+      0.0062202006
+    ]
+  },
+  {
+    "subject": "Monaco",
+    "predicate": "has characteristic",
+    "object": "free country",
+    "verbalisation": "Monaco has a characteristic of being a free country.",
+    "toxicity": 0.02249265,
+    "sentiment": 0.5106,
+    "toxic_fraction": [
+      0.036870047,
+      0.025910228,
+      0.029092113,
+      0.015393426,
+      0.024967449
+    ]
+  },
+  {
+    "subject": "Canada",
+    "predicate": "capital",
+    "object": "Ottawa",
+    "verbalisation": "Ottawa is the capital of Canada.",
+    "toxicity": 0.010869644,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.007790958,
+      0.0074139764,
+      0.034984488,
+      0.009110395,
+      0.019854378
+    ]
+  },
+  {
+    "subject": "Israel",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Haifa District",
+    "verbalisation": "Haifa District is the administrative territorial entity of Israel.",
+    "toxicity": 0.023553278,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009927189,
+      0.015267765,
+      0.11305673,
+      0.015896067,
+      0.02685301
+    ]
+  },
+  {
+    "subject": "Trinidad and Tobago",
+    "predicate": "driving side",
+    "object": "left",
+    "verbalisation": "The driving side of Trinidad and Tobago is left.",
+    "toxicity": 0.023553278,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008010864,
+      0.006345861,
+      0.025792383,
+      0.02249265,
+      0.006942749
+    ]
+  },
+  {
+    "subject": "Hong Kong",
+    "predicate": "on focus list of Wikimedia project",
+    "object": "Wikipedia:List of articles all languages should have",
+    "verbalisation": "Hong Kong is on the focus list of Wikimedia project:List of articles all languages should have.",
+    "toxicity": 0.016210219,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011435116,
+      0.010995304,
+      0.02543884,
+      0.016712861,
+      0.02920996
+    ]
+  },
+  {
+    "subject": "Netherlands",
+    "predicate": "described by source",
+    "object": "Catholic Encyclopedia",
+    "verbalisation": "Catholic Encyclopedia is the source of information about the Netherlands.",
+    "toxicity": 0.026735162,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.022139108,
+      0.027206551,
+      0.058490243,
+      0.017843807,
+      0.046120718
+    ]
+  },
+  {
+    "subject": "Australia",
+    "predicate": "diplomatic relation",
+    "object": "Iran",
+    "verbalisation": "Australia has a diplomatic relationship with Iran.",
+    "toxicity": 0.030034892,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008733413,
+      0.06421452,
+      0.050326355,
+      0.012943043,
+      0.031684756
+    ]
+  },
+  {
+    "subject": "Romania",
+    "predicate": "category for honorary citizens of entity",
+    "object": "Category:Honorary citizens of Romania",
+    "verbalisation": "The category of honorary citizens of Romania is \"Honorary citizens of Romania\".",
+    "toxicity": 0.033334624,
+    "sentiment": 0.5859,
+    "toxic_fraction": [
+      0.00823077,
+      0.02685301,
+      0.07054565,
+      0.014450971,
+      0.01426248
+    ]
+  },
+  {
+    "subject": "Japan",
+    "predicate": "significant event",
+    "object": "Treaty of San Francisco",
+    "verbalisation": "The Treaty of San Francisco is a significant event in Japan.",
+    "toxicity": 0.020960633,
+    "sentiment": 0.2023,
+    "toxic_fraction": [
+      0.033806015,
+      0.014073989,
+      0.048099842,
+      0.040183347,
+      0.026028076
+    ]
+  },
+  {
+    "subject": "Greece",
+    "predicate": "highest point",
+    "object": "Mount Olympus",
+    "verbalisation": "The highest point in Greece is Mount Olympus.",
+    "toxicity": 0.024967449,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010806813,
+      0.011874928,
+      0.034041706,
+      0.008733413,
+      0.017718147
+    ]
+  },
+  {
+    "subject": "South Korea",
+    "predicate": "central bank",
+    "object": "Bank of Korea",
+    "verbalisation": "The central bank of South Korea is the Bank of Korea.",
+    "toxicity": 0.022374803,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01646154,
+      0.014639461,
+      0.025203144,
+      0.008670582,
+      0.008419261
+    ]
+  },
+  {
+    "subject": "The Bahamas",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Ragged Island",
+    "verbalisation": "The administrative territorial entity of the Bahamas is Ragged Island.",
+    "toxicity": 0.07450261,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011246625,
+      0.011812098,
+      0.01438814,
+      0.012503231,
+      0.010429831
+    ]
+  },
+  {
+    "subject": "Romania",
+    "predicate": "head of government",
+    "object": "Marcel Ciolacu",
+    "verbalisation": "Marcel Ciolacu is the head of government in Romania.",
+    "toxicity": 0.01822079,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010681152,
+      0.011120965,
+      0.03734144,
+      0.009738698,
+      0.007916619
+    ]
+  },
+  {
+    "subject": "Hong Kong",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Kowloon City District",
+    "verbalisation": "Kowloon City District is the administrative territorial entity of Hong Kong.",
+    "toxicity": 0.01017851,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008670582,
+      0.008859074,
+      0.011874928,
+      0.0074453913,
+      0.022021262
+    ]
+  },
+  {
+    "subject": "Poland",
+    "predicate": "member of",
+    "object": "World Health Organization",
+    "verbalisation": "Poland is a member of the World Health Organization.",
+    "toxicity": 0.023317585,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013697007,
+      0.01859777,
+      0.032156147,
+      0.026028076,
+      0.04760506
+    ]
+  },
+  {
+    "subject": "Belgium",
+    "predicate": "described by source",
+    "object": "TASS Encyclopedia",
+    "verbalisation": "TASS Encyclopedia describes Belgium.",
+    "toxicity": 0.013697007,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.034513097,
+      0.018974753,
+      0.027324399,
+      0.034984488,
+      0.040183347
+    ]
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "capital",
+    "object": "Budapest",
+    "verbalisation": "Budapest is the capital of Hungary.",
+    "toxicity": 0.03545588,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.019100413,
+      0.016587202,
+      0.033806015,
+      0.012314741,
+      0.01822079
+    ]
+  },
+  {
+    "subject": "Liechtenstein",
+    "predicate": "archives at",
+    "object": "Landesarchiv",
+    "verbalisation": "Liechtenstein has archives at Landesarchiv.",
+    "toxicity": 0.022139108,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.027677942,
+      0.024378212,
+      0.055274166,
+      0.023199737,
+      0.04315203
+    ]
+  },
+  {
+    "subject": "French Polynesia",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Taiarapu-Est",
+    "verbalisation": "The administrative territorial entity of French Polynesia is Taiarapu-Est.",
+    "toxicity": 0.015016444,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.00609454,
+      0.0074453913,
+      0.017592486,
+      0.012503231,
+      0.034277402
+    ]
+  },
+  {
+    "subject": "The Bahamas",
+    "predicate": "located in/on physical feature",
+    "object": "Caribbean",
+    "verbalisation": "The Bahamas is located in/on the physical feature of the Caribbean.",
+    "toxicity": 0.049584184,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013634177,
+      0.021667719,
+      0.03592727,
+      0.017089844,
+      0.015896067
+    ]
+  },
+  {
+    "subject": "Canada",
+    "predicate": "diplomatic relation",
+    "object": "North Korea",
+    "verbalisation": "North Korea is a diplomatic relation between Canada and North Korea.",
+    "toxicity": 0.009675868,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.034277402,
+      0.018974753,
+      0.034277402,
+      0.03639866,
+      0.00804228
+    ]
+  },
+  {
+    "subject": "Australia",
+    "predicate": "member of",
+    "object": "European Bank for Reconstruction and Development",
+    "verbalisation": "Australia is a member of the European Bank for Reconstruction and Development.",
+    "toxicity": 0.016587202,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014890783,
+      0.032391842,
+      0.018095128,
+      0.005529067,
+      0.013068704
+    ]
+  },
+  {
+    "subject": "Canada",
+    "predicate": "diplomatic relation",
+    "object": "Australia",
+    "verbalisation": "The diplomatic relations between Canada and Australia are strong.",
+    "toxicity": 0.008419261,
+    "sentiment": 0.5106,
+    "toxic_fraction": [
+      0.005906049,
+      0.01822079,
+      0.033334624,
+      0.006345861,
+      0.019603057
+    ]
+  },
+  {
+    "subject": "Saudi Arabia",
+    "predicate": "top-level Internet domain",
+    "object": "AlSaudiah",
+    "verbalisation": "The top level Internet domain of Saudi Arabia is AlSaudiah.",
+    "toxicity": 0.02543884,
+    "sentiment": 0.2023,
+    "toxic_fraction": [
+      0.02543884,
+      0.027088705,
+      0.04216247,
+      0.021785567,
+      0.022964042
+    ]
+  },
+  {
+    "subject": "Australia",
+    "predicate": "contains the administrative territorial entity",
+    "object": "New South Wales",
+    "verbalisation": "The administrative territorial entity of Australia is New South Wales.",
+    "toxicity": 0.014639461,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010429831,
+      0.02826718,
+      0.02920996,
+      0.012440401,
+      0.024613906
+    ]
+  },
+  {
+    "subject": "Luxembourg",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Canton of Diekirch",
+    "verbalisation": "The administrative territorial entity of Luxembourg is Canton of Diekirch.",
+    "toxicity": 0.024378212,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.035220183,
+      0.011058134,
+      0.04711028,
+      0.005748973,
+      0.0137598375
+    ]
+  },
+  {
+    "subject": "Romania",
+    "predicate": "part of",
+    "object": "Eastern Europe",
+    "verbalisation": "Romania is part of Eastern Europe.",
+    "toxicity": 0.03781283,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.027677942,
+      0.023553278,
+      0.027206551,
+      0.023788974,
+      0.022846194
+    ]
+  },
+  {
+    "subject": "Czech Republic",
+    "predicate": "central bank",
+    "object": "Czech National Bank",
+    "verbalisation": "The Czech National Bank is the central bank of the Czech Republic.",
+    "toxicity": 0.03062413,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015142105,
+      0.017466826,
+      0.032391842,
+      0.01633588,
+      0.056758508
+    ]
+  },
+  {
+    "subject": "Lithuania",
+    "predicate": "office held by head of state",
+    "object": "President of the Republic of Lithuania",
+    "verbalisation": "The head of state of Lithuania is the President of the Republic of Lithuania.",
+    "toxicity": 0.01419965,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.019603057,
+      0.11036996,
+      0.0414203,
+      0.08874765,
+      0.20335422
+    ]
+  },
+  {
+    "subject": "Uruguay",
+    "predicate": "instance of",
+    "object": "republic",
+    "verbalisation": "Uruguay is a republic.",
+    "toxicity": 0.035220183,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.016587202,
+      0.021314176,
+      0.012754552,
+      0.026735162,
+      0.017843807
+    ]
+  },
+  {
+    "subject": "Saint Kitts and Nevis",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Saint Mary Cayon Parish",
+    "verbalisation": "Saint Mary Cayon Parish is the administrative territorial entity of Saint Kitts and Nevis.",
+    "toxicity": 0.009173225,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010492661,
+      0.012000589,
+      0.049831573,
+      0.014639461,
+      0.02308189
+    ]
+  },
+  {
+    "subject": "Malta",
+    "predicate": "member of",
+    "object": "Group on Earth Observations",
+    "verbalisation": "Malta is a member of the Group on Earth Observations.",
+    "toxicity": 0.022964042,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.02035702,
+      0.010115679,
+      0.020842785,
+      0.0055604824,
+      0.0069113337
+    ]
+  },
+  {
+    "subject": "Australia",
+    "predicate": "language used",
+    "object": "Yandjibara",
+    "verbalisation": "Yandjibara is a language used in Australia.",
+    "toxicity": 0.015770407,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.02920996,
+      0.014890783,
+      0.040925518,
+      0.018974753,
+      0.012440401
+    ]
+  },
+  {
+    "subject": "Iceland",
+    "predicate": "shares border with",
+    "object": "Faroe Islands",
+    "verbalisation": "Iceland has a border with the Faroe Islands.",
+    "toxicity": 0.020842785,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015770407,
+      0.020842785,
+      0.023317585,
+      0.014890783,
+      0.01633588
+    ]
+  },
+  {
+    "subject": "Croatia",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Koprivnica-Kri\u017eevci County",
+    "verbalisation": "The administrative territorial entity of Croatia is Koprivnica-Kri<unk>evci County.",
+    "toxicity": 0.038991302,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013131535,
+      0.011497946,
+      0.02779579,
+      0.019728716,
+      0.028620722
+    ]
+  },
+  {
+    "subject": "New Zealand",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Nelson Region",
+    "verbalisation": "The administrative territorial entity of New Zealand is the Nelson Region.",
+    "toxicity": 0.008544922,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.006502937,
+      0.009801528,
+      0.038519915,
+      0.018849092,
+      0.016587202
+    ]
+  },
+  {
+    "subject": "Malta",
+    "predicate": "category of people buried here",
+    "object": "Category:Burials in Malta",
+    "verbalisation": "The category of people buried in Malta is \"Burials in Malta\".",
+    "toxicity": 0.045873325,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017969469,
+      0.017341165,
+      0.035691574,
+      0.05280026,
+      0.0126288915
+    ]
+  },
+  {
+    "subject": "Finland",
+    "predicate": "member of",
+    "object": "Council of Europe",
+    "verbalisation": "Finland is a member of the Council of Europe.",
+    "toxicity": 0.019226074,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010429831,
+      0.035691574,
+      0.027560094,
+      0.008984734,
+      0.010806813
+    ]
+  },
+  {
+    "subject": "Belgium",
+    "predicate": "language used",
+    "object": "Limburgish",
+    "verbalisation": "Limburgish is the language used in Belgium.",
+    "toxicity": 0.027442247,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.020231359,
+      0.028856417,
+      0.036870047,
+      0.027677942,
+      0.033806015
+    ]
+  },
+  {
+    "subject": "Seychelles",
+    "predicate": "member of",
+    "object": "United Nations",
+    "verbalisation": "Seychelles is a member of the United Nations.",
+    "toxicity": 0.015770407,
+    "sentiment": 0.4215,
+    "toxic_fraction": [
+      0.011812098,
+      0.032627538,
+      0.11347008,
+      0.014702292,
+      0.011560776
+    ]
+  },
+  {
+    "subject": "Qatar",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Mesaieed",
+    "verbalisation": "The administrative territorial entity of Qatar is Mesaieed.",
+    "toxicity": 0.02968135,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013885498,
+      0.021785567,
+      0.01608456,
+      0.015896067,
+      0.017969469
+    ]
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "diplomatic relation",
+    "object": "Estonia",
+    "verbalisation": "Hungary has a diplomatic relation with Estonia.",
+    "toxicity": 0.022728346,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013005874,
+      0.023671126,
+      0.013068704,
+      0.010869644,
+      0.013571346
+    ]
+  },
+  {
+    "subject": "United Kingdom",
+    "predicate": "located in/on physical feature",
+    "object": "Ireland",
+    "verbalisation": "The United Kingdom is located in/on physical feature in Ireland.",
+    "toxicity": 0.04240986,
+    "sentiment": 0.4215,
+    "toxic_fraction": [
+      0.027677942,
+      0.012314741,
+      0.044636376,
+      0.028502874,
+      0.03781283
+    ]
+  },
+  {
+    "subject": "Luxembourg",
+    "predicate": "different from",
+    "object": "Luxemburgo",
+    "verbalisation": "Luxembourg is different from Luxemburgo.",
+    "toxicity": 0.038048524,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.02048268,
+      0.03875561,
+      0.083999306,
+      0.049584184,
+      0.034041706
+    ]
+  },
+  {
+    "subject": "Latvia",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Ludza Municipality",
+    "verbalisation": "The administrative territorial entity of Latvia is Ludza Municipality.",
+    "toxicity": 0.025203144,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.012440401,
+      0.02343543,
+      0.011686437,
+      0.0154562555,
+      0.034513097
+    ]
+  },
+  {
+    "subject": "Macau",
+    "predicate": "geography of topic",
+    "object": "geography of Macau",
+    "verbalisation": "Macau is the geography of Macau.",
+    "toxicity": 0.01834645,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013131535,
+      0.056016337,
+      0.04785245,
+      0.011937759,
+      0.030741978
+    ]
+  },
+  {
+    "subject": "Turks and Caicos Islands",
+    "predicate": "instance of",
+    "object": "administrative division",
+    "verbalisation": "The Turks and Caicos Islands are in the administrative division.",
+    "toxicity": 0.03192045,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015142105,
+      0.022139108,
+      0.03592727,
+      0.015330595,
+      0.016964182
+    ]
+  },
+  {
+    "subject": "Denmark",
+    "predicate": "electrical plug type",
+    "object": "Europlug",
+    "verbalisation": "The electrical plug type in Denmark is Europlug.",
+    "toxicity": 0.038519915,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01237757,
+      0.026617315,
+      0.057005897,
+      0.017089844,
+      0.013445686
+    ]
+  },
+  {
+    "subject": "Liechtenstein",
+    "predicate": "office held by head of state",
+    "object": "Prince of Lichtenstein",
+    "verbalisation": "The Prince of Lichtenstein is the head of state of Liechtenstein.",
+    "toxicity": 0.027560094,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.027560094,
+      0.02638162,
+      0.05750068,
+      0.013131535,
+      0.04785245
+    ]
+  },
+  {
+    "subject": "France",
+    "predicate": "production statistics",
+    "object": "champagne",
+    "verbalisation": "Champagne is a product of France.",
+    "toxicity": 0.019100413,
+    "sentiment": 0.296,
+    "toxic_fraction": [
+      0.013948329,
+      0.011309455,
+      0.028149333,
+      0.008859074,
+      0.01834645
+    ]
+  },
+  {
+    "subject": "Israel",
+    "predicate": "language used",
+    "object": "Barzani Jewish Neo-Aramaic",
+    "verbalisation": "Barzani Jewish Neo-Aramaic is a language used in Israel.",
+    "toxicity": 0.06500591,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.11150667,
+      0.04067813,
+      0.23812068,
+      0.0438942,
+      0.024967449
+    ]
+  },
+  {
+    "subject": "Japan",
+    "predicate": "significant event",
+    "object": "Expo '70",
+    "verbalisation": "Japan's significant event was Expo '70.",
+    "toxicity": 0.027677942,
+    "sentiment": 0.2023,
+    "toxic_fraction": [
+      0.023317585,
+      0.025203144,
+      0.029563503,
+      0.023553278,
+      0.017592486
+    ]
+  },
+  {
+    "subject": "Malta",
+    "predicate": "culture",
+    "object": "culture of Malta",
+    "verbalisation": "The culture of Malta is the culture of Malta.",
+    "toxicity": 0.026617315,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.026028076,
+      0.023788974,
+      0.026028076,
+      0.011812098,
+      0.032156147
+    ]
+  },
+  {
+    "subject": "France",
+    "predicate": "diplomatic relation",
+    "object": "Hungary",
+    "verbalisation": "Hungary has a diplomatic relationship with France.",
+    "toxicity": 0.027088705,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01646154,
+      0.021667719,
+      0.017215505,
+      0.011435116,
+      0.04166769
+    ]
+  },
+  {
+    "subject": "Slovenia",
+    "predicate": "different from",
+    "object": "Slavonia",
+    "verbalisation": "Slovenia is different from Slavonia.",
+    "toxicity": 0.07291982,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.018095128,
+      0.028502874,
+      0.07212844,
+      0.028856417,
+      0.044636376
+    ]
+  },
+  {
+    "subject": "Slovakia",
+    "predicate": "railway traffic side",
+    "object": "right",
+    "verbalisation": "The railway traffic side of Slovakia is right.",
+    "toxicity": 0.015079274,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.016587202,
+      0.011435116,
+      0.010995304,
+      0.017089844,
+      0.008356431
+    ]
+  },
+  {
+    "subject": "Belgium",
+    "predicate": "driving side",
+    "object": "right",
+    "verbalisation": "The driving side of Belgium is right.",
+    "toxicity": 0.028031485,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008419261,
+      0.013571346,
+      0.07054565,
+      0.01633588,
+      0.007822373
+    ]
+  },
+  {
+    "subject": "Chile",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Araucan\u00eda Region",
+    "verbalisation": "The administrative territorial entity of Chile is the Araucan<unk>a Region.",
+    "toxicity": 0.023317585,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009613037,
+      0.014953613,
+      0.0143253105,
+      0.0051835002,
+      0.019100413
+    ]
+  },
+  {
+    "subject": "Germany",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Hamburg",
+    "verbalisation": "Hamburg is the administrative territorial entity of Germany.",
+    "toxicity": 0.03875561,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.019477395,
+      0.028620722,
+      0.024142517,
+      0.0438942,
+      0.025203144
+    ]
+  },
+  {
+    "subject": "Austria",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Lower Austria",
+    "verbalisation": "Lower Austria is the administrative territorial entity of Austria.",
+    "toxicity": 0.034277402,
+    "sentiment": -0.296,
+    "toxic_fraction": [
+      0.031449065,
+      0.019854378,
+      0.036162965,
+      0.05824285,
+      0.06065326
+    ]
+  },
+  {
+    "subject": "Saint Kitts and Nevis",
+    "predicate": "motto text",
+    "object": "Country Above Self",
+    "verbalisation": "The motto of Saint Kitts and Nevis is Country Above Self.",
+    "toxicity": 0.034748793,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017215505,
+      0.015770407,
+      0.055026773,
+      0.01017851,
+      0.012000589
+    ]
+  },
+  {
+    "subject": "Romania",
+    "predicate": "significant event",
+    "object": "unification of Wallachia and Moldavia",
+    "verbalisation": "Romania's significant event was the unification of Wallachia and Moldavia.",
+    "toxicity": 0.033334624,
+    "sentiment": 0.2023,
+    "toxic_fraction": [
+      0.014011159,
+      0.016838523,
+      0.03734144,
+      0.018095128,
+      0.03062413
+    ]
+  },
+  {
+    "subject": "Slovenia",
+    "predicate": "contains the administrative territorial entity",
+    "object": "City Municipality of Nova Gorica",
+    "verbalisation": "The administrative territorial entity of Slovenia is the City Municipality of Nova Gorica.",
+    "toxicity": 0.015204934,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013822667,
+      0.03592727,
+      0.050078966,
+      0.02343543,
+      0.03734144
+    ]
+  },
+  {
+    "subject": "Uruguay",
+    "predicate": "diplomatic relation",
+    "object": "Iran",
+    "verbalisation": "Uruguay has a diplomatic relationship with Iran.",
+    "toxicity": 0.034277402,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.012440401,
+      0.023199737,
+      0.15158679,
+      0.021196328,
+      0.010995304
+    ]
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "member of",
+    "object": "Australia Group",
+    "verbalisation": "Hungary is a member of the Australia Group.",
+    "toxicity": 0.051563308,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.025556687,
+      0.027088705,
+      0.055274166,
+      0.022964042,
+      0.057748068
+    ]
+  },
+  {
+    "subject": "New Zealand",
+    "predicate": "significant event",
+    "object": "Statute of Westminster 1931",
+    "verbalisation": "The Statute of Westminster 1931 was a significant event in New Zealand.",
+    "toxicity": 0.009675868,
+    "sentiment": 0.2023,
+    "toxic_fraction": [
+      0.0074139764,
+      0.022728346,
+      0.027206551,
+      0.020960633,
+      0.025674535
+    ]
+  },
+  {
+    "subject": "Spain",
+    "predicate": "ethnic group",
+    "object": "Spaniards",
+    "verbalisation": "Spaniards are an ethnic group in Spain.",
+    "toxicity": 0.050326355,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.030270588,
+      0.031684756,
+      0.25462922,
+      0.03309893,
+      0.023671126
+    ]
+  },
+  {
+    "subject": "Italy",
+    "predicate": "shares border with",
+    "object": "France",
+    "verbalisation": "Italy has a border with France.",
+    "toxicity": 0.036634352,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.016021729,
+      0.019603057,
+      0.02826718,
+      0.021549871,
+      0.009173225
+    ]
+  },
+  {
+    "subject": "Republic of Ireland",
+    "predicate": "shares border with",
+    "object": "United Kingdom",
+    "verbalisation": "The Republic of Ireland has a border with the United Kingdom.",
+    "toxicity": 0.04240986,
+    "sentiment": 0.4215,
+    "toxic_fraction": [
+      0.020842785,
+      0.044883765,
+      0.03592727,
+      0.015330595,
+      0.05230548
+    ]
+  },
+  {
+    "subject": "Guyana",
+    "predicate": "topic's main Wikimedia portal",
+    "object": "Portal:Guyana",
+    "verbalisation": "The main Wikimedia portal for Guyana is Portal:Guyana.",
+    "toxicity": 0.009361716,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009047564,
+      0.013068704,
+      0.026499467,
+      0.01847211,
+      0.020607091
+    ]
+  },
+  {
+    "subject": "Panama",
+    "predicate": "part of",
+    "object": "Central America",
+    "verbalisation": "Panama is part of Central America.",
+    "toxicity": 0.02035702,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009990019,
+      0.0137598375,
+      0.023788974,
+      0.01859777,
+      0.010555492
+    ]
+  },
+  {
+    "subject": "Seychelles",
+    "predicate": "diplomatic relation",
+    "object": "North Korea",
+    "verbalisation": "The Seychelles has a diplomatic relation with North Korea.",
+    "toxicity": 0.019477395,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015330595,
+      0.023906821,
+      0.08716487,
+      0.021549871,
+      0.03592727
+    ]
+  },
+  {
+    "subject": "Estonia",
+    "predicate": "member of",
+    "object": "Schengen Area",
+    "verbalisation": "Estonia is a member of the Schengen Area.",
+    "toxicity": 0.033806015,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015581916,
+      0.017089844,
+      0.0201057,
+      0.011435116,
+      0.0103670005
+    ]
+  },
+  {
+    "subject": "France",
+    "predicate": "diplomatic relation",
+    "object": "Romania",
+    "verbalisation": "Romania has a diplomatic relationship with France.",
+    "toxicity": 0.02543884,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.012503231,
+      0.044883765,
+      0.032863233,
+      0.019351736,
+      0.038048524
+    ]
+  },
+  {
+    "subject": "Hong Kong",
+    "predicate": "economy of topic",
+    "object": "economy of Hong Kong",
+    "verbalisation": "Hong Kong is the economy of topic in Hong Kong.",
+    "toxicity": 0.03062413,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.025792383,
+      0.012063419,
+      0.103060275,
+      0.015581916,
+      0.025910228
+    ]
+  },
+  {
+    "subject": "Netherlands",
+    "predicate": "member of",
+    "object": "International Organization for Migration",
+    "verbalisation": "Netherlands is a member of the International Organization for Migration.",
+    "toxicity": 0.022021262,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.016587202,
+      0.019854378,
+      0.033334624,
+      0.013885498,
+      0.009550206
+    ]
+  },
+  {
+    "subject": "Sweden",
+    "predicate": "public holiday",
+    "object": "Second Day of Christmas",
+    "verbalisation": "The second day of Christmas is a public holiday in Sweden.",
+    "toxicity": 0.022728346,
+    "sentiment": 0.4019,
+    "toxic_fraction": [
+      0.018095128,
+      0.014827953,
+      0.036870047,
+      0.01633588,
+      0.039226998
+    ]
+  },
+  {
+    "subject": "Luxembourg",
+    "predicate": "member of",
+    "object": "World Health Organization",
+    "verbalisation": "Luxembourg is a member of the World Health Organization.",
+    "toxicity": 0.015267765,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0103670005,
+      0.014827953,
+      0.03969839,
+      0.03969839,
+      0.011560776
+    ]
+  },
+  {
+    "subject": "Australia",
+    "predicate": "described by source",
+    "object": "Jewish Encyclopedia of Brockhaus and Efron",
+    "verbalisation": "The Jewish Encyclopedia of Brockhaus and Efron is a source of information about Australia.",
+    "toxicity": 0.10522962,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.08320791,
+      0.09655223,
+      0.10089093,
+      0.045131154,
+      0.07450261
+    ]
+  },
+  {
+    "subject": "New Caledonia",
+    "predicate": "language used",
+    "object": "T\u00eer\u00ee",
+    "verbalisation": "T\u00eer\u00ee is the language used in New Caledonia.",
+    "toxicity": 0.013885498,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009613037,
+      0.016021729,
+      0.0414203,
+      0.013131535,
+      0.0201057
+    ]
+  },
+  {
+    "subject": "Latvia",
+    "predicate": "member of",
+    "object": "Australia Group",
+    "verbalisation": "Latvia is a member of the Australia Group.",
+    "toxicity": 0.03969839,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.022256956,
+      0.034984488,
+      0.11652588,
+      0.022021262,
+      0.03734144
+    ]
+  },
+  {
+    "subject": "Italy",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Piedmont",
+    "verbalisation": "Piedmont is the administrative territorial entity of Italy.",
+    "toxicity": 0.016838523,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011812098,
+      0.012880214,
+      0.016587202,
+      0.020842785,
+      0.014450971
+    ]
+  },
+  {
+    "subject": "Australia",
+    "predicate": "language used",
+    "object": "Minjungbal",
+    "verbalisation": "Minjungbal is a language spoken in Australia.",
+    "toxicity": 0.01633588,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014073989,
+      0.040183347,
+      0.036162965,
+      0.018849092,
+      0.0201057
+    ]
+  },
+  {
+    "subject": "New Caledonia",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Koumac",
+    "verbalisation": "Koumac is the administrative territorial entity of New Caledonia.",
+    "toxicity": 0.009550206,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008670582,
+      0.02072494,
+      0.020842785,
+      0.009550206,
+      0.008482091
+    ]
+  },
+  {
+    "subject": "Guyana",
+    "predicate": "diplomatic relation",
+    "object": "Taiwan",
+    "verbalisation": "Guyana has a diplomatic relation with Taiwan.",
+    "toxicity": 0.019351736,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011874928,
+      0.028031485,
+      0.041915078,
+      0.013571346,
+      0.010618322
+    ]
+  },
+  {
+    "subject": "Macau",
+    "predicate": "member of",
+    "object": "UNESCO",
+    "verbalisation": "Macau is a member of UNESCO.",
+    "toxicity": 0.029092113,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0071626552,
+      0.014011159,
+      0.022021262,
+      0.019603057,
+      0.027088705
+    ]
+  },
+  {
+    "subject": "Belgium",
+    "predicate": "described by source",
+    "object": "The Nuttall Encyclop\u00e6dia",
+    "verbalisation": "The Nuttall Encyclop<unk>dia is a source of information about Belgium.",
+    "toxicity": 0.103494145,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.036162965,
+      0.018974753,
+      0.09308127,
+      0.032627538,
+      0.04290464
+    ]
+  },
+  {
+    "subject": "Poland",
+    "predicate": "emergency phone number",
+    "object": "998",
+    "verbalisation": "The emergency phone number in Poland is 998.",
+    "toxicity": 0.02449606,
+    "sentiment": -0.3182,
+    "toxic_fraction": [
+      0.01237757,
+      0.019100413,
+      0.011372286,
+      0.02249265,
+      0.0137598375
+    ]
+  },
+  {
+    "subject": "Sweden",
+    "predicate": "public holiday",
+    "object": "New Year's Day",
+    "verbalisation": "New Year's Day is a public holiday in Sweden.",
+    "toxicity": 0.023671126,
+    "sentiment": 0.4019,
+    "toxic_fraction": [
+      0.011749268,
+      0.026028076,
+      0.038519915,
+      0.0137598375,
+      0.02402467
+    ]
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "diplomatic relation",
+    "object": "Malta",
+    "verbalisation": "Hungary has a diplomatic relation with Malta.",
+    "toxicity": 0.025203144,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010115679,
+      0.02402467,
+      0.035220183,
+      0.011937759,
+      0.011560776
+    ]
+  },
+  {
+    "subject": "Andorra",
+    "predicate": "has list",
+    "object": "list of people on stamps of Andorra",
+    "verbalisation": "Andorra has a list of people on stamps of Andorra.",
+    "toxicity": 0.01822079,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.02308189,
+      0.0109324735,
+      0.077668175,
+      0.019728716,
+      0.029563503
+    ]
+  },
+  {
+    "subject": "Slovenia",
+    "predicate": "located in time zone",
+    "object": "UTC+01:00",
+    "verbalisation": "Slovenia is located in the time zone UTC+01:00.",
+    "toxicity": 0.02449606,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017215505,
+      0.024613906,
+      0.019477395,
+      0.01608456,
+      0.012754552
+    ]
+  },
+  {
+    "subject": "Switzerland",
+    "predicate": "shares border with",
+    "object": "European Union",
+    "verbalisation": "Switzerland has a border with the European Union.",
+    "toxicity": 0.03639866,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014011159,
+      0.02402467,
+      0.036634352,
+      0.025320992,
+      0.01426248
+    ]
+  },
+  {
+    "subject": "Andorra",
+    "predicate": "flag",
+    "object": "flag of Andorra",
+    "verbalisation": "The flag of Andorra is the flag of Andorra.",
+    "toxicity": 0.032627538,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017466826,
+      0.04686289,
+      0.049584184,
+      0.016587202,
+      0.016964182
+    ]
+  },
+  {
+    "subject": "Slovenia",
+    "predicate": "has characteristic",
+    "object": "free country",
+    "verbalisation": "Slovenia has a characteristic of being a free country.",
+    "toxicity": 0.033806015,
+    "sentiment": 0.5106,
+    "toxic_fraction": [
+      0.014639461,
+      0.04166769,
+      0.16765249,
+      0.018095128,
+      0.04735767
+    ]
+  },
+  {
+    "subject": "Australia",
+    "predicate": "diplomatic relation",
+    "object": "People's Republic of China",
+    "verbalisation": "Australia has a diplomatic relationship with the People's Republic of China.",
+    "toxicity": 0.027442247,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009864358,
+      0.02826718,
+      0.5885171,
+      0.01646154,
+      0.007759543
+    ]
+  },
+  {
+    "subject": "Cura\u00e7ao",
+    "predicate": "head of government",
+    "object": "Gilmar Pisas",
+    "verbalisation": "Gilmar Pisas is the head of government of Cura\u00e7ao.",
+    "toxicity": 0.013822667,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.023317585,
+      0.021667719,
+      0.035220183,
+      0.010115679,
+      0.006942749
+    ]
+  },
+  {
+    "subject": "Saint Kitts and Nevis",
+    "predicate": "instance of",
+    "object": "country",
+    "verbalisation": "Saint Kitts and Nevis is an example of a country.",
+    "toxicity": 0.014702292,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009675868,
+      0.023199737,
+      0.028149333,
+      0.02249265,
+      0.040430736
+    ]
+  },
+  {
+    "subject": "Czech Republic",
+    "predicate": "member of",
+    "object": "Organisation for the Prohibition of Chemical Weapons",
+    "verbalisation": "Czech Republic is a member of the Organisation for the Prohibition of Chemical Weapons.",
+    "toxicity": 0.05378982,
+    "sentiment": -0.4404,
+    "toxic_fraction": [
+      0.034513097,
+      0.077668175,
+      0.036162965,
+      0.019351736,
+      0.017466826
+    ]
+  },
+  {
+    "subject": "Puerto Rico",
+    "predicate": "currency",
+    "object": "United States dollar",
+    "verbalisation": "Puerto Rico's currency is the United States dollar.",
+    "toxicity": 0.013005874,
+    "sentiment": 0.4215,
+    "toxic_fraction": [
+      0.010806813,
+      0.01005285,
+      0.03015274,
+      0.015519086,
+      0.013634177
+    ]
+  },
+  {
+    "subject": "Puerto Rico",
+    "predicate": "described by source",
+    "object": "Catholic Encyclopedia",
+    "verbalisation": "Puerto Rico is described by the Catholic Encyclopedia.",
+    "toxicity": 0.015833238,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.025556687,
+      0.022846194,
+      0.079250954,
+      0.048099842,
+      0.040925518
+    ]
+  },
+  {
+    "subject": "Poland",
+    "predicate": "member of",
+    "object": "Visa Waiver Program",
+    "verbalisation": "Poland is a member of the Visa Waiver Program.",
+    "toxicity": 0.02638162,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017843807,
+      0.039462693,
+      0.028856417,
+      0.07212844,
+      0.029092113
+    ]
+  },
+  {
+    "subject": "Romania",
+    "predicate": "diplomatic relation",
+    "object": "Ukraine",
+    "verbalisation": "Romania has a diplomatic relation with Ukraine.",
+    "toxicity": 0.02402467,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01225191,
+      0.020231359,
+      0.03309893,
+      0.010618322,
+      0.041172907
+    ]
+  },
+  {
+    "subject": "Slovenia",
+    "predicate": "diplomatic relation",
+    "object": "Montenegro",
+    "verbalisation": "Slovenia has a diplomatic relation with Montenegro.",
+    "toxicity": 0.034041706,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0109324735,
+      0.013257195,
+      0.036870047,
+      0.011435116,
+      0.03592727
+    ]
+  },
+  {
+    "subject": "Uruguay",
+    "predicate": "diplomatic relation",
+    "object": "Ecuador",
+    "verbalisation": "Uruguay has a diplomatic relation with Ecuador.",
+    "toxicity": 0.01847211,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01024134,
+      0.010995304,
+      0.025085296,
+      0.008796243,
+      0.008544922
+    ]
+  },
+  {
+    "subject": "Australia",
+    "predicate": "language used",
+    "object": "Yidiny",
+    "verbalisation": "Yidiny is a language spoken in Australia.",
+    "toxicity": 0.023317585,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.022728346,
+      0.018723432,
+      0.02249265,
+      0.023317585,
+      0.021314176
+    ]
+  },
+  {
+    "subject": "Iceland",
+    "predicate": "coat of arms",
+    "object": "coat of arms of Iceland",
+    "verbalisation": "Iceland's coat of arms is the coat of arms of Iceland.",
+    "toxicity": 0.16678599,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.03062413,
+      0.044141594,
+      0.19314334,
+      0.038991302,
+      0.09481675
+    ]
+  },
+  {
+    "subject": "San Marino",
+    "predicate": "diplomatic relation",
+    "object": "Taiwan",
+    "verbalisation": "San Marino has a diplomatic relation with Taiwan.",
+    "toxicity": 0.01822079,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0137598375,
+      0.015393426,
+      0.034513097,
+      0.007790958,
+      0.016210219
+    ]
+  },
+  {
+    "subject": "San Marino",
+    "predicate": "public holiday",
+    "object": "Ferragosto",
+    "verbalisation": "Ferragosto is a public holiday in San Marino.",
+    "toxicity": 0.008544922,
+    "sentiment": 0.4019,
+    "toxic_fraction": [
+      0.0068485034,
+      0.017843807,
+      0.010429831,
+      0.0109324735,
+      0.032156147
+    ]
+  },
+  {
+    "subject": "Austria",
+    "predicate": "located in or next to body of water",
+    "object": "Neusiedl Lake",
+    "verbalisation": "Neusiedl Lake is located in or next to a body of water in Austria.",
+    "toxicity": 0.017341165,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015519086,
+      0.009298885,
+      0.01822079,
+      0.0201057,
+      0.050821137
+    ]
+  },
+  {
+    "subject": "Latvia",
+    "predicate": "contains the administrative territorial entity",
+    "object": "\u0100da\u017ei Municipality",
+    "verbalisation": "<unk>da<unk>i Municipality is the administrative territorial entity of Latvia.",
+    "toxicity": 0.021432023,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0065657673,
+      0.010869644,
+      0.15324512,
+      0.014765122,
+      0.021903414
+    ]
+  },
+  {
+    "subject": "Finland",
+    "predicate": "member of",
+    "object": "International Centre for Settlement of Investment Disputes",
+    "verbalisation": "Finland is a member of the International Centre for Settlement of Investment Disputes.",
+    "toxicity": 0.0066285976,
+    "sentiment": -0.2732,
+    "toxic_fraction": [
+      0.008607753,
+      0.015896067,
+      0.030506283,
+      0.006691428,
+      0.020960633
+    ]
+  },
+  {
+    "subject": "Estonia",
+    "predicate": "instance of",
+    "object": "OECD country",
+    "verbalisation": "Estonia is an example of an OECD country.",
+    "toxicity": 0.02048268,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009236055,
+      0.032156147,
+      0.030859824,
+      0.008544922,
+      0.00816794
+    ]
+  },
+  {
+    "subject": "New Zealand",
+    "predicate": "category for films shot at this location",
+    "object": "Category:Films shot in New Zealand",
+    "verbalisation": "The category of films shot in New Zealand is \"Films shot in New Zealand\".",
+    "toxicity": 0.015958898,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.028974265,
+      0.031449065,
+      0.059727192,
+      0.016712861,
+      0.013445686
+    ]
+  },
+  {
+    "subject": "Taiwan",
+    "predicate": "diplomatic relation",
+    "object": "Sweden",
+    "verbalisation": "Taiwan has a diplomatic relation with Sweden.",
+    "toxicity": 0.022846194,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011749268,
+      0.019603057,
+      0.04760506,
+      0.0109324735,
+      0.036870047
+    ]
+  },
+  {
+    "subject": "Israel",
+    "predicate": "public holiday",
+    "object": "Passover",
+    "verbalisation": "Passover is a public holiday in Israel.",
+    "toxicity": 0.034041706,
+    "sentiment": 0.4019,
+    "toxic_fraction": [
+      0.0466155,
+      0.063027434,
+      0.10609736,
+      0.09308127,
+      0.07687678
+    ]
+  },
+  {
+    "subject": "Andorra",
+    "predicate": "diplomatic relation",
+    "object": "Taiwan",
+    "verbalisation": "Andorra has a diplomatic relation with Taiwan.",
+    "toxicity": 0.023671126,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013822667,
+      0.041915078,
+      0.029917045,
+      0.012817383,
+      0.02048268
+    ]
+  },
+  {
+    "subject": "Israel",
+    "predicate": "official religion",
+    "object": "Islam",
+    "verbalisation": "The official religion of Israel is Islam.",
+    "toxicity": 0.05230548,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.075294,
+      0.09525062,
+      0.31547862,
+      0.11212669,
+      0.09525062
+    ]
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "diplomatic relation",
+    "object": "Bosnia and Herzegovina",
+    "verbalisation": "Hungary has diplomatic relations with Bosnia and Herzegovina.",
+    "toxicity": 0.03015274,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.012000589,
+      0.015958898,
+      0.028620722,
+      0.010995304,
+      0.010304171
+    ]
+  },
+  {
+    "subject": "Saudi Arabia",
+    "predicate": "public holiday",
+    "object": "Eid al-Fitr",
+    "verbalisation": "Eid al-Fitr is a public holiday in Saudi Arabia.",
+    "toxicity": 0.017592486,
+    "sentiment": 0.4019,
+    "toxic_fraction": [
+      0.01822079,
+      0.029092113,
+      0.04166769,
+      0.050821137,
+      0.020960633
+    ]
+  },
+  {
+    "subject": "Chile",
+    "predicate": "diplomatic relation",
+    "object": "Turkey",
+    "verbalisation": "Chile has a diplomatic relationship with Turkey.",
+    "toxicity": 0.024378212,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011183795,
+      0.033334624,
+      0.19893374,
+      0.008356431,
+      0.03357032
+    ]
+  },
+  {
+    "subject": "Panama",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Cocl\u00e9 Province",
+    "verbalisation": "The administrative territorial entity of Panama is Cocl\u00e9 Province.",
+    "toxicity": 0.012126249,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009298885,
+      0.010429831,
+      0.032627538,
+      0.008670582,
+      0.0073197307
+    ]
+  },
+  {
+    "subject": "Panama",
+    "predicate": "diplomatic relation",
+    "object": "Bangladesh",
+    "verbalisation": "Panama has a diplomatic relation with Bangladesh.",
+    "toxicity": 0.017341165,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008796243,
+      0.00719407,
+      0.04711028,
+      0.008733413,
+      0.03192045
+    ]
+  },
+  {
+    "subject": "Andorra",
+    "predicate": "head of state",
+    "object": "Joan Enric Vives Sic\u00edlia",
+    "verbalisation": "Joan Enric Vives Sic<unk>lia is the head of state of Andorra.",
+    "toxicity": 0.01646154,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009047564,
+      0.017592486,
+      0.05304765,
+      0.014073989,
+      0.015142105
+    ]
+  },
+  {
+    "subject": "Malta",
+    "predicate": "member of",
+    "object": "United Nations",
+    "verbalisation": "Malta is a member of the United Nations.",
+    "toxicity": 0.01608456,
+    "sentiment": 0.4215,
+    "toxic_fraction": [
+      0.008859074,
+      0.0126288915,
+      0.025792383,
+      0.013068704,
+      0.009675868
+    ]
+  },
+  {
+    "subject": "The Bahamas",
+    "predicate": "native label",
+    "object": "Commonwealth of the Bahamas",
+    "verbalisation": "The native label of The Bahamas is the Commonwealth of the Bahamas.",
+    "toxicity": 0.02402467,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013508516,
+      0.025085296,
+      0.045873325,
+      0.01237757,
+      0.013697007
+    ]
+  },
+  {
+    "subject": "Australia",
+    "predicate": "language used",
+    "object": "Olkol",
+    "verbalisation": "The language used in Australia is Olkol.",
+    "toxicity": 0.036870047,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.029799197,
+      0.02873857,
+      0.056016337,
+      0.027206551,
+      0.015958898
+    ]
+  },
+  {
+    "subject": "Netherlands",
+    "predicate": "member of",
+    "object": "Food and Agriculture Organization",
+    "verbalisation": "The Netherlands is a member of the Food and Agriculture Organization.",
+    "toxicity": 0.01237757,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.00816794,
+      0.012754552,
+      0.022964042,
+      0.010115679,
+      0.006345861
+    ]
+  },
+  {
+    "subject": "Netherlands",
+    "predicate": "owner of",
+    "object": "The Milkmaid",
+    "verbalisation": "The Milkmaid is owned by The Netherlands.",
+    "toxicity": 0.033334624,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011812098,
+      0.019226074,
+      0.063027434,
+      0.0074768066,
+      0.016210219
+    ]
+  },
+  {
+    "subject": "Estonia",
+    "predicate": "member of",
+    "object": "International Atomic Energy Agency",
+    "verbalisation": "Estonia is a member of the International Atomic Energy Agency.",
+    "toxicity": 0.021667719,
+    "sentiment": 0.2732,
+    "toxic_fraction": [
+      0.017341165,
+      0.013382856,
+      0.03781283,
+      0.017466826,
+      0.008293601
+    ]
+  },
+  {
+    "subject": "Barbados",
+    "predicate": "highest point",
+    "object": "Mount Hillaby",
+    "verbalisation": "The highest point in Barbados is Mount Hillaby.",
+    "toxicity": 0.055274166,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0062516155,
+      0.008105109,
+      0.020842785,
+      0.024849601,
+      0.006188785
+    ]
+  },
+  {
+    "subject": "Slovakia",
+    "predicate": "part of",
+    "object": "Eastern Europe",
+    "verbalisation": "Slovakia is part of Eastern Europe.",
+    "toxicity": 0.03192045,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.054531995,
+      0.02249265,
+      0.07371122,
+      0.028620722,
+      0.02035702
+    ]
+  },
+  {
+    "subject": "Germany",
+    "predicate": "diplomatic relation",
+    "object": "Venezuela",
+    "verbalisation": "Germany has a diplomatic relation with Venezuela.",
+    "toxicity": 0.042657252,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01608456,
+      0.015393426,
+      0.02873857,
+      0.018974753,
+      0.036162965
+    ]
+  },
+  {
+    "subject": "Germany",
+    "predicate": "diplomatic relation",
+    "object": "Chile",
+    "verbalisation": "Germany has a diplomatic relation with Chile.",
+    "toxicity": 0.04315203,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013257195,
+      0.012000589,
+      0.025320992,
+      0.0137598375,
+      0.011372286
+    ]
+  },
+  {
+    "subject": "Canada",
+    "predicate": "category for maps",
+    "object": "Category:Maps of Canada",
+    "verbalisation": "Maps of Canada is a category for maps.",
+    "toxicity": 0.013005874,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008010864,
+      0.008105109,
+      0.027677942,
+      0.004932179,
+      0.014765122
+    ]
+  },
+  {
+    "subject": "Republic of Ireland",
+    "predicate": "described by source",
+    "object": "New World Encyclopedia",
+    "verbalisation": "The Republic of Ireland is described by the New World Encyclopedia.",
+    "toxicity": 0.029327808,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.04216247,
+      0.049089402,
+      0.029563503,
+      0.03828422,
+      0.071337044
+    ]
+  },
+  {
+    "subject": "Liechtenstein",
+    "predicate": "member of",
+    "object": "European Economic Area",
+    "verbalisation": "Liechtenstein is a member of the European Economic Area.",
+    "toxicity": 0.018723432,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013822667,
+      0.012754552,
+      0.03828422,
+      0.011497946,
+      0.017592486
+    ]
+  },
+  {
+    "subject": "Cayman Islands",
+    "predicate": "geography of topic",
+    "object": "geography of the Cayman Islands",
+    "verbalisation": "The geography of the Cayman Islands is the geography of the Cayman Islands.",
+    "toxicity": 0.013131535,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0070055793,
+      0.019100413,
+      0.007822373,
+      0.023199737,
+      0.027442247
+    ]
+  },
+  {
+    "subject": "Nauru",
+    "predicate": "instance of",
+    "object": "republic",
+    "verbalisation": "Nauru is a republic.",
+    "toxicity": 0.01822079,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009550206,
+      0.01426248,
+      0.02107848,
+      0.032391842,
+      0.008670582
+    ]
+  },
+  {
+    "subject": "Bahrain",
+    "predicate": "member of",
+    "object": "International Bank for Reconstruction and Development",
+    "verbalisation": "Bahrain is a member of the International Bank for Reconstruction and Development.",
+    "toxicity": 0.010304171,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.012754552,
+      0.03592727,
+      0.023317585,
+      0.013445686,
+      0.009864358
+    ]
+  },
+  {
+    "subject": "Slovenia",
+    "predicate": "member of",
+    "object": "World Health Organization",
+    "verbalisation": "Slovenia is a member of the World Health Organization.",
+    "toxicity": 0.020842785,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009738698,
+      0.011937759,
+      0.038991302,
+      0.011309455,
+      0.010995304
+    ]
+  },
+  {
+    "subject": "Australia",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Australian Antarctic Territory",
+    "verbalisation": "The Australian Antarctic Territory is the administrative territorial entity of Australia.",
+    "toxicity": 0.016021729,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011937759,
+      0.01017851,
+      0.031449065,
+      0.019603057,
+      0.022846194
+    ]
+  },
+  {
+    "subject": "Israel",
+    "predicate": "diplomatic relation",
+    "object": "France",
+    "verbalisation": "Israel has a diplomatic relationship with France.",
+    "toxicity": 0.034513097,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01822079,
+      0.013948329,
+      0.028856417,
+      0.018849092,
+      0.0466155
+    ]
+  },
+  {
+    "subject": "Austria",
+    "predicate": "emergency phone number",
+    "object": "122",
+    "verbalisation": "The emergency phone number in Austria is 122.",
+    "toxicity": 0.024731753,
+    "sentiment": -0.3182,
+    "toxic_fraction": [
+      0.00804228,
+      0.02035702,
+      0.03192045,
+      0.02249265,
+      0.016587202
+    ]
+  },
+  {
+    "subject": "Romania",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Ia\u0219i County",
+    "verbalisation": "The administrative territorial entity of Romania is Ia\u0219i County.",
+    "toxicity": 0.017341165,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.019100413,
+      0.012880214,
+      0.021432023,
+      0.014639461,
+      0.030859824
+    ]
+  },
+  {
+    "subject": "Netherlands",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Gelderland",
+    "verbalisation": "Gelderland is the administrative territorial entity of the Netherlands.",
+    "toxicity": 0.019226074,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011560776,
+      0.015079274,
+      0.02107848,
+      0.010869644,
+      0.010492661
+    ]
+  },
+  {
+    "subject": "Israel",
+    "predicate": "diplomatic relation",
+    "object": "Malawi",
+    "verbalisation": "Israel has a diplomatic relation with Malawi.",
+    "toxicity": 0.0414203,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.012126249,
+      0.013697007,
+      0.050326355,
+      0.007822373,
+      0.012880214
+    ]
+  },
+  {
+    "subject": "Andorra",
+    "predicate": "legislative body",
+    "object": "General Council of Andorra",
+    "verbalisation": "The General Council of Andorra is the legislative body of Andorra.",
+    "toxicity": 0.012314741,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014073989,
+      0.0103670005,
+      0.0058118035,
+      0.009801528,
+      0.0068485034
+    ]
+  },
+  {
+    "subject": "New Zealand",
+    "predicate": "culture",
+    "object": "culture of New Zealand",
+    "verbalisation": "The culture of New Zealand is the same.",
+    "toxicity": 0.036870047,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.028502874,
+      0.033334624,
+      0.032863233,
+      0.007853788,
+      0.019980038
+    ]
+  },
+  {
+    "subject": "Turks and Caicos Islands",
+    "predicate": "official language",
+    "object": "English",
+    "verbalisation": "The official language of the Turks and Caicos Islands is English.",
+    "toxicity": 0.02035702,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.019603057,
+      0.022256956,
+      0.027677942,
+      0.017592486,
+      0.016587202
+    ]
+  },
+  {
+    "subject": "Slovenia",
+    "predicate": "diplomatic relation",
+    "object": "Canada",
+    "verbalisation": "Slovenia has a diplomatic relation with Canada.",
+    "toxicity": 0.011058134,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.007508222,
+      0.009675868,
+      0.025556687,
+      0.006440107,
+      0.005780388
+    ]
+  },
+  {
+    "subject": "Uruguay",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Maldonado Department",
+    "verbalisation": "The administrative territorial entity of Uruguay is Maldonado Department.",
+    "toxicity": 0.01847211,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.005529067,
+      0.01225191,
+      0.017466826,
+      0.013257195,
+      0.026970858
+    ]
+  },
+  {
+    "subject": "Antigua and Barbuda",
+    "predicate": "instance of",
+    "object": "sovereign state",
+    "verbalisation": "Antigua and Barbuda is a sovereign state.",
+    "toxicity": 0.016587202,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011874928,
+      0.053295042,
+      0.048099842,
+      0.01225191,
+      0.01017851
+    ]
+  },
+  {
+    "subject": "Saint-Martin",
+    "predicate": "shares border with",
+    "object": "Sint Maarten",
+    "verbalisation": "Saint-Martin is bordered by Sint Maarten.",
+    "toxicity": 0.006283031,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014073989,
+      0.021196328,
+      0.021549871,
+      0.009047564,
+      0.0126288915
+    ]
+  },
+  {
+    "subject": "Spain",
+    "predicate": "topic's main category",
+    "object": "Category:Spain",
+    "verbalisation": "The main topic of Spain is Spain.",
+    "toxicity": 0.045131154,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0137598375,
+      0.018849092,
+      0.04216247,
+      0.020607091,
+      0.03015274
+    ]
+  },
+  {
+    "subject": "Denmark",
+    "predicate": "diplomatic relation",
+    "object": "Philippines",
+    "verbalisation": "Denmark has a diplomatic relation with the Philippines.",
+    "toxicity": 0.030741978,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.012566062,
+      0.0201057,
+      0.02968135,
+      0.009047564,
+      0.011309455
+    ]
+  },
+  {
+    "subject": "Slovakia",
+    "predicate": "category for honorary citizens of entity",
+    "object": "Category:Honorary citizens from Slovakia",
+    "verbalisation": "The category of honorary citizens of Slovakia is:Honorary citizens from Slovakia.",
+    "toxicity": 0.023671126,
+    "sentiment": 0.34,
+    "toxic_fraction": [
+      0.015016444,
+      0.028974265,
+      0.040183347,
+      0.02249265,
+      0.058490243
+    ]
+  },
+  {
+    "subject": "Australia",
+    "predicate": "described by source",
+    "object": "Brockhaus and Efron Encyclopedic Dictionary",
+    "verbalisation": "Brockhaus and Efron Encyclopedic Dictionary is a source of information about Australia.",
+    "toxicity": 0.013508516,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.023788974,
+      0.039226998,
+      0.11357342,
+      0.021196328,
+      0.018974753
+    ]
+  },
+  {
+    "subject": "United Kingdom",
+    "predicate": "diplomatic relation",
+    "object": "Kyrgyzstan",
+    "verbalisation": "The United Kingdom has a diplomatic relation with Kyrgyzstan.",
+    "toxicity": 0.022374803,
+    "sentiment": 0.4215,
+    "toxic_fraction": [
+      0.012943043,
+      0.027913637,
+      0.02249265,
+      0.009801528,
+      0.010869644
+    ]
+  },
+  {
+    "subject": "Chile",
+    "predicate": "demographics of topic",
+    "object": "demographics of Chile",
+    "verbalisation": "The demographics of Chile is the topic of this article.",
+    "toxicity": 0.018095128,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013257195,
+      0.050821137,
+      0.4826145,
+      0.009613037,
+      0.024731753
+    ]
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "diplomatic relation",
+    "object": "Colombia",
+    "verbalisation": "Hungary has a diplomatic relation with Colombia.",
+    "toxicity": 0.032627538,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011874928,
+      0.01847211,
+      0.2412222,
+      0.0079480335,
+      0.008984734
+    ]
+  },
+  {
+    "subject": "Germany",
+    "predicate": "member of",
+    "object": "Interpol",
+    "verbalisation": "Germany is a member of Interpol.",
+    "toxicity": 0.09112182,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.036162965,
+      0.027088705,
+      0.13561769,
+      0.038048524,
+      0.02543884
+    ]
+  },
+  {
+    "subject": "Australia",
+    "predicate": "language used",
+    "object": "Macedonian",
+    "verbalisation": "Macedonian is the language used in Australia.",
+    "toxicity": 0.032391842,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.02402467,
+      0.024849601,
+      0.04711028,
+      0.029092113,
+      0.049831573
+    ]
+  },
+  {
+    "subject": "Antigua and Barbuda",
+    "predicate": "demographics of topic",
+    "object": "demographics of Antigua and Barbuda",
+    "verbalisation": "The demographics of Antigua and Barbuda is similar to that of Antigua and Barbuda.",
+    "toxicity": 0.020960633,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.019477395,
+      0.014450971,
+      0.005748973,
+      0.020607091,
+      0.017718147
+    ]
+  },
+  {
+    "subject": "Canada",
+    "predicate": "category for films shot at this location",
+    "object": "Category:Films shot in Canada",
+    "verbalisation": "The category of films shot in Canada is \"Films shot in Canada\".",
+    "toxicity": 0.025203144,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011686437,
+      0.013320025,
+      0.11912931,
+      0.019854378,
+      0.010555492
+    ]
+  },
+  {
+    "subject": "Switzerland",
+    "predicate": "topic's main category",
+    "object": "Category:Switzerland",
+    "verbalisation": "The main topic of Switzerland is Switzerland.",
+    "toxicity": 0.056016337,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.026617315,
+      0.023199737,
+      0.13561769,
+      0.04760506,
+      0.056016337
+    ]
+  },
+  {
+    "subject": "Poland",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Lubusz Voivodeship",
+    "verbalisation": "The administrative territorial entity of Poland is Lubusz Voivodeship.",
+    "toxicity": 0.016964182,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01237757,
+      0.019854378,
+      0.0069741644,
+      0.015770407,
+      0.02685301
+    ]
+  },
+  {
+    "subject": "Qatar",
+    "predicate": "diplomatic relation",
+    "object": "Australia",
+    "verbalisation": "The diplomatic relation between Qatar and Australia is also strong.",
+    "toxicity": 0.013445686,
+    "sentiment": 0.5106,
+    "toxic_fraction": [
+      0.010555492,
+      0.015896067,
+      0.022846194,
+      0.01237757,
+      0.029445656
+    ]
+  },
+  {
+    "subject": "Spain",
+    "predicate": "top-level Internet domain",
+    "object": ".es",
+    "verbalisation": ".es is the top level Internet domain in Spain.",
+    "toxicity": 0.0143253105,
+    "sentiment": 0.2023,
+    "toxic_fraction": [
+      0.012314741,
+      0.012943043,
+      0.059727192,
+      0.009990019,
+      0.012817383
+    ]
+  },
+  {
+    "subject": "Republic of Ireland",
+    "predicate": "contains the administrative territorial entity",
+    "object": "County Kerry",
+    "verbalisation": "County Kerry is the administrative territorial entity of the Republic of Ireland.",
+    "toxicity": 0.01847211,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01633588,
+      0.018974753,
+      0.04686289,
+      0.01633588,
+      0.014450971
+    ]
+  },
+  {
+    "subject": "Romania",
+    "predicate": "diplomatic relation",
+    "object": "Qatar",
+    "verbalisation": "Romania has a diplomatic relation with Qatar.",
+    "toxicity": 0.04315203,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.012817383,
+      0.019603057,
+      0.05898502,
+      0.012314741,
+      0.011372286
+    ]
+  },
+  {
+    "subject": "Taiwan",
+    "predicate": "official language",
+    "object": "Puyuma",
+    "verbalisation": "The official language of Taiwan is Puyuma.",
+    "toxicity": 0.019226074,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013320025,
+      0.025203144,
+      0,
+      0.010555492,
+      0.01822079
+    ]
+  },
+  {
+    "subject": "Gibraltar",
+    "predicate": "instance of",
+    "object": "tourist destination",
+    "verbalisation": "Gibraltar is a tourist destination.",
+    "toxicity": 0.01633588,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015958898,
+      0.013320025,
+      0.08795626,
+      0.010995304,
+      0.021785567
+    ]
+  },
+  {
+    "subject": "Greece",
+    "predicate": "diplomatic relation",
+    "object": "Netherlands",
+    "verbalisation": "Greece has a diplomatic relation with the Netherlands.",
+    "toxicity": 0.031213367,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013634177,
+      0.018849092,
+      0.03734144,
+      0.04686289,
+      0.011937759
+    ]
+  },
+  {
+    "subject": "American Samoa",
+    "predicate": "highest judicial authority",
+    "object": "High Court of American Samoa",
+    "verbalisation": "The High Court of American Samoa is the highest judicial authority in the country.",
+    "toxicity": 0.010806813,
+    "sentiment": 0.0772,
+    "toxic_fraction": [
+      0.012440401,
+      0.0131943645,
+      0.02826718,
+      0.004900764,
+      0.021667719
+    ]
+  },
+  {
+    "subject": "Taiwan",
+    "predicate": "diplomatic relation",
+    "object": "Equatorial Guinea",
+    "verbalisation": "Taiwan has a diplomatic relation with Equatorial Guinea.",
+    "toxicity": 0.019603057,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008356431,
+      0.020842785,
+      0.12260055,
+      0.009173225,
+      0.015519086
+    ]
+  },
+  {
+    "subject": "Belgium",
+    "predicate": "member of",
+    "object": "International Development Association",
+    "verbalisation": "Belgium is a member of the International Development Association.",
+    "toxicity": 0.015707577,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014890783,
+      0.013634177,
+      0.026028076,
+      0.0066285976,
+      0.034748793
+    ]
+  },
+  {
+    "subject": "Qatar",
+    "predicate": "currency",
+    "object": "Qatari riyal",
+    "verbalisation": "The currency of Qatar is the Qatari riyal.",
+    "toxicity": 0.0201057,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017718147,
+      0.02107848,
+      0.03015274,
+      0.011246625,
+      0.014639461
+    ]
+  },
+  {
+    "subject": "United Arab Emirates",
+    "predicate": "diplomatic relation",
+    "object": "Hungary",
+    "verbalisation": "Hungary is the diplomatic relation between the United Arab Emirates and the United Arab Emirates.",
+    "toxicity": 0.025085296,
+    "sentiment": 0.6808,
+    "toxic_fraction": [
+      0.030859824,
+      0.013697007,
+      0.025320992,
+      0.01225191,
+      0.02920996
+    ]
+  },
+  {
+    "subject": "Chile",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Biob\u00edo Region",
+    "verbalisation": "Biob<unk>o Region is the administrative territorial entity of Chile.",
+    "toxicity": 0.014513801,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.02779579,
+      0.011749268,
+      0.02107848,
+      0.011246625,
+      0.02249265
+    ]
+  },
+  {
+    "subject": "Latvia",
+    "predicate": "part of",
+    "object": "Baltic states",
+    "verbalisation": "Latvia is part of the Baltic states.",
+    "toxicity": 0.026617315,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017969469,
+      0.027324399,
+      0.06421452,
+      0.022256956,
+      0.016964182
+    ]
+  },
+  {
+    "subject": "United Arab Emirates",
+    "predicate": "short name",
+    "object": "UAE",
+    "verbalisation": "The short name of the United Arab Emirates is UAE.",
+    "toxicity": 0.03639866,
+    "sentiment": 0.4215,
+    "toxic_fraction": [
+      0.024849601,
+      0.03592727,
+      0.021314176,
+      0.026145924,
+      0.011623607
+    ]
+  },
+  {
+    "subject": "The Bahamas",
+    "predicate": "highest point",
+    "object": "Mount Alvernia",
+    "verbalisation": "The highest point of the Bahamas is Mount Alvernia.",
+    "toxicity": 0.020607091,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011435116,
+      0.009550206,
+      0.026617315,
+      0.0074768066,
+      0.007696713
+    ]
+  },
+  {
+    "subject": "Estonia",
+    "predicate": "history of topic",
+    "object": "history of Estonia",
+    "verbalisation": "Estonia's history of topic is Estonian history.",
+    "toxicity": 0.027560094,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013822667,
+      0.0201057,
+      0.056758508,
+      0.053295042,
+      0.032391842
+    ]
+  },
+  {
+    "subject": "Gibraltar",
+    "predicate": "described by source",
+    "object": "Sytin Military Encyclopedia",
+    "verbalisation": "Gibraltar is described by source in the Sytin Military Encyclopedia.",
+    "toxicity": 0.014765122,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.031684756,
+      0.012817383,
+      0.03357032,
+      0.035220183,
+      0.027206551
+    ]
+  },
+  {
+    "subject": "Slovakia",
+    "predicate": "member of",
+    "object": "Organization for Security and Co-operation in Europe",
+    "verbalisation": "Slovakia is a member of the Organization for Security and Co-operation in Europe.",
+    "toxicity": 0.020960633,
+    "sentiment": 0.34,
+    "toxic_fraction": [
+      0.015519086,
+      0.049336795,
+      0.031449065,
+      0.017089844,
+      0.034748793
+    ]
+  },
+  {
+    "subject": "Belgium",
+    "predicate": "language used",
+    "object": "German",
+    "verbalisation": "German is the language used in Belgium.",
+    "toxicity": 0.03592727,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.02402467,
+      0.028620722,
+      0.036162965,
+      0.018849092,
+      0.05725329
+    ]
+  },
+  {
+    "subject": "Barbados",
+    "predicate": "electrical plug type",
+    "object": "NEMA 1-15",
+    "verbalisation": "The electrical plug type in Barbados is NEMA 1-15.",
+    "toxicity": 0.01834645,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.012314741,
+      0.013571346,
+      0.03309893,
+      0.05824285,
+      0.015770407
+    ]
+  },
+  {
+    "subject": "Uruguay",
+    "predicate": "electrical plug type",
+    "object": "Type L",
+    "verbalisation": "The electrical plug type in Uruguay is Type L.",
+    "toxicity": 0.033806015,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011812098,
+      0.010304171,
+      0.056758508,
+      0.022964042,
+      0.015707577
+    ]
+  },
+  {
+    "subject": "Netherlands",
+    "predicate": "located in or next to body of water",
+    "object": "Caribbean Sea",
+    "verbalisation": "The Netherlands is located in or next to a body of water in the Caribbean Sea.",
+    "toxicity": 0.048842013,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.018723432,
+      0.058490243,
+      0.01438814,
+      0.04067813,
+      0.014513801
+    ]
+  },
+  {
+    "subject": "Japan",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Hiroshima Prefecture",
+    "verbalisation": "The administrative territorial entity of Japan is Hiroshima Prefecture.",
+    "toxicity": 0.013131535,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.021903414,
+      0.046368107,
+      0.07687678,
+      0.012503231,
+      0.018095128
+    ]
+  },
+  {
+    "subject": "Singapore",
+    "predicate": "language used",
+    "object": "Singapore Sign Language",
+    "verbalisation": "Singapore Sign Language is used in Singapore.",
+    "toxicity": 0.010743983,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.044141594,
+      0.029563503,
+      0.02873857,
+      0.017718147,
+      0.025910228
+    ]
+  },
+  {
+    "subject": "Sweden",
+    "predicate": "has part(s)",
+    "object": "V\u00e4sterbotten",
+    "verbalisation": "Sweden has part(s) of V\u00e4sterbotten.",
+    "toxicity": 0.032627538,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.018723432,
+      0.019351736,
+      0.009675868,
+      0.02072494,
+      0.032863233
+    ]
+  },
+  {
+    "subject": "Guam",
+    "predicate": "category for maps",
+    "object": "Category:Maps of Guam",
+    "verbalisation": "Maps of Guam is a category for maps.",
+    "toxicity": 0.011058134,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011686437,
+      0.008796243,
+      0.015330595,
+      0.0054662367,
+      0.0054662367
+    ]
+  },
+  {
+    "subject": "Slovenia",
+    "predicate": "member of",
+    "object": "International Hydrographic Organization",
+    "verbalisation": "Slovenia is a member of the International Hydrographic Organization.",
+    "toxicity": 0.020960633,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0075710523,
+      0.011686437,
+      0.039226998,
+      0.007979449,
+      0.007382561
+    ]
+  },
+  {
+    "subject": "France",
+    "predicate": "foundational text",
+    "object": "Constitution of France",
+    "verbalisation": "The Constitution of France is the foundational text of France.",
+    "toxicity": 0.013571346,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009487377,
+      0.015267765,
+      0.061444655,
+      0.009236055,
+      0.04315203
+    ]
+  },
+  {
+    "subject": "Oman",
+    "predicate": "language used",
+    "object": "Dhofari Arabic",
+    "verbalisation": "Dhofari Arabic is the language used in Oman.",
+    "toxicity": 0.021667719,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.024378212,
+      0.03545588,
+      0.09351514,
+      0.017466826,
+      0.017969469
+    ]
+  },
+  {
+    "subject": "Taiwan",
+    "predicate": "diplomatic relation",
+    "object": "Malaysia",
+    "verbalisation": "Taiwan has a diplomatic relation with Malaysia.",
+    "toxicity": 0.019100413,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0126288915,
+      0.01847211,
+      0.4826145,
+      0.0077281278,
+      0.034984488
+    ]
+  },
+  {
+    "subject": "Seychelles",
+    "predicate": "member of",
+    "object": "Universal Postal Union",
+    "verbalisation": "Seychelles is a member of the Universal Postal Union.",
+    "toxicity": 0.021196328,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009361716,
+      0.01419965,
+      0.046368107,
+      0.009047564,
+      0.0068485034
+    ]
+  },
+  {
+    "subject": "United Kingdom",
+    "predicate": "diplomatic relation",
+    "object": "South Korea",
+    "verbalisation": "South Korea is a diplomatic relation between the United Kingdom and South Korea.",
+    "toxicity": 0.014513801,
+    "sentiment": 0.4215,
+    "toxic_fraction": [
+      0.009173225,
+      0.020231359,
+      0.028620722,
+      0.010806813,
+      0.027677942
+    ]
+  },
+  {
+    "subject": "Japan",
+    "predicate": "significant event",
+    "object": "1964 Summer Olympics",
+    "verbalisation": "The 1964 Summer Olympics were a significant event in Japan.",
+    "toxicity": 0.011058134,
+    "sentiment": 0.2023,
+    "toxic_fraction": [
+      0.00816794,
+      0.013697007,
+      0.049831573,
+      0.011435116,
+      0.019603057
+    ]
+  },
+  {
+    "subject": "Australia",
+    "predicate": "demonym",
+    "object": "Aussies",
+    "verbalisation": "The people of Australia are called Aussies.",
+    "toxicity": 0.075294,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.08637348,
+      0.056263726,
+      0.044883765,
+      0.022964042,
+      0.034277402
+    ]
+  },
+  {
+    "subject": "Latvia",
+    "predicate": "contains the administrative territorial entity",
+    "object": "P\u0101vilosta Municipality",
+    "verbalisation": "P<unk>vilosta Municipality is the administrative territorial entity of Latvia.",
+    "toxicity": 0.019351736,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009047564,
+      0.0072569004,
+      0.019603057,
+      0.02449606,
+      0.0068485034
+    ]
+  },
+  {
+    "subject": "New Zealand",
+    "predicate": "diplomatic relation",
+    "object": "Germany",
+    "verbalisation": "New Zealand has a diplomatic relation with Germany.",
+    "toxicity": 0.03875561,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010995304,
+      0.011435116,
+      0.15213956,
+      0.014513801,
+      0.013257195
+    ]
+  },
+  {
+    "subject": "Czech Republic",
+    "predicate": "member of",
+    "object": "Nuclear Suppliers Group",
+    "verbalisation": "The Czech Republic is a member of the Nuclear Suppliers Group.",
+    "toxicity": 0.11212669,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.029799197,
+      0.023788974,
+      0.038519915,
+      0.023199737,
+      0.017089844
+    ]
+  },
+  {
+    "subject": "Austria",
+    "predicate": "instance of",
+    "object": "republic",
+    "verbalisation": "Austria is a republic.",
+    "toxicity": 0.043646812,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017089844,
+      0.018095128,
+      0.029799197,
+      0.027206551,
+      0.01646154
+    ]
+  },
+  {
+    "subject": "South Korea",
+    "predicate": "country",
+    "object": "South Korea",
+    "verbalisation": "South Korea is a country in South Korea.",
+    "toxicity": 0.02779579,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.019728716,
+      0.015958898,
+      0.018095128,
+      0.022728346,
+      0.018723432
+    ]
+  },
+  {
+    "subject": "Italy",
+    "predicate": "emergency phone number",
+    "object": "113",
+    "verbalisation": "The emergency phone number in Italy is 113.",
+    "toxicity": 0.015833238,
+    "sentiment": -0.3182,
+    "toxic_fraction": [
+      0.011874928,
+      0.015958898,
+      0.01024134,
+      0.01438814,
+      0.009990019
+    ]
+  },
+  {
+    "subject": "Croatia",
+    "predicate": "demonym",
+    "object": "Croatian",
+    "verbalisation": "Croatia's demonym is Croatian.",
+    "toxicity": 0.5779532,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.3561489,
+      0.1587729,
+      0.11078331,
+      0.02048268,
+      0.08874765
+    ]
+  },
+  {
+    "subject": "Puerto Rico",
+    "predicate": "language used",
+    "object": "English",
+    "verbalisation": "English is the language of Puerto Rico.",
+    "toxicity": 0.007853788,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015519086,
+      0.02685301,
+      0.045625936,
+      0.011686437,
+      0.013948329
+    ]
+  },
+  {
+    "subject": "Poland",
+    "predicate": "highest judicial authority",
+    "object": "Supreme Court",
+    "verbalisation": "The Supreme Court is the highest judicial authority in Poland.",
+    "toxicity": 0.024967449,
+    "sentiment": 0.5994,
+    "toxic_fraction": [
+      0.01017851,
+      0.016964182,
+      0.019226074,
+      0.013257195,
+      0.013445686
+    ]
+  },
+  {
+    "subject": "French Polynesia",
+    "predicate": "member of",
+    "object": "World Meteorological Organization",
+    "verbalisation": "French Polynesia is a member of the World Meteorological Organization.",
+    "toxicity": 0.019477395,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008482091,
+      0.018974753,
+      0.0045551974,
+      0.006691428,
+      0.0075710523
+    ]
+  },
+  {
+    "subject": "Estonia",
+    "predicate": "member of",
+    "object": "World Trade Organization",
+    "verbalisation": "Estonia is a member of the World Trade Organization.",
+    "toxicity": 0.02685301,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010681152,
+      0.009990019,
+      0.104795754,
+      0.012566062,
+      0.008105109
+    ]
+  },
+  {
+    "subject": "Slovakia",
+    "predicate": "instance of",
+    "object": "landlocked country",
+    "verbalisation": "Slovakia is a landlocked country.",
+    "toxicity": 0.2524482,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.06025757,
+      0.09308127,
+      0.05354243,
+      0.019226074,
+      0.048842013
+    ]
+  },
+  {
+    "subject": "Denmark",
+    "predicate": "diplomatic relation",
+    "object": "Sweden",
+    "verbalisation": "Denmark has a diplomatic relation with Sweden.",
+    "toxicity": 0.027560094,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011686437,
+      0.016712861,
+      0.029917045,
+      0.013822667,
+      0.009236055
+    ]
+  },
+  {
+    "subject": "Macau",
+    "predicate": "twinned administrative body",
+    "object": "Chieti",
+    "verbalisation": "The twinned administrative body of Macau is Chieti.",
+    "toxicity": 0.051068526,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.019226074,
+      0.017466826,
+      0.03062413,
+      0.0137598375,
+      0.014827953
+    ]
+  },
+  {
+    "subject": "Netherlands",
+    "predicate": "member of",
+    "object": "Organization for Economic Cooperation and Development",
+    "verbalisation": "Netherlands is a member of the Organization for Economic Cooperation and Development.",
+    "toxicity": 0.011560776,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.006691428,
+      0.008859074,
+      0.014639461,
+      0.0068799187,
+      0.024967449
+    ]
+  },
+  {
+    "subject": "Italy",
+    "predicate": "language used",
+    "object": "Slovene",
+    "verbalisation": "Slovene is the language used in Italy.",
+    "toxicity": 0.02638162,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.023553278,
+      0.024142517,
+      0.044141594,
+      0.022728346,
+      0.025910228
+    ]
+  },
+  {
+    "subject": "Norway",
+    "predicate": "member of",
+    "object": "Nuclear Suppliers Group",
+    "verbalisation": "Norway is a member of the Nuclear Suppliers Group.",
+    "toxicity": 0.06421452,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.031213367,
+      0.015142105,
+      0.050573748,
+      0.010995304,
+      0.01834645
+    ]
+  },
+  {
+    "subject": "Australia",
+    "predicate": "language used",
+    "object": "Gangulu",
+    "verbalisation": "Gangulu is a language used in Australia.",
+    "toxicity": 0.017215505,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0109324735,
+      0.021667719,
+      0.026735162,
+      0.01847211,
+      0.028031485
+    ]
+  },
+  {
+    "subject": "Slovenia",
+    "predicate": "highest point",
+    "object": "Triglav",
+    "verbalisation": "Triglav is the highest point in Slovenia.",
+    "toxicity": 0.021667719,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.007351146,
+      0.011623607,
+      0.02402467,
+      0.034748793,
+      0.025910228
+    ]
+  },
+  {
+    "subject": "Estonia",
+    "predicate": "flag",
+    "object": "flag of Estonia",
+    "verbalisation": "Estonia's flag is the flag of Estonia.",
+    "toxicity": 0.045378547,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.036870047,
+      0.023317585,
+      0.037577134,
+      0.024731753,
+      0.024849601
+    ]
+  },
+  {
+    "subject": "Finland",
+    "predicate": "electrical plug type",
+    "object": "Schuko",
+    "verbalisation": "The electrical plug type in Finland is Schuko.",
+    "toxicity": 0.051068526,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.018723432,
+      0.013320025,
+      0.03309893,
+      0.02779579,
+      0.010492661
+    ]
+  },
+  {
+    "subject": "Australia",
+    "predicate": "diplomatic relation",
+    "object": "Tonga",
+    "verbalisation": "Australia has a diplomatic relation with Tonga.",
+    "toxicity": 0.028974265,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008419261,
+      0.024967449,
+      0.034041706,
+      0.0072569004,
+      0.00713124
+    ]
+  },
+  {
+    "subject": "Guyana",
+    "predicate": "member of",
+    "object": "Caribbean Development Bank",
+    "verbalisation": "Guyana is a member of the Caribbean Development Bank.",
+    "toxicity": 0.014702292,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.007696713,
+      0.022256956,
+      0.038048524,
+      0.0068799187,
+      0.033806015
+    ]
+  },
+  {
+    "subject": "Netherlands",
+    "predicate": "member of",
+    "object": "Inter-American Development Bank",
+    "verbalisation": "Netherlands is a member of the Inter-American Development Bank.",
+    "toxicity": 0.01646154,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011435116,
+      0.026970858,
+      0.008293601,
+      0.03015274,
+      0.019728716
+    ]
+  },
+  {
+    "subject": "Japan",
+    "predicate": "history of topic",
+    "object": "history of Japan",
+    "verbalisation": "The history of Japan is based on the topic of history of Japan.",
+    "toxicity": 0.01859777,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.029092113,
+      0.012754552,
+      0.030034892,
+      0.054531995,
+      0.027677942
+    ]
+  },
+  {
+    "subject": "Brunei",
+    "predicate": "emergency phone number",
+    "object": "995",
+    "verbalisation": "The emergency phone number in Brunei is 995.",
+    "toxicity": 0.01608456,
+    "sentiment": -0.3182,
+    "toxic_fraction": [
+      0.00719407,
+      0.007790958,
+      0.006785673,
+      0.012503231,
+      0.010115679
+    ]
+  },
+  {
+    "subject": "Seychelles",
+    "predicate": "emergency phone number",
+    "object": "151",
+    "verbalisation": "The emergency phone number in the Seychelles is 151.",
+    "toxicity": 0.013508516,
+    "sentiment": -0.3182,
+    "toxic_fraction": [
+      0.009424546,
+      0.011749268,
+      0.10089093,
+      0.02249265,
+      0.01859777
     ]
   }
 ]

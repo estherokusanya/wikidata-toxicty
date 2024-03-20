@@ -1,9 +1,10 @@
-import json
+from llamaapi_python_main.llamaapi import LlamaAPI
 from googleapiclient import discovery
+import json
 import time
 import random
+#from llamaapi import LlamaAPI
 import requests
-from llamaapi import LlamaAPI
 from mistralai.client import MistralClient
 from mistralai.models.chat_completion import ChatMessage
 from openai import OpenAI
@@ -21,7 +22,7 @@ client = discovery.build(
 #completed to 250 for male, female trans
 
 def toxic_fraction():
-    files = ["low_income", "high_income"]
+    files = ["high_income"]
     llm = ["gpt 3.5", "llama", "davinci", "jurassic", "mistral"]
     for i in files:
         triples = []
@@ -29,7 +30,7 @@ def toxic_fraction():
         with open(f"toxicity_results/5000_{i}_toxicities.json", "r") as f:
                 data = json.load(f)
         count=0        
-        for item in data[800:900]:
+        for item in data[1200:1250]:
             responses = []
             verbalisation = item["verbalisation"]
             count+=1

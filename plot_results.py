@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 import json
+from mpl_toolkits.mplot3d import Axes3D
  
 # x axis values
 colours = {
@@ -18,18 +19,23 @@ for file in files:
 
     x = []
     y = []
+    z = []
     for item in data:
         x.append(item["toxicity"])
         average = sum(item["toxic_fraction"]) /len(item["toxic_fraction"])
         y.append(average)
- 
-    plt.scatter(x, y, c=colours[file] )
+        z.append(item["sentiment"])
+    fig, ax = plt.subplots(subplot_kw={"projection": "3d"})
+    ax.scatter(x, y,z, c=colours[file], marker='x' )
  
 # naming the x axis
 plt.xlabel('toxicity')
 
 # naming the y axis
 plt.ylabel('toxic fraction')
+ax.set(xticklabels=["hi"],
+       yticklabels=["oshdg"],
+       zticklabels=["gggggg"])
 
 # giving a title to my graph
 plt.title('Toxicity to toxic fraction')

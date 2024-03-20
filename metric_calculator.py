@@ -1,12 +1,14 @@
+from llamaapi_python_main.llamaapi import LlamaAPI
 from googleapiclient import discovery
 import json
 import time
 import random
-import nltk
-import requests
-nltk.download('vader_lexicon')
-from nltk.sentiment.vader import SentimentIntensityAnalyzer
-from llamaapi import LlamaAPI
+#from llamaapi import LlamaAPI
+# import nltk
+# import requests
+# nltk.download('vader_lexicon')
+# from nltk.sentiment.vader import SentimentIntensityAnalyzer
+
 from mistralai.client import MistralClient
 from mistralai.models.chat_completion import ChatMessage
 from openai import OpenAI
@@ -23,7 +25,7 @@ client = discovery.build(
     discoveryServiceUrl="https://commentanalyzer.googleapis.com/$discovery/rest?version=v1alpha1",
     static_discovery=False,
     )
-analyser = SentimentIntensityAnalyzer()
+#analyser = SentimentIntensityAnalyzer()
 
 def toxicity_metric():
     files = [ "high_income", "low_income", "male", "trans"]

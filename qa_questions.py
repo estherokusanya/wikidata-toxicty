@@ -3,35 +3,39 @@ import os
 import json
 import random
 
+#change so it takes data from toxicity results to q_a combined verbals. No need to have a combined verbals folder
+
 client = OpenAI(
     api_key= "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"
 )
 
 files = ["female", "high_income", "low_income", "male", "trans"]
 
-def combine_verbalisations(file):
+def combine_verbalisations(file,size):
     with open(f"toxicity_results/5000_{file}_toxicities.json", "r") as f:
         data = json.load(f)
     remaining = data
     grouped = []
-    for i in range(int(len(remaining)/4)):
+    changed = True
+    while changed and len(remaining)>=size:
+        changed = False
         group = []
         current = random.choice(remaining)
         group.append(current)
         remaining.pop(0)
-        for x in range(3):
+        for x in range(size-1):
             for item in remaining:
                 if current["subject"]==item["subject"] or current["object"]==item["object"] or current["predicate"]==item["predicate"]:
                     group.append(item)
                     remaining.remove(item)
                     break
-        if len(group)!=4:
+        if len(group)!=size:
             remaining.extend(group)
         else:
             grouped.append(group)
     group = []
     for i in range(0,len(remaining)):
-        if i+1%4 ==0:
+        if i+1%size ==0:
             group.append(remaining[i])
             grouped.append(group)
             group.clear()
@@ -43,6 +47,7 @@ def combine_verbalisations(file):
         structured.append({
             "verbalisations": " ".join([x["verbalisation"] for x in item]),
             "toxicities": [x["toxicity"] for x in item],
+            "toxic_fraction": [sum(x["toxic_fraction"])/5 for x in item],
             "sentiments": [x["sentiment"] for x in item]
         })
 

@@ -1498,8 +1498,7 @@
       0.025674535,
       0.038991302
     ]
-  }
-][
+  },
   {
     "subject": "The Gambia",
     "predicate": "member of",
@@ -2999,8 +2998,7 @@
       0.009864358,
       0.009550206
     ]
-  }
-][
+  },
   {
     "subject": "Burundi",
     "predicate": "emergency phone number",
@@ -4500,8 +4498,7 @@
       0.017341165,
       0.010618322
     ]
-  }
-][
+  },
   {
     "subject": "Nepal",
     "predicate": "head of state",
@@ -6001,8 +5998,7 @@
       0.09828771,
       0.02543884
     ]
-  }
-][
+  },
   {
     "subject": "Morocco",
     "predicate": "Wikimedia outline",
@@ -7502,8 +7498,7 @@
       0.01608456,
       0.06184035
     ]
-  }
-][
+  },
   {
     "subject": "Solomon Islands",
     "predicate": "language used",
@@ -9003,8 +8998,7 @@
       0.009864358,
       0.009236055
     ]
-  }
-][
+  },
   {
     "subject": "Sri Lanka",
     "predicate": "contains the administrative territorial entity",
@@ -12004,8 +11998,7 @@
       0.055768944,
       0.03062413
     ]
-  }
-][
+  },
   {
     "subject": "Guinea-Bissau",
     "predicate": "different from",
@@ -13504,6 +13497,5256 @@
       0.022846194,
       0.014702292,
       0.032391842
+    ]
+  },
+  {
+    "subject": "Mongolia",
+    "predicate": "open data portal",
+    "object": "National Statistics Office of Mongolia",
+    "verbalisation": "The National Statistics Office of Mongolia is the open data portal for Mongolia.",
+    "toxicity": 0.015142105,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015016444,
+      0.019728716,
+      0.020960633,
+      0.009487377,
+      0.03545588
+    ]
+  },
+  {
+    "subject": "Malawi",
+    "predicate": "language used",
+    "object": "Shinyiha",
+    "verbalisation": "Shinyiha is the language used in Malawi.",
+    "toxicity": 0.011874928,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015142105,
+      0.026028076,
+      0.028620722,
+      0.01633588,
+      0.014639461
+    ]
+  },
+  {
+    "subject": "Sudan",
+    "predicate": "category for films shot at this location",
+    "object": "Category:Films shot in Sudan",
+    "verbalisation": "The category of films shot in Sudan is \"Films shot in Sudan\".",
+    "toxicity": 0.02543884,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.024378212,
+      0.02402467,
+      0.044141594,
+      0.022374803,
+      0.021903414
+    ]
+  },
+  {
+    "subject": "Chad",
+    "predicate": "topic's main Wikimedia portal",
+    "object": "Portal:Chad",
+    "verbalisation": "The main Wikimedia portal for Chad is Portal:Chad.",
+    "toxicity": 0.01005285,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010618322,
+      0.009801528,
+      0.019226074,
+      0.01822079,
+      0.0143253105
+    ]
+  },
+  {
+    "subject": "Uganda",
+    "predicate": "official name",
+    "object": "Uganda",
+    "verbalisation": "Uganda's official name is Uganda.",
+    "toxicity": 0.022139108,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.023671126,
+      0.040925518,
+      0.055274166,
+      0.025674535,
+      0.044636376
+    ]
+  },
+  {
+    "subject": "Tanzania",
+    "predicate": "category for people born here",
+    "object": "Category:Births in Tanzania",
+    "verbalisation": "The category of people born in Tanzania is \"Births in Tanzania\".",
+    "toxicity": 0.017969469,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009424546,
+      0.02107848,
+      0.015581916,
+      0.03192045,
+      0.023553278
+    ]
+  },
+  {
+    "subject": "Angola",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Cunene Province",
+    "verbalisation": "Cunene Province is the administrative territorial entity of Angola.",
+    "toxicity": 0.014136819,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.012691722,
+      0.011246625,
+      0.02449606,
+      0.015267765,
+      0.026970858
+    ]
+  },
+  {
+    "subject": "Benin",
+    "predicate": "shares border with",
+    "object": "Burkina Faso",
+    "verbalisation": "Benin has a border with Burkina Faso.",
+    "toxicity": 0.040430736,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.02048268,
+      0.017969469,
+      0.112436704,
+      0.10175867,
+      0.17371799
+    ]
+  },
+  {
+    "subject": "Nepal",
+    "predicate": "emergency phone number",
+    "object": "100",
+    "verbalisation": "The emergency phone number in Nepal is 100.",
+    "toxicity": 0.015016444,
+    "sentiment": -0.3182,
+    "toxic_fraction": [
+      0.010555492,
+      0.012817383,
+      0.01822079,
+      0.011812098,
+      0.012314741
+    ]
+  },
+  {
+    "subject": "Nepal",
+    "predicate": "language used",
+    "object": "Doteli",
+    "verbalisation": "Doteli is a language used in Nepal.",
+    "toxicity": 0.011812098,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013005874,
+      0.014450971,
+      0.02685301,
+      0.017969469,
+      0.034041706
+    ]
+  },
+  {
+    "subject": "Zambia",
+    "predicate": "highest point",
+    "object": "Mafinga Central",
+    "verbalisation": "Mafinga Central is the highest point in Zambia.",
+    "toxicity": 0.016210219,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0068485034,
+      0.0066600125,
+      0.019100413,
+      0.007979449,
+      0.017215505
+    ]
+  },
+  {
+    "subject": "Tanzania",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Mbeya",
+    "verbalisation": "Mbeya is the administrative territorial entity of Tanzania.",
+    "toxicity": 0.008859074,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.00816794,
+      0.018849092,
+      0.055274166,
+      0.008859074,
+      0.009927189
+    ]
+  },
+  {
+    "subject": "Papua New Guinea",
+    "predicate": "language used",
+    "object": "Waskia",
+    "verbalisation": "Waskia is the language used in Papua New Guinea.",
+    "toxicity": 0.015581916,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0137598375,
+      0.01847211,
+      0.112540044,
+      0.02685301,
+      0.016838523
+    ]
+  },
+  {
+    "subject": "India",
+    "predicate": "replaces",
+    "object": "Jashpur State",
+    "verbalisation": "India replaces Jashpur State.",
+    "toxicity": 0.013068704,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010304171,
+      0.017466826,
+      0.034748793,
+      0.022846194,
+      0.036162965
+    ]
+  },
+  {
+    "subject": "Papua New Guinea",
+    "predicate": "language used",
+    "object": "Imbongu",
+    "verbalisation": "The language used in Papua New Guinea is Imbongu.",
+    "toxicity": 0.02048268,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017969469,
+      0.019854378,
+      0.027677942,
+      0.02249265,
+      0.015707577
+    ]
+  },
+  {
+    "subject": "Sudan",
+    "predicate": "contains the administrative territorial entity",
+    "object": "River Nile",
+    "verbalisation": "The administrative territorial entity of Sudan is the River Nile.",
+    "toxicity": 0.022021262,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011120965,
+      0.02543884,
+      0.032863233,
+      0.015079274,
+      0.0126288915
+    ]
+  },
+  {
+    "subject": "Uganda",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Mbale District",
+    "verbalisation": "Mbale District is the administrative territorial entity of Uganda.",
+    "toxicity": 0.01024134,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009927189,
+      0.00804228,
+      0.017592486,
+      0.0063144458,
+      0.020960633
+    ]
+  },
+  {
+    "subject": "Mali",
+    "predicate": "language used",
+    "object": "Marka",
+    "verbalisation": "Marka is the language used in Mali.",
+    "toxicity": 0.019477395,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01633588,
+      0.025203144,
+      0.011812098,
+      0.01834645,
+      0.059479803
+    ]
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "shares border with",
+    "object": "Pakistan",
+    "verbalisation": "Afghanistan has a border with Pakistan.",
+    "toxicity": 0.059727192,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015330595,
+      0.030034892,
+      0.057748068,
+      0.014136819,
+      0.015519086
+    ]
+  },
+  {
+    "subject": "Ivory Coast",
+    "predicate": "member of",
+    "object": "Interpol",
+    "verbalisation": "Ivory Coast is a member of Interpol.",
+    "toxicity": 0.056758508,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.034984488,
+      0.010304171,
+      0.04166769,
+      0.035691574,
+      0.040925518
+    ]
+  },
+  {
+    "subject": "Kenya",
+    "predicate": "language used",
+    "object": "Kalenjin",
+    "verbalisation": "The language used in Kenya is Kalenjin.",
+    "toxicity": 0.01646154,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011874928,
+      0.029092113,
+      0.011183795,
+      0.013068704,
+      0.015644746
+    ]
+  },
+  {
+    "subject": "Cambodia",
+    "predicate": "diplomatic relation",
+    "object": "Philippines",
+    "verbalisation": "Cambodia has a diplomatic relation with the Philippines.",
+    "toxicity": 0.017843807,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008670582,
+      0.017215505,
+      0.015142105,
+      0.0070369947,
+      0.009110395
+    ]
+  },
+  {
+    "subject": "Sudan",
+    "predicate": "demonym",
+    "object": "Sudanese",
+    "verbalisation": "The demonym for people living in Sudan is Sudanese.",
+    "toxicity": 0.5024724,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.3266089,
+      0.25462922,
+      0.09394901,
+      0.4398409,
+      0.23235008
+    ]
+  },
+  {
+    "subject": "North Korea",
+    "predicate": "member of",
+    "object": "states with nuclear weapons",
+    "verbalisation": "North Korea is a member of states with nuclear weapons.",
+    "toxicity": 0.13041082,
+    "sentiment": -0.4404,
+    "toxic_fraction": [
+      0.028856417,
+      0.031684756,
+      0.062236045,
+      0.045873325,
+      0.0414203
+    ]
+  },
+  {
+    "subject": "Pakistan",
+    "predicate": "language used",
+    "object": "Sindhi",
+    "verbalisation": "The language used in Pakistan is Sindhi.",
+    "toxicity": 0.022374803,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01859777,
+      0.033806015,
+      0.030388435,
+      0.02402467,
+      0.017215505
+    ]
+  },
+  {
+    "subject": "Egypt",
+    "predicate": "described by source",
+    "object": "History of Ming",
+    "verbalisation": "Egypt is described by source as the History of Ming.",
+    "toxicity": 0.024731753,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.031684756,
+      0.020231359,
+      0.10045706,
+      0.027206551,
+      0.032863233
+    ]
+  },
+  {
+    "subject": "Uzbekistan",
+    "predicate": "located in time zone",
+    "object": "UTC+05:00",
+    "verbalisation": "Uzbekistan is located in time zone UTC+05:00.",
+    "toxicity": 0.020960633,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.022374803,
+      0.018974753,
+      0.03639866,
+      0.013068704,
+      0.014702292
+    ]
+  },
+  {
+    "subject": "Togo",
+    "predicate": "member of",
+    "object": "International Development Association",
+    "verbalisation": "Togo is a member of the International Development Association.",
+    "toxicity": 0.007602467,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.012691722,
+      0.009675868,
+      0.005340576,
+      0.028620722,
+      0.009738698
+    ]
+  },
+  {
+    "subject": "Pakistan",
+    "predicate": "member of",
+    "object": "International Centre for Settlement of Investment Disputes",
+    "verbalisation": "Pakistan is a member of the International Centre for Settlement of Investment Disputes.",
+    "toxicity": 0.02072494,
+    "sentiment": -0.2732,
+    "toxic_fraction": [
+      0.036870047,
+      0.040925518,
+      0.06025757,
+      0.030034892,
+      0.036162965
+    ]
+  },
+  {
+    "subject": "Haiti",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Centre",
+    "verbalisation": "The administrative territorial entity of Haiti is the Centre.",
+    "toxicity": 0.018723432,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014890783,
+      0.017341165,
+      0.034041706,
+      0.015204934,
+      0.010681152
+    ]
+  },
+  {
+    "subject": "Papua New Guinea",
+    "predicate": "language used",
+    "object": "\u00d6mie",
+    "verbalisation": "The language used in Papua New Guinea is <unk>mie.",
+    "toxicity": 0.045378547,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.027560094,
+      0.022374803,
+      0.042657252,
+      0.008921904,
+      0.02249265
+    ]
+  },
+  {
+    "subject": "Uganda",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Kabarole District",
+    "verbalisation": "Kabarole District is the administrative territorial entity of Uganda.",
+    "toxicity": 0.009613037,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0069741644,
+      0.008733413,
+      0.015142105,
+      0.009424546,
+      0.020231359
+    ]
+  },
+  {
+    "subject": "Uzbekistan",
+    "predicate": "official language",
+    "object": "Uzbek",
+    "verbalisation": "Uzbek is the official language of Uzbekistan.",
+    "toxicity": 0.019980038,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.02249265,
+      0.028620722,
+      0.0011859221,
+      0.01834645,
+      0.02048268
+    ]
+  },
+  {
+    "subject": "Burundi",
+    "predicate": "member of",
+    "object": "International Development Association",
+    "verbalisation": "Burundi is a member of the International Development Association.",
+    "toxicity": 0.009298885,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.02343543,
+      0.012503231,
+      0.014765122,
+      0.04067813,
+      0.009613037
+    ]
+  },
+  {
+    "subject": "Nepal",
+    "predicate": "diplomatic relation",
+    "object": "India",
+    "verbalisation": "Nepal has a diplomatic relation with India.",
+    "toxicity": 0.022256956,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0109324735,
+      0.021549871,
+      0.031331215,
+      0.012817383,
+      0.028149333
+    ]
+  },
+  {
+    "subject": "Ukraine",
+    "predicate": "member of",
+    "object": "International Centre for Settlement of Investment Disputes",
+    "verbalisation": "Ukraine is a member of the International Centre for Settlement of Investment Disputes.",
+    "toxicity": 0.015770407,
+    "sentiment": -0.2732,
+    "toxic_fraction": [
+      0.009801528,
+      0.026028076,
+      0.039935954,
+      0.007979449,
+      0.008607753
+    ]
+  },
+  {
+    "subject": "Tanzania",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Mount Kilimanjaro",
+    "verbalisation": "Mount Kilimanjaro is the administrative territorial entity of Tanzania.",
+    "toxicity": 0.011560776,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01426248,
+      0.017592486,
+      0.02779579,
+      0.012566062,
+      0.009298885
+    ]
+  },
+  {
+    "subject": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "predicate": "member of",
+    "object": "African Union",
+    "verbalisation": "S<unk>o Tom\u00e9 and Pr<unk>ncipe is a member of the African Union.",
+    "toxicity": 0.056263726,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011309455,
+      0.019603057,
+      0.045131154,
+      0.0201057,
+      0.010995304
+    ]
+  },
+  {
+    "subject": "Ethiopia",
+    "predicate": "located in time zone",
+    "object": "UTC+03:00",
+    "verbalisation": "Ethiopia is located in time zone UTC+03:00.",
+    "toxicity": 0.023788974,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.027206551,
+      0.034513097,
+      0.024378212,
+      0.022728346,
+      0.019603057
+    ]
+  },
+  {
+    "subject": "Mongolia",
+    "predicate": "diplomatic relation",
+    "object": "Egypt",
+    "verbalisation": "Mongolia has a diplomatic relation with Egypt.",
+    "toxicity": 0.034513097,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015519086,
+      0.034277402,
+      0.07608539,
+      0.014890783,
+      0.011623607
+    ]
+  },
+  {
+    "subject": "Morocco",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Tangier-Tetouan-Al Hoceima",
+    "verbalisation": "Tangier-Tetouan-Al Hoceima is the administrative territorial entity of Morocco.",
+    "toxicity": 0.015644746,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011120965,
+      0.011497946,
+      0.34328604,
+      0.009801528,
+      0.0154562555
+    ]
+  },
+  {
+    "subject": "Vietnam",
+    "predicate": "language used",
+    "object": "Ts'\u00fcn-Lao",
+    "verbalisation": "Ts'\u00fcn-Lao is a language used in Vietnam.",
+    "toxicity": 0.012817383,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.022846194,
+      0.015581916,
+      0.09033044,
+      0.01225191,
+      0.018095128
+    ]
+  },
+  {
+    "subject": "Solomon Islands",
+    "predicate": "language used",
+    "object": "Tikopia",
+    "verbalisation": "Tikopia is the language used in Solomon Islands.",
+    "toxicity": 0.015079274,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017969469,
+      0.015330595,
+      0.027560094,
+      0.010743983,
+      0.0103670005
+    ]
+  },
+  {
+    "subject": "Mongolia",
+    "predicate": "shares border with",
+    "object": "People's Republic of China",
+    "verbalisation": "Mongolia has a border with the People's Republic of China.",
+    "toxicity": 0.04240986,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014827953,
+      0.027913637,
+      0.030977672,
+      0.025792383,
+      0.044636376
+    ]
+  },
+  {
+    "subject": "South Sudan",
+    "predicate": "diplomatic relation",
+    "object": "Uganda",
+    "verbalisation": "South Sudan has a diplomatic relation with Uganda.",
+    "toxicity": 0.0201057,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009424546,
+      0.016712861,
+      0.115658075,
+      0.009927189,
+      0.029917045
+    ]
+  },
+  {
+    "subject": "India",
+    "predicate": "shares border with",
+    "object": "Pakistan",
+    "verbalisation": "India has a border with Pakistan.",
+    "toxicity": 0.103928015,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.021432023,
+      0.026145924,
+      0.1537979,
+      0.04711028,
+      0.03639866
+    ]
+  },
+  {
+    "subject": "Comoros",
+    "predicate": "geography of topic",
+    "object": "geography of Comoros",
+    "verbalisation": "Comoros is the geography of Comoros.",
+    "toxicity": 0.022964042,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.056758508,
+      0.02779579,
+      0.025085296,
+      0.01822079,
+      0.02107848
+    ]
+  },
+  {
+    "subject": "Philippines",
+    "predicate": "language used",
+    "object": "Kagan Kalagan",
+    "verbalisation": "The language used in the Philippines is Kagan Kalagan.",
+    "toxicity": 0.032863233,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.018849092,
+      0.021667719,
+      0.054037213,
+      0.024613906,
+      0.022256956
+    ]
+  },
+  {
+    "subject": "Philippines",
+    "predicate": "language used",
+    "object": "Ivatan",
+    "verbalisation": "Ivatan is the language used in the Philippines.",
+    "toxicity": 0.01633588,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01426248,
+      0.033334624,
+      0.026145924,
+      0.015330595,
+      0.01646154
+    ]
+  },
+  {
+    "subject": "Morocco",
+    "predicate": "shares border with",
+    "object": "Spain",
+    "verbalisation": "Morocco has a border with Spain.",
+    "toxicity": 0.046120718,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015770407,
+      0.019477395,
+      0.01608456,
+      0.023317585,
+      0.023671126
+    ]
+  },
+  {
+    "subject": "Cape Verde",
+    "predicate": "member of",
+    "object": "Organisation of African Unity",
+    "verbalisation": "Cape Verde is a member of the Organisation of African Unity.",
+    "toxicity": 0.013508516,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013320025,
+      0.010492661,
+      0.030741978,
+      0.013068704,
+      0.010681152
+    ]
+  },
+  {
+    "subject": "Mauritania",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Gorgol Region",
+    "verbalisation": "The administrative territorial entity of Mauritania is Gorgol Region.",
+    "toxicity": 0.039226998,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011686437,
+      0.013068704,
+      0.02920996,
+      0.011686437,
+      0.01218908
+    ]
+  },
+  {
+    "subject": "Madagascar",
+    "predicate": "member of",
+    "object": "International Development Association",
+    "verbalisation": "Madagascar is a member of the International Development Association.",
+    "toxicity": 0.00823077,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011372286,
+      0.011183795,
+      0.023317585,
+      0.0056547276,
+      0.034984488
+    ]
+  },
+  {
+    "subject": "Papua New Guinea",
+    "predicate": "language used",
+    "object": "Karami",
+    "verbalisation": "Karami is the language used in Papua New Guinea.",
+    "toxicity": 0.01646154,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.016838523,
+      0.021549871,
+      0.03875561,
+      0.011686437,
+      0.018095128
+    ]
+  },
+  {
+    "subject": "Algeria",
+    "predicate": "shares border with",
+    "object": "Spain",
+    "verbalisation": "Algeria has a border with Spain.",
+    "toxicity": 0.051810697,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.016712861,
+      0.0665887,
+      0.06500591,
+      0.031213367,
+      0.038048524
+    ]
+  },
+  {
+    "subject": "Democratic Republic of the Congo",
+    "predicate": "history of topic",
+    "object": "history of the Democratic Republic of the Congo",
+    "verbalisation": "The Democratic Republic of the Congo is the subject of the history of the Democratic Republic of the Congo.",
+    "toxicity": 0.03592727,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015142105,
+      0.01822079,
+      0.041915078,
+      0.01608456,
+      0.056263726
+    ]
+  },
+  {
+    "subject": "India",
+    "predicate": "language used",
+    "object": "Mukha-Dora",
+    "verbalisation": "Mukha-Dora is a language used in India.",
+    "toxicity": 0.0103670005,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.016210219,
+      0.018723432,
+      0.044388983,
+      0.05378982,
+      0.01822079
+    ]
+  },
+  {
+    "subject": "Vietnam",
+    "predicate": "contains the administrative territorial entity",
+    "object": "\u0110\u1eafk L\u1eafk",
+    "verbalisation": "<unk>k L<unk>k is the administrative territorial entity of Vietnam.",
+    "toxicity": 0.04216247,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.016587202,
+      0.01419965,
+      0.08716487,
+      0.017718147,
+      0.011623607
+    ]
+  },
+  {
+    "subject": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "predicate": "instance of",
+    "object": "parliamentary republic",
+    "verbalisation": "S<unk>o Tom\u00e9 and Pr<unk>ncipe is an instance of parliamentary republic.",
+    "toxicity": 0.049336795,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013948329,
+      0.016587202,
+      0.012880214,
+      0.01005285,
+      0.00804228
+    ]
+  },
+  {
+    "subject": "Ukraine",
+    "predicate": "member of",
+    "object": "United Nations",
+    "verbalisation": "Ukraine is a member of the United Nations.",
+    "toxicity": 0.019100413,
+    "sentiment": 0.4215,
+    "toxic_fraction": [
+      0.01608456,
+      0.033334624,
+      0.034748793,
+      0.022728346,
+      0.013068704
+    ]
+  },
+  {
+    "subject": "Cambodia",
+    "predicate": "diplomatic relation",
+    "object": "Saudi Arabia",
+    "verbalisation": "Cambodia has a diplomatic relation with Saudi Arabia.",
+    "toxicity": 0.020607091,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011560776,
+      0.030859824,
+      0.083999306,
+      0.02543884,
+      0.036162965
+    ]
+  },
+  {
+    "subject": "Djibouti",
+    "predicate": "member of",
+    "object": "Interpol",
+    "verbalisation": "Djibouti is a member of Interpol.",
+    "toxicity": 0.024613906,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.028620722,
+      0.028385026,
+      0.20126031,
+      0.01237757,
+      0.016210219
+    ]
+  },
+  {
+    "subject": "Mozambique",
+    "predicate": "electrical plug type",
+    "object": "Europlug",
+    "verbalisation": "The electrical plug type in Mozambique is Europlug.",
+    "toxicity": 0.0438942,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010115679,
+      0.012817383,
+      0.013445686,
+      0.022256956,
+      0.014073989
+    ]
+  },
+  {
+    "subject": "Nepal",
+    "predicate": "instance of",
+    "object": "geographic region",
+    "verbalisation": "Nepal is a geographical region.",
+    "toxicity": 0.023671126,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01859777,
+      0.018849092,
+      0.02826718,
+      0.015581916,
+      0.017843807
+    ]
+  },
+  {
+    "subject": "Mozambique",
+    "predicate": "described by source",
+    "object": "The New Student's Reference Work",
+    "verbalisation": "The New Student's Reference Work describes Mozambique.",
+    "toxicity": 0.003675573,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.03309893,
+      0.013822667,
+      0.18744208,
+      0.0015550501,
+      0.034513097
+    ]
+  },
+  {
+    "subject": "Myanmar",
+    "predicate": "emergency phone number",
+    "object": "192",
+    "verbalisation": "Myanmar's emergency phone number is 192.",
+    "toxicity": 0.01608456,
+    "sentiment": -0.3182,
+    "toxic_fraction": [
+      0.007759543,
+      0.03357032,
+      0.011183795,
+      0.015142105,
+      0.011058134
+    ]
+  },
+  {
+    "subject": "Vietnam",
+    "predicate": "diplomatic relation",
+    "object": "India",
+    "verbalisation": "Vietnam has a diplomatic relation with India.",
+    "toxicity": 0.024260364,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008921904,
+      0.026028076,
+      0.055768944,
+      0.01218908,
+      0.009424546
+    ]
+  },
+  {
+    "subject": "Sudan",
+    "predicate": "emergency phone number",
+    "object": "999",
+    "verbalisation": "The emergency phone number in Sudan is 999.",
+    "toxicity": 0.024260364,
+    "sentiment": -0.3182,
+    "toxic_fraction": [
+      0.005434822,
+      0.022610499,
+      0.053295042,
+      0.017215505,
+      0.016587202
+    ]
+  },
+  {
+    "subject": "Algeria",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Tizi Ouzou Province",
+    "verbalisation": "The administrative territorial entity of Algeria is Tizi Ouzou Province.",
+    "toxicity": 0.017089844,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013005874,
+      0.016712861,
+      0.024731753,
+      0.021196328,
+      0.013885498
+    ]
+  },
+  {
+    "subject": "Nigeria",
+    "predicate": "member of",
+    "object": "Organisation of African, Caribbean and Pacific States",
+    "verbalisation": "Nigeria is a member of the Organisation of African, Caribbean and Pacific States.",
+    "toxicity": 0.025203144,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017215505,
+      0.032391842,
+      0.032863233,
+      0.03192045,
+      0.012503231
+    ]
+  },
+  {
+    "subject": "Honduras",
+    "predicate": "described by source",
+    "object": "Sytin Military Encyclopedia",
+    "verbalisation": "Honduras is described by source in the Sytin Military Encyclopedia.",
+    "toxicity": 0.019728716,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.022728346,
+      0.08953904,
+      0.015581916,
+      0.07054565,
+      0.04067813
+    ]
+  },
+  {
+    "subject": "Jordan",
+    "predicate": "top-level Internet domain",
+    "object": ".\u0627\u0644\u0627\u0631\u062f\u0646",
+    "verbalisation": "The top level Internet domain in Jordan is.<unk>.",
+    "toxicity": 0.04686289,
+    "sentiment": 0.2023,
+    "toxic_fraction": [
+      0.018723432,
+      0.021549871,
+      0.02638162,
+      0.019477395,
+      0.016021729
+    ]
+  },
+  {
+    "subject": "Burundi",
+    "predicate": "country",
+    "object": "Burundi",
+    "verbalisation": "Burundi is a country in Burundi.",
+    "toxicity": 0.027442247,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.023906821,
+      0.022374803,
+      0.05799546,
+      0.03192045,
+      0.06025757
+    ]
+  },
+  {
+    "subject": "Central African Republic",
+    "predicate": "motto text",
+    "object": "Unity, Dignity, Work",
+    "verbalisation": "The Central African Republic's motto is Unity, Dignity, Work.",
+    "toxicity": 0.02685301,
+    "sentiment": 0.4019,
+    "toxic_fraction": [
+      0.0201057,
+      0.021196328,
+      0.024849601,
+      0.01834645,
+      0.015519086
+    ]
+  },
+  {
+    "subject": "Zambia",
+    "predicate": "member of",
+    "object": "Multilateral Investment Guarantee Agency",
+    "verbalisation": "Zambia is a member of the Multilateral Investment Guarantee Agency.",
+    "toxicity": 0.012126249,
+    "sentiment": 0.25,
+    "toxic_fraction": [
+      0.0103670005,
+      0.024142517,
+      0.053295042,
+      0.00804228,
+      0.011812098
+    ]
+  },
+  {
+    "subject": "Papua New Guinea",
+    "predicate": "language used",
+    "object": "Wadaginam",
+    "verbalisation": "Wadaginam is the language used in Papua New Guinea.",
+    "toxicity": 0.016210219,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013068704,
+      0.015267765,
+      0.029327808,
+      0.022610499,
+      0.013257195
+    ]
+  },
+  {
+    "subject": "Pakistan",
+    "predicate": "language used",
+    "object": "Torwali",
+    "verbalisation": "The language used in Pakistan is Torwali.",
+    "toxicity": 0.055521555,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.021667719,
+      0.03781283,
+      0.21776234,
+      0.04686289,
+      0.02107848
+    ]
+  },
+  {
+    "subject": "Liberia",
+    "predicate": "language used",
+    "object": "Grebo",
+    "verbalisation": "Grebo is the language used in Liberia.",
+    "toxicity": 0.030977672,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.024967449,
+      0.021549871,
+      0.13561769,
+      0.0008678436,
+      0.026263772
+    ]
+  },
+  {
+    "subject": "Sri Lanka",
+    "predicate": "diplomatic relation",
+    "object": "Serbia",
+    "verbalisation": "Sri Lanka has a diplomatic relation with Serbia.",
+    "toxicity": 0.021196328,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013068704,
+      0.011246625,
+      0.0068799187,
+      0.008544922,
+      0.024260364
+    ]
+  },
+  {
+    "subject": "Burkina Faso",
+    "predicate": "language used",
+    "object": "Kaansa",
+    "verbalisation": "Kaansa is the language used in Burkina Faso.",
+    "toxicity": 0.02249265,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011246625,
+      0.032391842,
+      0.024378212,
+      0.015079274,
+      0.05230548
+    ]
+  },
+  {
+    "subject": "Ivory Coast",
+    "predicate": "emergency phone number",
+    "object": "110",
+    "verbalisation": "The emergency phone number for Ivory Coast is 110.",
+    "toxicity": 0.012754552,
+    "sentiment": -0.3182,
+    "toxic_fraction": [
+      0.010681152,
+      0.009613037,
+      0.014953613,
+      0.012566062,
+      0.009613037
+    ]
+  },
+  {
+    "subject": "Vietnam",
+    "predicate": "diplomatic relation",
+    "object": "North Korea",
+    "verbalisation": "Vietnam has a diplomatic relation with North Korea.",
+    "toxicity": 0.021314176,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009361716,
+      0.019603057,
+      0.058737632,
+      0.007539637,
+      0.032627538
+    ]
+  },
+  {
+    "subject": "Honduras",
+    "predicate": "member of",
+    "object": "International Finance Corporation",
+    "verbalisation": "Honduras is a member of the International Finance Corporation.",
+    "toxicity": 0.014765122,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009927189,
+      0.03015274,
+      0.033334624,
+      0.0074139764,
+      0.008293601
+    ]
+  },
+  {
+    "subject": "India",
+    "predicate": "contains the administrative territorial entity",
+    "object": "West Bengal",
+    "verbalisation": "West Bengal is the administrative territorial entity of India.",
+    "toxicity": 0.01847211,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013634177,
+      0.017843807,
+      0.022139108,
+      0.011246625,
+      0.012503231
+    ]
+  },
+  {
+    "subject": "India",
+    "predicate": "diplomatic relation",
+    "object": "United Kingdom",
+    "verbalisation": "India has a diplomatic relation with the United Kingdom.",
+    "toxicity": 0.02249265,
+    "sentiment": 0.4215,
+    "toxic_fraction": [
+      0.015393426,
+      0.02072494,
+      0.029327808,
+      0.009864358,
+      0.03781283
+    ]
+  },
+  {
+    "subject": "Mali",
+    "predicate": "language used",
+    "object": "Tene Kan Dogon",
+    "verbalisation": "Tene Kan Dogon is a language used in Mali.",
+    "toxicity": 0.01225191,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.06500591,
+      0.017341165,
+      0.07291982,
+      0.031449065,
+      0.06896287
+    ]
+  },
+  {
+    "subject": "Pakistan",
+    "predicate": "language used",
+    "object": "Urdu",
+    "verbalisation": "Urdu is the language of Pakistan.",
+    "toxicity": 0.21241048,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.025674535,
+      0.027560094,
+      0.24442963,
+      0.011309455,
+      0.028149333
+    ]
+  },
+  {
+    "subject": "Angola",
+    "predicate": "language used",
+    "object": "Nyengo",
+    "verbalisation": "Nyengo is the language used in Angola.",
+    "toxicity": 0.020960633,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.020231359,
+      0.06065326,
+      0.05230548,
+      0.028620722,
+      0.017592486
+    ]
+  },
+  {
+    "subject": "Nigeria",
+    "predicate": "language used",
+    "object": "Berom",
+    "verbalisation": "The language used in Nigeria is Berom.",
+    "toxicity": 0.048594624,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.02449606,
+      0.034277402,
+      0.010429831,
+      0.032863233,
+      0.019477395
+    ]
+  },
+  {
+    "subject": "Papua New Guinea",
+    "predicate": "member of",
+    "object": "International Bank for Reconstruction and Development",
+    "verbalisation": "Papua New Guinea is a member of the International Bank for Reconstruction and Development.",
+    "toxicity": 0.008670582,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008921904,
+      0.023317585,
+      0.02035702,
+      0.008733413,
+      0.009990019
+    ]
+  },
+  {
+    "subject": "Nigeria",
+    "predicate": "language used",
+    "object": "Yedina",
+    "verbalisation": "Yedina is the language used in Nigeria.",
+    "toxicity": 0.040183347,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.022139108,
+      0.018095128,
+      0.09351514,
+      0.01834645,
+      0.026145924
+    ]
+  },
+  {
+    "subject": "Ivory Coast",
+    "predicate": "language used",
+    "object": "Mwan",
+    "verbalisation": "Mwan is the language used in Ivory Coast.",
+    "toxicity": 0.017466826,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.019854378,
+      0.0154562555,
+      0.02543884,
+      0.044141594,
+      0.019477395
+    ]
+  },
+  {
+    "subject": "Bangladesh",
+    "predicate": "official symbol",
+    "object": "Nymphaea nouchali",
+    "verbalisation": "The official symbol of Bangladesh is Nymphaea nouchali.",
+    "toxicity": 0.119997114,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014136819,
+      0.015644746,
+      0.007099825,
+      0.024142517,
+      0.05799546
+    ]
+  },
+  {
+    "subject": "North Korea",
+    "predicate": "diplomatic relation",
+    "object": "Czechoslovakia",
+    "verbalisation": "North Korea has a diplomatic relation with Czechoslovakia.",
+    "toxicity": 0.025203144,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.02072494,
+      0.032156147,
+      0.06896287,
+      0.01225191,
+      0.019854378
+    ]
+  },
+  {
+    "subject": "Uganda",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Bundibugyo District",
+    "verbalisation": "Bundibugyo District is the administrative territorial entity of Uganda.",
+    "toxicity": 0.0109324735,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008607753,
+      0.008293601,
+      0.020607091,
+      0.02543884,
+      0.027677942
+    ]
+  },
+  {
+    "subject": "India",
+    "predicate": "language used",
+    "object": "Byangsi",
+    "verbalisation": "Byangsi is a language used in India.",
+    "toxicity": 0.013634177,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015142105,
+      0.01859777,
+      0.022846194,
+      0.016587202,
+      0.017718147
+    ]
+  },
+  {
+    "subject": "Pakistan",
+    "predicate": "diplomatic relation",
+    "object": "Sri Lanka",
+    "verbalisation": "Pakistan has a diplomatic relation with Sri Lanka.",
+    "toxicity": 0.023317585,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013257195,
+      0.010806813,
+      0.04216247,
+      0.012000589,
+      0.01024134
+    ]
+  },
+  {
+    "subject": "Papua New Guinea",
+    "predicate": "language used",
+    "object": "Nukumanu",
+    "verbalisation": "The language used in Papua New Guinea is Nukumanu.",
+    "toxicity": 0.015833238,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010492661,
+      0.027324399,
+      0.019728716,
+      0.013068704,
+      0.017341165
+    ]
+  },
+  {
+    "subject": "India",
+    "predicate": "replaces",
+    "object": "Tigiria State",
+    "verbalisation": "India replaces Tigiria State.",
+    "toxicity": 0.028856417,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.019854378,
+      0.022610499,
+      0.09481675,
+      0.015519086,
+      0.036634352
+    ]
+  },
+  {
+    "subject": "Rwanda",
+    "predicate": "member of",
+    "object": "World Health Organization",
+    "verbalisation": "Rwanda is a member of the World Health Organization.",
+    "toxicity": 0.015581916,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010995304,
+      0.0126288915,
+      0.091913216,
+      0.02249265,
+      0.034513097
+    ]
+  },
+  {
+    "subject": "Mali",
+    "predicate": "language used",
+    "object": "Sucite",
+    "verbalisation": "Sucite is the language used in Mali.",
+    "toxicity": 0.028620722,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.032627538,
+      0.035691574,
+      0.036634352,
+      0.012063419,
+      0.02308189
+    ]
+  },
+  {
+    "subject": "Uganda",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Mitooma District",
+    "verbalisation": "The administrative territorial entity of Uganda is Mitooma District.",
+    "toxicity": 0.011309455,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011058134,
+      0.013382856,
+      0.025320992,
+      0.0073197307,
+      0.02685301
+    ]
+  },
+  {
+    "subject": "Tanzania",
+    "predicate": "different from",
+    "object": "Tanzania",
+    "verbalisation": "Tanzania is different from Tanzania.",
+    "toxicity": 0.04315203,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.022139108,
+      0.022139108,
+      0.6308517,
+      0.014011159,
+      0.020842785
+    ]
+  },
+  {
+    "subject": "North Korea",
+    "predicate": "diplomatic relation",
+    "object": "Iceland",
+    "verbalisation": "North Korea has a diplomatic relationship with Iceland.",
+    "toxicity": 0.022256956,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0103670005,
+      0.06500591,
+      0.05205809,
+      0.009424546,
+      0.011497946
+    ]
+  },
+  {
+    "subject": "Cape Verde",
+    "predicate": "legislative body",
+    "object": "National Assembly of Cape Verde",
+    "verbalisation": "The National Assembly of Cape Verde is the legislative body of Cape Verde.",
+    "toxicity": 0.008733413,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.007759543,
+      0.009487377,
+      0.0064086914,
+      0.0069741644,
+      0.022139108
+    ]
+  },
+  {
+    "subject": "Nigeria",
+    "predicate": "language used",
+    "object": "Sambe",
+    "verbalisation": "Sambe is the language used in Nigeria.",
+    "toxicity": 0.0466155,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.02308189,
+      0.02072494,
+      0.027088705,
+      0.008419261,
+      0.02107848
+    ]
+  },
+  {
+    "subject": "India",
+    "predicate": "replaces",
+    "object": "presidencies and provinces of British India",
+    "verbalisation": "India replaces the presidencies and provinces of British India.",
+    "toxicity": 0.040183347,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011749268,
+      0.04785245,
+      0.050573748,
+      0.012063419,
+      0.038048524
+    ]
+  },
+  {
+    "subject": "Pakistan",
+    "predicate": "shares border with",
+    "object": "People's Republic of China",
+    "verbalisation": "Pakistan has a border with the People's Republic of China.",
+    "toxicity": 0.051068526,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013068704,
+      0.024849601,
+      0.0414203,
+      0.01608456,
+      0.034748793
+    ]
+  },
+  {
+    "subject": "Ukraine",
+    "predicate": "anthem",
+    "object": "Shche ne vmerla Ukrainy i slava, i volia",
+    "verbalisation": "The anthem of Ukraine is Shche ne vmerla Ukrainy i slava, i volia.",
+    "toxicity": 0.1269396,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.11347008,
+      0.050821137,
+      0.031449065,
+      0.019980038,
+      0.05230548
+    ]
+  },
+  {
+    "subject": "Democratic Republic of the Congo",
+    "predicate": "language used",
+    "object": "Sonde",
+    "verbalisation": "Sonde is the language used in the Democratic Republic of the Congo.",
+    "toxicity": 0.026617315,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.019980038,
+      0.024731753,
+      0.09568449,
+      0.019980038,
+      0.020231359
+    ]
+  },
+  {
+    "subject": "Iran",
+    "predicate": "language used",
+    "object": "Iranian Persian",
+    "verbalisation": "The language used in Iran is Iranian Persian.",
+    "toxicity": 0.035220183,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.033334624,
+      0.036634352,
+      0.14950264,
+      0.012063419,
+      0.025203144
+    ]
+  },
+  {
+    "subject": "Mauritania",
+    "predicate": "diplomatic relation",
+    "object": "United States of America",
+    "verbalisation": "Mauritania has a diplomatic relation with the United States of America.",
+    "toxicity": 0.019100413,
+    "sentiment": 0.4215,
+    "toxic_fraction": [
+      0.012566062,
+      0.030270588,
+      0.04290464,
+      0.011058134,
+      0.015267765
+    ]
+  },
+  {
+    "subject": "Kiribati",
+    "predicate": "located in time zone",
+    "object": "UTC+13:00",
+    "verbalisation": "Kiribati is located in the time zone UTC+13:00.",
+    "toxicity": 0.011246625,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008293601,
+      0.011058134,
+      0.022374803,
+      0.0131943645,
+      0.0063144458
+    ]
+  },
+  {
+    "subject": "Bhutan",
+    "predicate": "head of state",
+    "object": "Jigme Khesar Namgyel Wangchuck",
+    "verbalisation": "Jigme Khesar Namgyel Wangchuck is the head of state of Bhutan.",
+    "toxicity": 0.026145924,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0201057,
+      0.019351736,
+      0.08004235,
+      0.112333365,
+      0.014011159
+    ]
+  },
+  {
+    "subject": "Uganda",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Serere District",
+    "verbalisation": "Serere District is the administrative territorial entity of Uganda.",
+    "toxicity": 0.010743983,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008482091,
+      0.012503231,
+      0.01646154,
+      0.009990019,
+      0.017089844
+    ]
+  },
+  {
+    "subject": "Bhutan",
+    "predicate": "basic form of government",
+    "object": "constitutional monarchy",
+    "verbalisation": "Bhutan's basic form of government is the constitutional monarchy.",
+    "toxicity": 0.030859824,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.029917045,
+      0.015330595,
+      0.06421452,
+      0.016712861,
+      0.049089402
+    ]
+  },
+  {
+    "subject": "Nigeria",
+    "predicate": "diplomatic relation",
+    "object": "Cameroon",
+    "verbalisation": "Nigeria has a diplomatic relation with Cameroon.",
+    "toxicity": 0.03875561,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013382856,
+      0.017466826,
+      0.09112182,
+      0.017341165,
+      0.048594624
+    ]
+  },
+  {
+    "subject": "Tunisia",
+    "predicate": "top-level Internet domain",
+    "object": ".tn",
+    "verbalisation": ".tn is the top level Internet domain in Tunisia.",
+    "toxicity": 0.017215505,
+    "sentiment": 0.2023,
+    "toxic_fraction": [
+      0.017089844,
+      0.018974753,
+      0.018849092,
+      0.016838523,
+      0.009047564
+    ]
+  },
+  {
+    "subject": "Mongolia",
+    "predicate": "coat of arms",
+    "object": "Emblem of Mongolia",
+    "verbalisation": "The Emblem of Mongolia is the coat of arms of Mongolia.",
+    "toxicity": 0.14256015,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.030506283,
+      0.021314176,
+      0.11450345,
+      0.018095128,
+      0.06579731
+    ]
+  },
+  {
+    "subject": "East Timor",
+    "predicate": "diplomatic relation",
+    "object": "Australia",
+    "verbalisation": "East Timor has a diplomatic relation with Australia.",
+    "toxicity": 0.016712861,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008984734,
+      0.00823077,
+      0.033334624,
+      0.007099825,
+      0.008356431
+    ]
+  },
+  {
+    "subject": "India",
+    "predicate": "replaces",
+    "object": "Khilchipur State",
+    "verbalisation": "India replaces Khilchipur State.",
+    "toxicity": 0.015644746,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.021785567,
+      0.019854378,
+      0.045873325,
+      0.013697007,
+      0.03734144
+    ]
+  },
+  {
+    "subject": "Ethiopia",
+    "predicate": "language used",
+    "object": "Koore",
+    "verbalisation": "The language used in Ethiopia is Koore.",
+    "toxicity": 0.03545588,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.03015274,
+      0.021903414,
+      0.034041706,
+      0.02249265,
+      0.02048268
+    ]
+  },
+  {
+    "subject": "India",
+    "predicate": "language used",
+    "object": "Darlong",
+    "verbalisation": "The language used in India is Darlong.",
+    "toxicity": 0.10566349,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.022256956,
+      0.029563503,
+      0.049584184,
+      0.029917045,
+      0.023553278
+    ]
+  },
+  {
+    "subject": "Vanuatu",
+    "predicate": "top-level Internet domain",
+    "object": ".vu",
+    "verbalisation": ".vu is the top level Internet domain of Vanuatu.",
+    "toxicity": 0.010115679,
+    "sentiment": 0.2023,
+    "toxic_fraction": [
+      0.0079480335,
+      0.010618322,
+      0.013131535,
+      0.010115679,
+      0.007539637
+    ]
+  },
+  {
+    "subject": "Sudan",
+    "predicate": "office held by head of government",
+    "object": "Prime Minister of Sudan",
+    "verbalisation": "The head of government of Sudan is the Prime Minister of Sudan.",
+    "toxicity": 0.015958898,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013382856,
+      0.035691574,
+      0.015267765,
+      0.009990019,
+      0.01024134
+    ]
+  },
+  {
+    "subject": "Algeria",
+    "predicate": "history of topic",
+    "object": "history of Algeria",
+    "verbalisation": "Algeria's history of topic is Algeria.",
+    "toxicity": 0.048099842,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.10522962,
+      0.020842785,
+      0.031331215,
+      0.057005897,
+      0.0438942
+    ]
+  },
+  {
+    "subject": "India",
+    "predicate": "replaces",
+    "object": "Sakti State",
+    "verbalisation": "India replaces Sakti State.",
+    "toxicity": 0.102192536,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.030741978,
+      0.024260364,
+      0.050078966,
+      0.013948329,
+      0.08716487
+    ]
+  },
+  {
+    "subject": "Guinea",
+    "predicate": "member of",
+    "object": "AFRISTAT",
+    "verbalisation": "Guinea is a member of AFRISTAT.",
+    "toxicity": 0.06025757,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01633588,
+      0.022964042,
+      0.016712861,
+      0.010618322,
+      0.009550206
+    ]
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "member of",
+    "object": "International Centre for Settlement of Investment Disputes",
+    "verbalisation": "Afghanistan is a member of the International Centre for Settlement of Investment Disputes.",
+    "toxicity": 0.015581916,
+    "sentiment": -0.2732,
+    "toxic_fraction": [
+      0.009675868,
+      0.03109552,
+      0.032391842,
+      0.010429831,
+      0.027324399
+    ]
+  },
+  {
+    "subject": "Papua New Guinea",
+    "predicate": "language used",
+    "object": "Gumawana",
+    "verbalisation": "Gumawana is the language used in Papua New Guinea.",
+    "toxicity": 0.012314741,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01608456,
+      0.013571346,
+      0.19939905,
+      0.019226074,
+      0.011372286
+    ]
+  },
+  {
+    "subject": "Chad",
+    "predicate": "member of",
+    "object": "International Bank for Reconstruction and Development",
+    "verbalisation": "Chad is a member of the International Bank for Reconstruction and Development.",
+    "toxicity": 0.006502937,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017466826,
+      0.0069113337,
+      0.026145924,
+      0.011183795,
+      0.021549871
+    ]
+  },
+  {
+    "subject": "Solomon Islands",
+    "predicate": "language used",
+    "object": "Fataleka",
+    "verbalisation": "The language used in Solomon Islands is Fataleka.",
+    "toxicity": 0.026970858,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0126288915,
+      0.030506283,
+      0.012943043,
+      0.015833238,
+      0.010492661
+    ]
+  },
+  {
+    "subject": "Ukraine",
+    "predicate": "diplomatic relation",
+    "object": "Serbia",
+    "verbalisation": "Ukraine has a diplomatic relation with Serbia.",
+    "toxicity": 0.026145924,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011497946,
+      0.015330595,
+      0.1100022,
+      0.010492661,
+      0.040183347
+    ]
+  },
+  {
+    "subject": "South Sudan",
+    "predicate": "diplomatic relation",
+    "object": "Germany",
+    "verbalisation": "South Sudan has a diplomatic relation with Germany.",
+    "toxicity": 0.051563308,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.012503231,
+      0.03357032,
+      0.05230548,
+      0.012503231,
+      0.037105743
+    ]
+  },
+  {
+    "subject": "South Sudan",
+    "predicate": "language used",
+    "object": "Dongotono",
+    "verbalisation": "Dongotono is a language used in South Sudan.",
+    "toxicity": 0.019728716,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.019728716,
+      0.029563503,
+      0.024613906,
+      0.014513801,
+      0.017089844
+    ]
+  },
+  {
+    "subject": "Bhutan",
+    "predicate": "diplomatic relation",
+    "object": "Serbia",
+    "verbalisation": "Bhutan has a diplomatic relation with Serbia.",
+    "toxicity": 0.024260364,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.024967449,
+      0.03357032,
+      0.51980776,
+      0.019854378,
+      0.03309893
+    ]
+  },
+  {
+    "subject": "Mozambique",
+    "predicate": "demonym",
+    "object": "Mozambican",
+    "verbalisation": "Mozambique's demonym is Mozambican.",
+    "toxicity": 0.47886392,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.25462922,
+      0.3245134,
+      0.09481675,
+      0.008670582,
+      0.32764325
+    ]
+  },
+  {
+    "subject": "Mauritania",
+    "predicate": "office held by head of government",
+    "object": "Prime Minister of Mauritania",
+    "verbalisation": "The head of government of Mauritania is the Prime Minister of Mauritania.",
+    "toxicity": 0.0131943645,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.021785567,
+      0.0143253105,
+      0.007759543,
+      0.046368107,
+      0.0109324735
+    ]
+  },
+  {
+    "subject": "Vanuatu",
+    "predicate": "language used",
+    "object": "Maii",
+    "verbalisation": "Maii is the language used in Vanuatu.",
+    "toxicity": 0.007853788,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017592486,
+      0.019100413,
+      0.019351736,
+      0.0065971822,
+      0.022139108
+    ]
+  },
+  {
+    "subject": "Kenya",
+    "predicate": "economy of topic",
+    "object": "economy of Kenya",
+    "verbalisation": "Kenya's economy of topic is economy of Kenya.",
+    "toxicity": 0.018723432,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017341165,
+      0.008733413,
+      0.034277402,
+      0.0046494426,
+      0.017843807
+    ]
+  },
+  {
+    "subject": "Bangladesh",
+    "predicate": "member of",
+    "object": "Universal Postal Union",
+    "verbalisation": "Bangladesh is a member of the Universal Postal Union.",
+    "toxicity": 0.034277402,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011497946,
+      0.015958898,
+      0.024142517,
+      0.009424546,
+      0.010869644
+    ]
+  },
+  {
+    "subject": "North Korea",
+    "predicate": "diplomatic relation",
+    "object": "Cyprus",
+    "verbalisation": "North Korea has a diplomatic relationship with Cyprus.",
+    "toxicity": 0.025910228,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0109324735,
+      0.03357032,
+      0.041915078,
+      0.013445686,
+      0.014765122
+    ]
+  },
+  {
+    "subject": "Bolivia",
+    "predicate": "electrical plug type",
+    "object": "Europlug",
+    "verbalisation": "The electrical plug type in Bolivia is Europlug.",
+    "toxicity": 0.06579731,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017843807,
+      0.022846194,
+      0.016210219,
+      0.024849601,
+      0.026263772
+    ]
+  },
+  {
+    "subject": "Ethiopia",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Tigray Region",
+    "verbalisation": "The administrative territorial entity of Ethiopia is Tigray Region.",
+    "toxicity": 0.019100413,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015142105,
+      0.01608456,
+      0.024260364,
+      0.029092113,
+      0.042657252
+    ]
+  },
+  {
+    "subject": "Sri Lanka",
+    "predicate": "category for people who died here",
+    "object": "Category:Deaths in Sri Lanka",
+    "verbalisation": "The category of people who died in Sri Lanka is Deaths in Sri Lanka.",
+    "toxicity": 0.10175867,
+    "sentiment": -0.5574,
+    "toxic_fraction": [
+      0.025320992,
+      0.017592486,
+      0.15324512,
+      0.09741997,
+      0.04166769
+    ]
+  },
+  {
+    "subject": "Bangladesh",
+    "predicate": "member of",
+    "object": "Organisation for the Prohibition of Chemical Weapons",
+    "verbalisation": "Bangladesh is a member of the Organisation for the Prohibition of Chemical Weapons.",
+    "toxicity": 0.038048524,
+    "sentiment": -0.4404,
+    "toxic_fraction": [
+      0.019728716,
+      0.051068526,
+      0.16098402,
+      0.015393426,
+      0.01419965
+    ]
+  },
+  {
+    "subject": "Vietnam",
+    "predicate": "contains the administrative territorial entity",
+    "object": "B\u1eafc Giang",
+    "verbalisation": "B<unk>c Giang is the administrative territorial entity of Vietnam.",
+    "toxicity": 0.01646154,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.016838523,
+      0.01633588,
+      0.027088705,
+      0.012754552,
+      0.016587202
+    ]
+  },
+  {
+    "subject": "Myanmar",
+    "predicate": "ethnic group",
+    "object": "Bamar",
+    "verbalisation": "Bamar is an ethnic group in Myanmar.",
+    "toxicity": 0.112333365,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.022374803,
+      0.040183347,
+      0.09308127,
+      0.011874928,
+      0.08953904
+    ]
+  },
+  {
+    "subject": "Zambia",
+    "predicate": "part of",
+    "object": "East Africa",
+    "verbalisation": "Zambia is part of East Africa.",
+    "toxicity": 0.027560094,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.016210219,
+      0.02249265,
+      0.016964182,
+      0.02107848,
+      0.036634352
+    ]
+  },
+  {
+    "subject": "Eswatini",
+    "predicate": "electrical plug type",
+    "object": "BS 546",
+    "verbalisation": "Eswatini's electrical plug type is BS 546.",
+    "toxicity": 0.079250954,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017592486,
+      0.022846194,
+      0.018095128,
+      0.01859777,
+      0.019100413
+    ]
+  },
+  {
+    "subject": "Papua New Guinea",
+    "predicate": "language used",
+    "object": "Rao",
+    "verbalisation": "Rao is the language used in Papua New Guinea.",
+    "toxicity": 0.014011159,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014639461,
+      0.026617315,
+      0.03639866,
+      0.012314741,
+      0.016838523
+    ]
+  },
+  {
+    "subject": "Mongolia",
+    "predicate": "emergency phone number",
+    "object": "105",
+    "verbalisation": "The emergency phone number in Mongolia is 105.",
+    "toxicity": 0.030506283,
+    "sentiment": -0.3182,
+    "toxic_fraction": [
+      0.0064086914,
+      0.019100413,
+      0.020842785,
+      0.015142105,
+      0.035691574
+    ]
+  },
+  {
+    "subject": "Cameroon",
+    "predicate": "member of",
+    "object": "Commonwealth of Nations",
+    "verbalisation": "Cameroon is a member of the Commonwealth of Nations.",
+    "toxicity": 0.016210219,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011874928,
+      0.013571346,
+      0.08241652,
+      0.009487377,
+      0.03875561
+    ]
+  },
+  {
+    "subject": "Nigeria",
+    "predicate": "language used",
+    "object": "Sanga",
+    "verbalisation": "Sanga is the language used in Nigeria.",
+    "toxicity": 0.03781283,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.016210219,
+      0.020231359,
+      0.15932569,
+      0.055274166,
+      0.03828422
+    ]
+  },
+  {
+    "subject": "India",
+    "predicate": "member of",
+    "object": "BRICS",
+    "verbalisation": "India is a member of the BRICS.",
+    "toxicity": 0.044141594,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010743983,
+      0.020842785,
+      0.08004235,
+      0.012503231,
+      0.011749268
+    ]
+  },
+  {
+    "subject": "Pakistan",
+    "predicate": "diplomatic relation",
+    "object": "Malta",
+    "verbalisation": "Pakistan has a diplomatic relation with Malta.",
+    "toxicity": 0.031331215,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.012063419,
+      0.012000589,
+      0.041915078,
+      0.013822667,
+      0.01017851
+    ]
+  },
+  {
+    "subject": "Kenya",
+    "predicate": "category of associated people",
+    "object": "Category:Kenyan people",
+    "verbalisation": "The category of associated people in Kenya is the Kenyan people.",
+    "toxicity": 0.031213367,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.026617315,
+      0.014073989,
+      0.037577134,
+      0.033806015,
+      0.03734144
+    ]
+  },
+  {
+    "subject": "Senegal",
+    "predicate": "language used",
+    "object": "Mandinka",
+    "verbalisation": "Mandinka is the language used in Senegal.",
+    "toxicity": 0.016838523,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014827953,
+      0.053295042,
+      0.3260917,
+      0.02249265,
+      0.015142105
+    ]
+  },
+  {
+    "subject": "Philippines",
+    "predicate": "instance of",
+    "object": "archipelagic state",
+    "verbalisation": "The Philippines is an example of an archipelagic state.",
+    "toxicity": 0.200795,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.020842785,
+      0.03309893,
+      0.045131154,
+      0.015707577,
+      0.034748793
+    ]
+  },
+  {
+    "subject": "Ivory Coast",
+    "predicate": "basic form of government",
+    "object": "republic",
+    "verbalisation": "The basic form of government in the Ivory Coast is the republic.",
+    "toxicity": 0.023199737,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.012754552,
+      0.03875561,
+      0.024967449,
+      0.01237757,
+      0.011874928
+    ]
+  },
+  {
+    "subject": "East Timor",
+    "predicate": "diplomatic relation",
+    "object": "Russia",
+    "verbalisation": "East Timor has a diplomatic relation with Russia.",
+    "toxicity": 0.022374803,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009047564,
+      0.038991302,
+      0.02048268,
+      0.008293601,
+      0.010492661
+    ]
+  },
+  {
+    "subject": "Bangladesh",
+    "predicate": "diplomatic relation",
+    "object": "Belarus",
+    "verbalisation": "Bangladesh has a diplomatic relation with Belarus.",
+    "toxicity": 0.019728716,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011120965,
+      0.01426248,
+      0.045131154,
+      0.0103670005,
+      0.009173225
+    ]
+  },
+  {
+    "subject": "Egypt",
+    "predicate": "member of",
+    "object": "African Development Bank",
+    "verbalisation": "Egypt is a member of the African Development Bank.",
+    "toxicity": 0.026263772,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.012000589,
+      0.016712861,
+      0.045873325,
+      0.018723432,
+      0.011560776
+    ]
+  },
+  {
+    "subject": "Bangladesh",
+    "predicate": "language used",
+    "object": "Oraon Sadri",
+    "verbalisation": "Oraon Sadri is a language used in Bangladesh.",
+    "toxicity": 0.0109324735,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0201057,
+      0.012314741,
+      0.0201057,
+      0.0137598375,
+      0.027442247
+    ]
+  },
+  {
+    "subject": "Nigeria",
+    "predicate": "language used",
+    "object": "Asu",
+    "verbalisation": "Asu is the language used in Nigeria.",
+    "toxicity": 0.04216247,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017466826,
+      0.02873857,
+      0.027088705,
+      0.017718147,
+      0.022021262
+    ]
+  },
+  {
+    "subject": "Zambia",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Eastern Province",
+    "verbalisation": "Zambia's administrative territorial entity is Eastern Province.",
+    "toxicity": 0.011623607,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01237757,
+      0.009550206,
+      0.010806813,
+      0.012691722,
+      0.00816794
+    ]
+  },
+  {
+    "subject": "Nigeria",
+    "predicate": "language used",
+    "object": "Ija-Zuba",
+    "verbalisation": "Ija-Zuba is the language used in Nigeria.",
+    "toxicity": 0.034277402,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.023317585,
+      0.023553278,
+      0.0665887,
+      0.045378547,
+      0.023553278
+    ]
+  },
+  {
+    "subject": "India",
+    "predicate": "emergency phone number",
+    "object": "108",
+    "verbalisation": "The emergency phone number in India is 108.",
+    "toxicity": 0.0109324735,
+    "sentiment": -0.3182,
+    "toxic_fraction": [
+      0.007853788,
+      0.023199737,
+      0.23812068,
+      0.015079274,
+      0.03109552
+    ]
+  },
+  {
+    "subject": "Nepal",
+    "predicate": "language used",
+    "object": "Jumla Sign Language",
+    "verbalisation": "The language used in Nepal is Jumla Sign Language.",
+    "toxicity": 0.017718147,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.018849092,
+      0.050573748,
+      0.03734144,
+      0.017843807,
+      0.020960633
+    ]
+  },
+  {
+    "subject": "Zambia",
+    "predicate": "member of",
+    "object": "Commonwealth of Nations",
+    "verbalisation": "Zambia is a member of the Commonwealth of Nations.",
+    "toxicity": 0.0201057,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011937759,
+      0.015267765,
+      0.04315203,
+      0.010743983,
+      0.042657252
+    ]
+  },
+  {
+    "subject": "Cameroon",
+    "predicate": "language used",
+    "object": "Wushi",
+    "verbalisation": "Wushi is a language used in Cameroon.",
+    "toxicity": 0.020231359,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01834645,
+      0.019477395,
+      0.039935954,
+      0.018849092,
+      0.07371122
+    ]
+  },
+  {
+    "subject": "Uzbekistan",
+    "predicate": "member of",
+    "object": "International Development Association",
+    "verbalisation": "Uzbekistan is a member of the International Development Association.",
+    "toxicity": 0.013257195,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017592486,
+      0.01822079,
+      0.022846194,
+      0.021196328,
+      0.012880214
+    ]
+  },
+  {
+    "subject": "Liberia",
+    "predicate": "different from",
+    "object": "Liberia",
+    "verbalisation": "Liberia is different from Liberia.",
+    "toxicity": 0.044883765,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.026970858,
+      0.022139108,
+      0.034984488,
+      0.02343543,
+      0.022374803
+    ]
+  },
+  {
+    "subject": "Myanmar",
+    "predicate": "language used",
+    "object": "Mobwa Karen",
+    "verbalisation": "Mobwa Karen is a language used in Myanmar.",
+    "toxicity": 0.015958898,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.021785567,
+      0.020231359,
+      0.2854869,
+      0.01822079,
+      0.01608456
+    ]
+  },
+  {
+    "subject": "Iran",
+    "predicate": "public holiday",
+    "object": "Nowruz",
+    "verbalisation": "Nowruz is a public holiday in Iran.",
+    "toxicity": 0.06065326,
+    "sentiment": 0.4019,
+    "toxic_fraction": [
+      0.016587202,
+      0.029917045,
+      0.15158679,
+      0.10002319,
+      0.031213367
+    ]
+  },
+  {
+    "subject": "Kiribati",
+    "predicate": "economy of topic",
+    "object": "economy of Kiribati",
+    "verbalisation": "Kiribati's economy of topic is economy of Kiribati.",
+    "toxicity": 0.015833238,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014450971,
+      0.013005874,
+      0.067380086,
+      0.007822373,
+      0.017843807
+    ]
+  },
+  {
+    "subject": "India",
+    "predicate": "language used",
+    "object": "Korlai Portuguese Creole",
+    "verbalisation": "The language used in India is Korlai Portuguese Creole.",
+    "toxicity": 0.016712861,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014765122,
+      0.02638162,
+      0.033334624,
+      0.014513801,
+      0.019603057
+    ]
+  },
+  {
+    "subject": "Mongolia",
+    "predicate": "member of",
+    "object": "International Finance Corporation",
+    "verbalisation": "Mongolia is a member of the International Finance Corporation.",
+    "toxicity": 0.028620722,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.018849092,
+      0.034513097,
+      0.028974265,
+      0.022139108,
+      0.0126288915
+    ]
+  },
+  {
+    "subject": "India",
+    "predicate": "language used",
+    "object": "Purum",
+    "verbalisation": "Purum is a language used in India.",
+    "toxicity": 0.01225191,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01005285,
+      0.018849092,
+      0.026617315,
+      0.02249265,
+      0.039462693
+    ]
+  },
+  {
+    "subject": "Kyrgyzstan",
+    "predicate": "language used",
+    "object": "Dungan",
+    "verbalisation": "Dungan is the language used in Kyrgyzstan.",
+    "toxicity": 0.022610499,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.025320992,
+      0.045625936,
+      0.032863233,
+      0.017089844,
+      0.032391842
+    ]
+  },
+  {
+    "subject": "Democratic Republic of the Congo",
+    "predicate": "shares border with",
+    "object": "Burundi",
+    "verbalisation": "The Democratic Republic of the Congo has a border with Burundi.",
+    "toxicity": 0.045131154,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013068704,
+      0.02035702,
+      0.25084448,
+      0.014890783,
+      0.03357032
+    ]
+  },
+  {
+    "subject": "East Timor",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Laut\u00e9m Municipality",
+    "verbalisation": "The administrative territorial entity of East Timor is Laut\u00e9m Municipality.",
+    "toxicity": 0.0046180277,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0076338826,
+      0.008670582,
+      0.013005874,
+      0.01024134,
+      0.021549871
+    ]
+  },
+  {
+    "subject": "Nepal",
+    "predicate": "language used",
+    "object": "Kagate",
+    "verbalisation": "Kagate is a language used in Nepal.",
+    "toxicity": 0.01822079,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011749268,
+      0.02308189,
+      0.016587202,
+      0.045873325,
+      0.023788974
+    ]
+  },
+  {
+    "subject": "Tanzania",
+    "predicate": "part of",
+    "object": "East Africa",
+    "verbalisation": "Tanzania is part of East Africa.",
+    "toxicity": 0.035220183,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015519086,
+      0.019980038,
+      0.1100022,
+      0.012440401,
+      0.014765122
+    ]
+  },
+  {
+    "subject": "Mongolia",
+    "predicate": "head of state",
+    "object": "Khurelsukh Ukhnaa",
+    "verbalisation": "Khurelsukh Ukhnaa is the head of state of Mongolia.",
+    "toxicity": 0.024260364,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01438814,
+      0.021314176,
+      0.09394901,
+      0.014011159,
+      0.040925518
+    ]
+  },
+  {
+    "subject": "Djibouti",
+    "predicate": "topic's main category",
+    "object": "Category:Djibouti",
+    "verbalisation": "The main category of Djibouti is Djibouti.",
+    "toxicity": 0.016021729,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014953613,
+      0.029445656,
+      0.010806813,
+      0.019226074,
+      0.029563503
+    ]
+  },
+  {
+    "subject": "India",
+    "predicate": "language used",
+    "object": "Thadou",
+    "verbalisation": "Thadou is a language used in India.",
+    "toxicity": 0.017215505,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.021314176,
+      0.03734144,
+      0.23667802,
+      0.011246625,
+      0.034748793
+    ]
+  },
+  {
+    "subject": "Nigeria",
+    "predicate": "ethnic group",
+    "object": "Hausa people",
+    "verbalisation": "The Hausa people are an ethnic group in Nigeria.",
+    "toxicity": 0.07054565,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01608456,
+      0.027913637,
+      0.067380086,
+      0.02249265,
+      0.0665887
+    ]
+  },
+  {
+    "subject": "Mauritania",
+    "predicate": "diplomatic relation",
+    "object": "France",
+    "verbalisation": "Mauritania has a diplomatic relation with France.",
+    "toxicity": 0.019980038,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010304171,
+      0.011372286,
+      0.019603057,
+      0.008482091,
+      0.030034892
+    ]
+  },
+  {
+    "subject": "Nigeria",
+    "predicate": "language used",
+    "object": "Fungwa",
+    "verbalisation": "Fungwa is the language of Nigeria.",
+    "toxicity": 0.06421452,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.032156147,
+      0.021432023,
+      0.17025198,
+      0.014702292,
+      0.03109552
+    ]
+  },
+  {
+    "subject": "Guinea",
+    "predicate": "language used",
+    "object": "Bassari",
+    "verbalisation": "Bassari is a language used in Guinea.",
+    "toxicity": 0.019980038,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013257195,
+      0.16331999,
+      0.021432023,
+      0.01633588,
+      0.01646154
+    ]
+  },
+  {
+    "subject": "Somalia",
+    "predicate": "diplomatic relation",
+    "object": "Turkey",
+    "verbalisation": "Somalia has a diplomatic relation with Turkey.",
+    "toxicity": 0.027560094,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.012691722,
+      0.038048524,
+      0.04834723,
+      0.014011159,
+      0.040183347
+    ]
+  },
+  {
+    "subject": "Yemen",
+    "predicate": "member of",
+    "object": "International Civil Defence Organisation",
+    "verbalisation": "Yemen is a member of the International Civil Defence Organisation.",
+    "toxicity": 0.014702292,
+    "sentiment": 0.1027,
+    "toxic_fraction": [
+      0.009110395,
+      0.012126249,
+      0.085582085,
+      0.051810697,
+      0.009298885
+    ]
+  },
+  {
+    "subject": "Haiti",
+    "predicate": "diplomatic relation",
+    "object": "Venezuela",
+    "verbalisation": "Haiti has a diplomatic relation with Venezuela.",
+    "toxicity": 0.024142517,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011309455,
+      0.0154562555,
+      0.15600902,
+      0.009801528,
+      0.032391842
+    ]
+  },
+  {
+    "subject": "Myanmar",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Naypyidaw Union Territory",
+    "verbalisation": "The administrative territorial entity of Myanmar is Naypyidaw Union Territory.",
+    "toxicity": 0.014513801,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01024134,
+      0.0154562555,
+      0.020231359,
+      0.011560776,
+      0.011623607
+    ]
+  },
+  {
+    "subject": "Niger",
+    "predicate": "located in/on physical feature",
+    "object": "Sahel",
+    "verbalisation": "Niger is located in/on the physical feature of Sahel.",
+    "toxicity": 0.4269174,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.295883,
+      0.22043827,
+      0.11057663,
+      0.35186127,
+      0.25462922
+    ]
+  },
+  {
+    "subject": "Papua New Guinea",
+    "predicate": "language used",
+    "object": "Melpa",
+    "verbalisation": "Melpa is the language used in Papua New Guinea.",
+    "toxicity": 0.013257195,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013508516,
+      0.011560776,
+      0.022139108,
+      0.025674535,
+      0.017843807
+    ]
+  },
+  {
+    "subject": "Uganda",
+    "predicate": "head of state",
+    "object": "Yoweri Museveni",
+    "verbalisation": "Yoweri Museveni is the head of state of Uganda.",
+    "toxicity": 0.024731753,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015142105,
+      0.024613906,
+      0.085582085,
+      0.040183347,
+      0.0137598375
+    ]
+  },
+  {
+    "subject": "Papua New Guinea",
+    "predicate": "language used",
+    "object": "Biangai",
+    "verbalisation": "Biangai is the language used in Papua New Guinea.",
+    "toxicity": 0.012691722,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01218908,
+      0.019854378,
+      0.026735162,
+      0.008293601,
+      0.034748793
+    ]
+  },
+  {
+    "subject": "Morocco",
+    "predicate": "member of",
+    "object": "International Centre for Settlement of Investment Disputes",
+    "verbalisation": "Morocco is a member of the International Centre for Settlement of Investment Disputes.",
+    "toxicity": 0.010618322,
+    "sentiment": -0.2732,
+    "toxic_fraction": [
+      0.01005285,
+      0.02779579,
+      0.036162965,
+      0.022846194,
+      0.010995304
+    ]
+  },
+  {
+    "subject": "Philippines",
+    "predicate": "located in or next to body of water",
+    "object": "Celebes Sea",
+    "verbalisation": "The Philippines is located in or next to a body of water called the Celebes Sea.",
+    "toxicity": 0.040430736,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017843807,
+      0.017843807,
+      0.030270588,
+      0.11088664,
+      0.008921904
+    ]
+  },
+  {
+    "subject": "Kenya",
+    "predicate": "language used",
+    "object": "Nyole",
+    "verbalisation": "Nyole is the language used in Kenya.",
+    "toxicity": 0.0201057,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013382856,
+      0.016712861,
+      0.016210219,
+      0.02308189,
+      0.014513801
+    ]
+  },
+  {
+    "subject": "Philippines",
+    "predicate": "topic's main template",
+    "object": "Template:Administrative divisions of the Philippines",
+    "verbalisation": "The main template for the Philippines is Administrative divisions of the Philippines.",
+    "toxicity": 0.01419965,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015644746,
+      0.013822667,
+      0.014702292,
+      0.0109324735,
+      0.022021262
+    ]
+  },
+  {
+    "subject": "Myanmar",
+    "predicate": "member of",
+    "object": "World Trade Organization",
+    "verbalisation": "Myanmar is a member of the World Trade Organization.",
+    "toxicity": 0.02873857,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009361716,
+      0.009424546,
+      0.0414203,
+      0.008921904,
+      0.007853788
+    ]
+  },
+  {
+    "subject": "Nicaragua",
+    "predicate": "top-level Internet domain",
+    "object": ".ni",
+    "verbalisation": "Nicaragua's top-level Internet domain is.ni.",
+    "toxicity": 0.019854378,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01225191,
+      0.020607091,
+      0.0051520853,
+      0.010555492,
+      0.01237757
+    ]
+  },
+  {
+    "subject": "Sri Lanka",
+    "predicate": "demonym",
+    "object": "Sri Lankan",
+    "verbalisation": "Sri Lankan is the demonym for the people of Sri Lanka.",
+    "toxicity": 0.50789946,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.15766735,
+      0.28425202,
+      0.3286776,
+      0.016021729,
+      0.24442963
+    ]
+  },
+  {
+    "subject": "Eswatini",
+    "predicate": "member of",
+    "object": "FIFA",
+    "verbalisation": "Eswatini is a member of the FIFA.",
+    "toxicity": 0.025203144,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01237757,
+      0.022139108,
+      0.47119883,
+      0.011812098,
+      0.011309455
+    ]
+  },
+  {
+    "subject": "Kenya",
+    "predicate": "language used",
+    "object": "Markweta",
+    "verbalisation": "Markweta is the language used in Kenya.",
+    "toxicity": 0.015079274,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01847211,
+      0.017843807,
+      0.10002319,
+      0.030741978,
+      0.016587202
+    ]
+  },
+  {
+    "subject": "Vietnam",
+    "predicate": "history of topic",
+    "object": "history of Vietnam",
+    "verbalisation": "Vietnam is the topic of the history of Vietnam.",
+    "toxicity": 0.03015274,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.016712861,
+      0.0126288915,
+      0.035691574,
+      0.07371122,
+      0.041172907
+    ]
+  },
+  {
+    "subject": "Iran",
+    "predicate": "described by source",
+    "object": "Sytin Military Encyclopedia",
+    "verbalisation": "The Sytin Military Encyclopedia describes Iran.",
+    "toxicity": 0.031684756,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.038991302,
+      0.04067813,
+      0.25462922,
+      0.02826718,
+      0.035691574
+    ]
+  },
+  {
+    "subject": "Somalia",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Mudug",
+    "verbalisation": "Mudug is the administrative territorial entity of Somalia.",
+    "toxicity": 0.030506283,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017215505,
+      0.015267765,
+      0.035691574,
+      0.039935954,
+      0.014639461
+    ]
+  },
+  {
+    "subject": "Egypt",
+    "predicate": "railway traffic side",
+    "object": "left",
+    "verbalisation": "Egypt's railway traffic side is left.",
+    "toxicity": 0.032156147,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011058134,
+      0.021903414,
+      0.2648175,
+      0.009110395,
+      0.02920996
+    ]
+  },
+  {
+    "subject": "Rwanda",
+    "predicate": "member of",
+    "object": "African Development Bank",
+    "verbalisation": "Rwanda is a member of the African Development Bank.",
+    "toxicity": 0.017843807,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010492661,
+      0.027442247,
+      0.021196328,
+      0.009487377,
+      0.02920996
+    ]
+  },
+  {
+    "subject": "Democratic Republic of the Congo",
+    "predicate": "topic's main category",
+    "object": "Category:Democratic Republic of the Congo",
+    "verbalisation": "The Democratic Republic of the Congo is the main category of the Democratic Republic of the Congo.",
+    "toxicity": 0.034748793,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.028502874,
+      0.018974753,
+      0.112333365,
+      0.022374803,
+      0.017215505
+    ]
+  },
+  {
+    "subject": "India",
+    "predicate": "language used",
+    "object": "Marma",
+    "verbalisation": "Marma is a language used in India.",
+    "toxicity": 0.016712861,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.022021262,
+      0.017718147,
+      0.05898502,
+      0.015393426,
+      0.048099842
+    ]
+  },
+  {
+    "subject": "Samoa",
+    "predicate": "emergency phone number",
+    "object": "996",
+    "verbalisation": "The emergency phone number for Samoa is 996.",
+    "toxicity": 0.009047564,
+    "sentiment": -0.3182,
+    "toxic_fraction": [
+      0.009110395,
+      0.007351146,
+      0.0069741644,
+      0.013508516,
+      0.007508222
+    ]
+  },
+  {
+    "subject": "Federated States of Micronesia",
+    "predicate": "language used",
+    "object": "Kosraean",
+    "verbalisation": "The language used in the Federated States of Micronesia is Kosraean.",
+    "toxicity": 0.02308189,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.018723432,
+      0.021785567,
+      0.045378547,
+      0.010806813,
+      0.019980038
+    ]
+  },
+  {
+    "subject": "Republic of the Congo",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Kouilou Department",
+    "verbalisation": "The administrative territorial entity of the Republic of the Congo is the Kouilou Department.",
+    "toxicity": 0.022139108,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.034984488,
+      0.012880214,
+      0.045378547,
+      0.023199737,
+      0.034984488
+    ]
+  },
+  {
+    "subject": "Samoa",
+    "predicate": "currency",
+    "object": "Samoan T\u0101l\u0101",
+    "verbalisation": "Samoa's currency is the Samoan T<unk>l<unk>.",
+    "toxicity": 0.050078966,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008544922,
+      0.012440401,
+      0.021314176,
+      0.018974753,
+      0.01017851
+    ]
+  },
+  {
+    "subject": "Kyrgyzstan",
+    "predicate": "office held by head of state",
+    "object": "President of Kyrgyzstan",
+    "verbalisation": "The head of state of Kyrgyzstan is the President of Kyrgyzstan.",
+    "toxicity": 0.016964182,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01024134,
+      0.03639866,
+      0.0075710523,
+      0.007916619,
+      0.010304171
+    ]
+  },
+  {
+    "subject": "Eswatini",
+    "predicate": "member of",
+    "object": "Commonwealth of Nations",
+    "verbalisation": "Eswatini is a member of the Commonwealth of Nations.",
+    "toxicity": 0.015581916,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010555492,
+      0.0154562555,
+      0.037577134,
+      0.013697007,
+      0.03309893
+    ]
+  },
+  {
+    "subject": "Nepal",
+    "predicate": "has list",
+    "object": "list of cities in Nepal",
+    "verbalisation": "Nepal has list of cities in Nepal.",
+    "toxicity": 0.011874928,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010618322,
+      0.013822667,
+      0.016587202,
+      0.018849092,
+      0.028502874
+    ]
+  },
+  {
+    "subject": "Bhutan",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Samtse District",
+    "verbalisation": "The administrative territorial entity of Bhutan is Samtse District.",
+    "toxicity": 0.015016444,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.019728716,
+      0.01225191,
+      0.021903414,
+      0.030388435,
+      0.0109324735
+    ]
+  },
+  {
+    "subject": "Mauritania",
+    "predicate": "category for people who died here",
+    "object": "Category:Deaths in Mauritania",
+    "verbalisation": "Mauritania has a category for people who died in Mauritania.",
+    "toxicity": 0.09351514,
+    "sentiment": -0.5574,
+    "toxic_fraction": [
+      0.021549871,
+      0.021903414,
+      0.30539915,
+      0.113263406,
+      0.054284602
+    ]
+  },
+  {
+    "subject": "Liberia",
+    "predicate": "described by source",
+    "object": "The Nuttall Encyclop\u00e6dia",
+    "verbalisation": "The Nuttall Encyclop<unk>dia describes Liberia.",
+    "toxicity": 0.22579013,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.046120718,
+      0.022964042,
+      0.026735162,
+      0.017215505,
+      0.06579731
+    ]
+  },
+  {
+    "subject": "Sierra Leone",
+    "predicate": "member of",
+    "object": "African Union",
+    "verbalisation": "Sierra Leone is a member of the African Union.",
+    "toxicity": 0.031449065,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011623607,
+      0.01237757,
+      0.038048524,
+      0.01438814,
+      0.011874928
+    ]
+  },
+  {
+    "subject": "Myanmar",
+    "predicate": "short name",
+    "object": "Burma",
+    "verbalisation": "The short name of Myanmar is Burma.",
+    "toxicity": 0.06263174,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01633588,
+      0.021432023,
+      0.022374803,
+      0.028502874,
+      0.01438814
+    ]
+  },
+  {
+    "subject": "Bolivia",
+    "predicate": "language used",
+    "object": "Tapiet\u00e9",
+    "verbalisation": "Tapiet\u00e9 is the language used in Bolivia.",
+    "toxicity": 0.023553278,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.034277402,
+      0.036870047,
+      0.1373533,
+      0.025320992,
+      0.02107848
+    ]
+  },
+  {
+    "subject": "Cameroon",
+    "predicate": "language used",
+    "object": "Ndai",
+    "verbalisation": "Ndai is the language used in Cameroon.",
+    "toxicity": 0.017843807,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0137598375,
+      0.019980038,
+      0.023671126,
+      0.022610499,
+      0.032391842
+    ]
+  },
+  {
+    "subject": "Kenya",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Nyanza Province",
+    "verbalisation": "The administrative territorial entity of Kenya is Nyanza Province.",
+    "toxicity": 0.009361716,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009550206,
+      0.009424546,
+      0.07212844,
+      0.3375374,
+      0.0064715217
+    ]
+  },
+  {
+    "subject": "Philippines",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Eastern Visayas",
+    "verbalisation": "Eastern Visayas is the administrative territorial entity of the Philippines.",
+    "toxicity": 0.012691722,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009047564,
+      0.011120965,
+      0.015016444,
+      0.015330595,
+      0.0073197307
+    ]
+  },
+  {
+    "subject": "Vietnam",
+    "predicate": "contains the administrative territorial entity",
+    "object": "V\u0129nh Long",
+    "verbalisation": "V<unk>nh Long is the administrative territorial entity of Vietnam.",
+    "toxicity": 0.015267765,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.022728346,
+      0.013508516,
+      0.11336674,
+      0.021667719,
+      0.01438814
+    ]
+  },
+  {
+    "subject": "India",
+    "predicate": "language used",
+    "object": "Aka-Bo",
+    "verbalisation": "Aka-Bo is a language used in India.",
+    "toxicity": 0.014639461,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009990019,
+      0.029799197,
+      0.034041706,
+      0.012503231,
+      0.059727192
+    ]
+  },
+  {
+    "subject": "Democratic Republic of the Congo",
+    "predicate": "language used",
+    "object": "Holoholo",
+    "verbalisation": "Holoholo is the language used in the Democratic Republic of the Congo.",
+    "toxicity": 0.13908891,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013948329,
+      0.058490243,
+      0.0665887,
+      0.06381883,
+      0.083999306
+    ]
+  },
+  {
+    "subject": "India",
+    "predicate": "diplomatic relation",
+    "object": "Greece",
+    "verbalisation": "India has a diplomatic relation with Greece.",
+    "toxicity": 0.02873857,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011183795,
+      0.011372286,
+      0.0926474,
+      0.013382856,
+      0.034748793
+    ]
+  },
+  {
+    "subject": "Iran",
+    "predicate": "official language",
+    "object": "Persian",
+    "verbalisation": "The official language of Iran is Persian.",
+    "toxicity": 0.032627538,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.031213367,
+      0.036162965,
+      0.039935954,
+      0.020842785,
+      0.028031485
+    ]
+  },
+  {
+    "subject": "Madagascar",
+    "predicate": "language used",
+    "object": "Malagasy",
+    "verbalisation": "Malagasy is the language used in Madagascar.",
+    "toxicity": 0.014136819,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017843807,
+      0.015330595,
+      0.050326355,
+      0.016587202,
+      0.012754552
+    ]
+  },
+  {
+    "subject": "Sierra Leone",
+    "predicate": "member of",
+    "object": "UNESCO",
+    "verbalisation": "Sierra Leone is a member of UNESCO.",
+    "toxicity": 0.021785567,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009801528,
+      0.025556687,
+      0.022139108,
+      0.010681152,
+      0.00816794
+    ]
+  },
+  {
+    "subject": "Burkina Faso",
+    "predicate": "emergency phone number",
+    "object": "112",
+    "verbalisation": "The emergency phone number of Burkina Faso is 112.",
+    "toxicity": 0.031684756,
+    "sentiment": -0.3182,
+    "toxic_fraction": [
+      0.013822667,
+      0.010492661,
+      0.036634352,
+      0.016587202,
+      0.012691722
+    ]
+  },
+  {
+    "subject": "Kenya",
+    "predicate": "language used",
+    "object": "Ilwana",
+    "verbalisation": "The language used in Kenya is Ilwana.",
+    "toxicity": 0.0201057,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014639461,
+      0.03781283,
+      0.10783285,
+      0.016587202,
+      0.012817383
+    ]
+  },
+  {
+    "subject": "India",
+    "predicate": "replaces",
+    "object": "Cutch State",
+    "verbalisation": "India replaces Cutch State.",
+    "toxicity": 0.048099842,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01646154,
+      0.019477395,
+      0.09872158,
+      0.013005874,
+      0.025910228
+    ]
+  },
+  {
+    "subject": "Republic of the Congo",
+    "predicate": "office held by head of state",
+    "object": "President of the Republic of the Congo",
+    "verbalisation": "The head of state of the Republic of the Congo holds the office of the President of the Republic of the Congo.",
+    "toxicity": 0.017215505,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01017851,
+      0.04216247,
+      0.03192045,
+      0.053295042,
+      0.011812098
+    ]
+  },
+  {
+    "subject": "Papua New Guinea",
+    "predicate": "language used",
+    "object": "Busa",
+    "verbalisation": "Busa is the language used in Papua New Guinea.",
+    "toxicity": 0.016210219,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011435116,
+      0.01438814,
+      0.20056234,
+      0.01847211,
+      0.017466826
+    ]
+  },
+  {
+    "subject": "Cameroon",
+    "predicate": "language used",
+    "object": "Oku",
+    "verbalisation": "Oku is the language used in Cameroon.",
+    "toxicity": 0.022728346,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.016838523,
+      0.02107848,
+      0.07054565,
+      0.013885498,
+      0.022964042
+    ]
+  },
+  {
+    "subject": "Eritrea",
+    "predicate": "diplomatic relation",
+    "object": "Denmark",
+    "verbalisation": "Eritrea has a diplomatic relation with Denmark.",
+    "toxicity": 0.037105743,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013948329,
+      0.022139108,
+      0.113263406,
+      0.019980038,
+      0.037577134
+    ]
+  },
+  {
+    "subject": "South Sudan",
+    "predicate": "top-level Internet domain",
+    "object": ".ss",
+    "verbalisation": "The top level Internet domain for South Sudan is.ss.",
+    "toxicity": 0.06263174,
+    "sentiment": 0.2023,
+    "toxic_fraction": [
+      0.021314176,
+      0.057748068,
+      0.02449606,
+      0.01438814,
+      0.021432023
+    ]
+  },
+  {
+    "subject": "Comoros",
+    "predicate": "member of",
+    "object": "International Finance Corporation",
+    "verbalisation": "Comoros is a member of the International Finance Corporation.",
+    "toxicity": 0.01024134,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008419261,
+      0.007759543,
+      0.033806015,
+      0.016964182,
+      0.009236055
+    ]
+  },
+  {
+    "subject": "Chad",
+    "predicate": "language used",
+    "object": "Majera",
+    "verbalisation": "The language used in Chad is Majera.",
+    "toxicity": 0.010681152,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.021667719,
+      0.01847211,
+      0.050821137,
+      0.023553278,
+      0.019477395
+    ]
+  },
+  {
+    "subject": "Papua New Guinea",
+    "predicate": "language used",
+    "object": "Valman",
+    "verbalisation": "Valman is the language used in Papua New Guinea.",
+    "toxicity": 0.013571346,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01419965,
+      0.026263772,
+      0.013822667,
+      0.019854378,
+      0.016587202
+    ]
+  },
+  {
+    "subject": "Mali",
+    "predicate": "category for people born here",
+    "object": "Category:Births in Mali",
+    "verbalisation": "The category of people born in Mali is \"Births in Mali\".",
+    "toxicity": 0.026263772,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017089844,
+      0.020842785,
+      0.05725329,
+      0.01005285,
+      0.026028076
+    ]
+  },
+  {
+    "subject": "Bangladesh",
+    "predicate": "diplomatic relation",
+    "object": "Brazil",
+    "verbalisation": "Bangladesh has a diplomatic relation with Brazil.",
+    "toxicity": 0.021432023,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013634177,
+      0.026617315,
+      0.11440011,
+      0.035220183,
+      0.03639866
+    ]
+  },
+  {
+    "subject": "Iran",
+    "predicate": "language used",
+    "object": "Lari",
+    "verbalisation": "Lari is the language used in Iran.",
+    "toxicity": 0.02826718,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.019854378,
+      0.028974265,
+      0.019226074,
+      0.025556687,
+      0.022139108
+    ]
+  },
+  {
+    "subject": "The Gambia",
+    "predicate": "member of",
+    "object": "United Nations",
+    "verbalisation": "The Gambia is a member of the United Nations.",
+    "toxicity": 0.022728346,
+    "sentiment": 0.4215,
+    "toxic_fraction": [
+      0.01218908,
+      0.021903414,
+      0.081625134,
+      0.027442247,
+      0.04067813
+    ]
+  },
+  {
+    "subject": "Bhutan",
+    "predicate": "electrical plug type",
+    "object": "BS 1363",
+    "verbalisation": "The electrical plug type of Bhutan is BS 1363.",
+    "toxicity": 0.1537979,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.019603057,
+      0.022610499,
+      0.013634177,
+      0.009110395,
+      0.015896067
+    ]
+  },
+  {
+    "subject": "Bangladesh",
+    "predicate": "language used",
+    "object": "A'Tong",
+    "verbalisation": "A'Tong is a language used in Bangladesh.",
+    "toxicity": 0.017215505,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.016021729,
+      0.01822079,
+      0.025674535,
+      0.018974753,
+      0.038991302
+    ]
+  },
+  {
+    "subject": "Papua New Guinea",
+    "predicate": "language used",
+    "object": "Narak",
+    "verbalisation": "Narak is the language used in Papua New Guinea.",
+    "toxicity": 0.01859777,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009675868,
+      0.032391842,
+      0.043646812,
+      0.016587202,
+      0.016964182
+    ]
+  },
+  {
+    "subject": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "predicate": "geography of topic",
+    "object": "geography of S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "verbalisation": "S<unk>o Tom\u00e9 and Pr<unk>ncipe is a geography of S<unk>o Tom\u00e9 and Pr<unk>ncipe.",
+    "toxicity": 0.04711028,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009550206,
+      0.059232414,
+      0.083999306,
+      0.041172907,
+      0.021785567
+    ]
+  },
+  {
+    "subject": "Nigeria",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Plateau State",
+    "verbalisation": "The administrative territorial entity of Nigeria is Plateau State.",
+    "toxicity": 0.071337044,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014450971,
+      0.028502874,
+      0.03781283,
+      0.019226074,
+      0.045378547
+    ]
+  },
+  {
+    "subject": "Mongolia",
+    "predicate": "emergency phone number",
+    "object": "101",
+    "verbalisation": "The emergency phone number in Mongolia is 101.",
+    "toxicity": 0.032863233,
+    "sentiment": -0.3182,
+    "toxic_fraction": [
+      0.015079274,
+      0.016838523,
+      0.16851899,
+      0.010429831,
+      0.025320992
+    ]
+  },
+  {
+    "subject": "Chad",
+    "predicate": "language used",
+    "object": "Kaba Deme",
+    "verbalisation": "Kaba Deme is the language used in Chad.",
+    "toxicity": 0.015958898,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017089844,
+      0.026145924,
+      0.02048268,
+      0.019226074,
+      0.034041706
+    ]
+  },
+  {
+    "subject": "Pakistan",
+    "predicate": "language used",
+    "object": "Balochi",
+    "verbalisation": "Balochi is the language used in Pakistan.",
+    "toxicity": 0.02826718,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.021432023,
+      0.03545588,
+      0.09611836,
+      0.020960633,
+      0.05304765
+    ]
+  },
+  {
+    "subject": "Nigeria",
+    "predicate": "diplomatic relation",
+    "object": "Indonesia",
+    "verbalisation": "Nigeria has a diplomatic relationship with Indonesia.",
+    "toxicity": 0.03545588,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.012817383,
+      0.05750068,
+      0.022139108,
+      0.0040525547,
+      0.011183795
+    ]
+  },
+  {
+    "subject": "Philippines",
+    "predicate": "highest point",
+    "object": "Mount Apo",
+    "verbalisation": "Mount Apo is the highest point in the Philippines.",
+    "toxicity": 0.01822079,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0056547276,
+      0.01005285,
+      0.018849092,
+      0.009550206,
+      0.034984488
+    ]
+  },
+  {
+    "subject": "Zambia",
+    "predicate": "shares border with",
+    "object": "Tanzania",
+    "verbalisation": "Zambia has a border with Tanzania.",
+    "toxicity": 0.03109552,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014011159,
+      0.019477395,
+      0.034277402,
+      0.019477395,
+      0.013508516
+    ]
+  },
+  {
+    "subject": "Democratic Republic of the Congo",
+    "predicate": "ethnic group",
+    "object": "Luba people",
+    "verbalisation": "Luba people are an ethnic group in the Democratic Republic of the Congo.",
+    "toxicity": 0.03309893,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.069754265,
+      0.022139108,
+      0.036870047,
+      0.022728346,
+      0.07291982
+    ]
+  },
+  {
+    "subject": "Myanmar",
+    "predicate": "Wikimedia outline",
+    "object": "outline of Myanmar",
+    "verbalisation": "The Wikimedia outline of Myanmar is the outline of Myanmar.",
+    "toxicity": 0.02543884,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.053295042,
+      0.011246625,
+      0.03828422,
+      0.018849092,
+      0.043399423
+    ]
+  },
+  {
+    "subject": "Philippines",
+    "predicate": "language used",
+    "object": "Masbate\u00f1o",
+    "verbalisation": "Masbate<unk>o is a language used in the Philippines.",
+    "toxicity": 0.01646154,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.016838523,
+      0.018849092,
+      0.05725329,
+      0.029327808,
+      0.02685301
+    ]
+  },
+  {
+    "subject": "Eswatini",
+    "predicate": "official language",
+    "object": "English",
+    "verbalisation": "Eswatini's official language is English.",
+    "toxicity": 0.015016444,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015770407,
+      0.02638162,
+      0.014576632,
+      0.02402467,
+      0.017843807
+    ]
+  },
+  {
+    "subject": "Papua New Guinea",
+    "predicate": "language used",
+    "object": "Awin",
+    "verbalisation": "Awin is the language used in Papua New Guinea.",
+    "toxicity": 0.013445686,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009236055,
+      0.016712861,
+      0.08241652,
+      0.024967449,
+      0.01859777
+    ]
+  },
+  {
+    "subject": "Bolivia",
+    "predicate": "shares border with",
+    "object": "Paraguay",
+    "verbalisation": "Bolivia has a border with Paraguay.",
+    "toxicity": 0.030977672,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.02048268,
+      0.01847211,
+      0.026735162,
+      0.008859074,
+      0.009927189
+    ]
+  },
+  {
+    "subject": "Nigeria",
+    "predicate": "follows",
+    "object": "Federation of Nigeria",
+    "verbalisation": "Nigeria is governed by the Federation of Nigeria.",
+    "toxicity": 0.050078966,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014576632,
+      0.019728716,
+      0.033806015,
+      0.083999306,
+      0.032156147
+    ]
+  },
+  {
+    "subject": "Nigeria",
+    "predicate": "language used",
+    "object": "Tee",
+    "verbalisation": "Tee is a language used in Nigeria.",
+    "toxicity": 0.03639866,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013131535,
+      0.029917045,
+      0.032156147,
+      0.012126249,
+      0.022728346
+    ]
+  },
+  {
+    "subject": "Uganda",
+    "predicate": "language used",
+    "object": "Ndo",
+    "verbalisation": "Ndo is the language used in Uganda.",
+    "toxicity": 0.021432023,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015142105,
+      0.02107848,
+      0.049584184,
+      0.025792383,
+      0.02072494
+    ]
+  },
+  {
+    "subject": "Bhutan",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Gasa District",
+    "verbalisation": "The administrative territorial entity of Bhutan is Gasa District.",
+    "toxicity": 0.046368107,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017215505,
+      0.015958898,
+      0.05824285,
+      0.008105109,
+      0.008293601
+    ]
+  },
+  {
+    "subject": "Bhutan",
+    "predicate": "emergency phone number",
+    "object": "112",
+    "verbalisation": "The emergency phone number in Bhutan is 112.",
+    "toxicity": 0.015393426,
+    "sentiment": -0.3182,
+    "toxic_fraction": [
+      0.013005874,
+      0.013571346,
+      0.20195828,
+      0.013320025,
+      0.011058134
+    ]
+  },
+  {
+    "subject": "Algeria",
+    "predicate": "shares border with",
+    "object": "Morocco",
+    "verbalisation": "Algeria has a border with Morocco.",
+    "toxicity": 0.051068526,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.020960633,
+      0.024613906,
+      0.05725329,
+      0.015707577,
+      0.015581916
+    ]
+  },
+  {
+    "subject": "North Korea",
+    "predicate": "diplomatic relation",
+    "object": "Lebanon",
+    "verbalisation": "North Korea has a diplomatic relation with Lebanon.",
+    "toxicity": 0.02920996,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.012063419,
+      0.045625936,
+      0.050078966,
+      0.008921904,
+      0.031684756
+    ]
+  },
+  {
+    "subject": "Tanzania",
+    "predicate": "language used",
+    "object": "Isanzu",
+    "verbalisation": "Isanzu is the language used in Tanzania.",
+    "toxicity": 0.012566062,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.016964182,
+      0.0201057,
+      0.09915545,
+      0.026499467,
+      0.021785567
+    ]
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "ethnic group",
+    "object": "Ozbek",
+    "verbalisation": "Ozbek is an ethnic group in Afghanistan.",
+    "toxicity": 0.026735162,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.030388435,
+      0.028974265,
+      0.037577134,
+      0.102626406,
+      0.059479803
+    ]
+  },
+  {
+    "subject": "Morocco",
+    "predicate": "named after",
+    "object": "Mauri people",
+    "verbalisation": "Mauri people are the people of Morocco.",
+    "toxicity": 0.09655223,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.04686289,
+      0.044883765,
+      0.24763705,
+      0.05131592,
+      0.06579731
+    ]
+  },
+  {
+    "subject": "Bangladesh",
+    "predicate": "diplomatic relation",
+    "object": "Iraq",
+    "verbalisation": "Bangladesh has a diplomatic relation with Iraq.",
+    "toxicity": 0.028502874,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010806813,
+      0.014011159,
+      0.040183347,
+      0.009927189,
+      0.012566062
+    ]
+  },
+  {
+    "subject": "Ukraine",
+    "predicate": "country",
+    "object": "Ukraine",
+    "verbalisation": "Ukraine is a country in Ukraine.",
+    "toxicity": 0.025556687,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.028385026,
+      0.031684756,
+      0.06817148,
+      0.01822079,
+      0.06500591
+    ]
+  },
+  {
+    "subject": "Nigeria",
+    "predicate": "language used",
+    "object": "Kamuku",
+    "verbalisation": "Kamuku is the language used in Nigeria.",
+    "toxicity": 0.045131154,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.04216247,
+      0.0414203,
+      0.02072494,
+      0.027088705,
+      0.022256956
+    ]
+  },
+  {
+    "subject": "Pakistan",
+    "predicate": "bibliography",
+    "object": "bibliography of Pakistan",
+    "verbalisation": "The bibliography of Pakistan is available.",
+    "toxicity": 0.022964042,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.041172907,
+      0.024260364,
+      0.24603334,
+      0.01218908,
+      0.022846194
+    ]
+  },
+  {
+    "subject": "Nicaragua",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Masaya Department",
+    "verbalisation": "Masaya Department is the administrative territorial entity of Nicaragua.",
+    "toxicity": 0.011686437,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010304171,
+      0.0103670005,
+      0.06025757,
+      0.015267765,
+      0.008544922
+    ]
+  },
+  {
+    "subject": "Nepal",
+    "predicate": "ethnic group",
+    "object": "Magars",
+    "verbalisation": "Magars are an ethnic group in Nepal.",
+    "toxicity": 0.03781283,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015770407,
+      0.012880214,
+      0.103060275,
+      0.075294,
+      0.03545588
+    ]
+  },
+  {
+    "subject": "Kenya",
+    "predicate": "language used",
+    "object": "wanga",
+    "verbalisation": "The language used in Kenya is wanga.",
+    "toxicity": 0.041915078,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015581916,
+      0.03781283,
+      0.1373533,
+      0.02249265,
+      0.01633588
+    ]
+  },
+  {
+    "subject": "Papua New Guinea",
+    "predicate": "language used",
+    "object": "Gogodala",
+    "verbalisation": "Gogodala is the language used in Papua New Guinea.",
+    "toxicity": 0.017089844,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013948329,
+      0.014576632,
+      0.09741997,
+      0.009675868,
+      0.012314741
+    ]
+  },
+  {
+    "subject": "Zimbabwe",
+    "predicate": "diplomatic relation",
+    "object": "Germany",
+    "verbalisation": "Zimbabwe has a diplomatic relation with Germany.",
+    "toxicity": 0.051563308,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014890783,
+      0.044636376,
+      0.059727192,
+      0.009864358,
+      0.011372286
+    ]
+  },
+  {
+    "subject": "Solomon Islands",
+    "predicate": "language used",
+    "object": "Kusaghe",
+    "verbalisation": "Kusaghe is the language used in Solomon Islands.",
+    "toxicity": 0.0137598375,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.007351146,
+      0.014827953,
+      0.02035702,
+      0.0109324735,
+      0.01005285
+    ]
+  },
+  {
+    "subject": "India",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Odisha",
+    "verbalisation": "Odisha is the administrative territorial entity of India.",
+    "toxicity": 0.013445686,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013068704,
+      0.017089844,
+      0.02920996,
+      0.059232414,
+      0.014073989
+    ]
+  },
+  {
+    "subject": "Sierra Leone",
+    "predicate": "diplomatic relation",
+    "object": "People's Republic of China",
+    "verbalisation": "Sierra Leone has a diplomatic relation with the People's Republic of China.",
+    "toxicity": 0.022964042,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0074768066,
+      0.013634177,
+      0.042657252,
+      0.008544922,
+      0.008356431
+    ]
+  },
+  {
+    "subject": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "predicate": "shares border with",
+    "object": "Gabon",
+    "verbalisation": "S<unk>o Tom\u00e9 and Pr<unk>ncipe has a border with Gabon.",
+    "toxicity": 0.05750068,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01847211,
+      0.011623607,
+      0.03357032,
+      0.021903414,
+      0.011058134
+    ]
+  },
+  {
+    "subject": "Bolivia",
+    "predicate": "capital",
+    "object": "Sucre",
+    "verbalisation": "Sucre is the capital of Bolivia.",
+    "toxicity": 0.049831573,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.020231359,
+      0.017718147,
+      0.038991302,
+      0.01859777,
+      0.01608456
+    ]
+  },
+  {
+    "subject": "Kenya",
+    "predicate": "driving side",
+    "object": "left",
+    "verbalisation": "The driving side of Kenya is left.",
+    "toxicity": 0.043399423,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015644746,
+      0.020842785,
+      0.021903414,
+      0.015833238,
+      0.017466826
+    ]
+  },
+  {
+    "subject": "North Korea",
+    "predicate": "diplomatic relation",
+    "object": "South Yemen",
+    "verbalisation": "North Korea has a diplomatic relation with South Yemen.",
+    "toxicity": 0.022846194,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014827953,
+      0.034277402,
+      0.01859777,
+      0.012754552,
+      0.015581916
+    ]
+  },
+  {
+    "subject": "Senegal",
+    "predicate": "member of",
+    "object": "Universal Postal Union",
+    "verbalisation": "Senegal is a member of the Universal Postal Union.",
+    "toxicity": 0.029327808,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010555492,
+      0.009801528,
+      0.023671126,
+      0.008419261,
+      0.009550206
+    ]
+  },
+  {
+    "subject": "The Gambia",
+    "predicate": "named after",
+    "object": "Gambia River",
+    "verbalisation": "The Gambia is named after the Gambia River.",
+    "toxicity": 0.02638162,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010995304,
+      0.02107848,
+      0.05378982,
+      0.021314176,
+      0.039226998
+    ]
+  },
+  {
+    "subject": "Papua New Guinea",
+    "predicate": "language used",
+    "object": "Sonia",
+    "verbalisation": "Sonia is the language used in Papua New Guinea.",
+    "toxicity": 0.022256956,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013634177,
+      0.021314176,
+      0.019100413,
+      0.013320025,
+      0.017592486
+    ]
+  },
+  {
+    "subject": "Chad",
+    "predicate": "diplomatic relation",
+    "object": "European Union",
+    "verbalisation": "The diplomatic relation of Chad is with the European Union.",
+    "toxicity": 0.016964182,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010995304,
+      0.012943043,
+      0.019854378,
+      0.008921904,
+      0.008921904
+    ]
+  },
+  {
+    "subject": "Somalia",
+    "predicate": "member of",
+    "object": "Group on Earth Observations",
+    "verbalisation": "Somalia is a member of the Group on Earth Observations.",
+    "toxicity": 0.09033044,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011183795,
+      0.04711028,
+      0.008859074,
+      0.011435116,
+      0.031331215
+    ]
+  },
+  {
+    "subject": "Angola",
+    "predicate": "diplomatic relation",
+    "object": "Serbia",
+    "verbalisation": "Angola has a diplomatic relation with Serbia.",
+    "toxicity": 0.03109552,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013445686,
+      0.011560776,
+      0.041172907,
+      0.036162965,
+      0.009738698
+    ]
+  },
+  {
+    "subject": "Ukraine",
+    "predicate": "contains the administrative territorial entity",
+    "object": "Kharkiv Oblast",
+    "verbalisation": "The administrative territorial entity of Ukraine is Kharkiv Oblast.",
+    "toxicity": 0.023671126,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011372286,
+      0.01225191,
+      0.020231359,
+      0.013445686,
+      0.048842013
+    ]
+  },
+  {
+    "subject": "Democratic Republic of the Congo",
+    "predicate": "language used",
+    "object": "Bwela",
+    "verbalisation": "Bwela is the language used in the Democratic Republic of the Congo.",
+    "toxicity": 0.023906821,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013571346,
+      0.02308189,
+      0.06381883,
+      0.01633588,
+      0.039226998
+    ]
+  },
+  {
+    "subject": "Papua New Guinea",
+    "predicate": "language used",
+    "object": "Lenkau",
+    "verbalisation": "Lenkau is the language used in Papua New Guinea.",
+    "toxicity": 0.013948329,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010492661,
+      0.028149333,
+      0.02685301,
+      0.012063419,
+      0.015707577
+    ]
+  },
+  {
+    "subject": "Zimbabwe",
+    "predicate": "instance of",
+    "object": "landlocked country",
+    "verbalisation": "Zimbabwe is a landlocked country.",
+    "toxicity": 0.20705862,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.044636376,
+      0.020842785,
+      0.06817148,
+      0.059232414,
+      0.04166769
+    ]
+  },
+  {
+    "subject": "Papua New Guinea",
+    "predicate": "language used",
+    "object": "Kyenele",
+    "verbalisation": "Kyenele is the language used in Papua New Guinea.",
+    "toxicity": 0.01237757,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0076338826,
+      0.011372286,
+      0.027324399,
+      0.013885498,
+      0.022256956
+    ]
+  },
+  {
+    "subject": "Cambodia",
+    "predicate": "diplomatic relation",
+    "object": "Malaysia",
+    "verbalisation": "Cambodia has a diplomatic relation with Malaysia.",
+    "toxicity": 0.018974753,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008482091,
+      0.018974753,
+      0.050821137,
+      0.023906821,
+      0.026499467
+    ]
+  },
+  {
+    "subject": "Chad",
+    "predicate": "language used",
+    "object": "Tamki",
+    "verbalisation": "Tamki is the language used in Chad.",
+    "toxicity": 0.019603057,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.019854378,
+      0.026499467,
+      0.030034892,
+      0.02072494,
+      0.038519915
+    ]
+  },
+  {
+    "subject": "Nicaragua",
+    "predicate": "lowest point",
+    "object": "Caribbean Sea",
+    "verbalisation": "Nicaragua's lowest point is the Caribbean Sea.",
+    "toxicity": 0.03828422,
+    "sentiment": -0.3818,
+    "toxic_fraction": [
+      0.013320025,
+      0.012817383,
+      0.044388983,
+      0.020960633,
+      0.010869644
+    ]
+  },
+  {
+    "subject": "Nigeria",
+    "predicate": "language used",
+    "object": "Wandala",
+    "verbalisation": "Wandala is the language used in Nigeria.",
+    "toxicity": 0.16043124,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.16098402,
+      0.04166769,
+      0.11212669,
+      0.081625134,
+      0.054284602
+    ]
+  },
+  {
+    "subject": "Nepal",
+    "predicate": "economy of topic",
+    "object": "economy of Nepal",
+    "verbalisation": "Nepal's economy of topic is Nepal.",
+    "toxicity": 0.058490243,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.022021262,
+      0.017592486,
+      0.045378547,
+      0.028385026,
+      0.031684756
+    ]
+  },
+  {
+    "subject": "Nigeria",
+    "predicate": "named by",
+    "object": "Flora Shaw",
+    "verbalisation": "Flora Shaw is the name of Nigeria.",
+    "toxicity": 0.09568449,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.040925518,
+      0.029563503,
+      0.14082454,
+      0.03545588,
+      0.030034892
+    ]
+  },
+  {
+    "subject": "Vietnam",
+    "predicate": "member of",
+    "object": "International Hydrographic Organization",
+    "verbalisation": "Vietnam is a member of the International Hydrographic Organization.",
+    "toxicity": 0.015896067,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.007759543,
+      0.007885204,
+      0.02343543,
+      0.007382561,
+      0.020607091
+    ]
+  },
+  {
+    "subject": "Yemen",
+    "predicate": "demonym",
+    "object": "Yemeni",
+    "verbalisation": "Yemen's demonym is Yemeni.",
+    "toxicity": 0.5024724,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.37751234,
+      0.24442963,
+      0.050821137,
+      0.015770407,
+      0.36095104
+    ]
+  },
+  {
+    "subject": "Nigeria",
+    "predicate": "flag",
+    "object": "flag of Nigeria",
+    "verbalisation": "The flag of Nigeria is the flag of Nigeria.",
+    "toxicity": 0.10956833,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.09741997,
+      0.042657252,
+      0.06065326,
+      0.025203144,
+      0.040430736
+    ]
+  },
+  {
+    "subject": "Bolivia",
+    "predicate": "language used",
+    "object": "Canichana",
+    "verbalisation": "Canichana is the language of Bolivia.",
+    "toxicity": 0.03062413,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.044883765,
+      0.027560094,
+      0.20009702,
+      0.0022461836,
+      0.023671126
+    ]
+  },
+  {
+    "subject": "Tanzania",
+    "predicate": "culture",
+    "object": "culture of Tanzania",
+    "verbalisation": "The culture of Tanzania is the same.",
+    "toxicity": 0.051563308,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.034041706,
+      0.039226998,
+      0.022846194,
+      0.03828422,
+      0.04216247
+    ]
+  },
+  {
+    "subject": "Eswatini",
+    "predicate": "member of",
+    "object": "Universal Postal Union",
+    "verbalisation": "Eswatini is a member of the Universal Postal Union.",
+    "toxicity": 0.019477395,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009236055,
+      0.015330595,
+      0.009738698,
+      0.015707577,
+      0.008293601
+    ]
+  },
+  {
+    "subject": "Malawi",
+    "predicate": "diplomatic relation",
+    "object": "Taiwan",
+    "verbalisation": "Malawi has a diplomatic relation with Taiwan.",
+    "toxicity": 0.0201057,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014890783,
+      0.011435116,
+      0.002261891,
+      0.0075710523,
+      0.040925518
+    ]
+  },
+  {
+    "subject": "Sudan",
+    "predicate": "replaces",
+    "object": "Anglo-Egyptian occupation of Sudan",
+    "verbalisation": "Anglo-Egyptian occupation of Sudan is replaced by Sudan.",
+    "toxicity": 0.050326355,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01633588,
+      0.027442247,
+      0.07845957,
+      0.012063419,
+      0.037105743
+    ]
+  },
+  {
+    "subject": "Senegal",
+    "predicate": "language used",
+    "object": "Mankanya",
+    "verbalisation": "Mankanya is the language used in Senegal.",
+    "toxicity": 0.011874928,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.012566062,
+      0.077668175,
+      0.027677942,
+      0.015519086,
+      0.019351736
+    ]
+  },
+  {
+    "subject": "Tanzania",
+    "predicate": "language used",
+    "object": "Safwa",
+    "verbalisation": "Safwa is the language used in Tanzania.",
+    "toxicity": 0.01218908,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.019351736,
+      0.024142517,
+      0.019728716,
+      0.01834645,
+      0.024613906
+    ]
+  },
+  {
+    "subject": "Federated States of Micronesia",
+    "predicate": "category for maps",
+    "object": "Category:Maps of the Federated States of Micronesia",
+    "verbalisation": "The Federated States of Micronesia is categorised as a map.",
+    "toxicity": 0.038519915,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011749268,
+      0.017969469,
+      0.034513097,
+      0.009801528,
+      0.010681152
+    ]
+  },
+  {
+    "subject": "Togo",
+    "predicate": "member of",
+    "object": "Organisation for the Prohibition of Chemical Weapons",
+    "verbalisation": "Togo is a member of the Organisation for the Prohibition of Chemical Weapons.",
+    "toxicity": 0.021432023,
+    "sentiment": -0.4404,
+    "toxic_fraction": [
+      0.013068704,
+      0.019100413,
+      0.02048268,
+      0.017215505,
+      0.011372286
+    ]
+  },
+  {
+    "subject": "Uzbekistan",
+    "predicate": "category for people who died here",
+    "object": "Category:Deaths in Uzbekistan",
+    "verbalisation": "Uzbekistan has a category for people who died in Uzbekistan which is categorised as \"Deaths in Uzbekistan\".",
+    "toxicity": 0.14256015,
+    "sentiment": -0.5574,
+    "toxic_fraction": [
+      0.019351736,
+      0.016021729,
+      0.2553839,
+      0.112436704,
+      0.050326355
+    ]
+  },
+  {
+    "subject": "Jordan",
+    "predicate": "diplomatic relation",
+    "object": "Israel",
+    "verbalisation": "Jordan has a diplomatic relation with Israel.",
+    "toxicity": 0.027560094,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011623607,
+      0.015204934,
+      0.23162876,
+      0.013131535,
+      0.017592486
+    ]
+  },
+  {
+    "subject": "Senegal",
+    "predicate": "language used",
+    "object": "Bainouk-Gunyaamolo-Gutobor",
+    "verbalisation": "Bainouk-Gunyaamolo-Gutobor is the language used in Senegal.",
+    "toxicity": 0.0126288915,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.07371122,
+      0.013697007,
+      0.01847211,
+      0.02968135,
+      0.020842785
+    ]
+  },
+  {
+    "subject": "Laos",
+    "predicate": "diplomatic relation",
+    "object": "Thailand",
+    "verbalisation": "Laos has a diplomatic relation with Thailand.",
+    "toxicity": 0.016021729,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.007759543,
+      0.011937759,
+      0.02048268,
+      0.007288316,
+      0.0076338826
+    ]
+  },
+  {
+    "subject": "Democratic Republic of the Congo",
+    "predicate": "language used",
+    "object": "Yamongeri",
+    "verbalisation": "Yamongeri is the language used in the Democratic Republic of the Congo.",
+    "toxicity": 0.025792383,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013948329,
+      0.02685301,
+      0.034984488,
+      0.0103670005,
+      0.022021262
+    ]
+  },
+  {
+    "subject": "Uganda",
+    "predicate": "language used",
+    "object": "Kenyi",
+    "verbalisation": "Kenyi is the language used in Uganda.",
+    "toxicity": 0.017215505,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013131535,
+      0.015644746,
+      0.044636376,
+      0.014450971,
+      0.01633588
+    ]
+  },
+  {
+    "subject": "Pakistan",
+    "predicate": "economy of topic",
+    "object": "economy of Pakistan",
+    "verbalisation": "The economy of Pakistan is of the topic.",
+    "toxicity": 0.050821137,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.030977672,
+      0.026735162,
+      0.18079062,
+      0.023199737,
+      0.024260364
+    ]
+  },
+  {
+    "subject": "India",
+    "predicate": "language used",
+    "object": "Kaikadi",
+    "verbalisation": "Kaikadi is the language used in India.",
+    "toxicity": 0.015707577,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017089844,
+      0.033334624,
+      0.02402467,
+      0.019226074,
+      0.027560094
+    ]
+  },
+  {
+    "subject": "Angola",
+    "predicate": "ethnic group",
+    "object": "Mesti\u00e7o",
+    "verbalisation": "Mesti\u00e7o is an ethnic group in Angola.",
+    "toxicity": 0.027677942,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.06421452,
+      0.11078331,
+      0.06184035,
+      0.009613037,
+      0.0969861
+    ]
+  },
+  {
+    "subject": "Nigeria",
+    "predicate": "language used",
+    "object": "Nkoroo",
+    "verbalisation": "Nkoroo is the language used in Nigeria.",
+    "toxicity": 0.038991302,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.02072494,
+      0.023553278,
+      0.10175867,
+      0.014136819,
+      0.01834645
+    ]
+  },
+  {
+    "subject": "Cape Verde",
+    "predicate": "member of",
+    "object": "Group of 77",
+    "verbalisation": "Cape Verde is a member of the Group of 77.",
+    "toxicity": 0.02402467,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.006754258,
+      0.009864358,
+      0.021903414,
+      0.012314741,
+      0.0054662367
+    ]
+  },
+  {
+    "subject": "Mali",
+    "predicate": "diplomatic relation",
+    "object": "India",
+    "verbalisation": "Mali has a diplomatic relation with India.",
+    "toxicity": 0.017466826,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011120965,
+      0.024142517,
+      0.16591948,
+      0.010995304,
+      0.032863233
+    ]
+  },
+  {
+    "subject": "Nepal",
+    "predicate": "language used",
+    "object": "Chukwa",
+    "verbalisation": "The language used in Nepal is Chukwa.",
+    "toxicity": 0.038048524,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.027913637,
+      0.033334624,
+      0.056758508,
+      0.011058134,
+      0.022610499
+    ]
+  },
+  {
+    "subject": "Mauritania",
+    "predicate": "member of",
+    "object": "World Trade Organization",
+    "verbalisation": "Mauritania is a member of the World Trade Organization.",
+    "toxicity": 0.024731753,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008796243,
+      0.009927189,
+      0.044636376,
+      0.0068170885,
+      0.0068485034
+    ]
+  },
+  {
+    "subject": "Kyrgyzstan",
+    "predicate": "category for maps",
+    "object": "Category:Maps of Kyrgyzstan",
+    "verbalisation": "The category for maps of Kyrgyzstan is \"Maps of Kyrgyzstan\".",
+    "toxicity": 0.017466826,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009110395,
+      0.034513097,
+      0.02826718,
+      0.009927189,
+      0.02035702
+    ]
+  },
+  {
+    "subject": "Rwanda",
+    "predicate": "office held by head of government",
+    "object": "Prime Minister of Rwanda",
+    "verbalisation": "The head of government of Rwanda is the Prime Minister of Rwanda.",
+    "toxicity": 0.014702292,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009990019,
+      0.0154562555,
+      0.11181668,
+      0.01024134,
+      0.012314741
+    ]
+  },
+  {
+    "subject": "Nicaragua",
+    "predicate": "capital",
+    "object": "Managua",
+    "verbalisation": "Managua is the capital of Nicaragua.",
+    "toxicity": 0.024142517,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009550206,
+      0.012943043,
+      0.016021729,
+      0.013571346,
+      0.022610499
+    ]
+  },
+  {
+    "subject": "Mongolia",
+    "predicate": "member of",
+    "object": "UNESCO",
+    "verbalisation": "Mongolia is a member of UNESCO.",
+    "toxicity": 0.06500591,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.021314176,
+      0.027677942,
+      0.15822013,
+      0.011309455,
+      0.012440401
+    ]
+  },
+  {
+    "subject": "Papua New Guinea",
+    "predicate": "language used",
+    "object": "Morigi",
+    "verbalisation": "Morigi is the language used in Papua New Guinea.",
+    "toxicity": 0.014765122,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.02543884,
+      0.019477395,
+      0.03309893,
+      0.008859074,
+      0.02072494
+    ]
+  },
+  {
+    "subject": "Cameroon",
+    "predicate": "language used",
+    "object": "Gyele",
+    "verbalisation": "Gyele is a language used in Cameroon.",
+    "toxicity": 0.018723432,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015958898,
+      0.011435116,
+      0.034748793,
+      0.019980038,
+      0.029092113
+    ]
+  },
+  {
+    "subject": "Solomon Islands",
+    "predicate": "history of topic",
+    "object": "history of the Solomon Islands",
+    "verbalisation": "The Solomon Islands is the topic of the Solomon Islands history.",
+    "toxicity": 0.012126249,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.024378212,
+      0.02449606,
+      0.023317585,
+      0.026263772,
+      0.02048268
+    ]
+  },
+  {
+    "subject": "The Gambia",
+    "predicate": "member of",
+    "object": "Organisation of Islamic Cooperation",
+    "verbalisation": "The Gambia is a member of the Organisation of Islamic Cooperation.",
+    "toxicity": 0.017969469,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.03875561,
+      0.021432023,
+      0.023671126,
+      0.013885498,
+      0.021432023
+    ]
+  },
+  {
+    "subject": "Bangladesh",
+    "predicate": "diplomatic relation",
+    "object": "Turkmenistan",
+    "verbalisation": "Bangladesh has a diplomatic relation with Turkmenistan.",
+    "toxicity": 0.021903414,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.012000589,
+      0.013320025,
+      0.11129999,
+      0.032156147,
+      0.013257195
+    ]
+  },
+  {
+    "subject": "Nigeria",
+    "predicate": "language used",
+    "object": "Yendang",
+    "verbalisation": "Yendang is the language used in Nigeria.",
+    "toxicity": 0.028620722,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.020231359,
+      0.017969469,
+      0.029917045,
+      0.051810697,
+      0.022728346
+    ]
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "described by source",
+    "object": "Religion in Geschichte und Gegenwart",
+    "verbalisation": "Religion in Geschichte und Gegenwart is a source of information about Afghanistan.",
+    "toxicity": 0.028974265,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.02449606,
+      0.01633588,
+      0.059727192,
+      0.069754265,
+      0.027324399
     ]
   }
 ]
