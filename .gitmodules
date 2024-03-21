@@ -1,3 +1,3 @@
-[submodule "WDDV"]
-	path = WDDV
+[submodule "WDV"]
+	path = WDV
 	url = https://github.com/gabrielmaia7/WDV.git

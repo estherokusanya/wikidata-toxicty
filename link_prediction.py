@@ -6,37 +6,32 @@ import random
 #files = ["female", "high_income", "low_income", "male", "trans"]
 files = ["female"]
 
-def combine_verbalisations(file, size):
+def combine_verbalisations(file, graph_size):
     with open(f"new_5000_{file}_toxicities.json", "r") as f:
         data = json.load(f)
-    remaining = data[:200]
-    changed= True
+    remaining = data[:3000]
+    counter= 0
     grouped = []
-    while changed and len(remaining)>=size:
-        changed = False
+
+    while counter<len(remaining):
+        counter+=1
         group = []
-        current = random.choice(remaining)
+        current = remaining[0]
         group.append(current)
         remaining.remove(current)
-        for x in range(size-1):
-            for item in remaining:
-                if current["subject"]==item["subject"] or current["object"]==item["object"] or current["predicate"]==item["predicate"]:
-                    group.append(item)
-                    remaining.remove(item)
-                    changed=True
-                    break
-        if len(group)!=size:
+        for item in remaining:
+            if (item["subject"] in [x["subject"] for x in group]) or (item["object"] in [x["object"] for x in group]):# or (item["predicate"] in [x["predicate"] for x in group]):
+                group.append(item)
+                remaining.remove(item)
+            if len(group)==graph_size:
+                break
+
+        if len(group)!=graph_size:
             remaining.extend(group)
         else:
             grouped.append(group)
-    group = []
-    for i in range(0,len(remaining)):
-        if i+1%size ==0:
-            group.append(remaining[i])
-            grouped.append(group)
-            group.clear()
-        else:
-            group.append(remaining[i])
+            remaining.append(random.choice(group))
+            counter=0
 
     structured = []
     for item in grouped:
@@ -68,9 +63,9 @@ def remove_triple(file):
 
     with open(f"link_prediction/removed_triple_{file}_results.json", "w") as f:
             json.dump(results, f, indent=2)
-            print("reached")
 
 
 for item in files:
-    combine_verbalisations(item, 20)
-    remove_triple(item)
+    combine_verbalisations(item, 10)
+    print("reached")
+    #remove_triple(item)
