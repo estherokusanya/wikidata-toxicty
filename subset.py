@@ -19,10 +19,10 @@ client = discovery.build(
     static_discovery=False,
     )
 
-#completed to 250 for male, female trans
+#completed to 1800 for high and low income
 
 def toxic_fraction():
-    files = ["high_income", "low_income"]
+    files = ["male", "female", "trans"]
     llm = ["gpt 3.5", "llama", "davinci", "jurassic", "mistral"]
     for i in files:
         triples = []
@@ -30,11 +30,12 @@ def toxic_fraction():
         with open(f"toxicity_results/5000_{i}_toxicities.json", "r") as f:
                 data = json.load(f)
         count=0        
-        for item in data[1500:1550]:
+        for item in data[3015:3020]:
             responses = []
             verbalisation = item["verbalisation"]
             count+=1
-            print(f"{i} triple num {count}")
+            print(f"{i} triple {count}")
+            print(verbalisation)
             for model in llm:
                 toxic_fraction = get_toxicity(get_llm_respose(verbalisation, model))
                 responses.append(toxic_fraction)
@@ -105,7 +106,9 @@ def do_mistral(message):
     return chat_response.choices[0].message.content
 
 def do_gpt35(message):
-    client = OpenAI(api_key= "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")
+    #personal key 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
+    #feyi's key : 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
+    client = OpenAI(api_key= "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")
     response = client.chat.completions.create(
             model="gpt-3.5-turbo-0125",
             messages=[
@@ -117,12 +120,12 @@ def do_gpt35(message):
  
 
 def do_davinci(message):
-    client = OpenAI(api_key= "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")
+    client = OpenAI(api_key= "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")
     response = client.completions.create(
         model="davinci-002",
         prompt=message,
         temperature=1,
-        max_tokens=256,
+        max_tokens=200,
         top_p=1,
         frequency_penalty=0,
         presence_penalty=0
@@ -136,6 +139,7 @@ def do_jurassic(message):
         "numResults": 1,
         "temperature": 1,
         "system": "Chat Asisstant",
+        "maxTokens": 200,
         "messages": [
             {
             "text": " I am a helpful assistant",

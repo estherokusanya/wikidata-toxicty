@@ -43498,5 +43498,1808 @@
       0.016587202,
       0.05230548
     ]
+  },
+  {
+    "subject": "Maryam Khatoon Molkara",
+    "predicate": "cause of death",
+    "object": "stroke",
+    "verbalisation": "Maryam Khatoon Molkara died of a stroke.",
+    "toxicity": 0.29953843,
+    "sentiment": -0.5574,
+    "toxic_fraction": [
+      0.008482091,
+      0.02449606,
+      0.08320791,
+      0.022728346,
+      0.042657252
+    ]
+  },
+  {
+    "subject": "Rodrigo Lehtinen",
+    "predicate": "educated at",
+    "object": "Brown University",
+    "verbalisation": "Rodrigo Lehtinen was educated at Brown University.",
+    "toxicity": 0.015833238,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008419261,
+      0.027324399,
+      0.014765122,
+      0.001484366,
+      0.021432023
+    ]
+  },
+  {
+    "subject": "Camille Cabral",
+    "predicate": "instance of",
+    "object": "human",
+    "verbalisation": "Camille Cabral is an example of a human.",
+    "toxicity": 0.017843807,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.1013248,
+      0.022256956,
+      0.28547668,
+      0.015958898,
+      0.034513097
+    ]
+  },
+  {
+    "subject": "Christopher Lee",
+    "predicate": "occupation",
+    "object": "activist",
+    "verbalisation": "Christopher Lee is an activist.",
+    "toxicity": 0.03192045,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009487377,
+      0.022139108,
+      0.112746716,
+      0.019226074,
+      0.031331215
+    ]
+  },
+  {
+    "subject": "Anderson Bigode Herzer",
+    "predicate": "given name",
+    "object": "Anderson",
+    "verbalisation": "Anderson Bigode Herzer's given name is Anderson.",
+    "toxicity": 0.02035702,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.025674535,
+      0.02249265,
+      0.07291982,
+      0.008482091,
+      0.028502874
+    ]
+  },
+  {
+    "subject": "Yasmin Lee",
+    "predicate": "instance of",
+    "object": "human",
+    "verbalisation": "Yasmin Lee is an example of a human.",
+    "toxicity": 0.021785567,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.09915545,
+      0.020231359,
+      0.5716857,
+      0.035220183,
+      0.011749268
+    ]
+  },
+  {
+    "subject": "Riley Black",
+    "predicate": "has written for",
+    "object": "The Guardian",
+    "verbalisation": "Riley Black has written for The Guardian.",
+    "toxicity": 0.017089844,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.023199737,
+      0.0154562555,
+      0.4269174,
+      0.011309455,
+      0.013822667
+    ]
+  },
+  {
+    "subject": "Garielle Lutz",
+    "predicate": "instance of",
+    "object": "human",
+    "verbalisation": "Garielle Lutz is an example of a human.",
+    "toxicity": 0.01847211,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009110395,
+      0.014011159,
+      0.03545588,
+      0.03192045,
+      0.03062413
+    ]
+  },
+  {
+    "subject": "Sandra Forgues",
+    "predicate": "country of citizenship",
+    "object": "France",
+    "verbalisation": "Sandra Forgues is from France.",
+    "toxicity": 0.018723432,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.023317585,
+      0.0020576925,
+      0.020842785,
+      0.017969469,
+      0.018849092
+    ]
+  },
+  {
+    "subject": "Oc\u00e9an",
+    "predicate": "different from",
+    "object": "Oc\u00e9an",
+    "verbalisation": "Oc\u00e9an is different from Oc\u00e9an.",
+    "toxicity": 0.008859074,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0131943645,
+      0.012314741,
+      0.07212844,
+      0.010681152,
+      0.014136819
+    ]
+  },
+  {
+    "subject": "C. L. Clark",
+    "predicate": "sex or gender",
+    "object": "non-binary",
+    "verbalisation": "C. L. Clark's sex or gender is non-binary.",
+    "toxicity": 0.25462922,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.022964042,
+      0.03309893,
+      0.37694603,
+      0.015393426,
+      0.021314176
+    ]
+  },
+  {
+    "subject": "Patrick Califia",
+    "predicate": "occupation",
+    "object": "writer",
+    "verbalisation": "Patrick Califia is a writer.",
+    "toxicity": 0.012754552,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.11367676,
+      0.054531995,
+      0.36095104,
+      0.04290464,
+      0.10913446
+    ]
+  },
+  {
+    "subject": "Ericka Hart",
+    "predicate": "family name",
+    "object": "Hart",
+    "verbalisation": "Ericka Hart's family name is Hart.",
+    "toxicity": 0.011812098,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009675868,
+      0.016838523,
+      0.24603334,
+      0.03639866,
+      0.011874928
+    ]
+  },
+  {
+    "subject": "Jennell Jaquays",
+    "predicate": "country of citizenship",
+    "object": "United States of America",
+    "verbalisation": "Jennell Jaquays is from the United States of America.",
+    "toxicity": 0.013948329,
+    "sentiment": 0.4215,
+    "toxic_fraction": [
+      0.011309455,
+      0.010618322,
+      0.031449065,
+      0.012126249,
+      0.024731753
+    ]
+  },
+  {
+    "subject": "Thammy Miranda",
+    "predicate": "occupation",
+    "object": "model",
+    "verbalisation": "Thammy Miranda is a model.",
+    "toxicity": 0.011686437,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.056263726,
+      0.011812098,
+      0.52272606,
+      0.02249265,
+      0.009550206
+    ]
+  },
+  {
+    "subject": "Vivienne Ming",
+    "predicate": "instance of",
+    "object": "human",
+    "verbalisation": "Vivienne Ming is an example of a human.",
+    "toxicity": 0.02107848,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.10653123,
+      0.02308189,
+      0.16158698,
+      0.02249265,
+      0.02449606
+    ]
+  },
+  {
+    "subject": "Rebecca Oppenheimer",
+    "predicate": "occupation",
+    "object": "trans activist",
+    "verbalisation": "Rebecca Oppenheimer is a trans activist.",
+    "toxicity": 0.11036996,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.09112182,
+      0.055026773,
+      0.29953843,
+      0.08320791,
+      0.046368107
+    ]
+  },
+  {
+    "subject": "Tamara Adri\u00e1n",
+    "predicate": "affiliation",
+    "object": "World Professional Association for Transgender Health",
+    "verbalisation": "Tamara Adri\u00e1n is affiliated with the World Professional Association for Transgender Health.",
+    "toxicity": 0.00033182255,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.022964042,
+      0.0926474,
+      0.024378212,
+      0.022021262,
+      0.04315203
+    ]
+  },
+  {
+    "subject": "Paul Tran",
+    "predicate": "notable work",
+    "object": "All the Flowers Kneeling",
+    "verbalisation": "Paul Tran's notable work is All the Flowers Kneeling.",
+    "toxicity": 0.011183795,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008105109,
+      0.010304171,
+      0.15932569,
+      0.028502874,
+      0.021196328
+    ]
+  },
+  {
+    "subject": "Jess Chanliau",
+    "predicate": "eye color",
+    "object": "gray",
+    "verbalisation": "Jess Chanliau's eye color is gray.",
+    "toxicity": 0.05205809,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.025203144,
+      0.036162965,
+      0.012126249,
+      0.012566062,
+      0.034513097
+    ]
+  },
+  {
+    "subject": "Nate Tamblyn",
+    "predicate": "country of citizenship",
+    "object": "New Zealand",
+    "verbalisation": "Nate Tamblyn's country of citizenship is New Zealand.",
+    "toxicity": 0.01646154,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011686437,
+      0.018723432,
+      0.11078331,
+      0.017718147,
+      0.013508516
+    ]
+  },
+  {
+    "subject": "Negha Shahin",
+    "predicate": "sex or gender",
+    "object": "trans woman",
+    "verbalisation": "Negha Shahin is a trans woman.",
+    "toxicity": 0.1641865,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.05304765,
+      0.102626406,
+      0.030034892,
+      0.022610499,
+      0.18459146
+    ]
+  },
+  {
+    "subject": "Kim Petras",
+    "predicate": "family name",
+    "object": "Petras",
+    "verbalisation": "Kim Petras is a member of the Petras family.",
+    "toxicity": 0.019351736,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.03969839,
+      0.03062413,
+      0.022021262,
+      0.007382561,
+      0.027560094
+    ]
+  },
+  {
+    "subject": "Andrew Cray",
+    "predicate": "educated at",
+    "object": "University of Michigan",
+    "verbalisation": "Andrew Cray was educated at the University of Michigan.",
+    "toxicity": 0.009298885,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0103670005,
+      0.012566062,
+      0.041915078,
+      0.007696713,
+      0.007853788
+    ]
+  },
+  {
+    "subject": "Matt Kailey",
+    "predicate": "given name",
+    "object": "Matt",
+    "verbalisation": "Matt Kailey's given name is Matt.",
+    "toxicity": 0.01218908,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01024134,
+      0.01847211,
+      0.045131154,
+      0.0103670005,
+      0.009361716
+    ]
+  },
+  {
+    "subject": "Alison Rumfitt",
+    "predicate": "country of citizenship",
+    "object": "United Kingdom",
+    "verbalisation": "Alison Rumfitt is from the United Kingdom.",
+    "toxicity": 0.019477395,
+    "sentiment": 0.4215,
+    "toxic_fraction": [
+      0.015896067,
+      0.011435116,
+      0.055026773,
+      0.015707577,
+      0.011937759
+    ]
+  },
+  {
+    "subject": "Megan Rohrer",
+    "predicate": "country of citizenship",
+    "object": "United States of America",
+    "verbalisation": "Megan Rohrer is a citizen of the United States of America.",
+    "toxicity": 0.0131943645,
+    "sentiment": 0.4215,
+    "toxic_fraction": [
+      0.10696511,
+      0.01218908,
+      0.056263726,
+      0.11739369,
+      0.0926474
+    ]
+  },
+  {
+    "subject": "Lilly Wachowski",
+    "predicate": "place of birth",
+    "object": "Chicago",
+    "verbalisation": "Lilly Wachowski was born in Chicago.",
+    "toxicity": 0.010743983,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.007822373,
+      0.02072494,
+      0.0414203,
+      0.012691722,
+      0.008670582
+    ]
+  },
+  {
+    "subject": "Dwayne Jones",
+    "predicate": "significant event",
+    "object": "Murder of Dwayne Jones",
+    "verbalisation": "Dwayne Jones was killed in the Murder of Dwayne Jones.",
+    "toxicity": 0.20335422,
+    "sentiment": -0.8807,
+    "toxic_fraction": [
+      0.013634177,
+      0.015142105,
+      0.2553839,
+      0.0066600125,
+      0.04166769
+    ]
+  },
+  {
+    "subject": "Camille Paglia",
+    "predicate": "occupation",
+    "object": "writer",
+    "verbalisation": "Camille Paglia is a writer.",
+    "toxicity": 0.012754552,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.032863233,
+      0.079250954,
+      0.568186,
+      0.12520397,
+      0.0438942
+    ]
+  },
+  {
+    "subject": "Tamara Adri\u00e1n",
+    "predicate": "educated at",
+    "object": "Andr\u00e9s Bello Catholic University",
+    "verbalisation": "Tamara Adri\u00e1n was educated at the Andr\u00e9s Bello Catholic University.",
+    "toxicity": 0.0017121258,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.09568449,
+      0.019351736,
+      0.17371799,
+      0.055521555,
+      0.033806015
+    ]
+  },
+  {
+    "subject": "Charley Parkhurst",
+    "predicate": "place of death",
+    "object": "Watsonville",
+    "verbalisation": "Charley Parkhurst died in Watsonville.",
+    "toxicity": 0.030388435,
+    "sentiment": -0.5574,
+    "toxic_fraction": [
+      0.019854378,
+      0.062236045,
+      0.07291982,
+      0.0063144458,
+      0.13388206
+    ]
+  },
+  {
+    "subject": "Caroline Cossey",
+    "predicate": "instance of",
+    "object": "human",
+    "verbalisation": "Caroline Cossey is an example of a human.",
+    "toxicity": 0.019980038,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.03781283,
+      0.11150667,
+      0.24603334,
+      0.021314176,
+      0.034984488
+    ]
+  },
+  {
+    "subject": "Vita Ayala",
+    "predicate": "ethnic group",
+    "object": "African Americans",
+    "verbalisation": "Vita Ayala is a member of the African American ethnic group.",
+    "toxicity": 0.027913637,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014702292,
+      0.036870047,
+      0.11419344,
+      0.015896067,
+      0.036870047
+    ]
+  },
+  {
+    "subject": "Nash Glynn",
+    "predicate": "instance of",
+    "object": "human",
+    "verbalisation": "Nash Glynn is an example of a human.",
+    "toxicity": 0.019728716,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01005285,
+      0.015142105,
+      0.058490243,
+      0.020607091,
+      0.08083374
+    ]
+  },
+  {
+    "subject": "Subaru Fuji",
+    "predicate": "sex or gender",
+    "object": "trans man",
+    "verbalisation": "The sex or gender of Subaru Fuji is trans man.",
+    "toxicity": 0.031331215,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013571346,
+      0.04735767,
+      0.18459146,
+      0.012880214,
+      0.08637348
+    ]
+  },
+  {
+    "subject": "Ericka Hart",
+    "predicate": "country of citizenship",
+    "object": "United States of America",
+    "verbalisation": "Ericka Hart is from the United States of America.",
+    "toxicity": 0.015896067,
+    "sentiment": 0.4215,
+    "toxic_fraction": [
+      0.23523538,
+      0.01005285,
+      0.3302291,
+      0.021196328,
+      0.11316007
+    ]
+  },
+  {
+    "subject": "Ali Eisner",
+    "predicate": "given name",
+    "object": "Ali",
+    "verbalisation": "Ali Eisner's given name is Ali.",
+    "toxicity": 0.015204934,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010681152,
+      0.012754552,
+      0.055768944,
+      0.015958898,
+      0.013320025
+    ]
+  },
+  {
+    "subject": "Dora Ratjen",
+    "predicate": "sex or gender",
+    "object": "trans man",
+    "verbalisation": "Dora Ratjen has sex or gender trans man.",
+    "toxicity": 0.016587202,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.1140901,
+      0.045378547,
+      0.050078966,
+      0.037577134,
+      0.10175867
+    ]
+  },
+  {
+    "subject": "Ranboo",
+    "predicate": "member of",
+    "object": "Misfits Gaming",
+    "verbalisation": "Ranboo is a member of Misfits Gaming.",
+    "toxicity": 0.049336795,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.019351736,
+      0.019980038,
+      0.06579731,
+      0.027324399,
+      0.04166769
+    ]
+  },
+  {
+    "subject": "Devon Price",
+    "predicate": "languages spoken, written or signed",
+    "object": "English",
+    "verbalisation": "Devon Price speaks, writes or signed English.",
+    "toxicity": 0.013885498,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009801528,
+      0.010429831,
+      0.054531995,
+      0.014827953,
+      0.009487377
+    ]
+  },
+  {
+    "subject": "Rupert Raj",
+    "predicate": "place of birth",
+    "object": "Ottawa",
+    "verbalisation": "Rupert Raj was born in Ottawa.",
+    "toxicity": 0.0073197307,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009298885,
+      0.00816794,
+      0.027442247,
+      0.01005285,
+      0.0068799187
+    ]
+  },
+  {
+    "subject": "Miss saHHara",
+    "predicate": "languages spoken, written or signed",
+    "object": "English",
+    "verbalisation": "Miss saHHara's languages spoken, written or signed are English.",
+    "toxicity": 0.022610499,
+    "sentiment": -0.1531,
+    "toxic_fraction": [
+      0.027088705,
+      0.019477395,
+      0.11378009,
+      0.02249265,
+      0.02402467
+    ]
+  },
+  {
+    "subject": "Paloma Longoria",
+    "predicate": "sexual orientation",
+    "object": "heterosexuality",
+    "verbalisation": "Paloma Longoria's sexual orientation is heterosexuality.",
+    "toxicity": 0.05750068,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.050573748,
+      0.035220183,
+      0.36867723,
+      0.11652588,
+      0.059974585
+    ]
+  },
+  {
+    "subject": "Felix Reda",
+    "predicate": "place of birth",
+    "object": "Bonn",
+    "verbalisation": "Felix Reda was born in Bonn.",
+    "toxicity": 0.012566062,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.03357032,
+      0.025910228,
+      0.03062413,
+      0.011812098,
+      0.039226998
+    ]
+  },
+  {
+    "subject": "Vivienne Ming",
+    "predicate": "sex or gender",
+    "object": "trans woman",
+    "verbalisation": "Vivienne Ming is a trans woman.",
+    "toxicity": 0.20219094,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.040430736,
+      0.091913216,
+      0.0073197307,
+      0.018974753,
+      0.17025198
+    ]
+  },
+  {
+    "subject": "Angelo Madsen Minax",
+    "predicate": "award received",
+    "object": "Guggenheim Fellowship",
+    "verbalisation": "Angelo Madsen Minax was awarded the Guggenheim Fellowship.",
+    "toxicity": 0.014513801,
+    "sentiment": 0.4019,
+    "toxic_fraction": [
+      0.0065657673,
+      0.005906049,
+      0.03357032,
+      0.014890783,
+      0.022964042
+    ]
+  },
+  {
+    "subject": "Yves Rees",
+    "predicate": "educated at",
+    "object": "University College London",
+    "verbalisation": "Yves Rees was educated at the University College London.",
+    "toxicity": 0.010115679,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.016964182,
+      0.016587202,
+      0.012440401,
+      0.011120965,
+      0.00719407
+    ]
+  },
+  {
+    "subject": "Kimya Dawson",
+    "predicate": "country of citizenship",
+    "object": "United States of America",
+    "verbalisation": "Kimya Dawson is from the United States of America.",
+    "toxicity": 0.01633588,
+    "sentiment": 0.4215,
+    "toxic_fraction": [
+      0.009990019,
+      0.037105743,
+      0.085582085,
+      0.009047564,
+      0.01017851
+    ]
+  },
+  {
+    "subject": "Teddy Geiger",
+    "predicate": "instance of",
+    "object": "human",
+    "verbalisation": "Teddy Geiger is an example of a human.",
+    "toxicity": 0.022374803,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013634177,
+      0.02308189,
+      0.2359567,
+      0.10609736,
+      0.09033044
+    ]
+  },
+  {
+    "subject": "Thammy Miranda",
+    "predicate": "place of birth",
+    "object": "S\u00e3o Paulo",
+    "verbalisation": "Thammy Miranda was born in S<unk>o Paulo.",
+    "toxicity": 0.059479803,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011120965,
+      0.016587202,
+      0.011812098,
+      0.011120965,
+      0.013131535
+    ]
+  },
+  {
+    "subject": "Maryam Khatoon Molkara",
+    "predicate": "religion or worldview",
+    "object": "Islam",
+    "verbalisation": "Maryam Khatoon Molkara's religion or worldview is Islam.",
+    "toxicity": 0.10522962,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.03639866,
+      0.01834645,
+      0.19219314,
+      0.07450261,
+      0.029917045
+    ]
+  },
+  {
+    "subject": "Ate Glow",
+    "predicate": "educated at",
+    "object": "University of the Philippines",
+    "verbalisation": "Ate Glow was educated at the University of the Philippines.",
+    "toxicity": 0.012126249,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.056263726,
+      0.018974753,
+      0.010618322,
+      0.06263174,
+      0.017843807
+    ]
+  },
+  {
+    "subject": "Meg John Barker",
+    "predicate": "educated at",
+    "object": "University of Nottingham",
+    "verbalisation": "Meg John Barker was educated at the University of Nottingham.",
+    "toxicity": 0.009613037,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.054531995,
+      0.014827953,
+      0.20172562,
+      0.1587729,
+      0.03875561
+    ]
+  },
+  {
+    "subject": "El Hardwick",
+    "predicate": "languages spoken, written or signed",
+    "object": "English",
+    "verbalisation": "El Hardwick speaks, writes or signs in English.",
+    "toxicity": 0.0079480335,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011058134,
+      0.016964182,
+      0.17631748,
+      0.02249265,
+      0.017718147
+    ]
+  },
+  {
+    "subject": "iO Tillett Wright",
+    "predicate": "on focus list of Wikimedia project",
+    "object": "Wiki Loves Pride Art & Artists",
+    "verbalisation": "iO Tillett Wright is on the focus list of Wikimedia project, Wiki Loves Pride Art & Artists.",
+    "toxicity": 0.01646154,
+    "sentiment": 0.7269,
+    "toxic_fraction": [
+      0.013131535,
+      0.009801528,
+      0.07212844,
+      0.026735162,
+      0.034041706
+    ]
+  },
+  {
+    "subject": "Oc\u00e9an",
+    "predicate": "notable work",
+    "object": "Kissing You",
+    "verbalisation": "Oc\u00e9an's notable work is Kissing You.",
+    "toxicity": 0.028149333,
+    "sentiment": 0.5719,
+    "toxic_fraction": [
+      0.018095128,
+      0.016712861,
+      0.039935954,
+      0.011246625,
+      0.03015274
+    ]
+  },
+  {
+    "subject": "Lilly Wachowski",
+    "predicate": "copyright status as a creator",
+    "object": "works protected by copyrights",
+    "verbalisation": "Lilly Wachowski is a creator of works protected by copyrights.",
+    "toxicity": 0.013320025,
+    "sentiment": 0.4404,
+    "toxic_fraction": [
+      0.010429831,
+      0.026263772,
+      0.040430736,
+      0.028856417,
+      0.012943043
+    ]
+  },
+  {
+    "subject": "Camille Paglia",
+    "predicate": "award received",
+    "object": "Athenaeum Literary Award",
+    "verbalisation": "Camille Paglia won the Athenaeum Literary Award.",
+    "toxicity": 0.0059688794,
+    "sentiment": 0.802,
+    "toxic_fraction": [
+      0.0068485034,
+      0.02968135,
+      0.048594624,
+      0.014450971,
+      0.037577134
+    ]
+  },
+  {
+    "subject": "Kumi Yokoyama",
+    "predicate": "member of sports team",
+    "object": "Okayama Yunogo Belle",
+    "verbalisation": "Kumi Yokoyama is a member of the Okama Yunogo Belle sports team.",
+    "toxicity": 0.006722843,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01017851,
+      0.0008560629,
+      0.055521555,
+      0.09308127,
+      0.003675573
+    ]
+  },
+  {
+    "subject": "Em Schulz",
+    "predicate": "occupation",
+    "object": "podcaster",
+    "verbalisation": "Em Schulz is a podcaster.",
+    "toxicity": 0.043399423,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.032156147,
+      0.030741978,
+      0.30527395,
+      0.014513801,
+      0.016964182
+    ]
+  },
+  {
+    "subject": "Iz Hesketh",
+    "predicate": "occupation",
+    "object": "singer",
+    "verbalisation": "Iz Hesketh is a singer.",
+    "toxicity": 0.021903414,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.020960633,
+      0.01633588,
+      0.13214645,
+      0.02543884,
+      0.014450971
+    ]
+  },
+  {
+    "subject": "Jamie Lee Hamilton",
+    "predicate": "educated at",
+    "object": "Capilano University",
+    "verbalisation": "Jamie Lee Hamilton was educated at Capilano University.",
+    "toxicity": 0.010555492,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0060002944,
+      0.012566062,
+      0.01847211,
+      0.022021262,
+      0.016210219
+    ]
+  },
+  {
+    "subject": "Elliot Fletcher",
+    "predicate": "occupation",
+    "object": "actor",
+    "verbalisation": "Elliot Fletcher is an actor.",
+    "toxicity": 0.03309893,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.028149333,
+      0.013948329,
+      0.024378212,
+      0.050821137,
+      0.05750068
+    ]
+  },
+  {
+    "subject": "Lino Arruda",
+    "predicate": "given name",
+    "object": "Lino",
+    "verbalisation": "Lino Arruda's given name is Lino.",
+    "toxicity": 0.010743983,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008419261,
+      0.015519086,
+      0.02402467,
+      0.012126249,
+      0.010995304
+    ]
+  },
+  {
+    "subject": "Rukshana Kapali",
+    "predicate": "sex or gender",
+    "object": "trans woman",
+    "verbalisation": "Rukshana Kapali is a trans woman.",
+    "toxicity": 0.165053,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.12867521,
+      0.045873325,
+      0.13561769,
+      0.014513801,
+      0.071337044
+    ]
+  },
+  {
+    "subject": "Alexis Marcoux Rouleau",
+    "predicate": "field of work",
+    "object": "sociology",
+    "verbalisation": "Alexis Marcoux Rouleau's field of work is sociology.",
+    "toxicity": 0.0131943645,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015770407,
+      0.019854378,
+      0.054531995,
+      0.03734144,
+      0.013885498
+    ]
+  },
+  {
+    "subject": "Bibiana Fern\u00e1ndez",
+    "predicate": "occupation",
+    "object": "television presenter",
+    "verbalisation": "Bibiana Fern\u00e1ndez is a television presenter.",
+    "toxicity": 0.010304171,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015016444,
+      0.0030315623,
+      0.034041706,
+      0.013571346,
+      0.00816794
+    ]
+  },
+  {
+    "subject": "Jessica Mink",
+    "predicate": "occupation",
+    "object": "astronomer",
+    "verbalisation": "Jessica Mink is an astronomer.",
+    "toxicity": 0.01847211,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008419261,
+      0.0126288915,
+      0.043646812,
+      0.010869644,
+      0.0103670005
+    ]
+  },
+  {
+    "subject": "Rupert Raj",
+    "predicate": "sex or gender",
+    "object": "trans man",
+    "verbalisation": "Rupert Raj has a trans man as a sex or gender.",
+    "toxicity": 0.040925518,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.13908891,
+      0.071337044,
+      0.048594624,
+      0.015958898,
+      0.081625134
+    ]
+  },
+  {
+    "subject": "Kenneth Cockwhore",
+    "predicate": "occupation",
+    "object": "LGBTQI+ rights activist",
+    "verbalisation": "Kenneth Cockwhore is an LGBTQI+ rights activist.",
+    "toxicity": 0.1537979,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.028620722,
+      0.04290464,
+      0.091913216,
+      0.013257195,
+      0.3302291
+    ]
+  },
+  {
+    "subject": "Corine van Dun",
+    "predicate": "family name",
+    "object": "van Dun",
+    "verbalisation": "Corine van Dun is a member of the family van Dun.",
+    "toxicity": 0.0059688794,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.012503231,
+      0.0137598375,
+      0.012000589,
+      0.02249265,
+      0.012503231
+    ]
+  },
+  {
+    "subject": "Michelle Josef",
+    "predicate": "instrument",
+    "object": "voice",
+    "verbalisation": "Michelle Josef's instrument is the voice.",
+    "toxicity": 0.05651112,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.019728716,
+      0.012880214,
+      0.04315203,
+      0.006345861,
+      0.028385026
+    ]
+  },
+  {
+    "subject": "Sandra Forgues",
+    "predicate": "sport",
+    "object": "canoeing and kayaking",
+    "verbalisation": "Sandra Forgues enjoys canoeing and kayaking.",
+    "toxicity": 0.02638162,
+    "sentiment": 0.5106,
+    "toxic_fraction": [
+      0.0064086914,
+      0.009110395,
+      0.02402467,
+      0.016021729,
+      0.010995304
+    ]
+  },
+  {
+    "subject": "Oc\u00e9an",
+    "predicate": "languages spoken, written or signed",
+    "object": "French",
+    "verbalisation": "Oc\u00e9an languages spoken, written or signed are French.",
+    "toxicity": 0.017843807,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01847211,
+      0.015958898,
+      0.1460314,
+      0.02249265,
+      0.017969469
+    ]
+  },
+  {
+    "subject": "El Hardwick",
+    "predicate": "sex or gender",
+    "object": "non-binary",
+    "verbalisation": "El Hardwick has a non-binary sex or gender.",
+    "toxicity": 0.15158679,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.10566349,
+      0.07845957,
+      0.44933176,
+      0.17198499,
+      0.023317585
+    ]
+  },
+  {
+    "subject": "Daniel M. Lavery",
+    "predicate": "given name",
+    "object": "Mallory",
+    "verbalisation": "Mallory is the given name of Daniel M. Lavery.",
+    "toxicity": 0.012503231,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.02072494,
+      0.012943043,
+      0.08004235,
+      0.02249265,
+      0.018723432
+    ]
+  },
+  {
+    "subject": "Paperboy Prince",
+    "predicate": "candidacy in election",
+    "object": "2021 New York City mayoral election",
+    "verbalisation": "Paperboy Prince is a candidate in the 2021 New York City mayoral election.",
+    "toxicity": 0.019603057,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.020607091,
+      0.019351736,
+      0.081625134,
+      0.022021262,
+      0.02543884
+    ]
+  },
+  {
+    "subject": "Raewyn Connell",
+    "predicate": "field of work",
+    "object": "gender studies",
+    "verbalisation": "Raewyn Connell's field of work is gender studies.",
+    "toxicity": 0.044141594,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.028031485,
+      0.028620722,
+      0.026735162,
+      0.022964042,
+      0.058737632
+    ]
+  },
+  {
+    "subject": "Brigitte Bor\u00e9ale",
+    "predicate": "instance of",
+    "object": "human",
+    "verbalisation": "Brigitte Bor\u00e9ale is an example of a human.",
+    "toxicity": 0.019477395,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.102626406,
+      0.019477395,
+      0.1373533,
+      0.043646812,
+      0.07687678
+    ]
+  },
+  {
+    "subject": "Patrick Gamarra",
+    "predicate": "instance of",
+    "object": "human",
+    "verbalisation": "Patrick Gamarra is an example of a human.",
+    "toxicity": 0.01822079,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014765122,
+      0.013634177,
+      0.13388206,
+      0.014011159,
+      0.08320791
+    ]
+  },
+  {
+    "subject": "Eliot Sumner",
+    "predicate": "instance of",
+    "object": "human",
+    "verbalisation": "Eliot Sumner is an example of a human.",
+    "toxicity": 0.0201057,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.020842785,
+      0.02035702,
+      0.025085296,
+      0.019351736,
+      0.05725329
+    ]
+  },
+  {
+    "subject": "Gina Dao-McLay",
+    "predicate": "occupation",
+    "object": "political candidate",
+    "verbalisation": "Gina Dao-McLay is a political candidate.",
+    "toxicity": 0.011183795,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008984734,
+      0.017718147,
+      0.023788974,
+      0.005874634,
+      0.01017851
+    ]
+  },
+  {
+    "subject": "Elliot Fletcher",
+    "predicate": "occupation",
+    "object": "television actor",
+    "verbalisation": "Elliot Fletcher is a television actor.",
+    "toxicity": 0.018723432,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.112540044,
+      0.01834645,
+      0.010304171,
+      0.016838523,
+      0.019477395
+    ]
+  },
+  {
+    "subject": "Jay Nieuwland",
+    "predicate": "given name",
+    "object": "Jay",
+    "verbalisation": "Jay Nieuwland's given name is Jay.",
+    "toxicity": 0.0032200534,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009424546,
+      0.027088705,
+      0.012691722,
+      0.011372286,
+      0.008544922
+    ]
+  },
+  {
+    "subject": "Jeffrey Marsh",
+    "predicate": "honorific prefix",
+    "object": "Mx",
+    "verbalisation": "Jeffrey Marsh's honorific prefix is Mx.",
+    "toxicity": 0.039935954,
+    "sentiment": 0.34,
+    "toxic_fraction": [
+      0.008733413,
+      0.010869644,
+      0.4014846,
+      0.009424546,
+      0.04834723
+    ]
+  },
+  {
+    "subject": "Keelin Godsey",
+    "predicate": "occupation",
+    "object": "hammer thrower",
+    "verbalisation": "Keelin Godsey is a hammer thrower.",
+    "toxicity": 0.36867723,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013257195,
+      0.026617315,
+      0.05750068,
+      0.1641865,
+      0.03875561
+    ]
+  },
+  {
+    "subject": "Sage Sharp",
+    "predicate": "name in native language",
+    "object": "Sage Sharp",
+    "verbalisation": "Sage Sharp is a native language name.",
+    "toxicity": 0.017089844,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015142105,
+      0.016210219,
+      0.028502874,
+      0.008984734,
+      0.03592727
+    ]
+  },
+  {
+    "subject": "Rebecca Sugar",
+    "predicate": "spouse",
+    "object": "Ian Jones-Quartey",
+    "verbalisation": "Rebecca Sugar's spouse is Ian Jones-Quartey.",
+    "toxicity": 0.01646154,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.012566062,
+      0.011686437,
+      0.063027434,
+      0.021196328,
+      0.010743983
+    ]
+  },
+  {
+    "subject": "Danielle Foxxx",
+    "predicate": "different from",
+    "object": "Daniel Fox",
+    "verbalisation": "Danielle Foxxx is different from Daniel Fox.",
+    "toxicity": 0.038048524,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.15103401,
+      0.026970858,
+      0.11652588,
+      0.02249265,
+      0.014576632
+    ]
+  },
+  {
+    "subject": "Maddie Taylor",
+    "predicate": "religion or worldview",
+    "object": "Christian",
+    "verbalisation": "Maddie Taylor's religion or worldview is Christian.",
+    "toxicity": 0.05230548,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.012880214,
+      0.012566062,
+      0.28547668,
+      0.06263174,
+      0.032156147
+    ]
+  },
+  {
+    "subject": "Iz Hesketh",
+    "predicate": "occupation",
+    "object": "stage actor",
+    "verbalisation": "Iz Hesketh is a stage actor.",
+    "toxicity": 0.033334624,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.016210219,
+      0.015833238,
+      0.011812098,
+      0.019351736,
+      0.008921904
+    ]
+  },
+  {
+    "subject": "Em Schulz",
+    "predicate": "occupation",
+    "object": "actor",
+    "verbalisation": "Em Schulz is an actor.",
+    "toxicity": 0.04166769,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.055026773,
+      0.016838523,
+      0.018849092,
+      0.016838523,
+      0.012817383
+    ]
+  },
+  {
+    "subject": "Gabriella Pizzolo",
+    "predicate": "languages spoken, written or signed",
+    "object": "English",
+    "verbalisation": "Gabriella Pizzolo speaks, writes or signs English.",
+    "toxicity": 0.012063419,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015142105,
+      0.016210219,
+      0.112643376,
+      0.019226074,
+      0.04760506
+    ]
+  },
+  {
+    "subject": "Mykki Blanco",
+    "predicate": "occupation",
+    "object": "rapper",
+    "verbalisation": "Mykki Blanco is a rapper.",
+    "toxicity": 0.10653123,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.024731753,
+      0.026145924,
+      0.20219094,
+      0.050821137,
+      0.07291982
+    ]
+  },
+  {
+    "subject": "Eliot Sumner",
+    "predicate": "languages spoken, written or signed",
+    "object": "English",
+    "verbalisation": "Eliot Sumner speaks, writes or signs in English.",
+    "toxicity": 0.016210219,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01218908,
+      0.012000589,
+      0.04067813,
+      0.020607091,
+      0.016021729
+    ]
+  },
+  {
+    "subject": "Saghi Ghahraman",
+    "predicate": "member of",
+    "object": "Iranian Queer Organization",
+    "verbalisation": "Saghi Ghahraman is a member of the Iranian Queer Organization.",
+    "toxicity": 0.0053719915,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.09438288,
+      0.030388435,
+      0.030741978,
+      0.025556687,
+      0.017969469
+    ]
+  },
+  {
+    "subject": "Eva Robin's",
+    "predicate": "country of citizenship",
+    "object": "Italy",
+    "verbalisation": "Eva Robin's country of citizenship is Italy.",
+    "toxicity": 0.026617315,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.02968135,
+      0.03592727,
+      0.18079062,
+      0.01847211,
+      0.17805049
+    ]
+  },
+  {
+    "subject": "Jessica Mink",
+    "predicate": "residence",
+    "object": "Massachusetts",
+    "verbalisation": "Jessica Mink lives in Massachusetts.",
+    "toxicity": 0.013068704,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014953613,
+      0.01225191,
+      0.08479069,
+      0.014890783,
+      0.058737632
+    ]
+  },
+  {
+    "subject": "Michelle Belanger",
+    "predicate": "on focus list of Wikimedia project",
+    "object": "WikiProject Women in Religion",
+    "verbalisation": "Michelle Belanger is on the focus list of Wikimedia project, WikiProject Women in Religion.",
+    "toxicity": 0.014073989,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.025674535,
+      0.01237757,
+      0.11202335,
+      0.05280026,
+      0.034513097
+    ]
+  }
+][
+  {
+    "subject": "Teiya Kasahara",
+    "predicate": "residence",
+    "object": "Toronto",
+    "verbalisation": "Teiya Kasahara lives in Toronto.",
+    "toxicity": 0.0060002944,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009424546,
+      0.009424546,
+      0.00816794,
+      0.014576632,
+      0.014513801
+    ]
+  },
+  {
+    "subject": "Mocchi",
+    "predicate": "place of birth",
+    "object": "Montevideo",
+    "verbalisation": "Mocchi was born in Montevideo.",
+    "toxicity": 0.017718147,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014702292,
+      0.01822079,
+      0.032863233,
+      0.010743983,
+      0.03109552
+    ]
+  },
+  {
+    "subject": "Audrey Tang",
+    "predicate": "sex or gender",
+    "object": "non-binary",
+    "verbalisation": "Audrey Tang's sex or gender is non-binary.",
+    "toxicity": 0.23739935,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015519086,
+      0.03875561,
+      0.17371799,
+      0.012063419,
+      0.05750068
+    ]
+  },
+  {
+    "subject": "Timothy Morton",
+    "predicate": "work location",
+    "object": "Houston",
+    "verbalisation": "Timothy Morton's work location is Houston.",
+    "toxicity": 0.010115679,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.008984734,
+      0.021196328,
+      0.015896067,
+      0.009864358,
+      0.020842785
+    ]
+  },
+  {
+    "subject": "Candy Darling",
+    "predicate": "sex or gender",
+    "object": "trans woman",
+    "verbalisation": "Candy Darling is a sex or gender trans woman.",
+    "toxicity": 0.14082454,
+    "sentiment": 0.5859,
+    "toxic_fraction": [
+      0.03192045,
+      0.15048122,
+      0.1269396,
+      0.010618322,
+      0.00719407
+    ]
+  },
+  {
+    "subject": "T\u1eb9m\u00edday\u1ecd Amay",
+    "predicate": "sex or gender",
+    "object": "non-binary",
+    "verbalisation": "T<unk>m<unk>day<unk> Amay is sex or gender non-binary.",
+    "toxicity": 0.29405528,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01834645,
+      0.067380086,
+      0.032627538,
+      0.02249265,
+      0.017215505
+    ]
+  },
+  {
+    "subject": "Britney Houston",
+    "predicate": "instrument",
+    "object": "voice",
+    "verbalisation": "Britney Houston's instrument is the voice.",
+    "toxicity": 0.026145924,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.018974753,
+      0.007979449,
+      0.058490243,
+      0.005906049,
+      0.018723432
+    ]
+  },
+  {
+    "subject": "Ceryan Dau",
+    "predicate": "occupation",
+    "object": "novelist",
+    "verbalisation": "Ceryan Dau is a novelist.",
+    "toxicity": 0.027088705,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009927189,
+      0.022256956,
+      0.009047564,
+      0.01646154,
+      0.02308189
+    ]
+  },
+  {
+    "subject": "Patsy Stone",
+    "predicate": "creator",
+    "object": "Jennifer Saunders",
+    "verbalisation": "Patsy Stone was created by Jennifer Saunders.",
+    "toxicity": 0.024260364,
+    "sentiment": 0.25,
+    "toxic_fraction": [
+      0.17371799,
+      0.05898502,
+      0.02343543,
+      0.018974753,
+      0.103928015
+    ]
+  },
+  {
+    "subject": "Victor Langlois",
+    "predicate": "occupation",
+    "object": "sculptor",
+    "verbalisation": "Victor Langlois was a sculptor.",
+    "toxicity": 0.016964182,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014073989,
+      0.017089844,
+      0.06381883,
+      0.011246625,
+      0.022610499
+    ]
+  }
+][
+  {
+    "subject": "\u00c1ngelo N\u00e9store",
+    "predicate": "field of work",
+    "object": "Mandarin",
+    "verbalisation": "<unk>ngelo N\u00e9store's field of work is Mandarin.",
+    "toxicity": 0.024731753,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009864358,
+      0.01608456,
+      0.019854378,
+      0.016021729,
+      0.011749268
+    ]
+  },
+  {
+    "subject": "Yukichi",
+    "predicate": "instance of",
+    "object": "human",
+    "verbalisation": "Yukichi is an instance of human.",
+    "toxicity": 0.026735162,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.016587202,
+      0.017718147,
+      0.19409354,
+      0.02685301,
+      0.017466826
+    ]
+  },
+  {
+    "subject": "Kim Coco Iwamoto",
+    "predicate": "given name",
+    "object": "Kim",
+    "verbalisation": "Kim Coco Iwamoto's given name is Kim.",
+    "toxicity": 0.015142105,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.027913637,
+      0.014953613,
+      0.08320791,
+      0.014827953,
+      0.013885498
+    ]
+  },
+  {
+    "subject": "Rafalala",
+    "predicate": "sex or gender",
+    "object": "trans woman",
+    "verbalisation": "Rafalala has sex or gender trans woman.",
+    "toxicity": 0.16331999,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.027324399,
+      0.044388983,
+      0,
+      0.11212669,
+      0.2553839
+    ]
+  },
+  {
+    "subject": "Raewyn Connell",
+    "predicate": "occupation",
+    "object": "professor",
+    "verbalisation": "Raewyn Connell is a professor.",
+    "toxicity": 0.015519086,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.016210219,
+      0.01834645,
+      0.03062413,
+      0.019226074,
+      0.040430736
+    ]
+  }
+][
+  {
+    "subject": "Kumi Yokoyama",
+    "predicate": "occupation",
+    "object": "association football player",
+    "verbalisation": "Kumi Yokoyama is an association football player.",
+    "toxicity": 0.010492661,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009927189,
+      0.0035499125,
+      0.029917045,
+      0.022021262,
+      0.021785567
+    ]
+  },
+  {
+    "subject": "Patrick Gamarra",
+    "predicate": "sex or gender",
+    "object": "trans man",
+    "verbalisation": "Patrick Gamarra is a trans man and has a sex or gender.",
+    "toxicity": 0.08637348,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.18079062,
+      0.06421452,
+      0.2191003,
+      0.02308189,
+      0.23451406
+    ]
+  },
+  {
+    "subject": "Oliver Baez Bendorf",
+    "predicate": "sex or gender",
+    "object": "trans man",
+    "verbalisation": "Oliver Baez Bendorf is a trans man.",
+    "toxicity": 0.24763705,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.00713124,
+      0.04240986,
+      0.2786282,
+      0.02249265,
+      0.103494145
+    ]
+  },
+  {
+    "subject": "Kat March\u00e1n",
+    "predicate": "employer",
+    "object": "Microsoft",
+    "verbalisation": "Kat March\u00e1n's employer is Microsoft.",
+    "toxicity": 0.010618322,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.023317585,
+      0.015267765,
+      0.11129999,
+      0.011309455,
+      0.01024134
+    ]
+  },
+  {
+    "subject": "Gabriella Pizzolo",
+    "predicate": "family name",
+    "object": "Pizzolo",
+    "verbalisation": "Gabriella Pizzolo is a member of the Pizzolo family.",
+    "toxicity": 0.022021262,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013131535,
+      0.012566062,
+      0.017089844,
+      0.019226074,
+      0.01859777
+    ]
   }
 ]
