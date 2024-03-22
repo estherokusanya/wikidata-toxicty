@@ -44998,8 +44998,7 @@
       0.11161,
       0.024731753
     ]
-  }
-][
+  },
   {
     "subject": "Franziska Brantner",
     "predicate": "member of",
@@ -45149,8 +45148,7 @@
       0.021903414,
       0.013005874
     ]
-  }
-][
+  },
   {
     "subject": "Louise of Mecklenburg-G\u00fcstrow",
     "predicate": "sibling",
@@ -45225,8 +45223,7 @@
       0.07212844,
       0.02308189
     ]
-  }
-][
+  },
   {
     "subject": "Inge Helten",
     "predicate": "family name",
@@ -45300,6 +45297,1208 @@
       0.03592727,
       0.011372286,
       0.017089844
+    ]
+  }
+][
+  {
+    "subject": "Jeanne Villepreux-Power",
+    "predicate": "family name",
+    "object": "Power",
+    "verbalisation": "Jeanne Villepreux-Power is a member of the Power family.",
+    "toxicity": 0.038519915,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014765122,
+      0.026735162,
+      0.044636376,
+      0.010492661,
+      0.030741978
+    ]
+  },
+  {
+    "subject": "Gertrude Scharff Goldhaber",
+    "predicate": "educated at",
+    "object": "Ludwig Maximilian University of Munich",
+    "verbalisation": "Gertrude Scharff Goldhaber was educated at the Ludwig Maximilian University of Munich.",
+    "toxicity": 0.023553278,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01426248,
+      0.013257195,
+      0.033806015,
+      0.016838523,
+      0.040183347
+    ]
+  },
+  {
+    "subject": "Atiye",
+    "predicate": "occupation",
+    "object": "songwriter",
+    "verbalisation": "Atiye is a songwriter.",
+    "toxicity": 0.015393426,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01426248,
+      0.017718147,
+      0.05750068,
+      0.01834645,
+      0.012566062
+    ]
+  },
+  {
+    "subject": "Benita Ferrero-Waldner",
+    "predicate": "languages spoken, written or signed",
+    "object": "German",
+    "verbalisation": "Benita Ferrero-Waldner speaks, writes or signed German.",
+    "toxicity": 0.024142517,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.034041706,
+      0.009424546,
+      0.15269235,
+      0.025203144,
+      0.09308127
+    ]
+  },
+  {
+    "subject": "Erika Pluhar",
+    "predicate": "sibling",
+    "object": "Ingeborg G. Pluhar",
+    "verbalisation": "Erika Pluhar's sibling is Ingeborg G. Pluhar.",
+    "toxicity": 0.008670582,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01225191,
+      0.014953613,
+      0.3666224,
+      0.02249265,
+      0.019100413
+    ]
+  },
+  {
+    "subject": "Dana Wynter",
+    "predicate": "cause of death",
+    "object": "heart failure",
+    "verbalisation": "Dana Wynter died of heart failure.",
+    "toxicity": 0.09481675,
+    "sentiment": -0.7845,
+    "toxic_fraction": [
+      0.009424546,
+      0.010492661,
+      0.09611836,
+      0.13908891,
+      0.020607091
+    ]
+  },
+  {
+    "subject": "Rebecca Black",
+    "predicate": "occupation",
+    "object": "YouTuber",
+    "verbalisation": "Rebecca Black is a YouTuber.",
+    "toxicity": 0.050821137,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.031684756,
+      0.034748793,
+      0.034277402,
+      0.020842785,
+      0.019226074
+    ]
+  },
+  {
+    "subject": "Elisabeth Christine of Brunswick-Wolfenb\u00fcttel",
+    "predicate": "position held",
+    "object": "consort",
+    "verbalisation": "Elisabeth Christine of Brunswick-Wolfenb\u00fcttel is a consort.",
+    "toxicity": 0.11181668,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015016444,
+      0.026617315,
+      0.049089402,
+      0.053295042,
+      0.029092113
+    ]
+  },
+  {
+    "subject": "Amalie Auguste of Bavaria",
+    "predicate": "child",
+    "object": "Archduchess Margaretha, Archduchess Karl Ludwig of Austria",
+    "verbalisation": "Amalie Auguste of Bavaria is the child of Archduchess Margaretha and Archduchess Karl Ludwig of Austria.",
+    "toxicity": 0.02308189,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.016712861,
+      0.015519086,
+      0.05725329,
+      0.017215505,
+      0.028974265
+    ]
+  },
+  {
+    "subject": "Alena Leonova",
+    "predicate": "occupation",
+    "object": "figure skater",
+    "verbalisation": "Alena Leonova is a figure skater.",
+    "toxicity": 0.16591948,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010806813,
+      0.027206551,
+      0.041915078,
+      0.015896067,
+      0.008670582
+    ]
+  },
+  {
+    "subject": "Sappho",
+    "predicate": "described by source",
+    "object": "1870 Dictionary of Greek and Roman Biography and Mythology",
+    "verbalisation": "Sappho is described by source in the 1870 Dictionary of Greek and Roman Biography and Mythology.",
+    "toxicity": 0.00609454,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.027913637,
+      0.045625936,
+      0.03357032,
+      0.026970858,
+      0.15269235
+    ]
+  },
+  {
+    "subject": "Queen Paola of Belgium",
+    "predicate": "country of citizenship",
+    "object": "Belgium",
+    "verbalisation": "Queen Paola of Belgium is a citizen of Belgium.",
+    "toxicity": 0.019226074,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0137598375,
+      0.021667719,
+      0.31825066,
+      0.013382856,
+      0.01646154
+    ]
+  },
+  {
+    "subject": "Emily Dickinson",
+    "predicate": "relative",
+    "object": "Martha Dickinson Bianchi",
+    "verbalisation": "Martha Dickinson Bianchi is a relative of Emily Dickinson.",
+    "toxicity": 0.048099842,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.019226074,
+      0.013005874,
+      0.03875561,
+      0.02685301,
+      0.017843807
+    ]
+  },
+  {
+    "subject": "Julia Franck",
+    "predicate": "sex or gender",
+    "object": "female",
+    "verbalisation": "Julia Franck's sex or gender is female.",
+    "toxicity": 0.1537979,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017969469,
+      0.05651112,
+      0.19314334,
+      0.050573748,
+      0.03357032
+    ]
+  },
+  {
+    "subject": "Felicitas Woll",
+    "predicate": "sex or gender",
+    "object": "female",
+    "verbalisation": "Felicitas Woll's sex or gender is female.",
+    "toxicity": 0.17631748,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015519086,
+      0.049089402,
+      0.5532103,
+      0.02249265,
+      0.10696511
+    ]
+  },
+  {
+    "subject": "Verena von Strenge",
+    "predicate": "different from",
+    "object": "Verena",
+    "verbalisation": "Verena von Strenge is different from Verena.",
+    "toxicity": 0.017466826,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.017592486,
+      0.01608456,
+      0.3047732,
+      0.04711028,
+      0.026499467
+    ]
+  },
+  {
+    "subject": "Rose Ausl\u00e4nder",
+    "predicate": "field of work",
+    "object": "poetry",
+    "verbalisation": "Rose Ausl\u00e4nder's field of work is poetry.",
+    "toxicity": 0.013257195,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.018974753,
+      0.017718147,
+      0.11098998,
+      0.036870047,
+      0.15048122
+    ]
+  },
+  {
+    "subject": "Hanna Schygulla",
+    "predicate": "languages spoken, written or signed",
+    "object": "German",
+    "verbalisation": "Hanna Schygulla speaks, writes or signed German.",
+    "toxicity": 0.032863233,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.02638162,
+      0.018095128,
+      0.01847211,
+      0.014136819,
+      0.026970858
+    ]
+  },
+  {
+    "subject": "Louise Johnson",
+    "predicate": "employer",
+    "object": "University of Oxford",
+    "verbalisation": "Louise Johnson is an employee of the University of Oxford.",
+    "toxicity": 0.008984734,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.007696713,
+      0.013634177,
+      0.026617315,
+      0.02249265,
+      0.009110395
+    ]
+  },
+  {
+    "subject": "Auguste Schmidt",
+    "predicate": "languages spoken, written or signed",
+    "object": "German",
+    "verbalisation": "German is spoken, written or signed by Auguste Schmidt.",
+    "toxicity": 0.029445656,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.018974753,
+      0.03828422,
+      0.033334624,
+      0.026499467,
+      0.02968135
+    ]
+  },
+  {
+    "subject": "Esther Szekeres",
+    "predicate": "family name",
+    "object": "Szekeres",
+    "verbalisation": "Esther Szekeres is a member of the Szekeres family.",
+    "toxicity": 0.014827953,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0137598375,
+      0.014136819,
+      0.14950264,
+      0.02249265,
+      0.03828422
+    ]
+  },
+  {
+    "subject": "Evelin Lindner",
+    "predicate": "sex or gender",
+    "object": "female",
+    "verbalisation": "Evelin Lindner's sex or gender is female.",
+    "toxicity": 0.17025198,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.16331999,
+      0.04785245,
+      0.30136615,
+      0.15932569,
+      0.091913216
+    ]
+  },
+  {
+    "subject": "Rebecca Black",
+    "predicate": "occupation",
+    "object": "singer",
+    "verbalisation": "Rebecca Black is a singer.",
+    "toxicity": 0.019603057,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.023199737,
+      0.02920996,
+      0.026145924,
+      0.038519915,
+      0.018849092
+    ]
+  },
+  {
+    "subject": "Franziska Weber",
+    "predicate": "participant in",
+    "object": "canoeing at the 2012 Summer Olympics \u2013 women's K-4 500 metres",
+    "verbalisation": "Franziska Weber was a participant in canoeing at the 2012 Summer Olympics \u2013 women's K-4 500 metres.",
+    "toxicity": 0.000500679,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014136819,
+      0.016021729,
+      0.011120965,
+      0.015707577,
+      0.019980038
+    ]
+  },
+  {
+    "subject": "Countess Palatine Hedwig Elisabeth of Neuburg",
+    "predicate": "sex or gender",
+    "object": "female",
+    "verbalisation": "Countess Palatine Hedwig Elisabeth of Neuburg has a sex or gender of female.",
+    "toxicity": 0.034513097,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.010806813,
+      0.07450261,
+      0.09655223,
+      0.20705862,
+      0.023553278
+    ]
+  },
+  {
+    "subject": "Kathryn P. Hire",
+    "predicate": "educated at",
+    "object": "Florida Institute of Technology",
+    "verbalisation": "Kathryn P. Hire was educated at the Florida Institute of Technology.",
+    "toxicity": 0.0065657673,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011372286,
+      0.009236055,
+      0.03062413,
+      0.005309161,
+      0.009487377
+    ]
+  },
+  {
+    "subject": "Gudrun Wagner",
+    "predicate": "spouse",
+    "object": "Wolfgang Wagner",
+    "verbalisation": "Gudrun Wagner's spouse is Wolfgang Wagner.",
+    "toxicity": 0.031449065,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.023553278,
+      0.024260364,
+      0.04735767,
+      0.029327808,
+      0.023671126
+    ]
+  },
+  {
+    "subject": "Isabella Teotochi Albrizzi",
+    "predicate": "family name",
+    "object": "Albrizzi",
+    "verbalisation": "Isabella Teotochi Albrizzi is from the family name Albrizzi.",
+    "toxicity": 0.012691722,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011560776,
+      0.011435116,
+      0.2854699,
+      0.012880214,
+      0.010492661
+    ]
+  },
+  {
+    "subject": "Alodia Gosiengfiao",
+    "predicate": "occupation",
+    "object": "model",
+    "verbalisation": "Alodia Gosiengfiao is a model.",
+    "toxicity": 0.009361716,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.014827953,
+      0.013948329,
+      0.10956833,
+      0.008921904,
+      0.013320025
+    ]
+  },
+  {
+    "subject": "Susan J. Helms",
+    "predicate": "award received",
+    "object": "Colorado Women's Hall of Fame",
+    "verbalisation": "Susan J. Helms won an award at the Colorado Women's Hall of Fame.",
+    "toxicity": 0.002340429,
+    "sentiment": 0.8779,
+    "toxic_fraction": [
+      0.008859074,
+      0.0074139764,
+      0.00823077,
+      0.015016444,
+      0.010806813
+    ]
+  }
+][
+  {
+    "subject": "Genelia D'Souza",
+    "predicate": "award received",
+    "object": "Filmfare Awards South",
+    "verbalisation": "Genelia D'Souza won the Filmfare Awards South.",
+    "toxicity": 0.0076338826,
+    "sentiment": 0.7717,
+    "toxic_fraction": [
+      0.008419261,
+      0.01225191,
+      0.012314741,
+      0.011435116,
+      0.009487377
+    ]
+  },
+  {
+    "subject": "Meryl Streep",
+    "predicate": "educated at",
+    "object": "Bernards High School",
+    "verbalisation": "Meryl Streep was educated at Bernards High School.",
+    "toxicity": 0.022374803,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011058134,
+      0.016021729,
+      0.013885498,
+      0.014953613,
+      0.008105109
+    ]
+  },
+  {
+    "subject": "Princess Marie Auguste of Anhalt",
+    "predicate": "member of political party",
+    "object": "Nazi Party",
+    "verbalisation": "Princess Marie Auguste of Anhalt is a member of the political party the Nazi Party.",
+    "toxicity": 0.20195828,
+    "sentiment": 0.6597,
+    "toxic_fraction": [
+      0.077668175,
+      0.18174082,
+      0.2854937,
+      0.22579013,
+      0.059974585
+    ]
+  },
+  {
+    "subject": "Sophie Rois",
+    "predicate": "award received",
+    "object": "Bavarian TV Awards",
+    "verbalisation": "Sophie Rois won the Bavarian TV Awards.",
+    "toxicity": 0.017466826,
+    "sentiment": 0.7717,
+    "toxic_fraction": [
+      0.0076338826,
+      0.013068704,
+      0.023788974,
+      0.016210219,
+      0.022256956
+    ]
+  },
+  {
+    "subject": "Carola of Vasa",
+    "predicate": "position held",
+    "object": "Consort of Saxony",
+    "verbalisation": "Carola of Vasa is a Consort of Saxony.",
+    "toxicity": 0.09655223,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.021667719,
+      0.029092113,
+      0.045873325,
+      0.02249265,
+      0.034513097
+    ]
+  },
+  {
+    "subject": "Christa Zechmeister",
+    "predicate": "sex or gender",
+    "object": "female",
+    "verbalisation": "Christa Zechmeister's sex or gender is female.",
+    "toxicity": 0.15600902,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.112333365,
+      0.09033044,
+      0.25462922,
+      0.11078331,
+      0.19029272
+    ]
+  },
+  {
+    "subject": "Monika Treut",
+    "predicate": "writing language",
+    "object": "German",
+    "verbalisation": "Monika Treut writes in German.",
+    "toxicity": 0.017592486,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.027677942,
+      0.020231359,
+      0.015330595,
+      0.05280026,
+      0.021196328
+    ]
+  },
+  {
+    "subject": "Lisa Brennauer",
+    "predicate": "languages spoken, written or signed",
+    "object": "German",
+    "verbalisation": "Lisa Brennauer speaks, writes or signs German.",
+    "toxicity": 0.023199737,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.022964042,
+      0.026617315,
+      0.05230548,
+      0.02685301,
+      0.01834645
+    ]
+  },
+  {
+    "subject": "Julia Stinshoff",
+    "predicate": "occupation",
+    "object": "film actor",
+    "verbalisation": "Julia Stinshoff is a film actor.",
+    "toxicity": 0.019603057,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.027560094,
+      0.011058134,
+      0.027560094,
+      0.018095128,
+      0.011497946
+    ]
+  },
+  {
+    "subject": "Magdalene of Bavaria",
+    "predicate": "native language",
+    "object": "German",
+    "verbalisation": "Magdalene of Bavaria's native language is German.",
+    "toxicity": 0.030388435,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.024260364,
+      0.020842785,
+      0.045378547,
+      0.34328604,
+      0.027913637
+    ]
+  },
+  {
+    "subject": "Kathleen Antonelli",
+    "predicate": "manner of death",
+    "object": "natural causes",
+    "verbalisation": "Kathleen Antonelli died of natural causes.",
+    "toxicity": 0.103060275,
+    "sentiment": -0.2732,
+    "toxic_fraction": [
+      0.009801528,
+      0.013131535,
+      0.026970858,
+      0.07291982,
+      0.022728346
+    ]
+  },
+  {
+    "subject": "Urania Mella Serrano",
+    "predicate": "occupation",
+    "object": "politician",
+    "verbalisation": "Urania Mella Serrano is a politician.",
+    "toxicity": 0.02072494,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01859777,
+      0.016587202,
+      0.030859824,
+      0.010869644,
+      0.011120965
+    ]
+  },
+  {
+    "subject": "Maria Antonia Walpurgis of Bavaria",
+    "predicate": "sibling",
+    "object": "Duchess Maria Anna Josepha of Bavaria",
+    "verbalisation": "Duchess Maria Anna Josepha of Bavaria is the sibling of Maria Antonia Walpurgis of Bavaria.",
+    "toxicity": 0.027088705,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01847211,
+      0.02449606,
+      0.083999306,
+      0.014702292,
+      0.011749268
+    ]
+  },
+  {
+    "subject": "Aria Giovanni",
+    "predicate": "birth name",
+    "object": "Cindy Ren\u00e9e Volk",
+    "verbalisation": "Aria Giovanni's birth name is Cindy Ren\u00e9e Volk.",
+    "toxicity": 0.0068485034,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.020842785,
+      0.019728716,
+      0.57271194,
+      0.01438814,
+      0.009550206
+    ]
+  },
+  {
+    "subject": "Grazia Deledda",
+    "predicate": "writing language",
+    "object": "Italian",
+    "verbalisation": "Grazia Deledda writes in Italian.",
+    "toxicity": 0.009173225,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013382856,
+      0.011120965,
+      0.119997114,
+      0.005780388,
+      0.03062413
+    ]
+  },
+  {
+    "subject": "Emil Marriot",
+    "predicate": "languages spoken, written or signed",
+    "object": "German",
+    "verbalisation": "The language spoken, written or signed by Emil Marriot is German.",
+    "toxicity": 0.03309893,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.0131943645,
+      0.032627538,
+      0.11419344,
+      0.015958898,
+      0.027442247
+    ]
+  },
+  {
+    "subject": "Ute Oberhoffner",
+    "predicate": "given name",
+    "object": "Ute",
+    "verbalisation": "The given name of Ute Oberhoffner is Ute.",
+    "toxicity": 0.017341165,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.016838523,
+      0.017466826,
+      0.015016444,
+      0.016712861,
+      0.016838523
+    ]
+  },
+  {
+    "subject": "Zarah Leander",
+    "predicate": "instrument",
+    "object": "violin",
+    "verbalisation": "Zarah Leander's instrument is the violin.",
+    "toxicity": 0.032863233,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.024378212,
+      0.058737632,
+      0.015581916,
+      0.021785567,
+      0.020231359
+    ]
+  },
+  {
+    "subject": "Anja Kling",
+    "predicate": "occupation",
+    "object": "film actor",
+    "verbalisation": "Anja Kling is a film actor.",
+    "toxicity": 0.01859777,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.02449606,
+      0.02402467,
+      0.0077281278,
+      0.025556687,
+      0.01024134
+    ]
+  },
+  {
+    "subject": "Dorothea Wieck",
+    "predicate": "place of death",
+    "object": "Berlin",
+    "verbalisation": "Dorothea Wieck died in Berlin.",
+    "toxicity": 0.049584184,
+    "sentiment": -0.5574,
+    "toxic_fraction": [
+      0.00823077,
+      0.03969839,
+      0.07608539,
+      0.028856417,
+      0.038519915
+    ]
+  },
+  {
+    "subject": "Trixi Worrack",
+    "predicate": "participant in",
+    "object": "2017 UCI Women's World Tour",
+    "verbalisation": "Trixi Worrack was a participant in the 2017 UCI Women's World Tour.",
+    "toxicity": 0.005026425,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009550206,
+      0.013571346,
+      0,
+      0.008796243,
+      0.030977672
+    ]
+  },
+  {
+    "subject": "Anne Anderson",
+    "predicate": "name in native language",
+    "object": "Anne Anderson",
+    "verbalisation": "Anne Anderson is a native speaker of the English language.",
+    "toxicity": 0.010743983,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011874928,
+      0.015330595,
+      0.023906821,
+      0.012754552,
+      0.011749268
+    ]
+  },
+  {
+    "subject": "Meryl Streep",
+    "predicate": "member of",
+    "object": "American Academy of Arts and Sciences",
+    "verbalisation": "Meryl Streep is a member of the American Academy of Arts and Sciences.",
+    "toxicity": 0.013382856,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009424546,
+      0.012126249,
+      0.020231359,
+      0.01225191,
+      0.03545588
+    ]
+  },
+  {
+    "subject": "Krystyna Feldman",
+    "predicate": "place of birth",
+    "object": "Lviv",
+    "verbalisation": "Krystyna Feldman was born in Lviv.",
+    "toxicity": 0.015204934,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015581916,
+      0.01608456,
+      0.14256015,
+      0.017341165,
+      0.015204934
+    ]
+  },
+  {
+    "subject": "Christa Kla\u00df",
+    "predicate": "native language",
+    "object": "German",
+    "verbalisation": "Christa Kla\u00df's native language is German.",
+    "toxicity": 0.031213367,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.040925518,
+      0.01847211,
+      0.029327808,
+      0.013005874,
+      0.02107848
+    ]
+  },
+  {
+    "subject": "Carol Greider",
+    "predicate": "member of",
+    "object": "American Association for the Advancement of Science",
+    "verbalisation": "Carol Greider is a member of the American Association for the Advancement of Science.",
+    "toxicity": 0.0068485034,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.007885204,
+      0.03062413,
+      0.015519086,
+      0.0109324735,
+      0.027442247
+    ]
+  },
+  {
+    "subject": "Meryl Streep",
+    "predicate": "award received",
+    "object": "Rungstedlund Award",
+    "verbalisation": "Meryl Streep won the Rungstedlund Award.",
+    "toxicity": 0.022021262,
+    "sentiment": 0.802,
+    "toxic_fraction": [
+      0.01834645,
+      0.030388435,
+      0.07371122,
+      0.01024134,
+      0.011372286
+    ]
+  },
+  {
+    "subject": "Margarete Jonas",
+    "predicate": "spouse",
+    "object": "Franz Jonas",
+    "verbalisation": "Margarete Jonas is the spouse of Franz Jonas.",
+    "toxicity": 0.028149333,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.013571346,
+      0.0154562555,
+      0.13214645,
+      0.021903414,
+      0.01847211
+    ]
+  },
+  {
+    "subject": "Grazia Deledda",
+    "predicate": "award received",
+    "object": "Nobel Prize in Literature",
+    "verbalisation": "Grazia Deledda won the Nobel Prize in Literature.",
+    "toxicity": 0.011623607,
+    "sentiment": 0.7906,
+    "toxic_fraction": [
+      0.017215505,
+      0.011560776,
+      0.13041082,
+      0.03969839,
+      0.034748793
+    ]
+  },
+  {
+    "subject": "Anna W\u00f6rner",
+    "predicate": "sport",
+    "object": "alpine skiing",
+    "verbalisation": "Anna W\u00f6rner's sport is alpine skiing.",
+    "toxicity": 0.0201057,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.006754258,
+      0.024967449,
+      0.027913637,
+      0.015519086,
+      0.026970858
+    ]
+  },
+  {
+    "subject": "Bilkay \u00d6ney",
+    "predicate": "sex or gender",
+    "object": "female",
+    "verbalisation": "Bilkay <unk>ney's sex or gender is female.",
+    "toxicity": 0.27236435,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.03592727,
+      0.045131154,
+      0.029445656,
+      0.1460314,
+      0.11150667
+    ]
+  },
+  {
+    "subject": "Tess Gerritsen",
+    "predicate": "field of work",
+    "object": "thriller",
+    "verbalisation": "Tess Gerritsen's field of work is thriller.",
+    "toxicity": 0.23415339,
+    "sentiment": 0.1027,
+    "toxic_fraction": [
+      0.012566062,
+      0.01225191,
+      0.0926474,
+      0.03875561,
+      0.013005874
+    ]
+  },
+  {
+    "subject": "Natalia Pavlova",
+    "predicate": "award received",
+    "object": "Honoured Coach of Russia",
+    "verbalisation": "Natalia Pavlova was awarded the Honoured Coach of Russia award.",
+    "toxicity": 0.01017851,
+    "sentiment": 0.8555,
+    "toxic_fraction": [
+      0.005340576,
+      0.008796243,
+      0.032391842,
+      0.0074768066,
+      0.005089255
+    ]
+  },
+  {
+    "subject": "Princess Marie Auguste of Anhalt",
+    "predicate": "sibling",
+    "object": "Prince Wolfgang of Anhalt",
+    "verbalisation": "Princess Marie Auguste of Anhalt's sibling is Prince Wolfgang of Anhalt.",
+    "toxicity": 0.02308189,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.02107848,
+      0.018974753,
+      0.04834723,
+      0.02308189,
+      0.018849092
+    ]
+  },
+  {
+    "subject": "Kim Il-yeop",
+    "predicate": "occupation",
+    "object": "autobiographer",
+    "verbalisation": "Kim Il-yeop is an autobiographer.",
+    "toxicity": 0.027442247,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.02779579,
+      0.015079274,
+      0.05651112,
+      0.015958898,
+      0.015330595
+    ]
+  },
+  {
+    "subject": "Rosi Mittermaier",
+    "predicate": "child",
+    "object": "Felix Neureuther",
+    "verbalisation": "Rosi Mittermaier is a child of Felix Neureuther.",
+    "toxicity": 0.034984488,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015581916,
+      0.01419965,
+      0.056758508,
+      0.032627538,
+      0.020607091
+    ]
+  },
+  {
+    "subject": "Justine Siegemund",
+    "predicate": "work location",
+    "object": "Berlin",
+    "verbalisation": "Justine Siegemund's work location is Berlin.",
+    "toxicity": 0.030034892,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.025910228,
+      0.016838523,
+      0.031331215,
+      0.01646154,
+      0.011749268
+    ]
+  },
+  {
+    "subject": "Maureen Connolly",
+    "predicate": "victory",
+    "object": "1952 Wimbledon Championships \u2013 women's singles",
+    "verbalisation": "Maureen Connolly won the 1952 Wimbledon Championships \u2013 women's singles.",
+    "toxicity": 0.00031415155,
+    "sentiment": 0.7845,
+    "toxic_fraction": [
+      0.011058134,
+      0.010429831,
+      0.01646154,
+      0.009550206,
+      0.027677942
+    ]
+  },
+  {
+    "subject": "Selma Erge\u00e7",
+    "predicate": "country of citizenship",
+    "object": "Turkey",
+    "verbalisation": "Selma Erge\u00e7's country of citizenship is Turkey.",
+    "toxicity": 0.02873857,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.03545588,
+      0.010743983,
+      0.019980038,
+      0.0059688794,
+      0.029445656
+    ]
+  },
+  {
+    "subject": "Colette Audry",
+    "predicate": "place of death",
+    "object": "Issy-les-Moulineaux",
+    "verbalisation": "Colette Audry died in Issy-les-Moulineaux.",
+    "toxicity": 0.005340576,
+    "sentiment": -0.5574,
+    "toxic_fraction": [
+      0.011560776,
+      0.01608456,
+      0.009173225,
+      0.00079323264,
+      0.06065326
+    ]
+  },
+  {
+    "subject": "Hedwig of Saxony",
+    "predicate": "child",
+    "object": "Emma of Paris",
+    "verbalisation": "Hedwig of Saxony has a child called Emma of Paris.",
+    "toxicity": 0.030741978,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.025085296,
+      0.08320791,
+      0.054284602,
+      0.02249265,
+      0.031331215
+    ]
+  },
+  {
+    "subject": "Ursula Herking",
+    "predicate": "occupation",
+    "object": "film actor",
+    "verbalisation": "Ursula Herking is a film actor.",
+    "toxicity": 0.015896067,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.02072494,
+      0.01426248,
+      0.19314334,
+      0.02035702,
+      0.020231359
+    ]
+  },
+  {
+    "subject": "Juliana Hatfield",
+    "predicate": "educated at",
+    "object": "Duxbury High School",
+    "verbalisation": "Juliana Hatfield was educated at Duxbury High School.",
+    "toxicity": 0.011497946,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.009550206,
+      0.02402467,
+      0.04760506,
+      0.02249265,
+      0.013068704
+    ]
+  },
+  {
+    "subject": "Paula von Preradovi\u0107",
+    "predicate": "country of citizenship",
+    "object": "Austria",
+    "verbalisation": "Paula von Preradovi<unk>'s country of citizenship is Austria.",
+    "toxicity": 0.041172907,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.026145924,
+      0.009675868,
+      0.08953904,
+      0.02779579,
+      0.024613906
+    ]
+  },
+  {
+    "subject": "Lena M\u00f6llers",
+    "predicate": "occupation",
+    "object": "volleyball player",
+    "verbalisation": "Lena M\u00f6llers is a volleyball player.",
+    "toxicity": 0.016021729,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.011812098,
+      0.010869644,
+      0.033334624,
+      0.07371122,
+      0.008293601
+    ]
+  },
+  {
+    "subject": "Veronika Neugebauer",
+    "predicate": "occupation",
+    "object": "singer",
+    "verbalisation": "Veronika Neugebauer is a singer.",
+    "toxicity": 0.020842785,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.018849092,
+      0.018723432,
+      0.01218908,
+      0.015519086,
+      0.017843807
+    ]
+  },
+  {
+    "subject": "Bettie Page",
+    "predicate": "languages spoken, written or signed",
+    "object": "English",
+    "verbalisation": "Bettie Page speaks, writes or signed English.",
+    "toxicity": 0.015581916,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.01218908,
+      0.011246625,
+      0.21374844,
+      0.012880214,
+      0.09655223
+    ]
+  },
+  {
+    "subject": "Iris Tabeling",
+    "predicate": "participant in",
+    "object": "2012 Dutch Badminton Championships \u2013 women's doubles",
+    "verbalisation": "Iris Tabeling was a participant in the 2012 Dutch Badminton Championships \u2013 women's doubles.",
+    "toxicity": 0.00032985912,
+    "sentiment": 0.4939,
+    "toxic_fraction": [
+      0.010995304,
+      0.012943043,
+      0.022139108,
+      0.016587202,
+      0.010429831
+    ]
+  },
+  {
+    "subject": "Sabine Busch",
+    "predicate": "sex or gender",
+    "object": "female",
+    "verbalisation": "Sabine Busch's sex or gender is female.",
+    "toxicity": 0.16331999,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.015896067,
+      0.054779384,
+      0.30527395,
+      0.022021262,
+      0.091913216
+    ]
+  },
+  {
+    "subject": "Katrin Himmler",
+    "predicate": "sex or gender",
+    "object": "female",
+    "verbalisation": "Katrin Himmler's sex or gender is female.",
+    "toxicity": 0.32712606,
+    "sentiment": 0.0,
+    "toxic_fraction": [
+      0.14256015,
+      0.112540044,
+      0,
+      0.20219094,
+      0.07371122
     ]
   }
 ]

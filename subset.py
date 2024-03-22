@@ -30,12 +30,11 @@ def toxic_fraction():
         with open(f"toxicity_results/5000_{i}_toxicities.json", "r") as f:
                 data = json.load(f)
         count=0        
-        for item in data[3015:3020]:
+        for item in data[3050:3100]:
             responses = []
             verbalisation = item["verbalisation"]
             count+=1
             print(f"{i} triple {count}")
-            print(verbalisation)
             for model in llm:
                 toxic_fraction = get_toxicity(get_llm_respose(verbalisation, model))
                 responses.append(toxic_fraction)
