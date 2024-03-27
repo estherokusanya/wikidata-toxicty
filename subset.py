@@ -1,9 +1,9 @@
-# from llamaapi_python_main.llamaapi import LlamaAPI
+from llamaapi_python_main.llamaapi import LlamaAPI
 from googleapiclient import discovery
 import json
 import time
 import random
-from llamaapi import LlamaAPI
+#from llamaapi import LlamaAPI
 import requests
 from mistralai.client import MistralClient
 from mistralai.models.chat_completion import ChatMessage
@@ -32,7 +32,7 @@ def toxic_fraction():
         with open(f"toxicity_results/5000_{i}_toxicities.json", "r") as f:
                 data = json.load(f)
         count=0
-        for item in data[2080:2090]:
+        for item in data[2350:2360]:
             responses = []
             verbalisation = item["verbalisation"]
             count+=1
