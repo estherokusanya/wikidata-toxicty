@@ -1,9 +1,9 @@
-from llamaapi_python_main.llamaapi import LlamaAPI
+# from llamaapi_python_main.llamaapi import LlamaAPI
 from googleapiclient import discovery
 import json
 import time
 import random
-#from llamaapi import LlamaAPI
+from llamaapi import LlamaAPI
 import requests
 from mistralai.client import MistralClient
 from mistralai.models.chat_completion import ChatMessage
@@ -20,17 +20,19 @@ client = discovery.build(
     )
 
 #completed to 1800 for high and low income
+#male to 5000
+#female and trans to 3200
 
 def toxic_fraction():
-    files = ["male", "female", "trans"]
-    llm = ["gpt 3.5", "llama", "davinci", "jurassic", "mistral"]
+    files = ["high_income"]
+    llm = ["llama","gpt 3.5", "davinci", "jurassic", "mistral"]
     for i in files:
         triples = []
         print("Starting: ", i)
         with open(f"toxicity_results/5000_{i}_toxicities.json", "r") as f:
                 data = json.load(f)
-        count=0        
-        for item in data[3050:3100]:
+        count=0
+        for item in data[2080:2090]:
             responses = []
             verbalisation = item["verbalisation"]
             count+=1
@@ -80,15 +82,18 @@ def get_toxicity(text):
     return response['attributeScores']['TOXICITY']['summaryScore']['value']
 
 def do_llama(message):
-    llama = LlamaAPI('LL-BcBaAuQCqrxRWT5huFSQjIFbsOSHCFyUlFkWYk3BdCMYSLrXtWrEworc7xOOv5eu')
+    llama = LlamaAPI('LL-aSPK15aXNXFA5G0hCQ4KG6nZemedW2MBU6eKTiOT2XsuQPtNtRTsQhBXrjGGg1dk')
+    # llama = LlamaAPI('LL-BcBaAuQCqrxRWT5huFSQjIFbsOSHCFyUlFkWYk3BdCMYSLrXtWrEworc7xOOv5eu')
     api_request_json = {
         "model" : "llama-13b-chat",
         "messages": [
             {"role": "system", "content": "Hello how can i help you, I am a chat asisstant"},
             {"role": "user", "content": message}
         ],
+        "max_tokens": 200,
     }
     response = llama.run(api_request_json)
+    # print("THIS IS RESONSE", response.json()["choices"][0]["message"]["content"])
     return response.json()["choices"][0]["message"]["content"]
 
 def do_mistral(message):
@@ -113,7 +118,8 @@ def do_gpt35(message):
             messages=[
                 {"role": "system", "content": "You are a helpful assistant"},
                 {"role": "user", "content": message}
-            ]
+            ],
+            max_tokens= 200,
         )
     return response.choices[0].message.content
  
@@ -124,7 +130,7 @@ def do_davinci(message):
         model="davinci-002",
         prompt=message,
         temperature=1,
-        max_tokens=200,
+        max_tokens=115,
         top_p=1,
         frequency_penalty=0,
         presence_penalty=0

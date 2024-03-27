@@ -26999,4 +26999,20 @@
       0.022964042
     ]
   }
+][
+  {
+    "subject": "Rwanda",
+    "predicate": "top-level Internet domain",
+    "object": ".rw",
+    "verbalisation": "The top level Internet domain for Rwanda is.rw.",
+    "toxicity": 0.020607091,
+    "sentiment": 0.2023,
+    "toxic_fraction": [
+      0.01633588,
+      0.011058134,
+      0.030034892,
+      0.015644746,
+      0.0072569004
+    ]
+  }
 ]

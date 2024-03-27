@@ -4,7 +4,7 @@ import json
 import random
 
 #files = ["female", "high_income", "low_income", "male", "trans"]
-files = ["female"]
+files = ["male"]
 
 def combine_verbalisations(file, graph_size):
     with open(f"new_5000_{file}_toxicities.json", "r") as f:
