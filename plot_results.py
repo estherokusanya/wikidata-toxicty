@@ -11,7 +11,7 @@ def scatter_plot():
         "trans": "orange"
     }
     #files = ["trans", "female", "male"]
-    files = ["female"]
+    files = ["trans"]
 
     for file in files:
         with open(f"new_5000_{file}_toxicities.json", "r") as f:
@@ -32,9 +32,37 @@ def scatter_plot():
         plt.grid()
     plt.show()
 
+def plot_toxicity_sentiment():
+    colours = {
+        "male": "blue",
+        "female": "red",
+        "trans": "orange"
+    }
+    #files = ["trans", "female", "male"]
+    files = ["male", "female", "trans"]
+
+    for file in files:
+        with open(f"new_5000_{file}_toxicities.json", "r") as f:
+            data = json.load(f)
+        x = []
+        y = []
+        for item in data:
+            x.append(item["toxicity"])
+            y.append(item["sentiment"])
+
+        # fig, ax = plt.subplots(subplot_kw={"projection": "3d"})
+        plt.scatter(x, y, c=colours[file], s = 4)
+    plt.xlabel('toxicity')
+    plt.ylabel('sentiment')
+
+    plt.title(f' Toxicity to Sentiment')
+    plt.grid()
+    plt.show()
+
+plot_toxicity_sentiment()
 
 def box_plot():
-    files = ["male", "trans"]
+    files = ["male", "trans", "female"]
     labels = []
     colors = ["green", "green", "blue", "blue"] 
     data = []
@@ -49,7 +77,7 @@ def box_plot():
     
     red_square = dict(markerfacecolor='r', marker='s')
     fig5, ax5 = plt.subplots(figsize=(10, 6))
-    ax5.set_title(f'{file.capitalize()} Boxplot')
+    ax5.set_title(f'Boxplot')
     boxplots = ax5.boxplot(data, 
                            vert=False, 
                            flierprops=red_square, 
@@ -69,7 +97,6 @@ def box_plot():
 
     plt.show()
     
-box_plot()
 
 ##########mapping each file to it's owen 3d grid################
 # for file in files:

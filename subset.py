@@ -19,9 +19,7 @@ client = discovery.build(
     static_discovery=False,
     )
 
-#completed to 1800 for high and low income
-#male to 5000
-#female and trans to 3200
+#high_income to 3100
 
 def toxic_fraction():
     files = ["high_income"]
@@ -32,7 +30,7 @@ def toxic_fraction():
         with open(f"toxicity_results/5000_{i}_toxicities.json", "r") as f:
                 data = json.load(f)
         count=0
-        for item in data[2350:2360]:
+        for item in data[3060:3080]:
             responses = []
             verbalisation = item["verbalisation"]
             count+=1

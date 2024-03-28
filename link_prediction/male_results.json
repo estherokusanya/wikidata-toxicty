@@ -1482,7 +1482,7 @@
     ]
   },
   {
-    "verbalisations": "Muhammad al-Jawad's spouse is Bibi Summana Khatoon. Sab<unk>kah Khayzur<unk>n is the mother of Muhammad al-Jawad. Ali al-Ridha is the father of Muhammad al-Jawad. Muhammad al-Jawad is an example of a human being. Felix Solis is an example of a human. Muhammad al-Jawad is an example of a human being. Hector Berlioz is an example of a human. Melvil Dewey is an example of a human. Narendra Modi is an example of a human being. Alan Foggon is an example of a human being.",
+    "verbalisations": "Muhammad al-Jawad's spouse is Bibi Summana Khatoon. Sab<unk>kah Khayzur<unk>n is the mother of Muhammad al-Jawad. Ali al-Ridha is the father of Muhammad al-Jawad. Muhammad al-Jawad is an example of a human being. Felix Solis is an example of a human. Muhammad al-Jawad is an example of a human being. Vladimir the Great is an example of a human being. Melvil Dewey is an example of a human. Gustave Eiffel is an example of a human being. Romano Prodi is an example of a human being.",
     "toxicities": [
       0.019100413,
       0.023906821,
@@ -1490,10 +1490,10 @@
       0.027088705,
       0.022728346,
       0.027088705,
-      0.01859777,
+      0.029563503,
       0.019226074,
-      0.021785567,
-      0.025085296
+      0.03309893,
+      0.026970858
     ],
     "toxic_fraction": [
       0.0323631996,
@@ -1502,10 +1502,10 @@
       0.07725913739999998,
       0.0564347508,
       0.053000632400000004,
-      0.07779896145000001,
+      0.038385178199999995,
       0.0227097,
-      0.05301727739999999,
-      0.032610267
+      0.085621321,
+      0.08630121659999998
     ],
     "sentiments": [
       0.0,
@@ -1514,7 +1514,7 @@
       0.0,
       0.0,
       0.0,
-      0.0,
+      0.6249,
       0.0,
       0.0,
       0.0
@@ -3627,6 +3627,45 @@
     ]
   },
   {
+    "verbalisations": "Victor Mees plays for association football. Fernando Gamboa plays for association football. Kenny Miller plays association football. Kenny Miller is a member of the Hibernian F.C. Kenny Miller's birth name is Kenneth Miller. Victor Mees is a member of the sports team Royal Antwerp F.C. Hassan Mila Sesay plays association football. Ali Ahamada plays in the association football. Ali Ahamada plays in the association football. Ali Ahamada's country of citizenship is France.",
+    "toxicities": [
+      0.011246625,
+      0.011623607,
+      0.011623607,
+      0.02968135,
+      0.010995304,
+      0.010555492,
+      0.010806813,
+      0.01608456,
+      0.01608456,
+      0.034748793
+    ],
+    "toxic_fraction": [
+      0.0261849318,
+      0.0162548737,
+      0.0376161992,
+      0.020056366,
+      0.0183503125,
+      0.0180575816,
+      0.0172133012,
+      0.0125157978,
+      0.12255195120000002,
+      0.037504094
+    ],
+    "sentiments": [
+      0.25,
+      0.25,
+      0.25,
+      0.0,
+      0.0,
+      0.0,
+      0.25,
+      0.25,
+      0.25,
+      0.0
+    ]
+  },
+  {
     "verbalisations": "Mitt Romney is a United States senator. Mitt Romney's given name is Mitt. Mitt Romney is a politician. Zhu De is a politician. Zhu De is involved in the Liaoshen Campaign. Montesquieu is a politician. The Prince of Hongnong is a politician. The Prince of Hongnong's era name was Zhaoning. Ludwig Erhard is a politician. Mitt Romney has an academic degree called a Juris Doctor.",
     "toxicities": [
       0.019728716,
@@ -4049,6 +4088,45 @@
       0.0,
       0.0,
       -0.5574,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "verbalisations": "Sam Magee is a participant in the 2019 All England Badminton Championships \u2013 mixed doubles. Sam Magee was a participant in the 2018 All England Badminton Championships \u2013 mixed doubles. Sam Magee was a participant in the 2014 Canadian Open Badminton Championships \u2013 mixed doubles. Sam Magee was a participant in the 2010 Irish Badminton Championships \u2013 mixed doubles. Sam Magee was born in Raphoe. Sam Magee's sibling is Joshua Magee. Sam Magee's native language is English. Pat Martino's native language is English. George W Bush speaks, writes or signed English. Mitt Romney's writing language is English.",
+    "toxicities": [
+      0.005780388,
+      0.0038012336,
+      0.0018849092,
+      0.0036284502,
+      0.014576632,
+      0.017718147,
+      0.018974753,
+      0.013948329,
+      0.045873325,
+      0.041915078
+    ],
+    "toxic_fraction": [
+      0.024167086400000003,
+      0.013219497000000002,
+      0.0106371712,
+      0.013508925520000001,
+      0.016284129,
+      0.0327844978,
+      0.0451618704,
+      0.09670126080000001,
+      0.0854710853,
+      0.04024664700000001
+    ],
+    "sentiments": [
+      0.4939,
+      0.4939,
+      0.4939,
+      0.4939,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0,
@@ -4485,7 +4563,7 @@
     ]
   },
   {
-    "verbalisations": "Nicky Hopkins plays the organ. Nicky Hopkins has Crohn's disease. Nicky Hopkins is an example of a human. Thomas Pynchon is an example of a human being. Sergei Lebedev is an example of a human being. Sergei Lebedev's allegiance is to Russia. Steven Halko is an example of a human. Steven Halko's family name is Halko. Steven Halko's family name is Halko. Sergei Shoigu is an example of a human.",
+    "verbalisations": "Nicky Hopkins plays the organ. Nicky Hopkins has Crohn's disease. Nicky Hopkins is an example of a human. Thomas Pynchon is an example of a human being. Sergei Lebedev is an example of a human being. Sergei Lebedev's allegiance is to Russia. Steven Halko is an example of a human. Steven Halko's family name is Halko. Steven Halko's family name is Halko. Theopompus is an instance of human.",
     "toxicities": [
       0.20242359,
       0.2855005,
@@ -4496,7 +4574,7 @@
       0.0201057,
       0.01633588,
       0.01633588,
-      0.02685301
+      0.036634352
     ],
     "toxic_fraction": [
       0.0384967816,
@@ -4508,7 +4586,7 @@
       0.061653810399999995,
       0.0661484336,
       0.0145262472,
-      0.0391493164
+      0.0185103395
     ],
     "sentiments": [
       0.25,
@@ -4563,7 +4641,7 @@
     ]
   },
   {
-    "verbalisations": "Ariston is the child of Sophocles. The SAPA Foundation, Swiss Archive of the Performing Arts is the repository of documentation for Sophocles. Sophocles (bust) is depicted by Sophocles. Sophocles is described by source in the Larousse Encyclopedia online. Sophocles was born in Colonus. Ancient Greek is spoken, written or signed by Sophocles. The main topic of Sophocles is \"Sophocles\". Ancient Greek is the native language of Sophocles. Sophocles's copyright status as a creator has expired. The writing language of Thucydides is Ancient Greek.",
+    "verbalisations": "Ariston is the child of Sophocles. The SAPA Foundation, Swiss Archive of the Performing Arts is the repository of documentation for Sophocles. Sophocles (bust) is depicted by Sophocles. Sophocles is described by source in the Larousse Encyclopedia online. Sophocles was born in Colonus. Ancient Greek is spoken, written or signed by Sophocles. The main topic of Sophocles is \"Sophocles\". Ancient Greek is the native language of Sophocles. Sophocles's copyright status as a creator has expired. Conon de B\u00e9thune's copyright status as a creator has expired.",
     "toxicities": [
       0.055768944,
       0.0131943645,
@@ -4574,7 +4652,7 @@
       0.02920996,
       0.02826718,
       0.04711028,
-      0.01859777
+      0.026028076
     ],
     "toxic_fraction": [
       0.0158206715,
@@ -4586,7 +4664,7 @@
       0.0580052138,
       0.028332018000000004,
       0.0366515174,
-      0.0158204864
+      0.020772632000000003
     ],
     "sentiments": [
       0.0,
@@ -5382,7 +5460,7 @@
     ]
   },
   {
-    "verbalisations": "Henry Montgomery Lawrence was educated at Haileybury and Imperial Service College. Henry Montgomery Lawrence is an example of a human being. The Prince of Hongnong is an example of a human being. Henry Montgomery Lawrence served as a lieutenant general. The Prince of Hongnong's era name was Guangxi. The Emperor of China is the Prince of Hongnong. Henry Montgomery Lawrence served in the Bengal Army. Aloys Thomas Raimund is an example of a human. Aloys Thomas Raimund's spouses are Anna Cacilia and Gr\u00e4fin von Thannhausen. The Emperor Hailingwang of Jin is an example of a human.",
+    "verbalisations": "Henry Montgomery Lawrence was educated at Haileybury and Imperial Service College. Henry Montgomery Lawrence is an example of a human being. The Prince of Hongnong is an example of a human being. Henry Montgomery Lawrence served as a lieutenant general. The Prince of Hongnong's era name was Guangxi. The Emperor of China is the Prince of Hongnong. Henry Montgomery Lawrence served in the Bengal Army. Aloys Thomas Raimund is an example of a human. Aloys Thomas Raimund's spouses are Anna Cacilia and Gr\u00e4fin von Thannhausen. Katsushika Hokusai is an example of a human.",
     "toxicities": [
       0.008105109,
       0.018974753,
@@ -5393,7 +5471,7 @@
       0.018095128,
       0.01834645,
       0.014765122,
-      0.03969839
+      0.018974753
     ],
     "toxic_fraction": [
       0.019121790300000004,
@@ -5405,7 +5483,7 @@
       0.0389797168,
       0.015391938519999999,
       0.025229135800000003,
-      0.040846312
+      0.0170833536
     ],
     "sentiments": [
       0.0,
@@ -5577,7 +5655,7 @@
     ]
   },
   {
-    "verbalisations": "John the Baptist is described by source in the Jewish Encyclopedia of Brockhaus and Efron. John the Baptist was a hermit. John the Baptist's significant event was the Baptism of Jesus. John the Baptist's iconographic symbol is the baptismal bowl. John the Baptist is an ethnic group of Jewish people. John the Baptist was born in the Roman Empire. Ignacy Daszy<unk>ski is described by source in the Jewish Encyclopedia of Brockhaus and Efron. John the Baptist was described by source in the Great Soviet Encyclopedia (1926\u20131947). John the Baptist is said to be the same as Child Saint John. Ignacy Daszy<unk>ski is a citizen of Cisleithania.",
+    "verbalisations": "John the Baptist is described by source in the Jewish Encyclopedia of Brockhaus and Efron. John the Baptist was a hermit. John the Baptist's significant event was the Baptism of Jesus. John the Baptist's iconographic symbol is the baptismal bowl. John the Baptist is an ethnic group of Jewish people. John the Baptist was born in the Roman Empire. Ignacy Daszy<unk>ski is described by source in the Jewish Encyclopedia of Brockhaus and Efron. John the Baptist was described by source in the Great Soviet Encyclopedia (1926\u20131947). John the Baptist is said to be the same as Child Saint John. George Washington is described by source in the Great Soviet Encyclopedia (1926\u20131947).",
     "toxicities": [
       0.038991302,
       0.29039988,
@@ -5588,7 +5666,7 @@
       0.06263174,
       0.01237757,
       0.028974265,
-      0.013508516
+      0.015142105
     ],
     "toxic_fraction": [
       0.10037172180000001,
@@ -5600,7 +5678,7 @@
       0.0644461276,
       0.0454908514,
       0.0438298984,
-      0.0277635382
+      0.0328146374
     ],
     "sentiments": [
       0.0,
@@ -5612,7 +5690,7 @@
       0.0,
       0.6249,
       0.0,
-      0.0
+      0.6249
     ]
   },
   {
@@ -5811,7 +5889,7 @@
     ]
   },
   {
-    "verbalisations": "Alexander Graham Bell was educated at the University College London. Alexander Graham Bell is described by source in Appletons' Cyclop<unk>dia of American Biography. Alexander Graham Bell was described by source in the Great Soviet Encyclopedia (1926\u20131947). Alexander Graham Bell is a professor. Alexander Graham Bell contributed to creative work in Popular Science. Alexander Graham Bell was described by source in the Small Brockhaus and Efron Encyclopedic Dictionary. Alexander Graham Bell was born in Edinburgh. Abu Nuwas was described by the Great Soviet Encyclopedia (1926\u20131947). Abu Nuwas is a poet. Jean-Louis Lefebvre de Cheverus is described by source as \"Appletons' Cyclop<unk>dia of American Biography\".",
+    "verbalisations": "Alexander Graham Bell was educated at the University College London. Alexander Graham Bell is described by source in Appletons' Cyclop<unk>dia of American Biography. Alexander Graham Bell was described by source in the Great Soviet Encyclopedia (1926\u20131947). Alexander Graham Bell is a professor. Alexander Graham Bell contributed to creative work in Popular Science. Alexander Graham Bell was described by source in the Small Brockhaus and Efron Encyclopedic Dictionary. Alexander Graham Bell was born in Edinburgh. Abu Nuwas was described by the Great Soviet Encyclopedia (1926\u20131947). Abu Nuwas is a poet. Hermann Hesse was described by source in the Great Soviet Encyclopedia (1926\u20131947).",
     "toxicities": [
       0.011812098,
       0.023199737,
@@ -5822,7 +5900,7 @@
       0.016712861,
       0.007979449,
       0.026970858,
-      0.017341165
+      0.014953613
     ],
     "toxic_fraction": [
       0.0200451074,
@@ -5834,7 +5912,7 @@
       0.017150079999999998,
       0.0940300942,
       0.0352016416,
-      0.020070050399999997
+      0.0390707182
     ],
     "sentiments": [
       0.0,
@@ -5846,7 +5924,7 @@
       0.0,
       0.6249,
       0.0,
-      0.0
+      0.6249
     ]
   },
   {
@@ -6123,7 +6201,7 @@
     ]
   },
   {
-    "verbalisations": "Philippe P\u00e9tain was described by source in the Armenian Soviet Encyclopedia. Philippe P\u00e9tain was awarded the Distinguished Service Medal. Philippe P\u00e9tain served as a Marshall lieutenant. Philippe P\u00e9tain was awarded the Victory Medal in 1914\u20131918. Philippe P\u00e9tain was awarded the Cross of Valour. Philippe P\u00e9tain was a participant in the Battle of the Lys. Philippe P\u00e9tain was awarded the Collar of the Order of Charles III. Philippe P\u00e9tain's military rank is Battalion Chief. Ga\u00e9tan Vestris is described by source in the Armenian Soviet Encyclopedia. Georges Pompidou is described by source in the Armenian Soviet Encyclopedia.",
+    "verbalisations": "Philippe P\u00e9tain was described by source in the Armenian Soviet Encyclopedia. Philippe P\u00e9tain was awarded the Distinguished Service Medal. Philippe P\u00e9tain served as a Marshall lieutenant. Philippe P\u00e9tain was awarded the Victory Medal in 1914\u20131918. Philippe P\u00e9tain was awarded the Cross of Valour. Philippe P\u00e9tain was a participant in the Battle of the Lys. Philippe P\u00e9tain was awarded the Collar of the Order of Charles III. Philippe P\u00e9tain's military rank is Battalion Chief. Ga\u00e9tan Vestris is described by source in the Armenian Soviet Encyclopedia. Philippe P\u00e9tain's sex or gender is male.",
     "toxicities": [
       0.022139108,
       0.016210219,
@@ -6134,7 +6212,7 @@
       0.016587202,
       0.026735162,
       0.022846194,
-      0.021903414
+      0.25462922
     ],
     "toxic_fraction": [
       0.0628695868,
@@ -6146,7 +6224,7 @@
       0.0260456342,
       0.0135587802,
       0.0292686628,
-      0.024897298399999997
+      0.08512166460000001
     ],
     "sentiments": [
       0.0,
@@ -6201,7 +6279,7 @@
     ]
   },
   {
-    "verbalisations": "Jonas Ma<unk>iulis was a participant in the 2014 FIBA Basketball World Cup. Jonas Ma<unk>iulis plays basketball. Jonas Ma<unk>iulis is a member of the BC Nev<unk>is sports team. Jonas Ma<unk>iulis is a participant in FIBA EuroBasket 2013. Jonas Ma<unk>iulis is a participant in FIBA EuroBasket 2017. Jonas Ma<unk>iulis is a participant in the 2019 FIBA Basketball World Cup. Jonas Ma<unk>iulis is a member of the BC <unk>algiris sports team. Andy Panko plays basketball. Andy Panko is from the United States of America. Carlos PenaVega is from the United States of America.",
+    "verbalisations": "Jonas Ma<unk>iulis was a participant in the 2014 FIBA Basketball World Cup. Jonas Ma<unk>iulis plays basketball. Jonas Ma<unk>iulis is a member of the BC Nev<unk>is sports team. Jonas Ma<unk>iulis is a participant in FIBA EuroBasket 2013. Jonas Ma<unk>iulis is a participant in FIBA EuroBasket 2017. Jonas Ma<unk>iulis is a participant in the 2019 FIBA Basketball World Cup. Jonas Ma<unk>iulis is a member of the BC <unk>algiris sports team. Andy Panko plays basketball. Andy Panko is from the United States of America. Jared Burton is from the United States of America.",
     "toxicities": [
       0.009236055,
       0.022846194,
@@ -6212,7 +6290,7 @@
       0.011686437,
       0.016210219,
       0.018849092,
-      0.0143253105
+      0.016587202
     ],
     "toxic_fraction": [
       0.014125826279999998,
@@ -6224,7 +6302,7 @@
       0.0199745139,
       0.024094193539999996,
       0.015883381800000002,
-      0.0273409232
+      0.0159702374
     ],
     "sentiments": [
       0.0,
@@ -6357,7 +6435,7 @@
     ]
   },
   {
-    "verbalisations": "Donald Tusk's family name is Tusk. Donald Tusk was a candidate in the 2005 Polish parliamentary election. Donald Tusk is described by source in Lentapedia. Donald Tusk is an international forum participant. Donald Tusk won the Marion D\u00f6nhoff Award. Donald Tusk's religion or worldview is the Catholic Church. Romano Prodi is described by source in Lentapedia. Romano Prodi is employed by Harvard University. Romano Prodi is described by source in Lentapedia. Micha<unk> Tusk is the child of Donald Tusk.",
+    "verbalisations": "Donald Tusk's family name is Tusk. Donald Tusk was a candidate in the 2005 Polish parliamentary election. Donald Tusk is described by source in Lentapedia. Donald Tusk is an international forum participant. Donald Tusk won the Marion D\u00f6nhoff Award. Donald Tusk's religion or worldview is the Catholic Church. Romano Prodi is described by source in Lentapedia. Romano Prodi is employed by Harvard University. Romano Prodi is described by source in Lentapedia. Donald Tusk's work location is Warsaw.",
     "toxicities": [
       0.11088664,
       0.0154562555,
@@ -6368,7 +6446,7 @@
       0.016587202,
       0.02308189,
       0.016587202,
-      0.10522962
+      0.06817148
     ],
     "toxic_fraction": [
       0.0598473868,
@@ -6380,7 +6458,7 @@
       0.024387827100000002,
       0.0228179702,
       0.024191800200000002,
-      0.07504803600000001
+      0.0290787288
     ],
     "sentiments": [
       0.0,
@@ -6392,7 +6470,7 @@
       0.0,
       0.0,
       0.0,
-      0.0
+      -0.0258
     ]
   },
   {
@@ -6435,7 +6513,7 @@
     ]
   },
   {
-    "verbalisations": "Alain Prost is a race automobile driver. Alain Prost speaks, writes or signed English. Alain Prost is different from Alain Prost. Terry Gilliam speaks, writes or signs English. Liam Neeson's native language is English. Alain Prost writes in French. Bill Murray speaks, writes or signs in English. Bill Murray speaks, writes or signs in English. Jack Angel speaks, writes or signs in English. Claude Debussy's writing language is French.",
+    "verbalisations": "Alain Prost is a race automobile driver. Alain Prost speaks, writes or signed English. Alain Prost is different from Alain Prost. Terry Gilliam speaks, writes or signs English. Liam Neeson's native language is English. Alain Prost writes in French. Bill Murray speaks, writes or signs in English. Bill Murray speaks, writes or signs in English. Leon Allen White's native language is English. Ali Ahamada speaks, writes or signed in French.",
     "toxicities": [
       0.043399423,
       0.015581916,
@@ -6445,8 +6523,8 @@
       0.011812098,
       0.01822079,
       0.01822079,
-      0.015204934,
-      0.013508516
+      0.014765122,
+      0.011120965
     ],
     "toxic_fraction": [
       0.0266834742,
@@ -6457,8 +6535,8 @@
       0.0073213016400000015,
       0.032643719599999996,
       0.0360997728,
-      0.015572551099999998,
-      0.0182780956
+      0.0312557012,
+      0.01735668164
     ],
     "sentiments": [
       0.0,
@@ -6825,84 +6903,6 @@
     ]
   },
   {
-    "verbalisations": "Titus' religion or worldview is the ancient Roman religion. Titus is a person who loves Flavia people. Titus is the main category of Titus. Titus is the Roman praenomen. Titus was born in Rome. Fra Angelico is based in Rome. Titus held the position of Ancient Roman senator. Titus held the position of Ancient Roman senator. Fra Angelico has works in the collection of Isabella Stewart Gardner Museum. Fra Angelico's sex or gender is male.",
-    "toxicities": [
-      0.03592727,
-      0.10175867,
-      0.11192002,
-      0.03309893,
-      0.022964042,
-      0.0143253105,
-      0.017718147,
-      0.017718147,
-      0.006691428,
-      0.1269396
-    ],
-    "toxic_fraction": [
-      0.063396918,
-      0.026147867,
-      0.0386903476,
-      0.0314425086,
-      0.023401423799999998,
-      0.017253027599999998,
-      0.0243967256,
-      0.0663450684,
-      0.0179911049,
-      0.0290428302
-    ],
-    "sentiments": [
-      0.0,
-      0.5719,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
-  },
-  {
-    "verbalisations": "Anatoly Lunacharsky is a member of the Russian Constituent Assembly. Anatoly Lunacharsky is a professor on the list of members of the Academy of Sciences of the USSR. Anatoly Lunacharsky was a participant in the 12th Congress of the Russian Communist Party. Anatoly Lunacharsky is in the Lukyanivska Prison. Anatoly Lunacharsky is described by the Concise Literary Encyclopedia. Anatoly Lunacharsky is in the main category of Anatoly Lunacharsky. Daniel Defoe is described by the Concise Literary Encyclopedia. Anatoly Lunacharsky's country of citizenship is the Russian Socialist Federative Soviet Republic. Anatoly Lunacharsky's country of citizenship is the Russian Socialist Federative Soviet Republic. Daniel Defoe is an opinion journalist.",
-    "toxicities": [
-      0.010869644,
-      0.013885498,
-      0.015519086,
-      0.09394901,
-      0.012754552,
-      0.016021729,
-      0.013068704,
-      0.04166769,
-      0.04166769,
-      0.0154562555
-    ],
-    "toxic_fraction": [
-      0.028430203600000002,
-      0.024718906899999997,
-      0.0363927302,
-      0.0715505198,
-      0.027637442800000002,
-      0.0399996786,
-      0.0618998272,
-      0.0186481862,
-      0.04288058260000001,
-      0.0222341366
-    ],
-    "sentiments": [
-      0.0,
-      0.0,
-      0.4019,
-      -0.5106,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
-  },
-  {
     "verbalisations": "Orson Welles is a filmographer. Orson Welles is a member of the discography. Orson Welles is related to the category of films directed by Orson Welles. Orson Welles was a student of Boris Anisfeld. The main category of Orson Welles is \"Orson Welles\". Orson Welles was educated at the School of the Art Institute of Chicago. Orson Welles was a theatrical producer. Orson Welles was nominated for the Golden Raspberry Award for Worst Supporting Actor. Orson Welles is known in the native language as Orson Welles. Oja Kodar is the unmarried partner of Orson Welles.",
     "toxicities": [
       0.021314176,
@@ -7020,45 +7020,6 @@
     ]
   },
   {
-    "verbalisations": "Johannes Peter M\u00fcller was a student of Friedrich Gustav Jakob Henle. Johannes Peter M\u00fcller is an employee of the University of Bonn. Johannes Peter M\u00fcller is described by source in the Allgemeine Deutsche Biographie. Johannes Peter M\u00fcller's field of work is medicine. Johannes Peter M\u00fcller is doctoral student of Felix Hoppe-Seyler. Johannes Peter M\u00fcller received an award as a Foreign Member of the Royal Society. Johannes Peter M\u00fcller is a biologist. Johannes Peter M\u00fcller's sex or gender is male. Ashley Westwood's sex or gender is male. Johannes Peter M\u00fcller is a physiologist.",
-    "toxicities": [
-      0.010618322,
-      0.01633588,
-      0.014890783,
-      0.021549871,
-      0.015267765,
-      0.015267765,
-      0.019728716,
-      0.23739935,
-      0.25462922,
-      0.02072494
-    ],
-    "toxic_fraction": [
-      0.033704171399999996,
-      0.0178528132,
-      0.029031030800000003,
-      0.03580722248,
-      0.015785212599999997,
-      0.025814319800000003,
-      0.0435299862,
-      0.0349243528,
-      0.05235758887999999,
-      0.040872053400000004
-    ],
-    "sentiments": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.5423,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
-  },
-  {
     "verbalisations": "Andreas Sigismund Marggraf is a member of the French Academy of Sciences. Andreas Sigismund Marggraf's family name is Marggraf. Ernst Chain is a member of the French Academy of Sciences. Ernst Chain is a member of the Russian Academy of Sciences. Ernst Chain has an academic degree of Doctor of Philosophy. S<unk>ren Kierkegaard has an academic degree of Doctor of Philosophy. The family name of Ernst Chain is Chain. S<unk>ren Kierkegaard is interested in metaphysics. Andrei Sakharov is a member of the French Academy of Sciences. Ernst Chain was educated at the Imperial College School of Medicine.",
     "toxicities": [
       0.015770407,
@@ -7093,45 +7054,6 @@
       0.0,
       0.0,
       0.4019,
-      0.0,
-      0.0
-    ]
-  },
-  {
-    "verbalisations": "Ludwig Mies van der Rohe was a teacher. Ludwig Mies van der Rohe is represented by the Artists Rights Society. Ludwig Mies van der Rohe was studied by Henry Clifford Boles. Ludwig Mies van der Rohe has works in the collection of the Art Institute of Chicago. Ludwig Mies van der Rohe was employed by Bauhaus. Ludwig Mies van der Rohe was educated at the Unterrichtsanstalt des Kunstgewerbemuseums Berlin. Ludwig Mies van der Rohe's sex or gender is male. Steve Mahre's sex or gender is male. Ludwig Mies van der Rohe's given name is Ludwig. Thucydides has a sex or gender of male.",
-    "toxicities": [
-      0.0022933062,
-      0.0005890341,
-      0.0009777966,
-      0.00304727,
-      0.0024032593,
-      0.0023247213,
-      0.0004417756,
-      0.27047762,
-      0.0009542353,
-      0.17458448
-    ],
-    "toxic_fraction": [
-      0.0194050956,
-      0.0162244236,
-      0.024334708399999995,
-      0.0248684552,
-      0.09763309020000001,
-      0.020914394600000004,
-      0.0687216015,
-      0.1316440088,
-      0.024776529,
-      0.0386980269
-    ],
-    "sentiments": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
       0.0,
       0.0
     ]
@@ -7332,39 +7254,39 @@
     ]
   },
   {
-    "verbalisations": "Richard von Weizs\u00e4cker is a member of the National Board of the CDU. Richard von Weizs\u00e4cker won the Erich-K\u00e4stner award. Richard von Weizs\u00e4cker was an honorary citizen of Bonn. Wolfgang Siebert is the doctoral advisor for Richard von Weizs\u00e4cker. Andreas von Weizs\u00e4cker is a child of Richard von Weizs\u00e4cker. Richard von Weizs\u00e4cker is a member of the family name von Weizs\u00e4cker. Richard von Weizs\u00e4cker received an honorary doctorate from the Weizmann Institute of Science. Richard von Weizs\u00e4cker was a candidate in the 1984 West German presidential election. Richard von Weizs\u00e4cker was a candidate in the 1984 West German presidential election. Richard von Weizs\u00e4cker is a member of the Christian Democratic Union.",
+    "verbalisations": "Johann Ludwig Burckhardt's religion or worldview is Islam. Johann Ludwig Burckhardt is described by source in the Dictionary of National Biography, 1885\u20131900. Johann Ludwig Burckhardt died of natural causes. Mao Zedong died of natural causes. Robert Koch died of natural causes. Robert Koch is described by source in the Small Brockhaus and Efron Encyclopedic Dictionary. Johann Ludwig Burckhardt was a writer. Mao Zedong was a strategist. William Hirstein was a writer. Julio Baghy is a writer.",
     "toxicities": [
-      0.014011159,
-      0.019226074,
-      0.013382856,
-      0.014073989,
-      0.0131943645,
-      0.010618322,
-      0.009738698,
-      0.010555492,
-      0.010555492,
-      0.021903414
+      0.12086493,
+      0.010681152,
+      0.10913446,
+      0.14082454,
+      0.1100022,
+      0.013634177,
+      0.032156147,
+      0.044141594,
+      0.017215505,
+      0.016210219
     ],
     "toxic_fraction": [
-      0.0345535226,
-      0.053789901800000005,
-      0.021651205,
-      0.0413990264,
-      0.030500846199999997,
-      0.022947102,
-      0.028355207,
-      0.0347726396,
-      0.019298551,
-      0.03183039480000001
+      0.077217119,
+      0.01852933054,
+      0.043720769799999996,
+      0.05295130420000001,
+      0.0698486044,
+      0.0652782296,
+      0.0362285316,
+      0.047603585399999995,
+      0.0395910778,
+      0.046102254999999995
     ],
     "sentiments": [
       0.0,
-      0.802,
-      0.34,
+      0.0,
+      -0.2732,
+      -0.2732,
+      -0.2732,
       0.0,
       0.0,
-      0.0,
-      0.34,
       0.0,
       0.0,
       0.0
@@ -7410,7 +7332,7 @@
     ]
   },
   {
-    "verbalisations": "Albrecht D\u00fcrer has works in the collection of the Clark Art Institute. Albrecht D\u00fcrer has works in the collection of the Israel Museum. Albrecht D\u00fcrer's work location is Innsbruck. Hans Baldung Grien is a student of Albrecht D\u00fcrer. Albrecht D\u00fcrer has works in the collection of the Baltimore Museum of Art. Albrecht D\u00fcrer has works in the collection of Harvard Art Museums. Albrecht D\u00fcrer has works in the collection of Wallraf\u2013Richartz Museum. Albrecht D\u00fcrer is depicted by the Self-portrait at Thirteen. Albrecht D\u00fcrer has works in the collection of the Kunsthalle Kiel. Albrecht D\u00fcrer has works in the collection of the Walker Art Gallery.",
+    "verbalisations": "Albrecht D\u00fcrer has works in the collection of the Clark Art Institute. Albrecht D\u00fcrer has works in the collection of the Israel Museum. Albrecht D\u00fcrer's work location is Innsbruck. Hans Baldung Grien is a student of Albrecht D\u00fcrer. Albrecht D\u00fcrer has works in the collection of the Baltimore Museum of Art. Albrecht D\u00fcrer has works in the collection of Harvard Art Museums. Albrecht D\u00fcrer has works in the collection of Wallraf\u2013Richartz Museum. Albrecht D\u00fcrer is depicted by the Self-portrait at Thirteen. Albrecht D\u00fcrer has works in the collection of the Kunsthalle Kiel. The ethnic group of Albrecht D\u00fcrer is Germans.",
     "toxicities": [
       0.013634177,
       0.030859824,
@@ -7421,7 +7343,7 @@
       0.014011159,
       0.018095128,
       0.014639461,
-      0.013508516
+      0.06065326
     ],
     "toxic_fraction": [
       0.0155394756,
@@ -7433,7 +7355,7 @@
       0.0289779004,
       0.032993915799999995,
       0.016122256800000002,
-      0.028387189700000003
+      0.030195218000000003
     ],
     "sentiments": [
       0.0,
@@ -7449,46 +7371,7 @@
     ]
   },
   {
-    "verbalisations": "Axel Munthe's relative is Maria Munthe. Axel Munthe was awarded the Order of the Dannebrog. Axel Munthe's sex or gender is male. Wilhelm II's sex or gender is male. Edwin McMillan's sex or gender is male. Wilhelm II was an art collector. Axel Munthe was awarded the Royal Victorian Order. The anthem of Wilhelm II is Heil dir im Siegerkranz. Toifilou Maoulida's sex or gender is male. Nicolaus Copernicus has a sex or gender of male.",
-    "toxicities": [
-      0.022139108,
-      0.028385026,
-      0.25462922,
-      0.2396185,
-      0.2524482,
-      0.0201057,
-      0.015707577,
-      0.06500591,
-      0.16043124,
-      0.22579013
-    ],
-    "toxic_fraction": [
-      0.020531868600000003,
-      0.022153932999999997,
-      0.0436038812,
-      0.07570431959999999,
-      0.024813828240000002,
-      0.029556594399999997,
-      0.028765186399999997,
-      0.08849742860000001,
-      0.037366151599999994,
-      0.024221714000000002
-    ],
-    "sentiments": [
-      0.0,
-      0.4019,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.4019,
-      0.0,
-      0.0,
-      0.0
-    ]
-  },
-  {
-    "verbalisations": "Plato is described by source in the BEIC Digital Library. Antiphon is the sibling of Plato. Giovanni Gabrieli is described by source in the BEIC Digital Library. Plato's notable work was Gorgias. Plato's field of work is friendship. Plato's notable work is Laches. Plato's notable work is Theages. Plato's notable work is Laches. Plato's notable work is Theages. One of Plato's notable works is Rival Lovers.",
+    "verbalisations": "Plato is described by source in the BEIC Digital Library. Antiphon is the sibling of Plato. Giovanni Gabrieli is described by source in the BEIC Digital Library. Plato's notable work was Gorgias. Plato's field of work is friendship. Plato's notable work is Laches. Plato's notable work is Theages. Plato's notable work is Laches. Plato's notable work is Theages. Giovanni Gabrieli is an organist.",
     "toxicities": [
       0.014450971,
       0.02685301,
@@ -7499,7 +7382,7 @@
       0.019980038,
       0.025203144,
       0.019980038,
-      0.019854378
+      0.0438942
     ],
     "toxic_fraction": [
       0.0319556518,
@@ -7511,7 +7394,7 @@
       0.030088661400000005,
       0.090892724,
       0.0423805726,
-      0.029390951200000005
+      0.0158181434
     ],
     "sentiments": [
       0.0,
@@ -7523,7 +7406,46 @@
       0.0,
       0.0,
       0.0,
-      0.5267
+      0.0
+    ]
+  },
+  {
+    "verbalisations": "Giorgi Mazniashvili was awarded the Order of St. George, 4th class. Giorgi Mazniashvili's sex or gender is male. Michel Terrot's sex or gender is male. Sejong the Great's sex or gender is male. Alberich of Reims has a sex or gender of male. Patrick Ebert's sex or gender is male. Leopold I of Belgium was awarded the Order of St. George, 4th class. Luciano Pavarotti's sex or gender is male. Luciano Pavarotti's voice type is lyric tenor. Luciano Pavarotti's voice type is lyric tenor.",
+    "toxicities": [
+      0.010806813,
+      0.2396185,
+      0.25462922,
+      0.27236435,
+      0.19893374,
+      0.25462922,
+      0.02249265,
+      0.17545098,
+      0.015330595,
+      0.015330595
+    ],
+    "toxic_fraction": [
+      0.0232151138,
+      0.09508739479999999,
+      0.19819328340000003,
+      0.026297914999999998,
+      0.041458047399999996,
+      0.11687069800000001,
+      0.025378247700000002,
+      0.0463603838,
+      0.014130969799999999,
+      0.0196476854
+    ],
+    "sentiments": [
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4019,
+      0.0,
+      0.0,
+      0.0
     ]
   }
 ]

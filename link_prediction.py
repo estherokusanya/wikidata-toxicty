@@ -68,4 +68,4 @@ def remove_triple(file):
 for item in files:
     combine_verbalisations(item, 10)
     print("reached")
-    #remove_triple(item)
+    remove_triple(item)
