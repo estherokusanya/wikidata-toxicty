@@ -63,7 +63,7 @@ def remove_triple(file):
             "sentiments": item["sentiments"]
         })
         
-    with open(f"link_prediction/removed_triple_{file}_results.json", "w") as f:
+    with open(f"link_prediction/{file}_results.json", "w") as f:
             json.dump(results, f, indent=2)
 
 def produce_questions(file):
