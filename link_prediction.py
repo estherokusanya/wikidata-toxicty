@@ -20,7 +20,7 @@ def combine_verbalisations(file, graph_size):
         group.append(current)
         remaining.remove(current)
         for item in remaining:
-            if (item["subject"] in [x["subject"] for x in group]) or (item["object"] in [x["object"] for x in group]):# or (item["predicate"] in [x["predicate"] for x in group]):
+            if (item["subject"] in [x["subject"] for x in group]) or (item["object"] in [x["object"] for x in group]):
                 group.append(item)
                 remaining.remove(item)
             if len(group)==graph_size:
@@ -67,6 +67,9 @@ def remove_triple(file):
             json.dump(results, f, indent=2)
 
 def produce_questions(file):
+    client = OpenAI(
+    api_key= "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"
+    )
     output = []
     context = "Create a fill in the blank question along the answer based on this sentence:"
     with open(f"link_prediction/{file}_results.json", "r") as f:
@@ -74,7 +77,7 @@ def produce_questions(file):
     for item in data:
         questions=[]
         for i in range(2):
-            message = context + item["chosen_triple"]
+            message = context + item["chosen_triple"][i]
             response = client.chat.completions.create(
                 model="gpt-3.5-turbo-0125",
                 response_format={ "type": "json_object" },
@@ -85,12 +88,14 @@ def produce_questions(file):
             for i in json.loads(response.choices[0].message.content):
                 questions.append(json.loads(response.choices[0].message.content)[i])
         item["questions"] = questions
+        print(item)
         output.append(item)
     with open(f"link_prediction/{file}_questions.json", "w") as f:
         json.dump(output, f, indent=2)
 
 for item in files:
     combine_verbalisations(item, 10)
-    print("reached")
-    remove_triple(item)
-    produce_questions(item)
+    # print("reached")
+    # remove_triple(item)
+    # print("lets stop here")
+    # produce_questions(item)
