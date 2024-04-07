@@ -1,0 +1,6311 @@
+[
+  {
+    "verbalisations": "Ban Ki-moon was awarded the honorary doctorate at the Nanjing University. Ban Ki-moon is a citizen of South Korea. Ban Ki-moon is the Foreign Minister of South Korea. Ban Ki-moon was awarded the Order of Saint-Charles. Ban Ki-moon was educated at the Seoul National University. The source of Ban Ki-moon is Obalky knih.cz. Ban Ki-moon was awarded the Order of Jos\u00e9 Mat<unk>as Delgado.",
+    "toxicities": [
+      0.007822373,
+      0.022139108,
+      0.014011159,
+      0.022374803,
+      0.012943043,
+      0.020231359,
+      0.019728716
+    ],
+    "toxic_fraction": [
+      0.0209443298,
+      0.0215852174,
+      0.016564098000000003,
+      0.023476982,
+      0.0196704646,
+      0.0356803266,
+      0.04494242412
+    ],
+    "sentiments": [
+      0.128,
+      -0.5574,
+      -0.5574,
+      -0.2263,
+      -0.5574,
+      -0.5574,
+      -0.2263
+    ],
+    "question": "Ban Ki-moon was awarded the Order of Jos\u00e9 Mat<unk>as Delgado.",
+    "answer": "Ecuador",
+    "score": 0
+  },
+  {
+    "verbalisations": "Leopold I of Belgium is described by source as Alumni Oxonienses: the Members of the University of Oxford, 1715\u20131886. Leopold I of Belgium's country of citizenship is Saxe-Coburg-Saalfeld. Lutheranism is a religion or worldview of Leopold I of Belgium. Leopold I of Belgium is described by source Obalky knih.cz. Leopold I of Belgium's allegiance is to the Russian Empire. Leopold I of Belgium was awarded the Order of the Redeemer. The child of Leopold I of Belgium is Charlotte of Belgium.",
+    "toxicities": [
+      0.009173225,
+      0.036162965,
+      0.05651112,
+      0.015958898,
+      0.046120718,
+      0.030388435,
+      0.021196328
+    ],
+    "toxic_fraction": [
+      0.028866913600000006,
+      0.06631864620000001,
+      0.0310719504,
+      0.0414955008,
+      0.0253293152,
+      0.022629629800000002,
+      0.037787507
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4019,
+      0.0
+    ],
+    "question": "The child of Leopold I of Belgium is ______.",
+    "answer": "Charlotte of Belgium",
+    "score": 4
+  },
+  {
+    "verbalisations": "Victor II was born in Bavaria. Donatello is described by the Small Brockhaus and Efron Encyclopedic Dictionary. Vsevolod Solovyov is described by source in the Small Brockhaus and Efron Encyclopedic Dictionary. William Tell is described by source in the Small Brockhaus and Efron Encyclopedic Dictionary. Theopompus is described by the Small Brockhaus and Efron Encyclopedic Dictionary. The cause of death of Victor II is malaria. Victor II is described by the Small Brockhaus and Efron Encyclopedic Dictionary.",
+    "toxicities": [
+      0.030977672,
+      0.015142105,
+      0.011749268,
+      0.01225191,
+      0.014890783,
+      0.3245134,
+      0.014011159
+    ],
+    "toxic_fraction": [
+      0.040997523999999994,
+      0.037864937,
+      0.020264233200000002,
+      0.124890465,
+      0.029337983999999994,
+      0.05658916939999999,
+      0.025947234200000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.5994,
+      0.0
+    ],
+    "question": "Victor II is described by the Small Brockhaus and Efron Encyclopedic Dictionary.",
+    "answer": "Small Brockhaus and Efron Encyclopedic Dictionary",
+    "score": 4
+  },
+  {
+    "verbalisations": "Wilhelm II received the Hanseatic Cross award. William Tell is described by source in the Encyclop<unk>dia Britannica 11th edition. Wilhelm II's facial hair is known as a handlebar moustache. Wilhelm II was awarded the Order of the Red Eagle. Johannes Peter M\u00fcller is described by source in the Encyclop<unk>dia Britannica 11th edition. Wilhelm II's sibling is Sophia of Prussia. Wilhelm II was described by source in the Encyclop<unk>dia Britannica 11th edition.",
+    "toxicities": [
+      0.027560094,
+      0.014639461,
+      0.25462922,
+      0.027677942,
+      0.017466826,
+      0.032156147,
+      0.018849092
+    ],
+    "toxic_fraction": [
+      0.0334406134,
+      0.0420640464,
+      0.0587138376,
+      0.037974830400000006,
+      0.0300037031,
+      0.028366936399999997,
+      0.0733484242
+    ],
+    "sentiments": [
+      0.5423,
+      0.0,
+      0.0,
+      0.4019,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Wilhelm II was described by source in the Encyclop<unk>dia Britannica 11th edition. He was the emperor of ________.",
+    "answer": "Germany",
+    "score": 5
+  },
+  {
+    "verbalisations": "Ancient Greek is spoken, written or signed by Ptolemy IV Philopator. Alexander is the sibling of Ptolemy IV Philopator. Agathoclea is the unmarried partner of Ptolemy IV Philopator. Ptolemy IV Philopator is a member of the Ptolemaic dynasty. Ptolemy IV Philopator is a pharaoh. Ptolemy IV Philopator's mother is Berenice II. Ptolemy IV Philopator is a child of Ptolemy V Epiphanes.",
+    "toxicities": [
+      0.013068704,
+      0.03734144,
+      0.059232414,
+      0.020960633,
+      0.10609736,
+      0.019980038,
+      0.014953613
+    ],
+    "toxic_fraction": [
+      0.029238955599999998,
+      0.0239365452,
+      0.037906329,
+      0.0404059546,
+      0.025715673400000007,
+      0.0408402794,
+      0.022874234599999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Ptolemy IV Philopator is a child of ____________.",
+    "answer": "Ptolemy V Epiphanes",
+    "score": 4
+  },
+  {
+    "verbalisations": "Benjamin Harrison was a candidate in the 1892 United States presidential election. Benjamin Harrison is different from Harrison. Benjamin Harrison's mother is Elizabeth Ramsey Irwin. Benjamin Harrison is a United States senator. Mary Harrison McKee is the child of Benjamin Harrison. Benjamin Harrison's native language is English.",
+    "toxicities": [
+      0.0066285976,
+      0.022728346,
+      0.017466826,
+      0.010618322,
+      0.0143253105,
+      0.01438814
+    ],
+    "toxic_fraction": [
+      0.02075069,
+      0.0270732188,
+      0.017024541400000003,
+      0.02004351812,
+      0.0184633412,
+      0.029209477
+    ],
+    "sentiments": [
+      0.4215,
+      0.0,
+      0.0,
+      0.4215,
+      0.0,
+      0.0
+    ],
+    "question": "Mary Harrison McKee is the child of _______",
+    "answer": "Benjamin Harrison",
+    "score": 5
+  },
+  {
+    "verbalisations": "Juan Carlos I of Spain is a student of <unk>ngel L\u00f3pez-Amo. Juan Carlos I of Spain won the Battle of Lepanto 4th Centenary Medal. Juan Carlos I of Spain delivered a significant speech. Juan Carlos I of Spain was awarded the Grand Cross of the Legion of Honour. Juan Carlos I of Spain was awarded the honorary doctorate from the University of Oxford. Juan Carlos I of Spain was born in Rome. Juan Carlos I of Spain has the noble title King of the Canary Islands.",
+    "toxicities": [
+      0.009110395,
+      0.008607753,
+      0.020607091,
+      0.0154562555,
+      0.013257195,
+      0.018849092,
+      0.017341165
+    ],
+    "toxic_fraction": [
+      0.0175851821,
+      0.0237163252,
+      0.04918930479999999,
+      0.013960894399999998,
+      0.019446591599999997,
+      0.021055084299999995,
+      0.016921253974
+    ],
+    "sentiments": [
+      0.0,
+      0.6369,
+      0.2023,
+      0.8555,
+      0.6249,
+      0.0,
+      0.4588
+    ],
+    "question": "Juan Carlos I of Spain has the noble title King of the ________.",
+    "answer": "Canary Islands",
+    "score": 3
+  },
+  {
+    "verbalisations": "Spencer Fullerton Baird was a naturalist. Lydia McFunn Baird is the mother of Spencer Fullerton Baird. Spencer Fullerton Baird is a member of the American Academy of Arts and Sciences. Spencer Fullerton Baird is an ornithologist. Spencer Fullerton Baird is described by source in the New International Encyclopedia. Spencer Fullerton Baird is a herpetologist. Spencer Fullerton Baird's place of burial is Oak Hill Cemetery.",
+    "toxicities": [
+      0.03109552,
+      0.0201057,
+      0.01005285,
+      0.03734144,
+      0.009738698,
+      0.11109332,
+      0.019980038
+    ],
+    "toxic_fraction": [
+      0.0204017056,
+      0.0158521726,
+      0.01604758724,
+      0.015720392,
+      0.028812838199999996,
+      0.0245822432,
+      0.017176134
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Spencer Fullerton Baird's place of burial is ______.",
+    "answer": "Oak Hill Cemetery",
+    "score": 4
+  },
+  {
+    "verbalisations": "Sebastian Ingrosso's sibling is Rein. Sebastian Ingrosso is a member of Axwell <unk> Ingrosso. Sebastian Ingrosso's sex or gender is male. Sebastian Ingrosso is on the record label Ministry of Sound. Vito Ingrosso is the father of Sebastian Ingrosso.",
+    "toxicities": [
+      0.023788974,
+      0.02072494,
+      0.19599396,
+      0.01237757,
+      0.017341165
+    ],
+    "toxic_fraction": [
+      0.023411821000000003,
+      0.04107647299999999,
+      0.25054424799999997,
+      0.047532928200000005,
+      0.07555892019999999
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Sebastian Ingrosso's sibling is ______.",
+    "answer": "Rein",
+    "score": 4
+  },
+  {
+    "verbalisations": "Pat Martino's field of work is music. Pat Martino's native language is English. Patrick Azzara is the birth name of Pat Martino. Pat Martino is a musician. Pat Martino has a record label called 32 Jazz. Pat Martino's given name is Pat.",
+    "toxicities": [
+      0.013068704,
+      0.013948329,
+      0.015581916,
+      0.015896067,
+      0.013948329,
+      0.011309455
+    ],
+    "toxic_fraction": [
+      0.0299062842,
+      0.09670126080000001,
+      0.0143789704,
+      0.018870161700000002,
+      0.008934469640000001,
+      0.0151717394
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Patrick Azzara is the birth name of ____________.",
+    "answer": "Pat Martino",
+    "score": 4
+  },
+  {
+    "verbalisations": "Euphraeus was a student of Plato. Plato's notable work was Eryxias. Ancient Greek is spoken, written or signed by Plato. Plato's notable work was the First Alcibiades. Clitophon is a notable work by Plato. Xenocrates is a student of Plato. Plato was a student of Python of Aenus.",
+    "toxicities": [
+      0.032863233,
+      0.016210219,
+      0.02685301,
+      0.019477395,
+      0.112333365,
+      0.10653123,
+      0.022846194
+    ],
+    "toxic_fraction": [
+      0.025557367200000004,
+      0.0541969468,
+      0.0223890966,
+      0.049885339400000006,
+      0.0325387736,
+      0.0266498624,
+      0.032023108800000005
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Plato was a student of _____ of Aenus.",
+    "answer": "Python",
+    "score": 4
+  },
+  {
+    "verbalisations": "Ren\u00e9 Depestre is a writer. Ren\u00e9 Depestre won the Prix Carbet de la Cara<unk>be et du Tout-Monde. Ren\u00e9 Depestre's family name is Depestre. Ren\u00e9 Depestre's country of citizenship is France. Ren\u00e9 Depestre is a citizen of Haiti. Ren\u00e9 Depestre won the Guggenheim Fellowship. Ren\u00e9 Depestre won the Grand Prix de Po\u00e9sie.",
+    "toxicities": [
+      0.012943043,
+      0.010743983,
+      0.010618322,
+      0.020231359,
+      0.023553278,
+      0.0131943645,
+      0.0011859221
+    ],
+    "toxic_fraction": [
+      0.031452904,
+      0.012893375600000001,
+      0.0347306352,
+      0.0238774682,
+      0.0140614228,
+      0.050310006,
+      0.0164465762
+    ],
+    "sentiments": [
+      0.0,
+      0.5719,
+      0.0,
+      0.0,
+      0.0,
+      0.5719,
+      0.7717
+    ],
+    "question": "Ren\u00e9 Depestre won the Grand Prix de Po\u00e9sie.",
+    "answer": "Ren\u00e9 Depestre won the Grand Prix de Po\u00e9sie.",
+    "score": 2
+  },
+  {
+    "verbalisations": "Kevin Spacey is a voice actor. Kevin Spacey won the Society of London Theatre Special Award. Kevin Spacey is a screenwriter. Kevin Spacey won the Tony Awards. Kevin Spacey was a participant in the 2016 World Economic Forum Annual Meeting. Kevin Spacey won the Golden Globe Award for Best Actor \u2013 Television Series Drama. Kevin Spacey won the British Academy Television Award for Best International Programme.",
+    "toxicities": [
+      0.0201057,
+      0.0051835002,
+      0.038519915,
+      0.011183795,
+      0.0047436883,
+      0.0006793527,
+      0.0056547276
+    ],
+    "toxic_fraction": [
+      0.018978908399999998,
+      0.0148970657,
+      0.08890998440000002,
+      0.018403376200000002,
+      0.037640440399999996,
+      0.062020144799999996,
+      0.027172483399999996
+    ],
+    "sentiments": [
+      0.0,
+      0.872,
+      0.0,
+      0.7717,
+      0.0,
+      0.9081,
+      0.9081
+    ],
+    "question": "Kevin Spacey won the British Academy Television Award for Best International Programme.",
+    "answer": "The Usual Suspects",
+    "score": 0
+  },
+  {
+    "verbalisations": "Theopompus is an instance of human. Bartolomeo Coghetto is an instance of human. Antonello da Messina is an example of a human. Thomas E. Ackerman is an example of a human being. Richard Bona is an example of a human being. Joseph Bergaigne is an example of a human being. Luciano Pavarotti is an example of a human being.",
+    "toxicities": [
+      0.036634352,
+      0.050078966,
+      0.024142517,
+      0.02402467,
+      0.02249265,
+      0.02638162,
+      0.01847211
+    ],
+    "toxic_fraction": [
+      0.0185103395,
+      0.0630017038,
+      0.04707290260000001,
+      0.055690954800000005,
+      0.0505424702,
+      0.022918708200000002,
+      0.0246017506
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Luciano Pavarotti is an example of a ______.",
+    "answer": "human being",
+    "score": 3
+  },
+  {
+    "verbalisations": "John Paul I's burial place is the Vatican Grotto. John Paul I's field of work is canon law. John Paul I was educated at the Pontifical Gregorian University. John Paul I's family name is Luciani. John Paul I speaks, writes or signed Italian. John Paul I was canonized as a Servant of God. Giovanni Luciani is the father of John Paul I.",
+    "toxicities": [
+      0.16678599,
+      0.02449606,
+      0.015581916,
+      0.014639461,
+      0.019980038,
+      0.019854378,
+      0.017466826
+    ],
+    "toxic_fraction": [
+      0.04172615946,
+      0.0425588268,
+      0.0158603982,
+      0.0308742036,
+      0.02069131064,
+      0.023242001800000002,
+      0.032875755
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.2732,
+      0.0
+    ],
+    "question": "Giovanni Luciani is the father of John Paul I.",
+    "answer": "Can you complete the sentence: John Paul I was born in ______.",
+    "score": 0
+  },
+  {
+    "verbalisations": "Albrecht D\u00fcrer has works in the collection of Bavarian State Painting Collections. Albrecht D\u00fcrer is in the main category of Albrecht D\u00fcrer. Albrecht D\u00fcrer has works in the collection of the Cond\u00e9 Museum. Albrecht D\u00fcrer has works in the collection of the Walker Art Gallery. Albrecht D\u00fcrer was influenced by Michael Wolgemut. Albrecht D\u00fcrer has works in the collection of Brighton Museum & Art Gallery. Albrecht D\u00fcrer is a sponsor of Maximilian I.",
+    "toxicities": [
+      0.013131535,
+      0.011497946,
+      0.014827953,
+      0.013508516,
+      0.014639461,
+      0.012000589,
+      0.020231359
+    ],
+    "toxic_fraction": [
+      0.0183442792,
+      0.025807010400000004,
+      0.02147507232,
+      0.028387189700000003,
+      0.032800517800000005,
+      0.018348554399999998,
+      0.0336107562
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Albrecht D\u00fcrer is a sponsor of ______.",
+    "answer": "Maximilian I",
+    "score": 4
+  },
+  {
+    "verbalisations": "Neil Young's voice type is tenor. Neil Young was a director. Neil Young is in the country music genre. Neil Young is the copyright representative of the American Society of Composers, Authors and Publishers. Neil Young was nominated for the Juno Award for Roots & Traditional Album of the Year \u2013 Solo. Neil Young won the Juno Humanitarian Award. Neil Young won the Juno Award for Album of the Year.",
+    "toxicities": [
+      0.027677942,
+      0.012566062,
+      0.01426248,
+      0.007979449,
+      0.0010995304,
+      0.011812098,
+      0.0063144458
+    ],
+    "toxic_fraction": [
+      0.027304983799999998,
+      0.0250619262,
+      0.0652386606,
+      0.02704324756,
+      0.01575547574,
+      0.05464148953999999,
+      0.0201581642
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5423,
+      0.802,
+      0.802
+    ],
+    "question": "Neil Young won the Juno Award for Album of the Year. Neil Young won the Juno Award for Album of the Year in ______.",
+    "answer": "2011",
+    "score": 1
+  },
+  {
+    "verbalisations": "Edward Jenner's father is Stephen Jenner. Edward Jenner's child is Catherine Fitzhardinge Jenner. Edward Jenner was educated at Cirencester Grammar School. Edward Jenner's sex or gender is male. Edward Jenner is the son of Edward Robert Jenner. Catherine Kingscote is the spouse of Edward Jenner. Edward Jenner is the main category of Edward Jenner.",
+    "toxicities": [
+      0.015393426,
+      0.020231359,
+      0.010429831,
+      0.2854869,
+      0.016964182,
+      0.024613906,
+      0.024613906
+    ],
+    "toxic_fraction": [
+      0.047241976399999996,
+      0.0251731076,
+      0.0231096812,
+      0.1101221478,
+      0.032106865400000004,
+      0.0316806882,
+      0.0427377046
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Edward Jenner is the main category of ______.",
+    "answer": "Edward Jenner",
+    "score": 4
+  },
+  {
+    "verbalisations": "William Tell is described by source in the Encyclop<unk>dia Britannica 11th edition. William Tell is described by source in the Small Brockhaus and Efron Encyclopedic Dictionary. William Tell is a folklore character. William Tell's given name is Guilherme. William Tell is described by Brockhaus and Efron Encyclopedic Dictionary.",
+    "toxicities": [
+      0.014639461,
+      0.01225191,
+      0.044636376,
+      0.012754552,
+      0.011812098
+    ],
+    "toxic_fraction": [
+      0.0420640464,
+      0.124890465,
+      0.1061019938,
+      0.06654207726000001,
+      0.1021635912
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "William Tell's given name is ______.",
+    "answer": "Guilherme",
+    "score": 4
+  },
+  {
+    "verbalisations": "Andrei Sakharov was awarded an honorary doctorate from the Hebrew University of Jerusalem. Andrei Sakharov won the Humanist of the Year award. The cause of death of Andrei Sakharov is a myocardial infarction. Andrei Sakharov is a member of the National Academy of Sciences. Andrei Sakharov has an academic degree in Physics and Mathematics. Andrei Sakharov is a physicist.",
+    "toxicities": [
+      0.015079274,
+      0.019226074,
+      0.32182294,
+      0.011058134,
+      0.011560776,
+      0.019477395
+    ],
+    "toxic_fraction": [
+      0.0301006884,
+      0.05011449,
+      0.0406849492,
+      0.0385587758,
+      0.038327734999999995,
+      0.023260331800000002
+    ],
+    "sentiments": [
+      0.6249,
+      0.802,
+      -0.5994,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Andrei Sakharov was awarded an honorary doctorate from ______.",
+    "answer": "Hebrew University of Jerusalem",
+    "score": 4
+  },
+  {
+    "verbalisations": "Diego Vel\u00e1zquez has works in the collection of the National Museum of Fine Arts. Diego Vel\u00e1zquez has works in the collection of the Mus\u00e9e des Beaux-Arts de Pau. Diego Vel\u00e1zquez is a portrait artist. Diego Vel\u00e1zquez has works in the collection of the Smithsonian American Art Museum. Diego Vel\u00e1zquez's given name is Diego. Diego Vel\u00e1zquez has works in the collection of the National Gallery of Art. Diego Vel\u00e1zquez is described by source in the Catholic Encyclopedia.",
+    "toxicities": [
+      0.0056233127,
+      0.006722843,
+      0.019728716,
+      0.0061573703,
+      0.004712273,
+      0.0046180277,
+      0.010869644
+    ],
+    "toxic_fraction": [
+      0.015068052939999998,
+      0.0124577628,
+      0.018686275800000002,
+      0.012735703399999998,
+      0.011359719680000002,
+      0.012867646899999998,
+      0.0226532546
+    ],
+    "sentiments": [
+      0.2023,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Diego Vel\u00e1zquez is described by ______ in the Catholic Encyclopedia.",
+    "answer": "source",
+    "score": 1
+  },
+  {
+    "verbalisations": "Willi Stoph is the Chairman of the State Council. Willi Stoph's sex or gender is male. Willi Stoph's given name is Willi. Willi Stoph is a member of the Communist Party of Germany. Willi Stoph was awarded the Hero of Labour award. Willi Stoph is described by the Armenian Soviet Encyclopedia. Willi Stoph is a member of the family name Stoph.",
+    "toxicities": [
+      0.0052463305,
+      0.24442963,
+      0.0137598375,
+      0.06263174,
+      0.011937759,
+      0.038991302,
+      0.01017851
+    ],
+    "toxic_fraction": [
+      0.0540306916,
+      0.049466131499999996,
+      0.0340740774,
+      0.05140539099999999,
+      0.033745327139999996,
+      0.0705388944,
+      0.0347209504
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.4019,
+      0.8689,
+      0.0,
+      0.0
+    ],
+    "question": "Willi Stoph is a member of the family name ______.",
+    "answer": "Stoph",
+    "score": 4
+  },
+  {
+    "verbalisations": "Paul du Bois-Reymond is a doctoral student of Johannes Peter M\u00fcller. Johannes Peter M\u00fcller is described by source in the New Encyclopedic Dictionary. Johannes Peter M\u00fcller's residence is in the Kingdom of Prussia. Johannes Peter M\u00fcller is described by source in the Encyclop<unk>dia Britannica 11th edition. Ernst Chain is a member of the Acad\u00e9mie Nationale de M\u00e9decine. Johannes Peter M\u00fcller is a physiologist. Johannes Peter M\u00fcller is a member of the Acad\u00e9mie Nationale de M\u00e9decine.",
+    "toxicities": [
+      0.015142105,
+      0.01438814,
+      0.028620722,
+      0.017466826,
+      0.002717411,
+      0.02072494,
+      0.005780388
+    ],
+    "toxic_fraction": [
+      0.028786879200000004,
+      0.0840030642,
+      0.0459098698,
+      0.0300037031,
+      0.0272791236,
+      0.040872053400000004,
+      0.025453184400000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Johannes Peter M\u00fcller is a member of the ______.",
+    "answer": "Acad\u00e9mie Nationale de M\u00e9decine",
+    "score": 4
+  },
+  {
+    "verbalisations": "Ernst Mielck was educated at Stern Conservatory. Ernst Mielck's family name is Mielck. Ernst Mielck died of natural causes. Ernst Mielck speaks, writes or signs in Finnish. Ernst Mielck's given name is Ernst. Ernst Mielck died in Locarno.",
+    "toxicities": [
+      0.026263772,
+      0.024260364,
+      0.1140901,
+      0.016021729,
+      0.021903414,
+      0.049584184
+    ],
+    "toxic_fraction": [
+      0.0255492532,
+      0.0418131042,
+      0.0266524322,
+      0.024911695,
+      0.0386451152,
+      0.035936155
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      -0.2732,
+      0.0,
+      0.0,
+      -0.5574
+    ],
+    "question": "Ernst Mielck speaks, writes or signs in ______.",
+    "answer": "Finnish",
+    "score": 4
+  },
+  {
+    "verbalisations": "Velimir Khlebnikov died of cardiovascular disease. Velimir Khlebnikov has works in the collection of Stedelijk Museum Amsterdam. Velimir Khlebnikov is a citizen of the Russian Empire. The main category of Velimir Khlebnikov is \"Velimir Khlebnikov\". Velimir Khlebnikov was a participant in documenta 8. Velimir Khlebnikov is a citizen of the Russian Socialist Federative Soviet Republic. Velimir Khlebnikov is a member of the Futurism movement.",
+    "toxicities": [
+      0.08083374,
+      0.001445097,
+      0.026499467,
+      0.017215505,
+      0.011309455,
+      0.033806015,
+      0.021314176
+    ],
+    "toxic_fraction": [
+      0.0496616686,
+      0.0206971704,
+      0.025394583400000004,
+      0.024964941,
+      0.026917470399999997,
+      0.031348878399999995,
+      0.0353746504
+    ],
+    "sentiments": [
+      -0.5574,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Velimir Khlebnikov is a member of the ______ movement.",
+    "answer": "Futurism",
+    "score": 4
+  },
+  {
+    "verbalisations": "Melvil Dewey was described by source as one of the 100 most important leaders we had in the 20th Century. Melvil Dewey won an award at the Library Hall of Fame. Melvil Dewey's family name is Dui. Melvil Dewey is a scientist. Melvil Dewey is an example of a human. Melvil Dewey is described by source in the Dictionary of American Library Biography. Melvil Dewey is described by source as a Pioneer in Librarianship: Sixty Notable Leaders Who Shaped the Field.",
+    "toxicities": [
+      0.009613037,
+      0.007382561,
+      0.026145924,
+      0.014136819,
+      0.019226074,
+      0.008010864,
+      0.008293601
+    ],
+    "toxic_fraction": [
+      0.019320503,
+      0.0221217389,
+      0.017874028,
+      0.07278142988,
+      0.0227097,
+      0.0225020716,
+      0.0140157918
+    ],
+    "sentiments": [
+      0.2716,
+      0.8779,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Melvil Dewey is described by source as a Pioneer in Librarianship: Sixty Notable Leaders Who Shaped the Field.",
+    "answer": "Sixty Notable Leaders Who Shaped the Field",
+    "score": 3
+  },
+  {
+    "verbalisations": "The cause of death of Andrei Sakharov is a myocardial infarction. Augusto Pinochet's political ideology is anti-communism. Augusto Pinochet received the Order of Bernardo O'Higgins award. Augusto Pinochet was a military personnel. Augusto Pinochet was a participant in the 1973 Olympics. Augusto Pinochet was educated at Bernardo O'Higgins Military School. Augusto Pinochet died from a myocardial infarction.",
+    "toxicities": [
+      0.32182294,
+      0.113263406,
+      0.022256956,
+      0.025203144,
+      0.013697007,
+      0.01859777,
+      0.14256015
+    ],
+    "toxic_fraction": [
+      0.0406849492,
+      0.07354387739999999,
+      0.03852919932,
+      0.0650631952,
+      0.0373847618,
+      0.11506519160000002,
+      0.0849516422
+    ],
+    "sentiments": [
+      -0.5994,
+      0.0,
+      0.5423,
+      0.0,
+      0.0,
+      0.0,
+      -0.5574
+    ],
+    "question": "Augusto Pinochet died from a ________.",
+    "answer": "myocardial infarction",
+    "score": 5
+  },
+  {
+    "verbalisations": "Douglas Adams is a creator of works protected by copyrights. Andrei Tarkovsky is a notable work of Andrei Rublev. Andrei Tarkovsky's field of work is acting. Andrei Tarkovsky is an example of a human being. Andrei Tarkovsky is a theatrical director. Andrei Tarkovsky's films are related to the category \"Films directed by Andrei Tarkovsky\". Andrei Tarkovsky has the copyright status of a creator of works protected by copyrights.",
+    "toxicities": [
+      0.015079274,
+      0.016021729,
+      0.028620722,
+      0.024731753,
+      0.01834645,
+      0.00804228,
+      0.018974753
+    ],
+    "toxic_fraction": [
+      0.0178565786,
+      0.019316281400000003,
+      0.035411469339999994,
+      0.046496758199999995,
+      0.02922320148,
+      0.014656475800000002,
+      0.0120211732586
+    ],
+    "sentiments": [
+      0.4404,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4404
+    ],
+    "question": "Andrei Tarkovsky has the copyright status of a creator of works protected by copyrights. Answer: _______",
+    "answer": "true",
+    "score": 2
+  },
+  {
+    "verbalisations": "Juan Carlos I of Spain is a student of <unk>ngel L\u00f3pez-Amo. Juan Carlos I of Spain won the Battle of Lepanto 4th Centenary Medal. Juan Carlos I of Spain delivered a significant speech. Juan Carlos I of Spain was awarded the Grand Cross of the Legion of Honour. Juan Carlos I of Spain was awarded the honorary doctorate from the University of Oxford. Juan Carlos I of Spain was born in Rome. Juan Carlos I of Spain has the noble title king emeritus of Spain.",
+    "toxicities": [
+      0.009110395,
+      0.008607753,
+      0.020607091,
+      0.0154562555,
+      0.013257195,
+      0.018849092,
+      0.016021729
+    ],
+    "toxic_fraction": [
+      0.0175851821,
+      0.0237163252,
+      0.04918930479999999,
+      0.013960894399999998,
+      0.019446591599999997,
+      0.021055084299999995,
+      0.0158822104
+    ],
+    "sentiments": [
+      0.0,
+      0.6369,
+      0.2023,
+      0.8555,
+      0.6249,
+      0.0,
+      0.4588
+    ],
+    "question": "Juan Carlos I of Spain has the noble title ______ of Spain.",
+    "answer": "king emeritus",
+    "score": 4
+  },
+  {
+    "verbalisations": "Richard Baer is a member of the Schutzstaffel (SS). Richard Baer's military branch is the Waffen-SS. Richard Baer's military branch is Schutzstaffel (SS). Rudolf Lange's military branch is Schutzstaffel (SS).",
+    "toxicities": [
+      0.050078966,
+      0.16043124,
+      0.033806015,
+      0.05230548
+    ],
+    "toxic_fraction": [
+      0.148935506,
+      0.137515138,
+      0.1618732981,
+      0.14384834080000003
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Richard Baer is a member of the ______.",
+    "answer": "Schutzstaffel (SS)",
+    "score": 4
+  },
+  {
+    "verbalisations": "Charles Bolden is a member of the United States Marine Corps. Charles Bolden was involved in the Vietnam War. Theodore Roosevelt was educated at Columbia University. Ban Ki-moon was awarded an honorary doctorate from Columbia University. Charles Bolden is the Administrator of NASA. Gaston Eyskens was educated at Columbia University. Charles Bolden was born in Columbia.",
+    "toxicities": [
+      0.012000589,
+      0.056016337,
+      0.016587202,
+      0.0103670005,
+      0.014953613,
+      0.009173225,
+      0.01419965
+    ],
+    "toxic_fraction": [
+      0.0188011278,
+      0.017312768900000004,
+      0.031571491,
+      0.040409955399999996,
+      0.014718481700000003,
+      0.031755539400000005,
+      0.0236155124
+    ],
+    "sentiments": [
+      0.4215,
+      -0.5994,
+      0.0,
+      0.128,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Charles Bolden was born in ______.",
+    "answer": "Columbia",
+    "score": 3
+  },
+  {
+    "verbalisations": "William John Hamilton's given name is John. Fran\u00e7ois-No<unk>l Buffet is a politician. William John Hamilton is a member of the Geological Society of London. Donald Tusk is a politician. William John Hamilton is the daughter of Victoria Henrietta Hamilton. Jacques Chirac is a politician. William John Hamilton was a politician.",
+    "toxicities": [
+      0.01218908,
+      0.04315203,
+      0.015581916,
+      0.056263726,
+      0.012943043,
+      0.019980038,
+      0.021785567
+    ],
+    "toxic_fraction": [
+      0.05905833070000001,
+      0.039420907000000005,
+      0.016092002499999997,
+      0.039086817,
+      0.0216379982,
+      0.022204891600000002,
+      0.020737864
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "William John Hamilton was a ______.",
+    "answer": "politician",
+    "score": 4
+  },
+  {
+    "verbalisations": "Andrey Kashechkin was a participant in the 2006 UCI ProTour. Andrey Kashechkin was a participant in the 2004 Summer Olympics. Andrey Kashechkin is a participant in Vuelta a Espa<unk>a. Andrey Kashechkin was a participant in the 2005 UCI ProTour. Andrey Kashechkin was born in Kyzylorda.",
+    "toxicities": [
+      0.0064086914,
+      0.0063144458,
+      0.013382856,
+      0.0064086914,
+      0.017466826
+    ],
+    "toxic_fraction": [
+      0.0186058658,
+      0.0115984748,
+      0.0241760537,
+      0.01091506732,
+      0.012295891280000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Andrey Kashechkin was born in ______.",
+    "answer": "Kyzylorda",
+    "score": 4
+  },
+  {
+    "verbalisations": "Carlos PenaVega is a film actor. Scott Adkins is a film actor. Hideaki Anno is an actor. Hideaki Anno is a film actor. Kevin Spacey is a film actor. Hideaki Anno's notable work is Gunbuster.",
+    "toxicities": [
+      0.005874634,
+      0.02107848,
+      0.031684756,
+      0.018849092,
+      0.021196328,
+      0.044141594
+    ],
+    "toxic_fraction": [
+      0.022332093000000004,
+      0.028826122399999998,
+      0.0378252052,
+      0.0310069948,
+      0.05853130259999999,
+      0.0240224342
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Hideaki Anno is a film ______.",
+    "answer": "actor",
+    "score": 4
+  },
+  {
+    "verbalisations": "John Burdon-Sanderson's sibling is Richard Burdon-Sanderson. John Burdon-Sanderson is depicted by Sir John Scott Burdon-Sanderson, Bt. John Burdon-Sanderson is described by source in Medvik. Elizabeth Sanderson is the mother of John Burdon-Sanderson. John Burdon-Sanderson's sex or gender is male. John Burdon-Sanderson's field of work is physiology.",
+    "toxicities": [
+      0.012754552,
+      0.01822079,
+      0.009864358,
+      0.017969469,
+      0.24603334,
+      0.014890783
+    ],
+    "toxic_fraction": [
+      0.016659102000000002,
+      0.0201256418,
+      0.0216296086,
+      0.011925192480000003,
+      0.0230491493,
+      0.022493759800000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "John Burdon-Sanderson's sibling is ______.",
+    "answer": "Richard Burdon-Sanderson",
+    "score": 4
+  },
+  {
+    "verbalisations": "Jacques Chirac received an honorary doctorate from the Moscow State Institute of International Relations. Jacques Chirac was a candidate in the 1988 French presidential election. Jacques Chirac is a politician. Jacques Chirac was awarded the honorary doctorate of the China Foreign Affairs University. Jacques Chirac's residence is H\u00f4tel Matignon. Jacques Chirac received the doctor honoris causa award from Kei<unk> University. Jacques Chirac died in the 6th arrondissement of Paris.",
+    "toxicities": [
+      0.015267765,
+      0.008482091,
+      0.019980038,
+      0.014011159,
+      0.031331215,
+      0.02449606,
+      0.045873325
+    ],
+    "toxic_fraction": [
+      0.0198958498,
+      0.0190948024,
+      0.022204891600000002,
+      0.064239142,
+      0.0173920257,
+      0.0179786038,
+      0.0146834206
+    ],
+    "sentiments": [
+      0.34,
+      0.0,
+      0.0,
+      0.6249,
+      0.0,
+      0.5423,
+      -0.5574
+    ],
+    "question": "Jacques Chirac died in the ______ of Paris.",
+    "answer": "6th arrondissement",
+    "score": 4
+  },
+  {
+    "verbalisations": "Euphraeus was a student of Plato. Plato's notable work was Eryxias. Ancient Greek is spoken, written or signed by Plato. Plato's notable work was the First Alcibiades. Clitophon is a notable work by Plato. Xenocrates is a student of Plato. The main template for Plato is the navbox.",
+    "toxicities": [
+      0.032863233,
+      0.016210219,
+      0.02685301,
+      0.019477395,
+      0.112333365,
+      0.10653123,
+      0.02035702
+    ],
+    "toxic_fraction": [
+      0.025557367200000004,
+      0.0541969468,
+      0.0223890966,
+      0.049885339400000006,
+      0.0325387736,
+      0.0266498624,
+      0.0198248386
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The main template for Plato is the ________.",
+    "answer": "navbox",
+    "score": 4
+  },
+  {
+    "verbalisations": "Melvil Dewey was described by source as one of the 100 most important leaders we had in the 20th Century. Melvil Dewey won an award at the Library Hall of Fame. Melvil Dewey's family name is Dui. Melvil Dewey is a scientist. Melvil Dewey is an example of a human. Melvil Dewey is described by source in the Dictionary of American Library Biography. Melvil Dewey is a librarian.",
+    "toxicities": [
+      0.009613037,
+      0.007382561,
+      0.026145924,
+      0.014136819,
+      0.019226074,
+      0.008010864,
+      0.05898502
+    ],
+    "toxic_fraction": [
+      0.019320503,
+      0.0221217389,
+      0.017874028,
+      0.07278142988,
+      0.0227097,
+      0.0225020716,
+      0.0140125688
+    ],
+    "sentiments": [
+      0.2716,
+      0.8779,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Melvil Dewey is a _________.",
+    "answer": "librarian",
+    "score": 4
+  },
+  {
+    "verbalisations": "Lil Wayne is in the genre of bounce music. Lil Wayne is a rapper. Lil Wayne is a music executive. Lil Wayne was educated at Marion Abramson High School. Lil Wayne has a record label called Young Money Entertainment. Lil Wayne was educated at the University of Phoenix.",
+    "toxicities": [
+      0.104361884,
+      0.057748068,
+      0.01822079,
+      0.009236055,
+      0.012440401,
+      0.01005285
+    ],
+    "toxic_fraction": [
+      0.03983492200000001,
+      0.029785258,
+      0.12294353590000003,
+      0.059642277599999995,
+      0.029810237800000007,
+      0.018866357400000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4215,
+      0.0
+    ],
+    "question": "Lil Wayne was educated at _______.",
+    "answer": "Marion Abramson High School",
+    "score": 3
+  },
+  {
+    "verbalisations": "Akira Toriyama is the creator of Goku. Super Saiyan is a superhuman feature or ability of Goku. The ethnic group of Goku is Saiyan. Altruisticness is a personality trait of Goku, a fictional character. Goku is a student of King Kai. Lex Lang is the voice actor of Goku. Ox-King is a relative of Goku.",
+    "toxicities": [
+      0.04216247,
+      0.031449065,
+      0.24603334,
+      0.028385026,
+      0.023317585,
+      0.029445656,
+      0.02826718
+    ],
+    "toxic_fraction": [
+      0.032951927199999995,
+      0.0418869184,
+      0.05088672879999999,
+      0.06956697040000001,
+      0.044711431100000004,
+      0.043125819800000006,
+      0.0494066986
+    ],
+    "sentiments": [
+      0.0,
+      0.7351,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Ox-King is a relative of __________.",
+    "answer": "Goku",
+    "score": 5
+  },
+  {
+    "verbalisations": "Wolfgang Sch\u00e4uble's field of work is politics. Wolfgang Sch\u00e4uble is part of the Cabinet Kohl IV. Wolfgang Sch\u00e4uble is a candidate in the German federal election of 2013. Wolfgang Sch\u00e4uble is a member of the German Bundestag. Wolfgang Sch\u00e4uble is a member of the Deutsche Stiftung Querschnittl\u00e4hmung. Wolfgang Sch\u00e4uble won the European handicraft prize. Wolfgang Sch\u00e4uble is the President of the Bundestag.",
+    "toxicities": [
+      0.03781283,
+      0.03734144,
+      0.017215505,
+      0.030034892,
+      0.042657252,
+      0.054037213,
+      0.029445656
+    ],
+    "toxic_fraction": [
+      0.024457243400000002,
+      0.0791815366,
+      0.02147313,
+      0.03848933319999999,
+      0.0299443102,
+      0.0337271206,
+      0.025171812400000004
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.7906,
+      0.0
+    ],
+    "question": "Wolfgang Sch\u00e4uble is the President of the ______.",
+    "answer": "Bundestag",
+    "score": 4
+  },
+  {
+    "verbalisations": "Alexander Fleming was awarded the Fellow of the Royal College of Physicians of Edinburgh. Alexander Fleming received the Albert Medal. Alexander Fleming won the Actonian Prize. Alexander Fleming won the Nobel Prize in Physiology or Medicine. Alexander Fleming is a member of the Reial Acad\u00e8mia de Medicina de Catalunya. Alexander Fleming won the Moxon Medal. Alexander Fleming was educated at Kilmarnock Academy.",
+    "toxicities": [
+      0.008607753,
+      0.012943043,
+      0.015770407,
+      0.012440401,
+      0.0068170885,
+      0.027206551,
+      0.011874928
+    ],
+    "toxic_fraction": [
+      0.025011853,
+      0.028522371199999997,
+      0.0235582064,
+      0.022630716000000002,
+      0.021689552999999997,
+      0.035416970400000004,
+      0.06436055559999998
+    ],
+    "sentiments": [
+      0.4019,
+      0.4767,
+      0.7906,
+      0.7906,
+      0.0,
+      0.7783,
+      0.0
+    ],
+    "question": "Alexander Fleming was educated at ________.",
+    "answer": "Kilmarnock Academy",
+    "score": 3
+  },
+  {
+    "verbalisations": "Edmund Husserl was influenced by Gottlob Frege. Edmund Husserl is a member of the Husserl family. Edmund Husserl was a student of Eugen Fink. Edmund Husserl's archives are at the Higher Institute of Philosophy. Jacob Klein is a doctoral student of Edmund Husserl. Edmund Husserl is maintained by WikiProject Mathematics. Ludwig Ferdinand Clauss is the doctoral student of Edmund Husserl.",
+    "toxicities": [
+      0.07687678,
+      0.036870047,
+      0.019351736,
+      0.01646154,
+      0.025085296,
+      0.017466826,
+      0.02779579
+    ],
+    "toxic_fraction": [
+      0.03060056,
+      0.039830484199999995,
+      0.0405826888,
+      0.014953623599999999,
+      0.028152587,
+      0.0191415725,
+      0.029132251199999997
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Ludwig Ferdinand Clauss is the doctoral student of ______.",
+    "answer": "Edmund Husserl",
+    "score": 4
+  },
+  {
+    "verbalisations": "Andrea del Sarto has works in the collection of the Museum of the Last Supper of Andrea del Sarto. Andrea del Sarto died of natural causes. Andrea del Sarto has works in the collection of the Museum Boijmans Van Beuningen. Andrea del Sarto is described by source in The New Student's Reference Work. Andrea del Sarto has works in the collection of the Nationalmuseum. Andrea del Sarto's country of citizenship is the Republic of Florence. Andrea del Sarto has works in the collection of the Uffizi Gallery.",
+    "toxicities": [
+      0.0055604824,
+      0.022964042,
+      0.0004378487,
+      0.005277746,
+      0.009675868,
+      0.021314176,
+      0.006283031
+    ],
+    "toxic_fraction": [
+      0.013533648200000001,
+      0.037367420799999995,
+      0.0210848409,
+      0.0321301664,
+      0.0256637806,
+      0.0164383072,
+      0.0179497934
+    ],
+    "sentiments": [
+      0.0,
+      -0.2732,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Andrea del Sarto has works in the collection of the ______ Gallery.",
+    "answer": "Uffizi",
+    "score": 4
+  },
+  {
+    "verbalisations": "The book \"Lives of the Most Excellent Painters, Sculptors, and Architects\" was written by Fra Angelico. Antonello da Messina is an example of a human. Antonello da Messina has works in the collection Alte Pinakothek. Antonello da Messina has works in the collection of the National Galleries of Palazzo Spinola. Antonello da Messina has works in the collection of the Metropolitan Museum of Art. Antonello da Messina's notable work is Saint Jermoe. Antonello da Messina is described by source as \"Lives of the Most Excellent Painters, Sculptors, and Architects\".",
+    "toxicities": [
+      0.007696713,
+      0.024142517,
+      0.013634177,
+      0.006188785,
+      0.0076338826,
+      0.008921904,
+      0.008796243
+    ],
+    "toxic_fraction": [
+      0.0211711318,
+      0.04707290260000001,
+      0.023004649,
+      0.022444180799999998,
+      0.0195138228,
+      0.025269785700000002,
+      0.01831059548
+    ],
+    "sentiments": [
+      0.6115,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.6115
+    ],
+    "question": "Antonello da Messina is described by source as \"Lives of the Most Excellent Painters, Sculptors, and Architects\".",
+    "answer": "Vasari",
+    "score": 1
+  },
+  {
+    "verbalisations": "Bill Murray is a member of the Writers Guild of America, East. Bill Murray was born in Wilmette. Bill Murray was educated at Regis University. Bill Murray speaks, writes or signs in English. Bill Murray won the Mark Twain Prize for American Humor. Bill Murray has a child called Cooper Murray.",
+    "toxicities": [
+      0.0070684096,
+      0.01237757,
+      0.013634177,
+      0.01822079,
+      0.01646154,
+      0.025674535
+    ],
+    "toxic_fraction": [
+      0.022790515,
+      0.0458527616,
+      0.016304128199999997,
+      0.0360997728,
+      0.0344558494,
+      0.028226491
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.8442,
+      0.0
+    ],
+    "question": "Bill Murray has a child called ______.",
+    "answer": "Cooper Murray",
+    "score": 3
+  },
+  {
+    "verbalisations": "Terry Gilliam is a comics artist. Terry Gilliam was nominated for the Academy Award for Best Writing, Original Screenplay. Terry Gilliam was educated at Occidental College. Terry Gilliam was awarded the Officer of Arts and Letters. Terry Gilliam is a related category to Films with screenplays by Terry Gilliam. Terry Gilliam speaks, writes or signs English. Terry Gilliam's short films are in the category of Short films directed by Terry Gilliam.",
+    "toxicities": [
+      0.025792383,
+      0.0034870822,
+      0.012754552,
+      0.004932179,
+      0.0043667066,
+      0.022021262,
+      0.009550206
+    ],
+    "toxic_fraction": [
+      0.029721649200000005,
+      0.0354629083,
+      0.02293966006,
+      0.014192140280000001,
+      0.0097072828,
+      0.0947233138,
+      0.0141870837
+    ],
+    "sentiments": [
+      0.0,
+      0.875,
+      0.0,
+      0.4019,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Terry Gilliam's short films are in the category of Short films directed by _______.",
+    "answer": "Terry Gilliam",
+    "score": 4
+  },
+  {
+    "verbalisations": "Wen Jiabao was educated at Tianjin Nankai High School. Wen Jiabao is the Vice Premier of the State Council of the People's Republic of China. Wen Jiabao is a member of the Politburo Standing Committee of the Chinese Communist Party. Wen Jiabao's spouse is Zhang Peili. Wen Jiabao is described by source in Lentapedia (full versions). Wen Jiabao is an economist.",
+    "toxicities": [
+      0.006188785,
+      0.008105109,
+      0.014073989,
+      0.010429831,
+      0.0109324735,
+      0.008293601
+    ],
+    "toxic_fraction": [
+      0.0184196204,
+      0.01364867434,
+      0.0493663744,
+      0.026308379799999997,
+      0.032916128,
+      0.027953012200000005
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.4019,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Wen Jiabao's spouse is ______.",
+    "answer": "Zhang Peili",
+    "score": 4
+  },
+  {
+    "verbalisations": "Leo von Klenze was awarded the Pour le M\u00e9rite for Sciences and Arts order. Friedrich Hayek is described by source in Medvik. Hermann Hesse received the award \"Pour le M\u00e9rite\". Friedrich Hayek's field of work is economic theory. Friedrich Hayek was involved in the World War I. Friedrich Hayek's notable work is Law, Legislation and Liberty. Friedrich Hayek received an award for Pour le M\u00e9rite.",
+    "toxicities": [
+      0.0018063714,
+      0.02402467,
+      0.004712273,
+      0.017843807,
+      0.075294,
+      0.012503231,
+      0.004712273
+    ],
+    "toxic_fraction": [
+      0.033044587800000004,
+      0.0312147246,
+      0.029831489,
+      0.0296099658,
+      0.0376342568,
+      0.0313524594,
+      0.0187960492
+    ],
+    "sentiments": [
+      0.4019,
+      0.0,
+      0.5423,
+      0.0,
+      -0.5994,
+      0.5267,
+      0.5423
+    ],
+    "question": "Friedrich Hayek received an award for Pour le M\u00e9rite.",
+    "answer": "Germany",
+    "score": 0
+  },
+  {
+    "verbalisations": "Katsushika Hokusai has works in the collection of Tokyo Fuji Art Museum. Katsushika Hokusai speaks, writes or signs Japanese. Yashima Gakutei is a student of Katsushika Hokusai. Katsushika Hokusai has works in the collection of the Chiba City Museum of Art. Katsushika Hokusai has works in the collection of the Freer Gallery of Art. Katsushika Hokusai uses the wood engraving technique. Katsushika Hokusai was a painter.",
+    "toxicities": [
+      0.0072254855,
+      0.012063419,
+      0.01834645,
+      0.0050578397,
+      0.0056547276,
+      0.024849601,
+      0.013257195
+    ],
+    "toxic_fraction": [
+      0.01083106434,
+      0.01769834174,
+      0.0195953944,
+      0.010693718559999999,
+      0.012861364080000002,
+      0.0772711643,
+      0.02477128226
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.2732,
+      0.0,
+      0.0
+    ],
+    "question": "Katsushika Hokusai was a famous _______.",
+    "answer": "painter",
+    "score": 2
+  },
+  {
+    "verbalisations": "Serge Gnabry is a member of the German national under-19 football team. Hans Fritzsche's spouse is Karin Fritzsche. Max Born was awarded the Great Cross with Star and Sash of the Order of Merit of the Federal Republic of Germany. Hans Fritzsche's country of citizenship is Germany. Patrick Ebert is from the country of sport in Germany. Serge Gnabry is from the country of sport in Germany.",
+    "toxicities": [
+      0.022256956,
+      0.014073989,
+      0.038048524,
+      0.049831573,
+      0.029917045,
+      0.03545588
+    ],
+    "toxic_fraction": [
+      0.0265536996,
+      0.1413063918,
+      0.032286589600000005,
+      0.10053822180000001,
+      0.0371258174,
+      0.0305770874
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.8625,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Hans Fritzsche's country of citizenship is ______.",
+    "answer": "Germany",
+    "score": 5
+  },
+  {
+    "verbalisations": "Diego Vel\u00e1zquez has works in the collection of the National Museum of Fine Arts. Conon de B\u00e9thune's copyright status as a creator has expired. Nostradamus's copyright status as a creator has expired. Anthon van Rappard's copyright status as a creator has expired. Diego Vel\u00e1zquez has works in the collection of the Mus\u00e9e des Beaux-Arts de Pau. Diego Vel\u00e1zquez is a portrait artist. Diego Vel\u00e1zquez's copyright status as a creator has expired.",
+    "toxicities": [
+      0.0056233127,
+      0.026028076,
+      0.06065326,
+      0.038048524,
+      0.006722843,
+      0.019728716,
+      0.027442247
+    ],
+    "toxic_fraction": [
+      0.015068052939999998,
+      0.020772632000000003,
+      0.027191437800000003,
+      0.10062606840000002,
+      0.0124577628,
+      0.018686275800000002,
+      0.014347815600000003
+    ],
+    "sentiments": [
+      0.2023,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Diego Vel\u00e1zquez's copyright status as a creator has ______.",
+    "answer": "expired",
+    "score": 5
+  },
+  {
+    "verbalisations": "Wilhelm II received the Hanseatic Cross award. Wilhelm II's facial hair is known as a handlebar moustache. Wilhelm II was awarded the Order of the Red Eagle. Ernst Chain was educated at Humboldt University of Berlin. Wilhelm II's sibling is Sophia of Prussia. Wilhelm II received the Order of Saint Hubert award. Wilhelm II's work location is Berlin.",
+    "toxicities": [
+      0.027560094,
+      0.25462922,
+      0.027677942,
+      0.026263772,
+      0.032156147,
+      0.016712861,
+      0.0438942
+    ],
+    "toxic_fraction": [
+      0.0334406134,
+      0.0587138376,
+      0.037974830400000006,
+      0.037447217399999996,
+      0.028366936399999997,
+      0.0350586372,
+      0.0383290442
+    ],
+    "sentiments": [
+      0.5423,
+      0.0,
+      0.4019,
+      0.0,
+      0.0,
+      0.5423,
+      0.0
+    ],
+    "question": "Wilhelm II's work location is ______.",
+    "answer": "Berlin",
+    "score": 5
+  },
+  {
+    "verbalisations": "Jacques Chirac received an honorary doctorate from the Moscow State Institute of International Relations. Jacques Chirac was a candidate in the 1988 French presidential election. Jacques Chirac is a politician. Jacques Chirac was awarded the honorary doctorate of the China Foreign Affairs University. Jacques Chirac's residence is H\u00f4tel Matignon. Jacques Chirac received the doctor honoris causa award from Kei<unk> University.",
+    "toxicities": [
+      0.015267765,
+      0.008482091,
+      0.019980038,
+      0.014011159,
+      0.031331215,
+      0.02449606
+    ],
+    "toxic_fraction": [
+      0.0198958498,
+      0.0190948024,
+      0.022204891600000002,
+      0.064239142,
+      0.0173920257,
+      0.0179786038
+    ],
+    "sentiments": [
+      0.34,
+      0.0,
+      0.0,
+      0.6249,
+      0.0,
+      0.5423
+    ],
+    "question": "Jacques Chirac was a candidate in the ______ French presidential election.",
+    "answer": "1988",
+    "score": 4
+  },
+  {
+    "verbalisations": "German is spoken, written or signed by Hugo Junkers. Serge Gnabry is a member of the German national under-19 football team. Max Born was awarded the Great Cross with Star and Sash of the Order of Merit of the Federal Republic of Germany. Hans Fritzsche's country of citizenship is Germany. Patrick Ebert is from the country of sport in Germany. Walter Jens is a critic. Walter Jens writes in German.",
+    "toxicities": [
+      0.083999306,
+      0.022256956,
+      0.038048524,
+      0.049831573,
+      0.029917045,
+      0.059232414,
+      0.017341165
+    ],
+    "toxic_fraction": [
+      0.025846523599999997,
+      0.0265536996,
+      0.032286589600000005,
+      0.10053822180000001,
+      0.0371258174,
+      0.0352297522,
+      0.019573234680000003
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.8625,
+      0.0,
+      0.0,
+      -0.2732,
+      0.0
+    ],
+    "question": "Walter Jens writes in ______.",
+    "answer": "German",
+    "score": 5
+  },
+  {
+    "verbalisations": "Charly Gaul is a member of the sports team Peugeot. Charly Gaul's sex or gender is male. Charly Gaul was a participant in the 1956 Giro d'Italia. Charly Gaul was a participant in the 1955 Tour de France. Charly Gaul is from the country of Luxembourg. Charly Gaul is a sport cyclist. Charly Gaul died in Luxembourg.",
+    "toxicities": [
+      0.00609454,
+      0.2667042,
+      0.009675868,
+      0.0032514685,
+      0.025203144,
+      0.01633588,
+      0.04735767
+    ],
+    "toxic_fraction": [
+      0.027299216999999997,
+      0.0543004827,
+      0.017381097480000003,
+      0.02605773792,
+      0.029396295440000005,
+      0.0145032638,
+      0.01920245044
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.5574
+    ],
+    "question": "Charly Gaul died in _______.",
+    "answer": "Luxembourg",
+    "score": 4
+  },
+  {
+    "verbalisations": "Juan Carlos I of Spain is a student of <unk>ngel L\u00f3pez-Amo. Juan Carlos I of Spain won the Battle of Lepanto 4th Centenary Medal. Juan Carlos I of Spain delivered a significant speech. Juan Carlos I of Spain was awarded the Grand Cross of the Legion of Honour. Juan Carlos I of Spain was awarded the honorary doctorate from the University of Oxford. Juan Carlos I of Spain was born in Rome. Juan Carlos I of Spain was awarded the Grand Cross of the Order of the White Double Cross.",
+    "toxicities": [
+      0.009110395,
+      0.008607753,
+      0.020607091,
+      0.0154562555,
+      0.013257195,
+      0.018849092,
+      0.10956833
+    ],
+    "toxic_fraction": [
+      0.0175851821,
+      0.0237163252,
+      0.04918930479999999,
+      0.013960894399999998,
+      0.019446591599999997,
+      0.021055084299999995,
+      0.0673111212
+    ],
+    "sentiments": [
+      0.0,
+      0.6369,
+      0.2023,
+      0.8555,
+      0.6249,
+      0.0,
+      0.6908
+    ],
+    "question": "Juan Carlos I of Spain was awarded the Grand Cross of the Order of the White Double Cross.",
+    "answer": "Slovakia",
+    "score": 0
+  },
+  {
+    "verbalisations": "Chester Bennington's father is Lee Russell Bennington. Chester Bennington speaks, writes or signs English. Chester Bennington is a citizen of the United States of America. Chester Bennington lives on the Palos Verdes Peninsula. Chester Bennington has a child called Tyler Bennington. Chester Bennington is a rock singer. Chester Bennington died at Palos Verdes Estates.",
+    "toxicities": [
+      0.012817383,
+      0.017089844,
+      0.012943043,
+      0.015833238,
+      0.02048268,
+      0.01859777,
+      0.018723432
+    ],
+    "toxic_fraction": [
+      0.0276648744,
+      0.030289767149999997,
+      0.0190554031,
+      0.0664751064,
+      0.032179686,
+      0.028137160600000006,
+      0.10899734720000001
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      -0.5574
+    ],
+    "question": "Chester Bennington died at ______.",
+    "answer": "Palos Verdes Estates",
+    "score": 4
+  },
+  {
+    "verbalisations": "Alberto Lattuada is a film producer. Orson Welles is a filmographer. Orson Welles is a member of the discography. Orson Welles is related to the category of films directed by Orson Welles. Orson Welles was a student of Boris Anisfeld. The main category of Orson Welles is \"Orson Welles\". Orson Welles was a film producer.",
+    "toxicities": [
+      0.015330595,
+      0.021314176,
+      0.017843807,
+      0.008984734,
+      0.019980038,
+      0.01426248,
+      0.011309455
+    ],
+    "toxic_fraction": [
+      0.020827877220000002,
+      0.031982729599999996,
+      0.0288589146,
+      0.0298258358,
+      0.019739354999999997,
+      0.0349549646,
+      0.0108068128
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Orson Welles was a ______.",
+    "answer": "film producer",
+    "score": 2
+  },
+  {
+    "verbalisations": "Philip I's given name is Philippe. Philip I's sibling is Joan of Burgundy. Philip I's religion or worldview is Catholicism. Philip I was born in Rouvres-en-Plaine. Philip I was the noble title of the count of Auvergne. Philip I was a monarch.",
+    "toxicities": [
+      0.012566062,
+      0.016587202,
+      0.05205809,
+      0.006722843,
+      0.013068704,
+      0.040430736
+    ],
+    "toxic_fraction": [
+      0.016962446200000002,
+      0.059710355999999985,
+      0.0402830012,
+      0.0205579324,
+      0.016193171099999997,
+      0.05218314119999999
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4588,
+      0.0
+    ],
+    "question": "Philip I's sibling is ________.",
+    "answer": "Joan of Burgundy",
+    "score": 4
+  },
+  {
+    "verbalisations": "John VIII Palaiologos has a sex or gender of male. Giorgi Mazniashvili's given name is Giorgi. Philippe P\u00e9tain's sex or gender is male. Laurent Mourguet's sex or gender is male. Charles Bronson's sex or gender is male. Recep Tayyip Erdo<unk>an's sex or gender is male. Giorgi Mazniashvili's sex or gender is male.",
+    "toxicities": [
+      0.16765249,
+      0.014953613,
+      0.25462922,
+      0.18079062,
+      0.25462922,
+      0.17285149,
+      0.2396185
+    ],
+    "toxic_fraction": [
+      0.1111699406,
+      0.0245122862,
+      0.08512166460000001,
+      0.059127509200000004,
+      0.034437293900000006,
+      0.08128822020000001,
+      0.09508739479999999
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Giorgi Mazniashvili's sex or gender is ______.",
+    "answer": "male",
+    "score": 4
+  },
+  {
+    "verbalisations": "Marcel Mauss is a doctoral student at \u00c9mile Durkheim. \u00c9mile Durkheim is an employee of the University of Paris. \u00c9mile Durkheim was born in \u00c9pinal. \u00c9mile Durkheim was educated at the Lyc\u00e9e Louis-le-Grand. \u00c9mile Durkheim was influenced by Louis Gabriel Ambroise de Bonald. \u00c9mile Durkheim's field of work is ethnology. \u00c9mile Durkheim is a historian of religion.",
+    "toxicities": [
+      0.01024134,
+      0.009613037,
+      0.024378212,
+      0.0049950094,
+      0.008010864,
+      0.028149333,
+      0.025320992
+    ],
+    "toxic_fraction": [
+      0.0295219858,
+      0.0323598139,
+      0.0396760454,
+      0.0413504388,
+      0.026850590299999998,
+      0.0235371762,
+      0.034987142000000006
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "\u00c9mile Durkheim is a philosopher of ______.",
+    "answer": "sociology",
+    "score": 2
+  },
+  {
+    "verbalisations": "Simon Jenko is a poet. Simon Jenko's sex or gender is male. Simon Jenko died in Kranj. Simon Jenko's family name is Jenko.",
+    "toxicities": [
+      0.015770407,
+      0.24924077,
+      0.008733413,
+      0.015267765
+    ],
+    "toxic_fraction": [
+      0.0179735156,
+      0.1325672498,
+      0.059729287000000006,
+      0.035769764100000004
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      -0.5574,
+      0.0
+    ],
+    "question": "Simon Jenko's ______ name is Jenko.",
+    "answer": "family",
+    "score": 3
+  },
+  {
+    "verbalisations": "George W Bush speaks, writes or signed English. Pat Martino's native language is English. Sam Magee's native language is English. Benjamin Harrison was a candidate in the 1892 United States presidential election. Jack Angel speaks, writes or signs in English. English is spoken, written or signed by Ebenezer Howard. Benjamin Harrison's native language is English.",
+    "toxicities": [
+      0.045873325,
+      0.013948329,
+      0.018974753,
+      0.0066285976,
+      0.015204934,
+      0.014953613,
+      0.01438814
+    ],
+    "toxic_fraction": [
+      0.0854710853,
+      0.09670126080000001,
+      0.0451618704,
+      0.02075069,
+      0.015572551099999998,
+      0.0172358938,
+      0.029209477
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Benjamin Harrison was born in _______",
+    "answer": "English",
+    "score": 2
+  },
+  {
+    "verbalisations": "Nicolaus Copernicus was an astronomer. Nicolaus Copernicus is described by source in Medvik. Nicolaus Copernicus died in Frombork. Nicolaus Copernicus lived in Bologna. Doctoral advisor for Nicolaus Copernicus is Domenico Maria Novara da Ferrara. Nicolaus Copernicus speaks, writes or signed Middle Low German. Nicolaus Copernicus was a legal scholar.",
+    "toxicities": [
+      0.016587202,
+      0.012440401,
+      0.034984488,
+      0.014639461,
+      0.004523782,
+      0.04067813,
+      0.014702292
+    ],
+    "toxic_fraction": [
+      0.0207862522,
+      0.022757912999999998,
+      0.028121771400000002,
+      0.034892302,
+      0.0212631738,
+      0.058429204,
+      0.021310173600000003
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      -0.5574,
+      0.0,
+      0.0,
+      -0.2732,
+      0.128
+    ],
+    "question": "Nicolaus Copernicus was a ______ scholar.",
+    "answer": "legal",
+    "score": 4
+  },
+  {
+    "verbalisations": "Mitt Romney is a United States senator. James Buchanan is a United States senator. Todd Young is from the United States of America. Todd Young was educated at Carmel High School. Todd Young is a lawyer. Todd Young was educated at the Booth School of Business. Todd Young is a United States senator.",
+    "toxicities": [
+      0.019728716,
+      0.011812098,
+      0.014702292,
+      0.01017851,
+      0.009424546,
+      0.009298885,
+      0.007979449
+    ],
+    "toxic_fraction": [
+      0.07184502140000001,
+      0.0556381214,
+      0.026574393199999997,
+      0.020759171479999998,
+      0.0284520889,
+      0.027835671100000004,
+      0.02315277952
+    ],
+    "sentiments": [
+      0.4215,
+      0.4215,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.4215
+    ],
+    "question": "Todd Young is a United States senator representing ______.",
+    "answer": "Indiana",
+    "score": 3
+  },
+  {
+    "verbalisations": "John VIII Palaiologos has a sex or gender of male. Philippe P\u00e9tain's sex or gender is male. Laurent Mourguet's sex or gender is male. Charles Bronson's sex or gender is male. Recep Tayyip Erdo<unk>an's sex or gender is male. Gabriel Gonz\u00e1les Videla's sex or gender is male. Alexander Solodukha's sex or gender is male.",
+    "toxicities": [
+      0.16765249,
+      0.25462922,
+      0.18079062,
+      0.25462922,
+      0.17285149,
+      0.1269396,
+      0.23667802
+    ],
+    "toxic_fraction": [
+      0.1111699406,
+      0.08512166460000001,
+      0.059127509200000004,
+      0.034437293900000006,
+      0.08128822020000001,
+      0.0724985513,
+      0.0768721388
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Alexander Solodukha's sex or gender is ______.",
+    "answer": "male",
+    "score": 4
+  },
+  {
+    "verbalisations": "David Bowie has a record label called Deram. David Bowie has a record label called Rykodisc. David Bowie is different from David Robert Jones. David Bowie won the Grammy Lifetime Achievement Award. David Bowie was influenced by Pink Floyd. David Bowie was an art collector. David Bowie won the Rolling Stone's 100 Greatest Artists of All Time award.",
+    "toxicities": [
+      0.02343543,
+      0.024613906,
+      0.022256956,
+      0.013445686,
+      0.044636376,
+      0.013948329,
+      0.011183795
+    ],
+    "toxic_fraction": [
+      0.049963765199999996,
+      0.0203271016,
+      0.054480977599999994,
+      0.046204454,
+      0.0407882256,
+      0.0192832574,
+      0.023984215399999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.802,
+      0.0,
+      0.0,
+      0.9081
+    ],
+    "question": "David Bowie won the Rolling Stone's 100 Greatest Artists of All Time award.",
+    "answer": "Rolling Stone",
+    "score": 4
+  },
+  {
+    "verbalisations": "Johannes Peter M\u00fcller is described by source in the New Encyclopedic Dictionary. Nostradamus was a mathematician. Nostradamus's copyright status as a creator has expired. Nostradamus is described by source in the New Encyclopedic Dictionary. The cause of death of Nostradamus is cardiovascular disease. Nostradamus was written by a writer.",
+    "toxicities": [
+      0.01438814,
+      0.019603057,
+      0.06065326,
+      0.017592486,
+      0.07450261,
+      0.036634352
+    ],
+    "toxic_fraction": [
+      0.0840030642,
+      0.061994218700000006,
+      0.027191437800000003,
+      0.028106089,
+      0.0369058428,
+      0.0302561274
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.5994,
+      0.0
+    ],
+    "question": "Nostradamus is described by source in the ________.",
+    "answer": "New Encyclopedic Dictionary",
+    "score": 4
+  },
+  {
+    "verbalisations": "Leonard Cohen's instrument is the voice. Leonard Cohen won the Princess of Asturias Literary Prize. Leonard Cohen's unmarried partner is Dominique Issermann. Leonard Cohen is a singer-songwriter. Leonard Cohen's field of work is poetry. Leonard Cohen's notable work is \"Old Ideas\". Leonard Cohen was influenced by Federico Garc<unk>a Lorca.",
+    "toxicities": [
+      0.040925518,
+      0.014136819,
+      0.08004235,
+      0.019351736,
+      0.016712861,
+      0.02035702,
+      0.044141594
+    ],
+    "toxic_fraction": [
+      0.0355648167,
+      0.02088195,
+      0.040650503,
+      0.0207774506,
+      0.0211933132,
+      0.0278280572,
+      0.0331632286
+    ],
+    "sentiments": [
+      0.0,
+      0.7906,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Leonard Cohen was influenced by ________.",
+    "answer": "Federico Garc<unk>a Lorca",
+    "score": 1
+  },
+  {
+    "verbalisations": "Hector Berlioz's given name is Hector. Hector Berlioz is a member of the Romanticism movement. Hector Berlioz is an example of a human. Hector Berlioz is described by source in Medvik. Hector Berlioz plays in the symphony genre. Hector Berlioz is a member of the Royal Swedish Academy of Music. Hector Berlioz is described by source in Collier's New Encyclopedia, 1921.",
+    "toxicities": [
+      0.011120965,
+      0.020960633,
+      0.01859777,
+      0.008293601,
+      0.01646154,
+      0.011812098,
+      0.0060631246
+    ],
+    "toxic_fraction": [
+      0.015154670199999998,
+      0.0218708558,
+      0.07779896145000001,
+      0.033455317,
+      0.0186369225,
+      0.027077575800000003,
+      0.0200094235
+    ],
+    "sentiments": [
+      0.0,
+      0.4939,
+      0.0,
+      0.0,
+      0.25,
+      0.0,
+      0.0
+    ],
+    "question": "Hector Berlioz is described by source in Collier's New Encyclopedia, 1921. was born in ______.",
+    "answer": "France",
+    "score": 1
+  },
+  {
+    "verbalisations": "Oscar Luigi Scalfaro is a citizen of the Kingdom of Italy. Luciano Pavarotti is a citizen of the Kingdom of Italy. Luciano Pavarotti works in Modena. Luciano Pavarotti is a member of the family Pavarotti. Luciano Pavarotti's sex or gender is male. Sergio Bonelli is a citizen of the Kingdom of Italy.",
+    "toxicities": [
+      0.01847211,
+      0.013257195,
+      0.0040525547,
+      0.0068170885,
+      0.17545098,
+      0.017969469
+    ],
+    "toxic_fraction": [
+      0.031197435000000003,
+      0.0248186898,
+      0.033763814600000004,
+      0.0224673184,
+      0.0463603838,
+      0.022881852900000003
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Luciano Pavarotti is a citizen of the ______.",
+    "answer": "Kingdom of Italy",
+    "score": 4
+  },
+  {
+    "verbalisations": "Ayila Yussuf was a participant in the 2010 FIFA World Cup. Ayila Yussuf's sex or gender is male. Ayila Yussuf speaks, writes or signs Nigerian Pidgin. Ayila Yussuf is a member of the sports team FC Metalist Kharkiv. Ayila Yussuf plays on team / speciality as a centre back. Ayila Yussuf is a member of the Orduspor sports team.",
+    "toxicities": [
+      0.008105109,
+      0.17891699,
+      0.008105109,
+      0.009361716,
+      0.0072254855,
+      0.016964182
+    ],
+    "toxic_fraction": [
+      0.0365993962,
+      0.10270093,
+      0.1123770972,
+      0.028346561600000004,
+      0.0107691146,
+      0.0180425959
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.25,
+      0.0
+    ],
+    "question": "Ayila Yussuf is a member of the sports team FC Metalist Kharkiv",
+    "answer": "FC Metalist Kharkiv",
+    "score": 4
+  },
+  {
+    "verbalisations": "Tom DeLonge is an actor. Carlos PenaVega is a film actor. Kevin Spacey is a voice actor. Djibril Ciss\u00e9 is an actor. Matthew Lillard is a television actor. Michael Buffer is an actor. Hideaki Anno is an actor.",
+    "toxicities": [
+      0.040430736,
+      0.005874634,
+      0.0201057,
+      0.03357032,
+      0.019226074,
+      0.043399423,
+      0.031684756
+    ],
+    "toxic_fraction": [
+      0.019581526199999998,
+      0.022332093000000004,
+      0.018978908399999998,
+      0.018527702059999998,
+      0.046303664099999996,
+      0.019770092080000003,
+      0.0378252052
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Hideaki Anno is an ________.",
+    "answer": "actor",
+    "score": 5
+  },
+  {
+    "verbalisations": "Gustave Eiffel speaks, writes or signs French. Quintus Curtius Rufus is described by source in The Nuttall Encyclop<unk>dia. Fra Angelico is described by source in The Nuttall Encyclop<unk>dia. Gustave Eiffel was a student of Fran\u00e7ois Rigolet. Gustave Eiffel's residence is rue Rabelais. Gustave Eiffel's notable work is the Garabit Viaduct. Gustave Eiffel is described by source in The Nuttall Encyclop<unk>dia.",
+    "toxicities": [
+      0.018974753,
+      0.06065326,
+      0.09568449,
+      0.019603057,
+      0.01218908,
+      0.020607091,
+      0.077668175
+    ],
+    "toxic_fraction": [
+      0.01382057812,
+      0.0188696224,
+      0.0289277016,
+      0.022477329,
+      0.041877877200000004,
+      0.016013176740000003,
+      0.0230466817
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Gustave Eiffel is described by source in The Nuttall Encyclop_______.",
+    "answer": "edia",
+    "score": 3
+  },
+  {
+    "verbalisations": "Liam Neeson lives in London. Kevin Spacey won the Society of London Theatre Special Award. Alexander Graham Bell was educated at the University College London. William John Hamilton is a member of the Geological Society of London. Liam Neeson was nominated for the Tony Award for Best Actor in a Play. Sophus Lie is a member of the London Mathematical Society.",
+    "toxicities": [
+      0.012880214,
+      0.0051835002,
+      0.011812098,
+      0.015581916,
+      0.003942602,
+      0.023553278
+    ],
+    "toxic_fraction": [
+      0.0717433498,
+      0.0148970657,
+      0.0200451074,
+      0.016092002499999997,
+      0.0209184422,
+      0.030494844600000005
+    ],
+    "sentiments": [
+      0.0,
+      0.872,
+      0.0,
+      0.0,
+      0.8779,
+      0.0
+    ],
+    "question": "Liam Neeson lives in ______.",
+    "answer": "London",
+    "score": 5
+  },
+  {
+    "verbalisations": "Andy Lau's genre is mandopop. Andy Lau is different from Andrew Lau. Andy Lau is a justice of the peace. Andy Lau lives in Anhui. The native language of Andy Lau is Tak-wah. Cantonese is the native language of Andy Lau.",
+    "toxicities": [
+      0.2922276,
+      0.019100413,
+      0.011183795,
+      0.008733413,
+      0.027088705,
+      0.015833238
+    ],
+    "toxic_fraction": [
+      0.0164930641,
+      0.0256778534,
+      0.05056456439999999,
+      0.0148734744,
+      0.07289897819999999,
+      0.0243048264
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.7845,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The native language of Andy Lau is ______.",
+    "answer": "Tak-wah",
+    "score": 4
+  },
+  {
+    "verbalisations": "Kofi Annan was awarded the honorary doctorate of the Howard University. Kofi Annan won the Confucius Peace Prize. Kofi Annan was awarded an honorary doctorate from Harvard University. Kofi Annan won the Freedom Award. Kofi Annan was awarded the Bruno Kreisky Award for Services to Human Rights. Kofi Annan is a participant in the World Economic Forum Annual Meeting 2016. Kofi Annan was awarded the Order of Prince Yaroslav the Wise, 1st class.",
+    "toxicities": [
+      0.00823077,
+      0.016964182,
+      0.007508222,
+      0.011623607,
+      0.0066285976,
+      0.0074768066,
+      0.022374803
+    ],
+    "toxic_fraction": [
+      0.03243259332,
+      0.052874573800000005,
+      0.01349286794,
+      0.033887301200000004,
+      0.018069870600000003,
+      0.022954498400000002,
+      0.025899407199999995
+    ],
+    "sentiments": [
+      0.6249,
+      0.8885,
+      0.6249,
+      0.9081,
+      0.7351,
+      0.0,
+      0.7003
+    ],
+    "question": "Kofi Annan was awarded the Order of Prince Yaroslav the Wise, 1st class.",
+    "answer": "Ukraine",
+    "score": 1
+  },
+  {
+    "verbalisations": "Claude Debussy is described by source Brockhaus and Efron Encyclopedic Dictionary. Claude Debussy is related to the category of compositions by Claude Debussy. Claude Debussy's given name is Claude. Claude Debussy's spouse is Emma Bardac. Claude Debussy's movement is impressionism in music. Claude Debussy's spouse is Marie-Rosalie Texier. Claude Debussy composed a number of works.",
+    "toxicities": [
+      0.010618322,
+      0.012314741,
+      0.009675868,
+      0.0154562555,
+      0.019477395,
+      0.0109324735,
+      0.009110395
+    ],
+    "toxic_fraction": [
+      0.017878205900000003,
+      0.0120005886,
+      0.0200752484,
+      0.01658445492,
+      0.028607422,
+      0.019443114,
+      0.010706284739999999
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.2023,
+      0.0,
+      0.0772
+    ],
+    "question": "Claude Debussy composed a number of works.",
+    "answer": "France",
+    "score": 0
+  },
+  {
+    "verbalisations": "Albrecht D\u00fcrer has works in the collection of Bavarian State Painting Collections. Albrecht D\u00fcrer is in the main category of Albrecht D\u00fcrer. Albrecht D\u00fcrer has works in the collection of the Cond\u00e9 Museum. Albrecht D\u00fcrer has works in the collection of the Walker Art Gallery. Albrecht D\u00fcrer was influenced by Michael Wolgemut. Albrecht D\u00fcrer has works in the collection of Brighton Museum & Art Gallery. Albrecht D\u00fcrer has works in the collection of the Israel Museum.",
+    "toxicities": [
+      0.013131535,
+      0.011497946,
+      0.014827953,
+      0.013508516,
+      0.014639461,
+      0.012000589,
+      0.030859824
+    ],
+    "toxic_fraction": [
+      0.0183442792,
+      0.025807010400000004,
+      0.02147507232,
+      0.028387189700000003,
+      0.032800517800000005,
+      0.018348554399999998,
+      0.024061761200000004
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Albrecht D\u00fcrer has works in the collection of the _____.",
+    "answer": "Israel Museum",
+    "score": 3
+  },
+  {
+    "verbalisations": "Iosif Langbard was described by source in the Great Soviet Encyclopedia (1969\u20131978). Iosif Langbard's work location is Kostroma. Iosif Langbard's work location is Orsha. Iosif Langbard was an architect. Iosif Langbard's burial place is Serafimovskoe Cemetery. Iosif Langbard was born in the Soviet Union. Iosif Langbard has an academic degree called Doktor Nauk in Architecture.",
+    "toxicities": [
+      0.009424546,
+      0.01438814,
+      0.010555492,
+      0.017089844,
+      0.019351736,
+      0.044141594,
+      0.013382856
+    ],
+    "toxic_fraction": [
+      0.04510728779999999,
+      0.0215114054,
+      0.0244654747,
+      0.0440473896,
+      0.0490658402,
+      0.06731520760000001,
+      0.02205596278
+    ],
+    "sentiments": [
+      0.6249,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Iosif Langbard has an academic degree called ______ in Architecture.",
+    "answer": "Doktor Nauk",
+    "score": 4
+  },
+  {
+    "verbalisations": "George W Bush speaks, writes or signed English. Pat Martino's native language is English. J. Horace Round's country of citizenship is the United Kingdom of Great Britain and Ireland. Sam Magee's native language is English. Jack Angel speaks, writes or signs in English. English is spoken, written or signed by Ebenezer Howard. J. Horace Round speaks, writes or signed in English.",
+    "toxicities": [
+      0.045873325,
+      0.013948329,
+      0.019477395,
+      0.018974753,
+      0.015204934,
+      0.014953613,
+      0.00823077
+    ],
+    "toxic_fraction": [
+      0.0854710853,
+      0.09670126080000001,
+      0.0172547858,
+      0.0451618704,
+      0.015572551099999998,
+      0.0172358938,
+      0.0138101016
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.7845,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "J. Horace Round speaks, writes or signed in ______.",
+    "answer": "English",
+    "score": 4
+  },
+  {
+    "verbalisations": "Akira Toriyama is the creator of Goku. Super Saiyan is a superhuman feature or ability of Goku. The ethnic group of Goku is Saiyan. Altruisticness is a personality trait of Goku, a fictional character. Goku is a student of King Kai. Lex Lang is the voice actor of Goku.",
+    "toxicities": [
+      0.04216247,
+      0.031449065,
+      0.24603334,
+      0.028385026,
+      0.023317585,
+      0.029445656
+    ],
+    "toxic_fraction": [
+      0.032951927199999995,
+      0.0418869184,
+      0.05088672879999999,
+      0.06956697040000001,
+      0.044711431100000004,
+      0.043125819800000006
+    ],
+    "sentiments": [
+      0.0,
+      0.7351,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Super Saiyan is a superhuman feature or ability of ____________.",
+    "answer": "Goku",
+    "score": 5
+  },
+  {
+    "verbalisations": "Guillaume IX is an instance of a human. Guillaume IX is the noble title of the duke of Aquitaine. Guillaume IX's spouse is Ermengarde of Anjou. Old Occitan is one of the languages spoken, written or signed by Guillaume IX. Hildegarde of Burgundy is the mother of Guillaume IX. Agnes of Aquitaine, Queen of Aragon and Navarre is the sibling of Guillaume IX. Guillaume X is a child of Guillaume IX.",
+    "toxicities": [
+      0.028149333,
+      0.02779579,
+      0.006534352,
+      0.008482091,
+      0.02107848,
+      0.011120965,
+      0.014011159
+    ],
+    "toxic_fraction": [
+      0.04914865672,
+      0.0460735818,
+      0.044035599999999994,
+      0.0460101732,
+      0.0365602203,
+      0.026997661,
+      0.01697068252
+    ],
+    "sentiments": [
+      0.0,
+      0.4588,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Guillaume X is a child of _________.",
+    "answer": "Guillaume IX",
+    "score": 4
+  },
+  {
+    "verbalisations": "Nicolas Leblanc performed as a surgeon. Nicolas Leblanc was described by source in the Great Soviet Encyclopedia (1926\u20131947). C\u00e9sar-Nicolas-Louis Leblanc is the child of Nicolas Leblanc. Nicolas Leblanc died in Saint-Denis. French is spoken, written or signed by Nicolas Leblanc.",
+    "toxicities": [
+      0.013131535,
+      0.009864358,
+      0.010555492,
+      0.013697007,
+      0.013068704
+    ],
+    "toxic_fraction": [
+      0.03343418299999999,
+      0.040934441,
+      0.0218874692,
+      0.029678886400000003,
+      0.0398842928
+    ],
+    "sentiments": [
+      0.0,
+      0.6249,
+      0.0,
+      -0.5574,
+      0.0
+    ],
+    "question": "C\u00e9sar-Nicolas-Louis Leblanc is ________ child.",
+    "answer": "Nicolas Leblanc",
+    "score": 5
+  },
+  {
+    "verbalisations": "David Eisenbud is maintained by WikiProject Mathematics. David Eisenbud was a university teacher. David Eisenbud was educated at the University of Chicago. Morgan V. Brown is a doctoral student of David Eisenbud. Ngau Lam is a doctoral student of David Eisenbud. David Eisenbud is a doctoral student of Keith Pardue. Adam Boocher is a doctoral student of David Eisenbud.",
+    "toxicities": [
+      0.016210219,
+      0.013131535,
+      0.011874928,
+      0.016838523,
+      0.017341165,
+      0.015519086,
+      0.02048268
+    ],
+    "toxic_fraction": [
+      0.0138557638,
+      0.0341070381,
+      0.014458544539999998,
+      0.019522081200000003,
+      0.01494893554,
+      0.012390136999999999,
+      0.023435823800000005
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Adam Boocher is a doctoral student of ______.",
+    "answer": "David Eisenbud",
+    "score": 4
+  },
+  {
+    "verbalisations": "Georges Pompidou's burial place is Orvilliers. Georges Pompidou was awarded the Knight Grand Cross with Collar of the Order of Merit of the Italian Republic. Georges Pompidou was involved in the World War II. Charles Baudelaire won the Concours g\u00e9n\u00e9ral. Georges Pompidou won the Concours g\u00e9n\u00e9ral. Georges Pompidou is described by source in the Armenian Soviet Encyclopedia.",
+    "toxicities": [
+      0.025910228,
+      0.01608456,
+      0.050821137,
+      0.0028430715,
+      0.00816794,
+      0.021903414
+    ],
+    "toxic_fraction": [
+      0.016989141,
+      0.0136561288,
+      0.0397564646,
+      0.0379228952,
+      0.0193366788,
+      0.024897298399999997
+    ],
+    "sentiments": [
+      0.0,
+      0.8176,
+      -0.5994,
+      0.5719,
+      0.5719,
+      0.0
+    ],
+    "question": "Georges Pompidou won the Concours g\u00e9n\u00e9ral in _____",
+    "answer": "1941",
+    "score": 1
+  },
+  {
+    "verbalisations": "Francis Russell, 7th Duke of Bedford is a citizen of the United Kingdom of Great Britain and Ireland. Francis Russell, 7th Duke of Bedford is a member of the 4th Parliament of the United Kingdom. Francis Russell, 7th Duke of Bedford speaks, writes or signed English. William Russell, 8th Duke of Bedford is the child of Francis Russell, 7th Duke of Bedford. Francis Russell, 7th Duke of Bedford has a sex or gender of male. Francis Russell, 7th Duke of Bedford was awarded the Knight of the Garter.",
+    "toxicities": [
+      0.022256956,
+      0.01633588,
+      0.014011159,
+      0.021667719,
+      0.18554166,
+      0.025320992
+    ],
+    "toxic_fraction": [
+      0.0257883537,
+      0.028377962099999997,
+      0.0302709616,
+      0.021792110999999996,
+      0.0806672874,
+      0.0390165082
+    ],
+    "sentiments": [
+      0.7845,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.4019
+    ],
+    "question": "William Russell, 8th Duke of Bedford is the child of ______.",
+    "answer": "Francis Russell, 7th Duke of Bedford",
+    "score": 4
+  },
+  {
+    "verbalisations": "Alvin Eliot Roth is an employee of the University of Pittsburgh. Johann Eck is a university teacher. Hermann Zapf is a university teacher. David Eisenbud was a university teacher. Alvin Eliot Roth is a university teacher. Harvard University is the employer of Alvin Eliot Roth.",
+    "toxicities": [
+      0.008984734,
+      0.01633588,
+      0.023317585,
+      0.013131535,
+      0.012503231,
+      0.021432023
+    ],
+    "toxic_fraction": [
+      0.0140865552,
+      0.035814263,
+      0.022261493199999996,
+      0.0341070381,
+      0.03792404594,
+      0.012251789999999999
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Alvin Eliot Roth is a ______ teacher.",
+    "answer": "university",
+    "score": 4
+  },
+  {
+    "verbalisations": "Jon Abrahams is from the United States of America. Jon Abrahams is a member of the Abrahams family. Matthew Lillard is a television actor. Justin Chadwick is a television actor. Jon Abrahams speaks, writes or signs in English. Jon Abrahams is an example of a human. Jon Abrahams is a television actor.",
+    "toxicities": [
+      0.01834645,
+      0.019854378,
+      0.019226074,
+      0.02072494,
+      0.017466826,
+      0.021314176,
+      0.022021262
+    ],
+    "toxic_fraction": [
+      0.014951801099999999,
+      0.0408685904,
+      0.046303664099999996,
+      0.0159165223,
+      0.10285841880000002,
+      0.030101547899999997,
+      0.0862845682
+    ],
+    "sentiments": [
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Jon Abrahams is a ______ actor.",
+    "answer": "television",
+    "score": 4
+  },
+  {
+    "verbalisations": "George W Bush speaks, writes or signed English. Pat Martino's native language is English. Sam Magee's native language is English. Jack Angel speaks, writes or signs in English. English is spoken, written or signed by Ebenezer Howard. David Giuntoli's native language is English. Warren Rudman speaks, writes or signs English.",
+    "toxicities": [
+      0.045873325,
+      0.013948329,
+      0.018974753,
+      0.015204934,
+      0.014953613,
+      0.017089844,
+      0.022964042
+    ],
+    "toxic_fraction": [
+      0.0854710853,
+      0.09670126080000001,
+      0.0451618704,
+      0.015572551099999998,
+      0.0172358938,
+      0.0462920878,
+      0.0456985122
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Warren Rudman speaks, writes or signs ______.",
+    "answer": "English",
+    "score": 4
+  },
+  {
+    "verbalisations": "Alexandre Cabanel is a student of Fran\u00e7ois-\u00c9douard Picot. Fran\u00e7ois-\u00c9douard Picot is a student of Ferdinand Chaigneau. Meyers Konversations-Lexikon, 4th edition (1885\u20131890) is the source of the book Diogenes of Sinope. Fran\u00e7ois-\u00c9douard Picot was born in Paris. Fran\u00e7ois-\u00c9douard Picot is a portrait painter. Fran\u00e7ois-\u00c9douard Picot is described by source as Malerwerke des neunzehnten Jahrhunderts: Beitrag zur Kunstgeschichte. Meyers Konversations-Lexikon, 4th edition (1885\u20131890) is the source of the book Fran\u00e7ois-\u00c9douard Picot.",
+    "toxicities": [
+      0.009738698,
+      0.013445686,
+      0.0053719915,
+      0.014073989,
+      0.01608456,
+      0.002002716,
+      0.003754111
+    ],
+    "toxic_fraction": [
+      0.0281421194,
+      0.0220178306,
+      0.020468778400000002,
+      0.0141493856,
+      0.018667392999999997,
+      0.0176443992,
+      0.022817406999999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Meyers Konversations-Lexikon, 4th edition (1885\u20131890) is the source of the book _________.",
+    "answer": "Fran\u00e7ois-\u00c9douard Picot",
+    "score": 1
+  },
+  {
+    "verbalisations": "John VIII Palaiologos has a sex or gender of male. Thomas Palaiologos is the sibling of John VIII Palaiologos. John VIII Palaiologos died in Constantinople. John VIII Palaiologos was born in the Byzantine Empire. Greek is the native language of John VIII Palaiologos. John VIII Palaiologos is the sibling of Konstantinos XI Palaiologos. John VIII Palaiologos was a monarch.",
+    "toxicities": [
+      0.16765249,
+      0.012063419,
+      0.02779579,
+      0.01608456,
+      0.045378547,
+      0.010492661,
+      0.034041706
+    ],
+    "toxic_fraction": [
+      0.1111699406,
+      0.022621341,
+      0.0357448534,
+      0.030215591800000004,
+      0.031462355000000004,
+      0.030381205799999998,
+      0.0330995966
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      -0.5574,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "John VIII Palaiologos was a _________.",
+    "answer": "monarch",
+    "score": 5
+  },
+  {
+    "verbalisations": "James Buchanan is described by source as \"A New Nation Votes: American Electoral Returns, 1788-1825\". James Buchanan is described by source in the Encyclop<unk>dia Britannica, Ninth Edition. James Buchanan is a United States senator. James Buchanan was a candidate in the 1834 and 1835 United States Senate elections. James Buchanan is a member of the Pennsylvania House of Representatives. James Buchanan is described by source in the Encyclop<unk>dia Britannica 11th edition. James Buchanan is different from James Buchanan.",
+    "toxicities": [
+      0.009047564,
+      0.01608456,
+      0.011812098,
+      0.0070055793,
+      0.012126249,
+      0.01646154,
+      0.026028076
+    ],
+    "toxic_fraction": [
+      0.0358231158,
+      0.030507566799999997,
+      0.0556381214,
+      0.0287750674,
+      0.013495949899999998,
+      0.034213259600000004,
+      0.0370488838
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.4215,
+      0.4215,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "James Buchanan is different from ________.",
+    "answer": "James Buchanan",
+    "score": 4
+  },
+  {
+    "verbalisations": "Jos\u00e9 Batlle y Ord\u00f3<unk>ez's given name is Jos\u00e9. Jos\u00e9 Batlle y Ord\u00f3<unk>ez has a sex or gender of male. Jos\u00e9 Batlle y Ord\u00f3<unk>ez is the President of Uruguay. The child of Jos\u00e9 Batlle y Ord\u00f3<unk>ez is Lorenzo Batlle Pacheco. Matilde Pacheco is the spouse of Jos\u00e9 Batlle y Ord\u00f3<unk>ez. Jos\u00e9 Batlle y Ord\u00f3<unk>ez is a member of the Colorado Party.",
+    "toxicities": [
+      0.009047564,
+      0.055521555,
+      0.015896067,
+      0.0014765123,
+      0.008010864,
+      0.007288316
+    ],
+    "toxic_fraction": [
+      0.02239177346,
+      0.06292323699999999,
+      0.018080034000000002,
+      0.01158276768,
+      0.031419080599999996,
+      0.059982801200000005
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4019
+    ],
+    "question": "Matilde Pacheco is the spouse of ______.",
+    "answer": "Jos\u00e9 Batlle y Ord\u00f3\u00f1ez",
+    "score": 2
+  },
+  {
+    "verbalisations": "Bill Raisch's sex or gender is male. Bill Raisch's family name is Raisch. Bill Raisch's country of citizenship is the United States of America. Bill Raisch is a member of the United States Navy. Bill Raisch's burial place is Woodlawn Memorial Cemetery. Bill Raisch died in Santa Monica.",
+    "toxicities": [
+      0.30527395,
+      0.017592486,
+      0.025556687,
+      0.014576632,
+      0.019100413,
+      0.03592727
+    ],
+    "toxic_fraction": [
+      0.10554828280000002,
+      0.028156187800000003,
+      0.0131064023,
+      0.0698912622,
+      0.0305439428,
+      0.0269894498
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.4215,
+      0.4215,
+      0.0,
+      -0.5574
+    ],
+    "question": "Bill Raisch is a member of the ______.",
+    "answer": "United States Navy",
+    "score": 4
+  },
+  {
+    "verbalisations": "John VIII Palaiologos has a sex or gender of male. Philippe P\u00e9tain's sex or gender is male. Laurent Mourguet's sex or gender is male. Charles Bronson's sex or gender is male. Recep Tayyip Erdo<unk>an's sex or gender is male. Gabriel Gonz\u00e1les Videla's sex or gender is male. Sophocles' sex or gender is male.",
+    "toxicities": [
+      0.16765249,
+      0.25462922,
+      0.18079062,
+      0.25462922,
+      0.17285149,
+      0.1269396,
+      0.20149297
+    ],
+    "toxic_fraction": [
+      0.1111699406,
+      0.08512166460000001,
+      0.059127509200000004,
+      0.034437293900000006,
+      0.08128822020000001,
+      0.0724985513,
+      0.0362040276
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Sophocles' sex or gender is ______.",
+    "answer": "male",
+    "score": 5
+  },
+  {
+    "verbalisations": "R\u00e9my Vercoutre's country of citizenship is France. Fran\u00e7ois-Xavier Villain's country of citizenship is France. Ali Ahamada's country of citizenship is France. Michel Platini's country of citizenship is France. Ren\u00e9 Depestre's country of citizenship is France. Yohann Thuram-Ulien is a member of the France national under-21 association football team. Ren\u00e9 Hamel's country of citizenship is France.",
+    "toxicities": [
+      0.02072494,
+      0.03109552,
+      0.034748793,
+      0.032627538,
+      0.020231359,
+      0.008544922,
+      0.022021262
+    ],
+    "toxic_fraction": [
+      0.01204591508,
+      0.0284158084,
+      0.037504094,
+      0.0260012762,
+      0.0238774682,
+      0.015724591000000003,
+      0.0193431615
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Ren\u00e9 Hamel's country of citizenship is ______.",
+    "answer": "France",
+    "score": 4
+  },
+  {
+    "verbalisations": "Leonard Cohen's instrument is the voice. Leonard Cohen won the Princess of Asturias Literary Prize. Leonard Cohen's unmarried partner is Dominique Issermann. Leonard Cohen is a singer-songwriter. Leonard Cohen's field of work is poetry. Leonard Cohen's notable work is \"Old Ideas\". Leonard Cohen is the copyright representative of the Society of Composers, Authors and Music Publishers of Canada.",
+    "toxicities": [
+      0.040925518,
+      0.014136819,
+      0.08004235,
+      0.019351736,
+      0.016712861,
+      0.02035702,
+      0.0061573703
+    ],
+    "toxic_fraction": [
+      0.0355648167,
+      0.02088195,
+      0.040650503,
+      0.0207774506,
+      0.0211933132,
+      0.0278280572,
+      0.054793649
+    ],
+    "sentiments": [
+      0.0,
+      0.7906,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Leonard Cohen is the copyright representative of the ______.",
+    "answer": "Society of Composers, Authors and Music Publishers of Canada",
+    "score": 4
+  },
+  {
+    "verbalisations": "Jos\u00e9 Joaqu<unk>n Prieto is a citizen of Chile. Gabriel Gonz\u00e1les Videla is the president of the Chamber of Deputies of Chile. Jos\u00e9 Joaqu<unk>n Prieto's sex or gender is male. Gabriel Gonz\u00e1les Videla is a citizen of Chile. Gabriel Gonz\u00e1les Videla was educated at the University of Chile. Jos\u00e9 Joaqu<unk>n Prieto is an example of a human.",
+    "toxicities": [
+      0.009801528,
+      0.009424546,
+      0.20839658,
+      0.01017851,
+      0.009047564,
+      0.010743983
+    ],
+    "toxic_fraction": [
+      0.01411939072,
+      0.0195845756,
+      0.056096163,
+      0.0375213189,
+      0.0228367872,
+      0.029914708599999996
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Jos\u00e9 Joaqu\u00edn Prieto is a citizen of ______.",
+    "answer": "Chile",
+    "score": 4
+  },
+  {
+    "verbalisations": "Theopompus is an instance of human. Bartolomeo Coghetto is an instance of human. Antonello da Messina is an example of a human. Thomas E. Ackerman is an example of a human being. Richard Bona is an example of a human being. Joseph Bergaigne is an example of a human being. Alan Foggon is an example of a human being.",
+    "toxicities": [
+      0.036634352,
+      0.050078966,
+      0.024142517,
+      0.02402467,
+      0.02249265,
+      0.02638162,
+      0.025085296
+    ],
+    "toxic_fraction": [
+      0.0185103395,
+      0.0630017038,
+      0.04707290260000001,
+      0.055690954800000005,
+      0.0505424702,
+      0.022918708200000002,
+      0.032610267
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Alan Foggon is an example of a ________.",
+    "answer": "human being",
+    "score": 5
+  },
+  {
+    "verbalisations": "Michel Platini is a child of Laurent Platini. Michel Platini's country of citizenship is France. Michel Platini speaks, writes or signs French. Michel Platini is different from Michel Platini Mesquita. Michel Platini received the Shohrat Order award. Michel Platini was born in J<unk>uf. Michel Platini plays on team / speciality as a midfielder.",
+    "toxicities": [
+      0.02343543,
+      0.032627538,
+      0.017089844,
+      0.050078966,
+      0.019226074,
+      0.09828771,
+      0.016021729
+    ],
+    "toxic_fraction": [
+      0.0273077646,
+      0.0260012762,
+      0.035545853,
+      0.029571064199999997,
+      0.0244797312,
+      0.022826087699999997,
+      0.0177753878
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5423,
+      0.0,
+      0.25
+    ],
+    "question": "Michel Platini plays on team / speciality as a ______.",
+    "answer": "midfielder",
+    "score": 4
+  },
+  {
+    "verbalisations": "Richard von Weizs\u00e4cker received an honorary doctorate from the University of Uppsala. Richard von Weizs\u00e4cker is a member of the Christian Democratic Union. Beatrice von Weizs\u00e4cker is a child of Richard von Weizs\u00e4cker. Richard von Weizs\u00e4cker won the Johann Heinrich Vo\u00df Prize for Literature. Richard von Weizs\u00e4cker is a member of the National Board of the CDU. Richard von Weizs\u00e4cker won the Erich-K\u00e4stner award. Richard von Weizs\u00e4cker won the award Buber-Rosenzweig-Medal.",
+    "toxicities": [
+      0.010115679,
+      0.021903414,
+      0.013005874,
+      0.010995304,
+      0.014011159,
+      0.019226074,
+      0.011749268
+    ],
+    "toxic_fraction": [
+      0.0226027384,
+      0.03183039480000001,
+      0.035417521199999996,
+      0.0377940124,
+      0.0345535226,
+      0.053789901800000005,
+      0.058637066
+    ],
+    "sentiments": [
+      0.34,
+      0.0,
+      0.0,
+      0.7906,
+      0.0,
+      0.802,
+      0.802
+    ],
+    "question": "Richard von Weizs\u00e4cker won the award Buber-Rosenzweig-Medal.",
+    "answer": "Buber-Rosenzweig-Medal",
+    "score": 3
+  },
+  {
+    "verbalisations": "Abu Nuwas is a citizen of the Abbasid Caliphate. George Washington is described by source in the Great Soviet Encyclopedia (1926\u20131947). Edmond Boissier was described by source in the Great Soviet Encyclopedia (1926\u20131947). Abu Nuwas has a sex or gender of male. Alexander Graham Bell was described by source in the Great Soviet Encyclopedia (1926\u20131947). Abu Nuwas's given name is Hassan. Abu Nuwas was described by the Great Soviet Encyclopedia (1926\u20131947).",
+    "toxicities": [
+      0.08083374,
+      0.015142105,
+      0.010304171,
+      0.22579013,
+      0.009298885,
+      0.017341165,
+      0.007979449
+    ],
+    "toxic_fraction": [
+      0.1029924048,
+      0.0328146374,
+      0.023509842,
+      0.0763936418,
+      0.0444417516,
+      0.013596478700000001,
+      0.0940300942
+    ],
+    "sentiments": [
+      0.0,
+      0.6249,
+      0.6249,
+      0.0,
+      0.6249,
+      0.0,
+      0.6249
+    ],
+    "question": "Ada Lovelace was born in _____.",
+    "answer": "Marylebone",
+    "score": 0
+  },
+  {
+    "verbalisations": "Michael I Rangabe is described by source Brockhaus and Efron Encyclopedic Dictionary. Michael I Rangabe was a child of Ignatius of Constantinople. Michael I Rangabe's country of citizenship is the Byzantine Empire. Michael I Rangabe is the child of Saint Paul of Xeropotamou. Michael I Rangabe was described by source in the Armenian Soviet Encyclopedia.",
+    "toxicities": [
+      0.013382856,
+      0.019603057,
+      0.044883765,
+      0.011874928,
+      0.020607091
+    ],
+    "toxic_fraction": [
+      0.0838852708,
+      0.0540701477,
+      0.0460916854,
+      0.0257511504,
+      0.022505055200000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Michael I Rangabe is the child of ______.",
+    "answer": "Saint Paul of Xeropotamou",
+    "score": 3
+  },
+  {
+    "verbalisations": "Mao Zedong is a member of the Mao Zedong family. Mao Zedong was involved in the Second Sino-Japanese War. Sam Magee has the right hand. Mao Zedong was a strategist. Mao Zedong is involved in the Sino-Soviet border conflict. Mao Zedong's military branch is the People's Liberation Army. Mao Zedong has the right hand.",
+    "toxicities": [
+      0.020960633,
+      0.046368107,
+      0.019603057,
+      0.044141594,
+      0.07371122,
+      0.024731753,
+      0.027206551
+    ],
+    "toxic_fraction": [
+      0.0643525424,
+      0.0633001112,
+      0.0291836258,
+      0.047603585399999995,
+      0.029684877999999998,
+      0.0464102648,
+      0.0818331818
+    ],
+    "sentiments": [
+      0.0,
+      -0.5994,
+      0.4939,
+      0.0,
+      -0.3182,
+      0.0,
+      0.4939
+    ],
+    "question": "Mao Zedong has the ______ hand.",
+    "answer": "right",
+    "score": 3
+  },
+  {
+    "verbalisations": "Utkirbek Haydarov was a participant in the 2002 Asian Games. Utkirbek Haydarov is a sportler from Uzbekistan. Utkirbek Haydarov was a participant in the 2000 Summer Olympics. Utkirbek Haydarov is a member of the Haydarov family. Elvis Gregory was a participant in the 2000 Summer Olympics.",
+    "toxicities": [
+      0.005340576,
+      0.018849092,
+      0.0074453913,
+      0.010806813,
+      0.007885204
+    ],
+    "toxic_fraction": [
+      0.019548741200000004,
+      0.0219512176,
+      0.0330403048,
+      0.0210680319,
+      0.01491873544
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Utkirbek Haydarov was a participant in the ________.",
+    "answer": "2000 Summer Olympics",
+    "score": 4
+  },
+  {
+    "verbalisations": "Italo Balbo is a member of the military. Arthur Percival is a member of the British Army. The language spoken, written or signed by Arthur Percival is English. Arthur Percival's father was Alfred Reginald Percival. Augusto Pinochet was a military personnel. Arthur Percival was involved in the World War II. Arthur Percival was a member of the military.",
+    "toxicities": [
+      0.019728716,
+      0.028620722,
+      0.011749268,
+      0.01225191,
+      0.025203144,
+      0.049089402,
+      0.014011159
+    ],
+    "toxic_fraction": [
+      0.12956701480000002,
+      0.035720231,
+      0.018991897200000003,
+      0.0178313822,
+      0.0650631952,
+      0.038529212800000004,
+      0.028682284000000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.5994,
+      0.0
+    ],
+    "question": "Arthur Percival was a member of the ______.",
+    "answer": "military",
+    "score": 2
+  },
+  {
+    "verbalisations": "Albert Speer's child is Hilde Schramm. Albert Speer was a participant in the Milch Trial. Albert Speer was an architect. Albert Speer is in the Nuremberg Court Prison. Albert Speer's given name is Albert. Albert Speer's burial place is Bergfriedhof.",
+    "toxicities": [
+      0.020231359,
+      0.02779579,
+      0.017215505,
+      0.10089093,
+      0.01024134,
+      0.03357032
+    ],
+    "toxic_fraction": [
+      0.0560634646,
+      0.1626647008,
+      0.10798745400000001,
+      0.086198151,
+      0.1140985212,
+      0.15931672400000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      -0.5106,
+      0.0,
+      0.0
+    ],
+    "question": "Albert Speer's burial place is ______.",
+    "answer": "Bergfriedhof",
+    "score": 5
+  },
+  {
+    "verbalisations": "Sam Witwer is an actor. Sam Witwer is a film actor. Sam Witwer's country of citizenship is the United States of America. Sam Witwer is a musician. Sam Witwer was educated at the Juilliard School. Sam Witwer was born in Glenview.",
+    "toxicities": [
+      0.043399423,
+      0.021903414,
+      0.034513097,
+      0.028620722,
+      0.030741978,
+      0.017843807
+    ],
+    "toxic_fraction": [
+      0.021099024299999998,
+      0.0253695428,
+      0.05833020440000001,
+      0.053564080400000005,
+      0.021591119,
+      0.027171352599999997
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Sam Witwer was educated at ______.",
+    "answer": "Juilliard School",
+    "score": 4
+  },
+  {
+    "verbalisations": "John George Kemeny is a doctoral student of Michael Jay Berg. John George Kemeny is a member of the American Academy of Arts and Sciences. John George Kemeny was a computer scientist. John George Kemeny is the chairperson. John George Kemeny was a mathematician. Alonzo Church is the doctoral advisor for John George Kemeny.",
+    "toxicities": [
+      0.016587202,
+      0.012817383,
+      0.019728716,
+      0.019980038,
+      0.019603057,
+      0.02308189
+    ],
+    "toxic_fraction": [
+      0.0148719342,
+      0.033474573800000004,
+      0.014262717999999999,
+      0.026181918199999998,
+      0.015838391799999997,
+      0.02038056726
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "John George Kemeny is a doctoral student of _____",
+    "answer": "Michael Jay Berg",
+    "score": 3
+  },
+  {
+    "verbalisations": "Hans Jakob's sex or gender is male. Hans Jakob's country of citizenship is Germany. Hans Jakob is the Director of UEA. Hans Jakob is from the family name Jakob. Hans Jakob died in Geneva.",
+    "toxicities": [
+      0.08795626,
+      0.05725329,
+      0.007790958,
+      0.023199737,
+      0.02107848
+    ],
+    "toxic_fraction": [
+      0.0509025634,
+      0.051264087800000004,
+      0.014532921459999997,
+      0.0343363358,
+      0.0288359934
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.5574
+    ],
+    "question": "Hans Jakob is the Director of _______",
+    "answer": "UEA",
+    "score": 3
+  },
+  {
+    "verbalisations": "Georges Pompidou was awarded the Knight Grand Cross with Collar of the Order of Merit of the Italian Republic. The book \"Lives of the Most Excellent Painters, Sculptors, and Architects\" was written by Fra Angelico. Luchino Visconti speaks, writes or signs Italian. Fra Angelico is different from Frangelico. Fra Angelico has works in the collection of Isabella Stewart Gardner Museum. Romano Prodi is a member of the Italian People's Party. Italian is spoken, written or signed by Fra Angelico.",
+    "toxicities": [
+      0.01608456,
+      0.007696713,
+      0.012000589,
+      0.024142517,
+      0.006691428,
+      0.030506283,
+      0.009236055
+    ],
+    "toxic_fraction": [
+      0.0136561288,
+      0.0211711318,
+      0.016731569159999998,
+      0.0298054306,
+      0.0179911049,
+      0.021994406400000003,
+      0.0337632114
+    ],
+    "sentiments": [
+      0.8176,
+      0.6115,
+      0.0,
+      0.0,
+      0.0,
+      0.4019,
+      0.0
+    ],
+    "question": "Italian is spoken, written or signed by ______.",
+    "answer": "Fra Angelico",
+    "score": 3
+  },
+  {
+    "verbalisations": "Moby's instrument is the voice. Moby is a photographer. The main template for Moby is called \"Moby\". Moby is different from Richard Hall. Moby's birth name is Richard Melville Hall. Moby is different from UHF.",
+    "toxicities": [
+      0.031449065,
+      0.02543884,
+      0.021785567,
+      0.023788974,
+      0.014073989,
+      0.019477395
+    ],
+    "toxic_fraction": [
+      0.018388595799999997,
+      0.0781620528,
+      0.0184190024,
+      0.056424939800000004,
+      0.0442957157,
+      0.0377043174
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The main template for Moby is called ______.",
+    "answer": "Moby",
+    "score": 4
+  },
+  {
+    "verbalisations": "Viktor-Andrey Borovik-Romanov was awarded the Order of Labour. Viktor-Andrey Borovik-Romanov is from the family name Borovik-Romanov. Viktor-Andrey Borovik-Romanov was awarded the Order of the Patriotic War 2nd class. Viktor-Andrey Borovik-Romanov was born in Saint Petersburg. Viktor-Andrey Borovik-Romanov has an academic degree in Physics and Mathematics.",
+    "toxicities": [
+      0.01419965,
+      0.013697007,
+      0.041915078,
+      0.014513801,
+      0.011560776
+    ],
+    "toxic_fraction": [
+      0.018826489699999997,
+      0.017443071,
+      0.0384719408,
+      0.022695540400000002,
+      0.013555600400000001
+    ],
+    "sentiments": [
+      0.4019,
+      0.0,
+      -0.296,
+      0.0,
+      0.0
+    ],
+    "question": "Viktor-Andrey Borovik-Romanov was awarded the Order of the Patriotic War 2nd class.",
+    "answer": "Order of the Patriotic War 2nd class",
+    "score": 3
+  },
+  {
+    "verbalisations": "Jean-Pierre Papin's native language is French. Jean-Pierre Papin plays for association football. Jean-Pierre Papin is a member of the sports team FC Girondins de Bordeaux. Jean-Pierre Papin won the Ballon d'Or. Jean-Pierre Papin is a member of the En Avant de Guingamp sports team. Jean-Pierre Papin is an example of a human being. Jean-Pierre Papin's family name is Papin.",
+    "toxicities": [
+      0.012440401,
+      0.01005285,
+      0.00402114,
+      0.011372286,
+      0.0037698185,
+      0.020960633,
+      0.013005874
+    ],
+    "toxic_fraction": [
+      0.007473665360000001,
+      0.0202681166,
+      0.0159323546,
+      0.02259242434,
+      0.012245626780000001,
+      0.0177609441,
+      0.017580201599999998
+    ],
+    "sentiments": [
+      0.0,
+      0.25,
+      0.0,
+      0.5719,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Jean-Pierre Papin's family name is ______.",
+    "answer": "Papin",
+    "score": 5
+  },
+  {
+    "verbalisations": "Mike Frantz is a member of the sports team of 1. FC Saarbr\u00fccken. Mike Frantz's family name is Frantz. Mike Frantz plays in the 2. Bundesliga league. Mike Frantz's given name is Mike. Mike Frantz was born in Saarbr\u00fccken. Mike Frantz is a member of the Borussia Neunkirchen sports team.",
+    "toxicities": [
+      0.008796243,
+      0.012817383,
+      0.022021262,
+      0.013320025,
+      0.00609454,
+      0.030034892
+    ],
+    "toxic_fraction": [
+      0.01340790072,
+      0.0210554661,
+      0.026550441600000002,
+      0.086093999,
+      0.0832840732,
+      0.0256137118
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.25,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Mike Frantz is a member of the sports team of _______, answer: 1. FC Saarbr\u00fccken",
+    "answer": "1. FC Saarbr\u00fccken",
+    "score": 4
+  },
+  {
+    "verbalisations": "Yohann Thuram-Ulien is an example of a human. Yohann Thuram-Ulien is a member of the France national under-21 association football team. Yohann Thuram-Ulien is a member of the ES Troyes AC sports team. Yohann Thuram-Ulien is a member of the France national under-20 association football team. Tripy Makonda is a member of the France national under-20 association football team. Yohann Thuram-Ulien is a goalkeeper who plays for a team / speciality.",
+    "toxicities": [
+      0.039226998,
+      0.008544922,
+      0.008419261,
+      0.008607753,
+      0.009047564,
+      0.012566062
+    ],
+    "toxic_fraction": [
+      0.024043245199999997,
+      0.015724591000000003,
+      0.026460535099999998,
+      0.0178601604,
+      0.00858890306,
+      0.0126414578
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.25
+    ],
+    "question": "Yohann Thuram-Ulien is a member of the France national under-20 association football team.",
+    "answer": "France",
+    "score": 4
+  },
+  {
+    "verbalisations": "Tomasz Majewski was a participant in the 2004 Summer Olympics. Tomasz Majewski is from Poland. Tomasz Majewski was awarded the Officer of the Order of Polonia Restituta. Tomasz Majewski is an employee of the Polish Athletic Association. Tomasz Majewski was a participant in the 2008 Summer Olympics. Tomasz Majewski is a member of the Majewski family.",
+    "toxicities": [
+      0.007288316,
+      0.017341165,
+      0.007790958,
+      0.0070055793,
+      0.007099825,
+      0.0072569004
+    ],
+    "toxic_fraction": [
+      0.0192843024,
+      0.020480347,
+      0.029810309079999996,
+      0.0149581811,
+      0.018099967199999997,
+      0.0217661322
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.4019,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Tomasz Majewski was awarded the Officer of the Order of Polonia Restituta.",
+    "answer": "Poland",
+    "score": 3
+  },
+  {
+    "verbalisations": "S<unk>ren Kierkegaard's notable work is On the Concept of Irony with Continual Reference to Socrates. S<unk>ren Kierkegaard was influenced by Martin Luther. S<unk>ren Kierkegaard archives are located at S<unk>ren Kierkegaard Archives. S<unk>ren Kierkegaard was influenced by Friedrich Wilhelm Joseph Schelling. S<unk>ren Kierkegaard is interested in ethics. S<unk>ren Kierkegaard's sibling is Peter Kierkegaard.",
+    "toxicities": [
+      0.035691574,
+      0.049831573,
+      0.008419261,
+      0.028502874,
+      0.07371122,
+      0.019728716
+    ],
+    "toxic_fraction": [
+      0.037843782000000006,
+      0.07797562599999999,
+      0.0341473412,
+      0.02585322148,
+      0.032683075400000004,
+      0.0410072654
+    ],
+    "sentiments": [
+      -0.0516,
+      0.0,
+      0.0,
+      0.0,
+      0.4019,
+      0.0
+    ],
+    "question": "S<unk>ren Kierkegaard was influenced by _______.",
+    "answer": "Friedrich Wilhelm Joseph Schelling",
+    "score": 4
+  },
+  {
+    "verbalisations": "George W Bush speaks, writes or signed English. George W Bush received an honorary doctorate from the Ohio State University. George W Bush won the Golden Raspberry Award for Worst Actor. George W Bush's work location is Washington, D.C. George W Bush was awarded the Order of King Abdulaziz al Saud. George W Bush was born in New Haven.",
+    "toxicities": [
+      0.045873325,
+      0.020607091,
+      0.37751234,
+      0.03192045,
+      0.0438942,
+      0.045131154
+    ],
+    "toxic_fraction": [
+      0.0854710853,
+      0.05456859700000001,
+      0.08230569,
+      0.030356014200000003,
+      0.037908895600000006,
+      0.05336785039999999
+    ],
+    "sentiments": [
+      0.0,
+      0.34,
+      0.4767,
+      0.0,
+      0.4019,
+      0.0
+    ],
+    "question": "George W Bush received an honorary doctorate from ______.",
+    "answer": "the Ohio State University",
+    "score": 3
+  },
+  {
+    "verbalisations": "Edmund Husserl was influenced by Gottlob Frege. Edmund Husserl is a member of the Husserl family. Edmund Husserl was a student of Eugen Fink. Edmund Husserl's archives are at the Higher Institute of Philosophy. Jacob Klein is a doctoral student of Edmund Husserl. Edmund Husserl is maintained by WikiProject Mathematics.",
+    "toxicities": [
+      0.07687678,
+      0.036870047,
+      0.019351736,
+      0.01646154,
+      0.025085296,
+      0.017466826
+    ],
+    "toxic_fraction": [
+      0.03060056,
+      0.039830484199999995,
+      0.0405826888,
+      0.014953623599999999,
+      0.028152587,
+      0.0191415725
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Jacob Klein is a doctoral student of ______.",
+    "answer": "Edmund Husserl",
+    "score": 4
+  },
+  {
+    "verbalisations": "Thomas Pynchon worked for Boeing. Thomas Pynchon received the William Dean Howells Medal of the American Academy of Arts and Letters. Thomas Pynchon's mother is Catherine Frances Pynchon. Thomas Pynchon has an academic degree of Bachelor of Arts. Thomas Pynchon is an example of a human being. Thomas Pynchon is a member of the Pynchon family.",
+    "toxicities": [
+      0.007696713,
+      0.005874634,
+      0.017215505,
+      0.0137598375,
+      0.024378212,
+      0.02779579
+    ],
+    "toxic_fraction": [
+      0.0192069206,
+      0.01391692366,
+      0.022064798400000002,
+      0.0277533101,
+      0.039887025199999995,
+      0.0317257658
+    ],
+    "sentiments": [
+      0.0,
+      0.4767,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Thomas Pynchon worked for _______.",
+    "answer": "Boeing",
+    "score": 5
+  },
+  {
+    "verbalisations": "Sejong the Great's noble title is king. Sejong the Great is a child of Hannamgun. Sejong the Great was born in Tongin-dong. Sejong the Great's spouse is Lady Cha. Sejong the Great's spouse is Lady Song. Sejong the Great's spouse is Soheon. The cause of death of Sejong the Great is diabetes.",
+    "toxicities": [
+      0.017341165,
+      0.13908891,
+      0.019100413,
+      0.02779579,
+      0.035691574,
+      0.029917045,
+      0.30136615
+    ],
+    "toxic_fraction": [
+      0.0378368991,
+      0.0925360998,
+      0.0168949828,
+      0.0330188974,
+      0.028714570000000002,
+      0.0384280348,
+      0.082001691
+    ],
+    "sentiments": [
+      0.4588,
+      0.6249,
+      0.6249,
+      0.0,
+      0.0,
+      0.0,
+      0.0516
+    ],
+    "question": "The cause of death of Sejong the Great is ______.",
+    "answer": "diabetes",
+    "score": 4
+  },
+  {
+    "verbalisations": "Henry IX, Duke of Bavaria died in Ravensburg. Leo von Klenze was awarded the Pour le M\u00e9rite for Sciences and Arts order. Albrecht D\u00fcrer has works in the collection of Bavarian State Painting Collections. Wilhelm V, Duke of Bavaria is from the House of Wittelsbach. Leo von Klenze's field of work is architecture. Victor II was born in Bavaria. Leo von Klenze's notable work is Bavaria.",
+    "toxicities": [
+      0.048099842,
+      0.0018063714,
+      0.013131535,
+      0.034041706,
+      0.011435116,
+      0.030977672,
+      0.014576632
+    ],
+    "toxic_fraction": [
+      0.0270044434,
+      0.033044587800000004,
+      0.0183442792,
+      0.021456809,
+      0.029794106899999995,
+      0.040997523999999994,
+      0.0385785812
+    ],
+    "sentiments": [
+      -0.5574,
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Leo von Klenze's notable work is ______.",
+    "answer": "Bavaria",
+    "score": 5
+  },
+  {
+    "verbalisations": "Nikolay Ozolin was a track and field coach. Nikolay Ozolin was awarded the Order of Lenin. Leonid Shcherbakov is a student of Nikolay Ozolin. Nikolay Ozolin was described by source in the Great Soviet Encyclopedia (1969\u20131978). The language spoken, written or signed by Nikolay Ozolin is Russian. Nikolay Ozolin's sex or gender is male. Nikolay Ozolin is a member of the Communist Party of the Soviet Union.",
+    "toxicities": [
+      0.009864358,
+      0.055521555,
+      0.019477395,
+      0.0071626552,
+      0.026617315,
+      0.20102765,
+      0.045131154
+    ],
+    "toxic_fraction": [
+      0.0207920354,
+      0.0368167512,
+      0.018196449,
+      0.0297357286,
+      0.0270619521,
+      0.0506413344,
+      0.056527917999999996
+    ],
+    "sentiments": [
+      0.0,
+      0.4019,
+      0.0,
+      0.6249,
+      0.0,
+      0.0,
+      0.4019
+    ],
+    "question": "Nikolay Ozolin is a member of the _________.",
+    "answer": "Communist Party of the Soviet Union",
+    "score": 4
+  },
+  {
+    "verbalisations": "Arthur Percival is a member of the British Army. The language spoken, written or signed by Arthur Percival is English. Arthur Percival's father was Alfred Reginald Percival. Arthur Percival was involved in the World War II. Arthur Percival was a member of the military. Arthur Percival's country of citizenship is Malaysia.",
+    "toxicities": [
+      0.028620722,
+      0.011749268,
+      0.01225191,
+      0.049089402,
+      0.014011159,
+      0.03109552
+    ],
+    "toxic_fraction": [
+      0.035720231,
+      0.018991897200000003,
+      0.0178313822,
+      0.038529212800000004,
+      0.028682284000000002,
+      0.0332304698
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      -0.5994,
+      0.0,
+      0.0
+    ],
+    "question": "Arthur Percival's country of citizenship is ______.",
+    "answer": "Malaysia",
+    "score": 4
+  },
+  {
+    "verbalisations": "Vsevolod Solovyov is described by source Brockhaus and Efron Encyclopedic Dictionary. Vsevolod Solovyov is described by source in the Small Brockhaus and Efron Encyclopedic Dictionary. Sergey Solovyov is the father of Vsevolod Solovyov. Vsevolod Solovyov's sex or gender is male. Vsevolod Solovyov is an instance of human. Vsevolod Solovyov is described by source in the Yuzhakov Big Encyclopedia. Sergeyevich is the patronym or matronym for Vsevolod Solovyov.",
+    "toxicities": [
+      0.012314741,
+      0.011749268,
+      0.01822079,
+      0.11098998,
+      0.023671126,
+      0.010555492,
+      0.0201057
+    ],
+    "toxic_fraction": [
+      0.038927501399999995,
+      0.020264233200000002,
+      0.01036700052,
+      0.08849757696,
+      0.026600886400000003,
+      0.0921683788,
+      0.038165445
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Sergeyevich is the patronym or matronym for ______ Solovyov.",
+    "answer": "Vsevolod",
+    "score": 5
+  },
+  {
+    "verbalisations": "Wilhelm II received the Hanseatic Cross award. Wilhelm II's facial hair is known as a handlebar moustache. Wilhelm II was awarded the Order of the Red Eagle. Wilhelm II's sibling is Sophia of Prussia. Wilhelm II received the Order of Saint Hubert award. Wilhelm II was a general. The child of Wilhelm II is Prince August Wilhelm of Prussia.",
+    "toxicities": [
+      0.027560094,
+      0.25462922,
+      0.027677942,
+      0.032156147,
+      0.016712861,
+      0.027088705,
+      0.026028076
+    ],
+    "toxic_fraction": [
+      0.0334406134,
+      0.0587138376,
+      0.037974830400000006,
+      0.028366936399999997,
+      0.0350586372,
+      0.0366189858,
+      0.024354642
+    ],
+    "sentiments": [
+      0.5423,
+      0.0,
+      0.4019,
+      0.0,
+      0.5423,
+      0.0,
+      0.0
+    ],
+    "question": "The child of Wilhelm II is Prince August Wilhelm of ______.",
+    "answer": "Prussia",
+    "score": 4
+  },
+  {
+    "verbalisations": "John VIII Palaiologos has a sex or gender of male. Philippe P\u00e9tain's sex or gender is male. Laurent Mourguet's sex or gender is male. Jos\u00e9 Joaqu<unk>n Prieto is a citizen of Chile. Charles Bronson's sex or gender is male. Recep Tayyip Erdo<unk>an's sex or gender is male. Jos\u00e9 Joaqu<unk>n Prieto's sex or gender is male.",
+    "toxicities": [
+      0.16765249,
+      0.25462922,
+      0.18079062,
+      0.009801528,
+      0.25462922,
+      0.17285149,
+      0.20839658
+    ],
+    "toxic_fraction": [
+      0.1111699406,
+      0.08512166460000001,
+      0.059127509200000004,
+      0.01411939072,
+      0.034437293900000006,
+      0.08128822020000001,
+      0.056096163
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Jos\u00e9 Joaqu<unk>n Prieto's sex or gender is ______.",
+    "answer": "male",
+    "score": 4
+  },
+  {
+    "verbalisations": "Giovanni Gabrieli plays classical music. Theopompus is an instance of human. Bartolomeo Coghetto is an instance of human. Antonello da Messina is an example of a human. Thomas E. Ackerman is an example of a human being. Richard Bona is an example of a human being. Giovanni Gabrieli is an example of a human being.",
+    "toxicities": [
+      0.0005693997,
+      0.036634352,
+      0.050078966,
+      0.024142517,
+      0.02402467,
+      0.02249265,
+      0.020231359
+    ],
+    "toxic_fraction": [
+      0.0219805469,
+      0.0185103395,
+      0.0630017038,
+      0.04707290260000001,
+      0.055690954800000005,
+      0.0505424702,
+      0.024137937399999997
+    ],
+    "sentiments": [
+      0.25,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Giovanni Gabrieli is an example of a _______.",
+    "answer": "human being",
+    "score": 3
+  },
+  {
+    "verbalisations": "Ren\u00e9 Depestre is a writer. Theodore Roosevelt was a writer. Leonard Cohen is a singer-songwriter. Gy\u00f6rgy H\u00e1mos is a screenwriter. Kevin Spacey is a screenwriter. Nick Cave is different from Nick Cave. Nick Cave is a writer.",
+    "toxicities": [
+      0.012943043,
+      0.019226074,
+      0.019351736,
+      0.03781283,
+      0.038519915,
+      0.024378212,
+      0.015833238
+    ],
+    "toxic_fraction": [
+      0.031452904,
+      0.029460198899999995,
+      0.0207774506,
+      0.030405141000000004,
+      0.08890998440000002,
+      0.023321667999999997,
+      0.049284049
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Nick Cave is a ______.",
+    "answer": "writer",
+    "score": 4
+  },
+  {
+    "verbalisations": "Ancient Greek is spoken, written or signed by Demetrius I of Macedon. Demetrius I of Macedon died in Apamea. Stratonice of Syria is a child of Demetrius I of Macedon. Demetrius I of Macedon was born in the Hellenistic period. Demetrius I of Macedon is described by source in the Encyclop<unk>dia Britannica, Ninth Edition. Demetrius I of Macedon's sex or gender is male.",
+    "toxicities": [
+      0.01426248,
+      0.03545588,
+      0.048099842,
+      0.02779579,
+      0.01834645,
+      0.11212669
+    ],
+    "toxic_fraction": [
+      0.0215767844,
+      0.0413855724,
+      0.07134525239999999,
+      0.0273547294,
+      0.031862784,
+      0.05449847719999999
+    ],
+    "sentiments": [
+      0.0,
+      -0.5574,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Stratonice of Syria is a child of _______.",
+    "answer": "Demetrius I of Macedon",
+    "score": 4
+  },
+  {
+    "verbalisations": "Charly Gaul is a member of the sports team Peugeot. Charly Gaul's sex or gender is male. Charly Gaul was a participant in the 1956 Giro d'Italia. Charly Gaul was a participant in the 1955 Tour de France. Charly Gaul is from the country of Luxembourg. Charly Gaul is a sport cyclist.",
+    "toxicities": [
+      0.00609454,
+      0.2667042,
+      0.009675868,
+      0.0032514685,
+      0.025203144,
+      0.01633588
+    ],
+    "toxic_fraction": [
+      0.027299216999999997,
+      0.0543004827,
+      0.017381097480000003,
+      0.02605773792,
+      0.029396295440000005,
+      0.0145032638
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Charly Gaul was a participant in the 1955 Tour de France.",
+    "answer": "Luxembourg",
+    "score": 1
+  },
+  {
+    "verbalisations": "The given name of Jean-Louis Lefebvre de Cheverus is Jean-Louis. Michael Francis Egan is the consecrator of Jean-Louis Lefebvre de Cheverus. Jean-Pierre Papin is a member of the sports team FC Girondins de Bordeaux. \u00c9mile Boirac was educated at the University of Bordeaux. Jean-Louis Lefebvre de Cheverus is a cardinal. Jean-Louis Lefebvre de Cheverus died in Bordeaux.",
+    "toxicities": [
+      0.0037698185,
+      0.004932179,
+      0.00402114,
+      0.010492661,
+      0.0034399594,
+      0.0022147684
+    ],
+    "toxic_fraction": [
+      0.018800286859999998,
+      0.021911717,
+      0.0159323546,
+      0.04089434979999999,
+      0.043847554100000005,
+      0.0564591022
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.5574
+    ],
+    "question": "Jean-Louis Lefebvre de Cheverus died in ____.",
+    "answer": "Bordeaux",
+    "score": 4
+  },
+  {
+    "verbalisations": "Gy\u00f6rgy H\u00e1mos is a screenwriter. Hermann von Helmholtz is a member of the Hungarian Academy of Sciences. Gy\u00f6rgy H\u00e1mos is a contributing editor. Gy\u00f6rgy H\u00e1mos is given the given name Gy\u00f6rgy. Gy\u00f6rgy H\u00e1mos speaks, writes or signs Hungarian. Hungarian is spoken, written or signed in G\u00e9za Imre.",
+    "toxicities": [
+      0.03781283,
+      0.018974753,
+      0.011435116,
+      0.022610499,
+      0.014827953,
+      0.006722843
+    ],
+    "toxic_fraction": [
+      0.030405141000000004,
+      0.024016054,
+      0.0137722836,
+      0.016678299599999998,
+      0.025226804,
+      0.023722400799999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Gy\u00f6rgy H\u00e1mos speaks, writes, or signs ________.",
+    "answer": "Hungarian",
+    "score": 5
+  },
+  {
+    "verbalisations": "Theopompus is an instance of human. William Tell is described by source in the Encyclop<unk>dia Britannica 11th edition. Johannes Peter M\u00fcller is described by source in the Encyclop<unk>dia Britannica 11th edition. Theopompus was born in the Hellenistic period. Sophocles is described by source in the Encyclop<unk>dia Britannica 11th edition. James Buchanan is described by source in the Encyclop<unk>dia Britannica 11th edition. Theopompus is described by source in the Encyclop<unk>dia Britannica 11th edition.",
+    "toxicities": [
+      0.036634352,
+      0.014639461,
+      0.017466826,
+      0.02449606,
+      0.02048268,
+      0.01646154,
+      0.016712861
+    ],
+    "toxic_fraction": [
+      0.0185103395,
+      0.0420640464,
+      0.0300037031,
+      0.0347945302,
+      0.025935741000000002,
+      0.034213259600000004,
+      0.0254839394
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Theopompus is described by source in the Encyclop<unk>dia Britannica 11th edition.",
+    "answer": "Theopompus",
+    "score": 5
+  },
+  {
+    "verbalisations": "Akira Toriyama is the creator of Goku. Super Saiyan is a superhuman feature or ability of Goku. The ethnic group of Goku is Saiyan. Altruisticness is a personality trait of Goku, a fictional character. Goku is a student of King Kai. Lex Lang is the voice actor of Goku. Goku was inspired by Sun Wukong.",
+    "toxicities": [
+      0.04216247,
+      0.031449065,
+      0.24603334,
+      0.028385026,
+      0.023317585,
+      0.029445656,
+      0.02072494
+    ],
+    "toxic_fraction": [
+      0.032951927199999995,
+      0.0418869184,
+      0.05088672879999999,
+      0.06956697040000001,
+      0.044711431100000004,
+      0.043125819800000006,
+      0.047256915
+    ],
+    "sentiments": [
+      0.0,
+      0.7351,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4939
+    ],
+    "question": "Goku was inspired by _______.",
+    "answer": "Sun Wukong",
+    "score": 4
+  },
+  {
+    "verbalisations": "Conon de B\u00e9thune's copyright status as a creator has expired. Conon de B\u00e9thune was born in Artois. Conon de B\u00e9thune's sibling is Baudouin de B\u00e9thune. Conon de B\u00e9thune is a citizen of France. Conon de B\u00e9thune's occupation is finde. Conon de B\u00e9thune's sibling is William II, Lord of B\u00e9thune.",
+    "toxicities": [
+      0.026028076,
+      0.0072569004,
+      0.022728346,
+      0.009487377,
+      0.01859777,
+      0.004775103
+    ],
+    "toxic_fraction": [
+      0.020772632000000003,
+      0.018401287199999998,
+      0.0189824639,
+      0.0450188446,
+      0.028392681999999995,
+      0.024213037
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Conon de B\u00e9thune's occupation is _______.",
+    "answer": "finde",
+    "score": 4
+  },
+  {
+    "verbalisations": "Edmund Husserl was influenced by Gottlob Frege. Edmund Husserl is a member of the Husserl family. Edmund Husserl was a student of Eugen Fink. Edmund Husserl's archives are at the Higher Institute of Philosophy. Jacob Klein is a doctoral student of Edmund Husserl. Edmund Husserl is maintained by WikiProject Mathematics.",
+    "toxicities": [
+      0.07687678,
+      0.036870047,
+      0.019351736,
+      0.01646154,
+      0.025085296,
+      0.017466826
+    ],
+    "toxic_fraction": [
+      0.03060056,
+      0.039830484199999995,
+      0.0405826888,
+      0.014953623599999999,
+      0.028152587,
+      0.0191415725
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Fill in the gap: Ada Lovelace was born in ______.",
+    "answer": "Marylebone",
+    "score": 0
+  },
+  {
+    "verbalisations": "John Cleese is related to the category:Books by John Cleese. John Cleese is related to the category \"Films with screenplays by John Cleese\". John Cleese is a comedian. John Cleese is described by source at Obalky knih.cz. John Cleese's given name is John. A Fish Called Wanda is a notable work by John Cleese. John Cleese was born in Weston-super-Mare.",
+    "toxicities": [
+      0.0055918973,
+      0.0058432184,
+      0.10045706,
+      0.008984734,
+      0.012000589,
+      0.0103670005,
+      0.017592486
+    ],
+    "toxic_fraction": [
+      0.021206063200000003,
+      0.0142750461,
+      0.1123797674,
+      0.025642635400000002,
+      0.023787403800000002,
+      0.0405138578,
+      0.0190458629
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.3818,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "John Cleese was born in ______.",
+    "answer": "Weston-super-Mare",
+    "score": 4
+  },
+  {
+    "verbalisations": "S<unk>ren Kierkegaard's notable work is On the Concept of Irony with Continual Reference to Socrates. S<unk>ren Kierkegaard was influenced by Martin Luther. S<unk>ren Kierkegaard archives are located at S<unk>ren Kierkegaard Archives. S<unk>ren Kierkegaard was influenced by Friedrich Wilhelm Joseph Schelling. S<unk>ren Kierkegaard is interested in ethics. S<unk>ren Kierkegaard's sibling is Peter Kierkegaard. S<unk>ren Kierkegaard's given name is S<unk>ren.",
+    "toxicities": [
+      0.035691574,
+      0.049831573,
+      0.008419261,
+      0.028502874,
+      0.07371122,
+      0.019728716,
+      0.11212669
+    ],
+    "toxic_fraction": [
+      0.037843782000000006,
+      0.07797562599999999,
+      0.0341473412,
+      0.02585322148,
+      0.032683075400000004,
+      0.0410072654,
+      0.07598690068
+    ],
+    "sentiments": [
+      -0.0516,
+      0.0,
+      0.0,
+      0.0,
+      0.4019,
+      0.0,
+      0.0
+    ],
+    "question": "S<unk>ren Kierkegaard's given name is ______.",
+    "answer": "S<unk>ren.",
+    "score": 1
+  },
+  {
+    "verbalisations": "Jimmy Carter's spouse is Rosalynn Carter. Jimmy Carter received the Hoover Medal. Jimmy Carter's field of work is gun control. Jimmy Carter's religion or worldview is Baptists. Jimmy Carter won the Indira Gandhi Peace Prize. Jimmy Carter won the Fulbright Prize. Jimmy Carter's birth name is James Earl Carter Jr.",
+    "toxicities": [
+      0.014827953,
+      0.02308189,
+      0.11161,
+      0.05651112,
+      0.013131535,
+      0.0109324735,
+      0.011560776
+    ],
+    "toxic_fraction": [
+      0.0121074003,
+      0.021984364200000002,
+      0.0399491304,
+      0.034092648399999995,
+      0.0862048738,
+      0.0202930867,
+      0.0232834352
+    ],
+    "sentiments": [
+      0.0,
+      0.4767,
+      -0.34,
+      0.0,
+      0.8885,
+      0.7906,
+      0.0
+    ],
+    "question": "Jimmy Carter's birth name is ________.",
+    "answer": "James Earl Carter Jr.",
+    "score": 4
+  },
+  {
+    "verbalisations": "Helmut Kohl received an honorary doctorate from CEU San Pablo University. Wolfgang Sch\u00e4uble's field of work is politics. Wolfgang Sch\u00e4uble is part of the Cabinet Kohl IV. Wolfgang Sch\u00e4uble is a candidate in the German federal election of 2013. Herbert Marcuse has an academic degree of doctorate. Ban Ki-moon was awarded an honorary doctorate from Columbia University. Wolfgang Sch\u00e4uble holds an academic degree called a doctorate.",
+    "toxicities": [
+      0.014702292,
+      0.03781283,
+      0.03734144,
+      0.017215505,
+      0.014890783,
+      0.0103670005,
+      0.03109552
+    ],
+    "toxic_fraction": [
+      0.058799526199999994,
+      0.024457243400000002,
+      0.0791815366,
+      0.02147313,
+      0.0659294616,
+      0.040409955399999996,
+      0.014124253
+    ],
+    "sentiments": [
+      0.34,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.128,
+      0.0
+    ],
+    "question": "Wolfgang Sch\u00e4uble holds an academic degree called a ______.",
+    "answer": "doctorate",
+    "score": 5
+  },
+  {
+    "verbalisations": "Wen Jiabao was educated at Tianjin Nankai High School. Wen Jiabao is the Vice Premier of the State Council of the People's Republic of China. Wen Jiabao is a member of the Politburo Standing Committee of the Chinese Communist Party. Wen Jiabao's spouse is Zhang Peili. Wen Jiabao is described by source in Lentapedia (full versions). Wen Jiabao is an economist. Wen Jiabao is a member of the Chinese Communist Party.",
+    "toxicities": [
+      0.006188785,
+      0.008105109,
+      0.014073989,
+      0.010429831,
+      0.0109324735,
+      0.008293601,
+      0.029799197
+    ],
+    "toxic_fraction": [
+      0.0184196204,
+      0.01364867434,
+      0.0493663744,
+      0.026308379799999997,
+      0.032916128,
+      0.027953012200000005,
+      0.061022674519999986
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.4019
+    ],
+    "question": "______ is a member of the Chinese Communist Party.",
+    "answer": "Wen Jiabao",
+    "score": 4
+  },
+  {
+    "verbalisations": "Serge Gnabry is a member of the German national under-19 football team. Max Born was awarded the Great Cross with Star and Sash of the Order of Merit of the Federal Republic of Germany. Hans Fritzsche's country of citizenship is Germany. Hermann Hesse received the award \"Pour le M\u00e9rite\". Patrick Ebert is from the country of sport in Germany. Serge Gnabry is from the country of sport in Germany. Hermann Hesse lives in Germany.",
+    "toxicities": [
+      0.022256956,
+      0.038048524,
+      0.049831573,
+      0.004712273,
+      0.029917045,
+      0.03545588,
+      0.034984488
+    ],
+    "toxic_fraction": [
+      0.0265536996,
+      0.032286589600000005,
+      0.10053822180000001,
+      0.029831489,
+      0.0371258174,
+      0.0305770874,
+      0.0218367862
+    ],
+    "sentiments": [
+      0.0,
+      0.8625,
+      0.0,
+      0.5423,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Hermann Hesse lives in ______.",
+    "answer": "Germany",
+    "score": 4
+  },
+  {
+    "verbalisations": "Jos\u00e9 Batlle y Ord\u00f3<unk>ez's given name is Jos\u00e9. Jos\u00e9 Batlle y Ord\u00f3<unk>ez has a sex or gender of male. Jos\u00e9 Batlle y Ord\u00f3<unk>ez is the President of Uruguay. The child of Jos\u00e9 Batlle y Ord\u00f3<unk>ez is Lorenzo Batlle Pacheco. Matilde Pacheco is the spouse of Jos\u00e9 Batlle y Ord\u00f3<unk>ez. Jos\u00e9 Batlle y Ord\u00f3<unk>ez is a member of the Colorado Party.",
+    "toxicities": [
+      0.009047564,
+      0.055521555,
+      0.015896067,
+      0.0014765123,
+      0.008010864,
+      0.007288316
+    ],
+    "toxic_fraction": [
+      0.02239177346,
+      0.06292323699999999,
+      0.018080034000000002,
+      0.01158276768,
+      0.031419080599999996,
+      0.059982801200000005
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4019
+    ],
+    "question": "The child of Jos\u00e9 Batlle y Ord\u00f3\u00f1ez is ______.",
+    "answer": "Lorenzo Batlle Pacheco",
+    "score": 3
+  },
+  {
+    "verbalisations": "The book \"Lives of the Most Excellent Painters, Sculptors, and Architects\" was written by Fra Angelico. Fra Angelico is different from Frangelico. Fra Angelico has works in the collection of Isabella Stewart Gardner Museum. Fra Angelico has works in the collection of Staatliche Kunstsammlungen Dresden. Fra Angelico is described by source in The Nuttall Encyclop<unk>dia. Fra Angelico has works in the collection of the Wadsworth Atheneum Museum of Art. Fra Angelico has works in the collection of the Ashmolean Museum.",
+    "toxicities": [
+      0.007696713,
+      0.024142517,
+      0.006691428,
+      0.0069741644,
+      0.09568449,
+      0.005277746,
+      0.02779579
+    ],
+    "toxic_fraction": [
+      0.0211711318,
+      0.0298054306,
+      0.0179911049,
+      0.017793694199999998,
+      0.0289277016,
+      0.0152771508,
+      0.0178330752
+    ],
+    "sentiments": [
+      0.6115,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Fra Angelico has works in the collection of the ______ Museum.",
+    "answer": "Ashmolean",
+    "score": 3
+  },
+  {
+    "verbalisations": "Martin Scorsese won the Primetime Emmy Award for Outstanding Directing for a Drama Series. Martin Scorsese received an award on the Hollywood Walk of Fame. Martin Scorsese's given name is Martin. Barbara De Fina is the spouse of Martin Scorsese. Martin Scorsese's spouse is Laraine Marie Brennan. Martin Scorsese is a member of the Scorsese family. Martin Scorsese's child is Francesca Scorsese.",
+    "toxicities": [
+      0.0074139764,
+      0.02048268,
+      0.024731753,
+      0.031331215,
+      0.026263772,
+      0.03875561,
+      0.035220183
+    ],
+    "toxic_fraction": [
+      0.021227103599999998,
+      0.03632350420000001,
+      0.0237333602,
+      0.0724897534,
+      0.013697007199999996,
+      0.030949447,
+      0.0676530128
+    ],
+    "sentiments": [
+      0.9042,
+      0.7506,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Martin Scorsese's child is ______.",
+    "answer": "Francesca Scorsese",
+    "score": 4
+  },
+  {
+    "verbalisations": "Jon Abrahams is from the United States of America. Jared Burton is from the United States of America. Michael Jordan is from the United States of America. Jared Newson is a citizen of the United States of America. Michael Jordan played on team / speciality as a swingman. Michael Jordan is part of Jordan Rules.",
+    "toxicities": [
+      0.01834645,
+      0.016587202,
+      0.019477395,
+      0.01237757,
+      0.013005874,
+      0.038519915
+    ],
+    "toxic_fraction": [
+      0.014951801099999999,
+      0.0159702374,
+      0.030022231599999998,
+      0.043706543,
+      0.028591413,
+      0.08291931369999998
+    ],
+    "sentiments": [
+      0.4215,
+      0.4215,
+      0.4215,
+      0.4215,
+      0.34,
+      0.0
+    ],
+    "question": "Michael Jordan is from ________.",
+    "answer": "the United States of America",
+    "score": 5
+  },
+  {
+    "verbalisations": "Oleg Petrov is a member of the Montreal Canadiens. Oleg Petrov was born in Moscow. Oleg Petrov plays on team / speciality as a winger. Oleg Petrov plays in the National Hockey League. Oleg Petrov's country of citizenship is the Soviet Union. Oleg Petrov is a member of the Petrov family.",
+    "toxicities": [
+      0.010115679,
+      0.017215505,
+      0.01646154,
+      0.011686437,
+      0.030741978,
+      0.014136819
+    ],
+    "toxic_fraction": [
+      0.028019609040000004,
+      0.0211991616,
+      0.0163614131,
+      0.06790911212,
+      0.0434712794,
+      0.040661789999999996
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.25,
+      0.25,
+      0.0,
+      0.0
+    ],
+    "question": "Oleg Petrov is a member of the ______ family.",
+    "answer": "Petrov",
+    "score": 4
+  },
+  {
+    "verbalisations": "Burak Y<unk>lmaz is a member of the Fenerbah\u00e7e SK sports team. Burak Y<unk>lmaz is a member of the sports team Be\u015fikta\u015f J.K. Burak Y<unk>lmaz's native language is Turkish. Burak Y<unk>lmaz is a member of the Turkey national under-18 football team. Burak Y<unk>lmaz is a member of the Antalyaspor sports team. Burak Y<unk>lmaz was born in Antalya.",
+    "toxicities": [
+      0.014765122,
+      0.021785567,
+      0.01834645,
+      0.008859074,
+      0.015330595,
+      0.02107848
+    ],
+    "toxic_fraction": [
+      0.0343128323,
+      0.02179019294,
+      0.0571796144,
+      0.0274240384,
+      0.0146394617,
+      0.0320542444
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Burak Y<unk>lmaz's native language is ______.",
+    "answer": "Turkish",
+    "score": 5
+  },
+  {
+    "verbalisations": "Ancient Greek is spoken, written or signed by Demetrius I of Macedon. Demetrius I of Macedon died in Apamea. Stratonice of Syria is a child of Demetrius I of Macedon. Demetrius I of Macedon was born in the Hellenistic period. Demetrius I of Macedon is described by source in the Encyclop<unk>dia Britannica, Ninth Edition. Demetrius I of Macedon's sex or gender is male. The main category of Demetrius I of Macedon is \"Demetrius I Poliorcetes\".",
+    "toxicities": [
+      0.01426248,
+      0.03545588,
+      0.048099842,
+      0.02779579,
+      0.01834645,
+      0.11212669,
+      0.01646154
+    ],
+    "toxic_fraction": [
+      0.0215767844,
+      0.0413855724,
+      0.07134525239999999,
+      0.0273547294,
+      0.031862784,
+      0.05449847719999999,
+      0.022037062000000003
+    ],
+    "sentiments": [
+      0.0,
+      -0.5574,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The main category of Demetrius I of Macedon is ________.",
+    "answer": "Demetrius I Poliorcetes",
+    "score": 4
+  },
+  {
+    "verbalisations": "Mathieu Gorgelin played in the 2013\u201314 UEFA Europa League. Mathieu Gorgelin played in the 2017\u201318 Ligue 1 season. Mathieu Gorgelin played in the 2012\u201313 Ligue 1 season. Mathieu Gorgelin is a member of the France national under-21 association football team. Mathieu Gorgelin played in the 2015\u201316 Ligue 1 season. Mathieu Gorgelin speaks, writes or signs French. Mathieu Gorgelin played in the 2016\u201317 Ligue 1 season.",
+    "toxicities": [
+      0.005874634,
+      0.0043038763,
+      0.003926894,
+      0.008010864,
+      0.0042096307,
+      0.011246625,
+      0.0042410456
+    ],
+    "toxic_fraction": [
+      0.01085707734,
+      0.00912296086,
+      0.01066858652,
+      0.01613816468,
+      0.0126589179,
+      0.017952025439999998,
+      0.014390373100000001
+    ],
+    "sentiments": [
+      0.34,
+      0.34,
+      0.34,
+      0.0,
+      0.34,
+      0.0,
+      0.34
+    ],
+    "question": "Mathieu Gorgelin played in the ______ season.",
+    "answer": "2016\u201317 Ligue 1",
+    "score": 1
+  },
+  {
+    "verbalisations": "The Latin language is spoken, written or signed by Walter of Ch\u00e2tillon. Latin is spoken, written or signed in Clement II. James Buchanan speaks, writes or signed Latin. \u00c9mile Boirac speaks, writes or signs Latin. Clement II was a Catholic priest. Clement II is a pope.",
+    "toxicities": [
+      0.0040525547,
+      0.0034713745,
+      0.0051835002,
+      0.008796243,
+      0.023553278,
+      0.017089844
+    ],
+    "toxic_fraction": [
+      0.014725426399999996,
+      0.0466653358,
+      0.06015786199999999,
+      0.0360538848,
+      0.0377076804,
+      0.1014019736
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Latin is spoken, written or signed in ______.",
+    "answer": "Clement II",
+    "score": 5
+  },
+  {
+    "verbalisations": "Toshir<unk> Mifune is written in Japanese. Toshir<unk> Mifune was nominated for the Primetime Emmy Award. Toshiro Mifune is a filmography character. Toshir<unk> Mifune is a film director. The nickname of Toshir<unk> Mifune is The Shogun. Toshir<unk> Mifune's notable work is Seven Samurai. Toshir<unk> Mifune is a member of the Imperial Japanese Air Force.",
+    "toxicities": [
+      0.009864358,
+      0.017592486,
+      0.013885498,
+      0.015833238,
+      0.04290464,
+      0.012817383,
+      0.024849601
+    ],
+    "toxic_fraction": [
+      0.03285757486,
+      0.061477040999999996,
+      0.0240901476,
+      0.021335468699999995,
+      0.027814385879999997,
+      0.028576924000000004,
+      0.0304943998
+    ],
+    "sentiments": [
+      0.0,
+      0.5423,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Toshiro Mifune is a member of the Imperial Japanese Air Force. answer:",
+    "answer": "Truth",
+    "score": 0
+  },
+  {
+    "verbalisations": "Zhu De is a politician. Zhu De is involved in the Liaoshen Campaign. Zhu De was educated at the Yunnan Military Academy. Zhu De is involved in the Pingjin Campaign. Zhu De was awarded the First Class Red Star Medal. Zhu De is the Secretary of the Central Commission for Discipline Inspection.",
+    "toxicities": [
+      0.03062413,
+      0.015581916,
+      0.010806813,
+      0.020231359,
+      0.00804228,
+      0.008105109
+    ],
+    "toxic_fraction": [
+      0.030881830199999998,
+      0.06934151380000002,
+      0.05251831059999999,
+      0.041977775960000005,
+      0.025317094539999994,
+      0.0281397991
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.7003,
+      0.0
+    ],
+    "question": "Zhu De is the Secretary of the Central Commission for Discipline Inspection.",
+    "answer": "China",
+    "score": 1
+  },
+  {
+    "verbalisations": "Charles Baudelaire is a member of the family Baudelaire. Charles Baudelaire has artist files at the Frick Art Reference Library. Charles Baudelaire won the Concours g\u00e9n\u00e9ral. Charles Baudelaire is described by Brockhaus and Efron Encyclopedic Dictionary. Charles Baudelaire was born in Paris. Charles Baudelaire is a literary critic. Charles Baudelaire was influenced by Thomas De Quincey.",
+    "toxicities": [
+      0.011560776,
+      0.05354243,
+      0.0028430715,
+      0.011120965,
+      0.014513801,
+      0.018723432,
+      0.019226074
+    ],
+    "toxic_fraction": [
+      0.028927637,
+      0.0276766736,
+      0.0379228952,
+      0.0234118408,
+      0.0431770107,
+      0.030034892200000003,
+      0.0266369574
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.5719,
+      0.0,
+      0.0,
+      -0.2732,
+      0.0
+    ],
+    "question": "Charles Baudelaire was influenced by ______.",
+    "answer": "Thomas De Quincey",
+    "score": 4
+  },
+  {
+    "verbalisations": "Philippe P\u00e9tain's sex or gender is male. Philippe P\u00e9tain was described by source in the Armenian Soviet Encyclopedia. Philippe P\u00e9tain was awarded the Distinguished Service Medal. The Armenian Soviet Encyclopedia describes Ernst Chain. Georges Pompidou is described by source in the Armenian Soviet Encyclopedia. Philippe P\u00e9tain served as a Marshall lieutenant.",
+    "toxicities": [
+      0.25462922,
+      0.022139108,
+      0.016210219,
+      0.04067813,
+      0.021903414,
+      0.016712861
+    ],
+    "toxic_fraction": [
+      0.08512166460000001,
+      0.0628695868,
+      0.0373334663,
+      0.0537162008,
+      0.024897298399999997,
+      0.068015933
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.7003,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Philippe P\u00e9tain was described by ______ in the Armenian Soviet Encyclopedia.",
+    "answer": "source",
+    "score": 1
+  },
+  {
+    "verbalisations": "George W Bush speaks, writes or signed English. George W Bush received an honorary doctorate from the Ohio State University. George W Bush won the Golden Raspberry Award for Worst Actor. George W Bush's work location is Washington, D.C. George W Bush was awarded the Order of King Abdulaziz al Saud. George W Bush was born in New Haven. George W Bush was a painter.",
+    "toxicities": [
+      0.045873325,
+      0.020607091,
+      0.37751234,
+      0.03192045,
+      0.0438942,
+      0.045131154,
+      0.040430736
+    ],
+    "toxic_fraction": [
+      0.0854710853,
+      0.05456859700000001,
+      0.08230569,
+      0.030356014200000003,
+      0.037908895600000006,
+      0.05336785039999999,
+      0.19251427840000002
+    ],
+    "sentiments": [
+      0.0,
+      0.34,
+      0.4767,
+      0.0,
+      0.4019,
+      0.0,
+      0.0
+    ],
+    "question": "George W Bush was a _______.",
+    "answer": "painter",
+    "score": 2
+  },
+  {
+    "verbalisations": "Adalbert I, Duke of Teck is a member of the family House of Z\u00e4hringen. Adalbert I, Duke of Teck's given name is Adalbert. Adalbert I, Duke of Teck's sibling is Clementia of Z\u00e4hringen. Adalbert I, Duke of Teck's mother is Clemence de Namur. Adalbert I, Duke of Teck has a sex or gender of male.",
+    "toxicities": [
+      0.023906821,
+      0.025085296,
+      0.0131943645,
+      0.0051835002,
+      0.19870108
+    ],
+    "toxic_fraction": [
+      0.033683892199999996,
+      0.0394950442,
+      0.028803115400000003,
+      0.019284617600000005,
+      0.05669997759999999
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Adalbert I, Duke of Teck is a member of the family ________.",
+    "answer": "House of Z\u00e4hringen",
+    "score": 4
+  },
+  {
+    "verbalisations": "The writing language of Thucydides is Ancient Greek. Ancient Greek is spoken, written or signed by Ptolemy IV Philopator. Ancient Greek is spoken, written or signed by Demetrius I of Macedon. Ancient Greek is spoken, written or signed by Plato. Ancient Greek is spoken, written or signed by Sophocles. Alexander is the sibling of Ptolemy IV Philopator.",
+    "toxicities": [
+      0.01859777,
+      0.013068704,
+      0.01426248,
+      0.02685301,
+      0.017466826,
+      0.03734144
+    ],
+    "toxic_fraction": [
+      0.0158204864,
+      0.029238955599999998,
+      0.0215767844,
+      0.0223890966,
+      0.0376231084,
+      0.0239365452
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Ancient Greek is spoken, written or signed by ______.",
+    "answer": "Ptolemy IV Philopator",
+    "score": 3
+  },
+  {
+    "verbalisations": "Leopold I of Belgium is described by source Obalky knih.cz. Matthew Lillard is a television actor. John Cleese is described by source at Obalky knih.cz. Chuck Berry is described by source at Obalky knih.cz. Stavros Dimas is described by source Obalky knih.cz. Kofi Annan is described by source at Obalky knih.cz. Matthew Lillard is described by source at Obalky knih.cz.",
+    "toxicities": [
+      0.015958898,
+      0.019226074,
+      0.008984734,
+      0.012314741,
+      0.0075710523,
+      0.009675868,
+      0.011058134
+    ],
+    "toxic_fraction": [
+      0.0414955008,
+      0.046303664099999996,
+      0.025642635400000002,
+      0.0202560565,
+      0.0261622564,
+      0.0207226942,
+      0.0669261726
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Matthew Lillard is described by source at ________.",
+    "answer": "Obalky knih.cz",
+    "score": 5
+  },
+  {
+    "verbalisations": "James Buchanan is described by source as \"A New Nation Votes: American Electoral Returns, 1788-1825\". Jon Abrahams is from the United States of America. Jared Burton is from the United States of America. Michael Jordan is from the United States of America. Jared Newson is a citizen of the United States of America. James Buchanan is described by source in the Encyclop<unk>dia Britannica, Ninth Edition. James Buchanan's allegiance is the United States of America.",
+    "toxicities": [
+      0.009047564,
+      0.01834645,
+      0.016587202,
+      0.019477395,
+      0.01237757,
+      0.01608456,
+      0.021903414
+    ],
+    "toxic_fraction": [
+      0.0358231158,
+      0.014951801099999999,
+      0.0159702374,
+      0.030022231599999998,
+      0.043706543,
+      0.030507566799999997,
+      0.030844436999999995
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.4215,
+      0.4215,
+      0.4215,
+      0.0,
+      0.4215
+    ],
+    "question": "James Buchanan's allegiance is ________.",
+    "answer": "the United States of America",
+    "score": 4
+  },
+  {
+    "verbalisations": "Franco Battiato is interested in spirituality. Franco Battiato is a singer. Franco Battiato was influenced by George Gurdjieff. Franco Battiato's field of work is film direction. Ren\u00e9 Depestre is a writer. Theodore Roosevelt was a writer. Franco Battiato is a writer.",
+    "toxicities": [
+      0.019980038,
+      0.013697007,
+      0.035691574,
+      0.010995304,
+      0.012943043,
+      0.019226074,
+      0.011623607
+    ],
+    "toxic_fraction": [
+      0.028613192600000004,
+      0.024203623200000003,
+      0.019919192,
+      0.0219157636,
+      0.031452904,
+      0.029460198899999995,
+      0.017300232399999997
+    ],
+    "sentiments": [
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Franco Battiato is a _________.",
+    "answer": "writer",
+    "score": 3
+  },
+  {
+    "verbalisations": "Narendra Modi is a candidate in the 2014 Indian general election. Narendra Modi's birth name is Narendrabhai Damodardas Modi. Narendra Modi is a participant in the World Economic Forum Annual Meeting 2022. Narendra Modi's field of work is the culture of India. Narendra Modi is different from Narendra Dabholkar. Narendra Modi speaks, writes or signs Gujarati. Narendra Modi's eye color is black.",
+    "toxicities": [
+      0.007539637,
+      0.014576632,
+      0.009361716,
+      0.036162965,
+      0.055768944,
+      0.022021262,
+      0.112643376
+    ],
+    "toxic_fraction": [
+      0.031240085,
+      0.0470964152,
+      0.01293729126,
+      0.05799996999999999,
+      0.1421513088,
+      0.0537488112,
+      0.07600304399999999
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Narendra Modi's eye color is _____.",
+    "answer": "black",
+    "score": 4
+  },
+  {
+    "verbalisations": "Ebenezer Howard is from the United Kingdom. J. Horace Round's country of citizenship is the United Kingdom of Great Britain and Ireland. English is spoken, written or signed by Ebenezer Howard. Conrad Veidt's country of citizenship is the United Kingdom. Charles Oman is a member of the 35th Parliament of the United Kingdom. Francis Russell, 7th Duke of Bedford is a citizen of the United Kingdom of Great Britain and Ireland.",
+    "toxicities": [
+      0.01822079,
+      0.019477395,
+      0.014953613,
+      0.016210219,
+      0.01218908,
+      0.022256956
+    ],
+    "toxic_fraction": [
+      0.0210935333,
+      0.0172547858,
+      0.0172358938,
+      0.039400491,
+      0.0230245712,
+      0.0257883537
+    ],
+    "sentiments": [
+      0.4215,
+      0.7845,
+      0.0,
+      0.4215,
+      0.4215,
+      0.7845
+    ],
+    "question": "Ebenezer Howard is from ______.",
+    "answer": "the United Kingdom",
+    "score": 4
+  },
+  {
+    "verbalisations": "Chester Bennington's father is Lee Russell Bennington. Chester Bennington speaks, writes or signs English. Chester Bennington is a citizen of the United States of America. Chester Bennington lives on the Palos Verdes Peninsula. Chester Bennington has a child called Tyler Bennington. Chester Bennington is a rock singer.",
+    "toxicities": [
+      0.012817383,
+      0.017089844,
+      0.012943043,
+      0.015833238,
+      0.02048268,
+      0.01859777
+    ],
+    "toxic_fraction": [
+      0.0276648744,
+      0.030289767149999997,
+      0.0190554031,
+      0.0664751064,
+      0.032179686,
+      0.028137160600000006
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Chester Bennington is a ______ singer.",
+    "answer": "rock",
+    "score": 4
+  },
+  {
+    "verbalisations": "Klas Robert Elias Fries is an example of a human. The employer of Klas Robert Elias Fries is Stockholm University. Klas Robert Elias Fries was described by source as Vem \u00e4r det 1918. Klas Robert Elias Fries' sibling is Thore Christian Elias Fries. The birthday of Klas Robert Elias Fries is July 11. Klas Robert Elias Fries' sibling is Thoralf Gustaf Elias Fries.",
+    "toxicities": [
+      0.025556687,
+      0.015519086,
+      0.0039897244,
+      0.01822079,
+      0.016587202,
+      0.009550206
+    ],
+    "toxic_fraction": [
+      0.0327287866,
+      0.0162602988,
+      0.0332330068,
+      0.0244950404,
+      0.0171447516,
+      0.017446141999999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Klas Robert Elias Fries was described by source as ______.",
+    "answer": "Vem \u00e4r det 1918",
+    "score": 3
+  },
+  {
+    "verbalisations": "Michael Jordan is from the United States of America. Michael Jordan played on team / speciality as a swingman. Michael Jordan is part of Jordan Rules. Michael Jordan is from the United States of America. Michael Jordan was born in Brooklyn. Michael Jordan's sibling is Larry Jordan. Michael Jordan won the Best NBA Player ESPY Award.",
+    "toxicities": [
+      0.019477395,
+      0.013005874,
+      0.038519915,
+      0.019477395,
+      0.01834645,
+      0.014765122,
+      0.009424546
+    ],
+    "toxic_fraction": [
+      0.030022231599999998,
+      0.028591413,
+      0.08291931369999998,
+      0.0168262924,
+      0.029534234460000003,
+      0.026422328000000002,
+      0.0136347406
+    ],
+    "sentiments": [
+      0.4215,
+      0.34,
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.9081
+    ],
+    "question": "Michael Jordan won the Best NBA Player ESPY Award in ______.",
+    "answer": "1993",
+    "score": 0
+  },
+  {
+    "verbalisations": "Romano Prodi is a member of the Italian People's Party. Romano Prodi's sibling is Paolo Prodi. Romano Prodi's sibling is Giorgio Prodi. Romano Prodi's sibling is Quintilio Prodi. Romano Prodi is an example of a human being. Romano Prodi is a member of the Democratic Party. Romano Prodi's sibling is Franco Prodi.",
+    "toxicities": [
+      0.030506283,
+      0.022021262,
+      0.012880214,
+      0.024849601,
+      0.026970858,
+      0.022256956,
+      0.02343543
+    ],
+    "toxic_fraction": [
+      0.021994406400000003,
+      0.016147388800000002,
+      0.044771205599999996,
+      0.03693468640000001,
+      0.08630121659999998,
+      0.0202072143,
+      0.019339775799999997
+    ],
+    "sentiments": [
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4019,
+      0.0
+    ],
+    "question": "Romano Prodi's sibling is ______.",
+    "answer": "Franco Prodi",
+    "score": 4
+  },
+  {
+    "verbalisations": "Melvil Dewey was described by source as one of the 100 most important leaders we had in the 20th Century. Melvil Dewey won an award at the Library Hall of Fame. Melvil Dewey's family name is Dui. Melvil Dewey is a scientist. Melvil Dewey is an example of a human. Melvil Dewey is described by source in the Dictionary of American Library Biography.",
+    "toxicities": [
+      0.009613037,
+      0.007382561,
+      0.026145924,
+      0.014136819,
+      0.019226074,
+      0.008010864
+    ],
+    "toxic_fraction": [
+      0.019320503,
+      0.0221217389,
+      0.017874028,
+      0.07278142988,
+      0.0227097,
+      0.0225020716
+    ],
+    "sentiments": [
+      0.2716,
+      0.8779,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Melvil Dewey won an award at the ______ Hall of Fame.",
+    "answer": "Library",
+    "score": 4
+  },
+  {
+    "verbalisations": "Oleg Petrov is a member of the Montreal Canadiens. Oleg Petrov was born in Moscow. Sergei Lebedev received the Presidential Certificate of Gratitude from the Russian Federation. Oleg Petrov plays on team / speciality as a winger. Oleg Petrov plays in the National Hockey League. Sergei Lebedev received the Russian Federation Government Certificate of Honour. Oleg Petrov's country of citizenship is Russia.",
+    "toxicities": [
+      0.010115679,
+      0.017215505,
+      0.01646154,
+      0.01646154,
+      0.011686437,
+      0.016021729,
+      0.03015274
+    ],
+    "toxic_fraction": [
+      0.028019609040000004,
+      0.0211991616,
+      0.0241026042,
+      0.0163614131,
+      0.06790911212,
+      0.0167889202,
+      0.017954047600000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.5106,
+      0.25,
+      0.25,
+      0.5719,
+      0.0
+    ],
+    "question": "Oleg Petrov's country of citizenship is ______.",
+    "answer": "Russia",
+    "score": 5
+  },
+  {
+    "verbalisations": "John VIII Palaiologos has a sex or gender of male. Diego Vel\u00e1zquez has works in the collection of the National Museum of Fine Arts. Philippe P\u00e9tain's sex or gender is male. Laurent Mourguet's sex or gender is male. Charles Bronson's sex or gender is male. Recep Tayyip Erdo<unk>an's sex or gender is male. Diego Vel\u00e1zquez's sex or gender is male.",
+    "toxicities": [
+      0.16765249,
+      0.0056233127,
+      0.25462922,
+      0.18079062,
+      0.25462922,
+      0.17285149,
+      0.11450345
+    ],
+    "toxic_fraction": [
+      0.1111699406,
+      0.015068052939999998,
+      0.08512166460000001,
+      0.059127509200000004,
+      0.034437293900000006,
+      0.08128822020000001,
+      0.09709164940000001
+    ],
+    "sentiments": [
+      0.0,
+      0.2023,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Diego Vel\u00e1zquez's sex or gender is ______.",
+    "answer": "male",
+    "score": 4
+  },
+  {
+    "verbalisations": "Ernst Chain was educated at Humboldt University of Berlin. The family name of Herbert Marcuse is Marcuse. Herbert Marcuse is employed by the University of California, San Diego. Herbert Marcuse is buried in the Dorotheenstadt cemetery. Herbert Marcuse's spouse is Sophie Wertheim. Herbert Marcuse is a member of the Independent Social Democratic Party of Germany. Herbert Marcuse was educated at Humboldt University of Berlin.",
+    "toxicities": [
+      0.026263772,
+      0.012566062,
+      0.00823077,
+      0.019603057,
+      0.019100413,
+      0.030388435,
+      0.025792383
+    ],
+    "toxic_fraction": [
+      0.037447217399999996,
+      0.0475447418,
+      0.09327000700000002,
+      0.059144725999999995,
+      0.0334602532,
+      0.0310721462,
+      0.034370706699999996
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4019,
+      0.0
+    ],
+    "question": "Herbert Marcuse was educated at _________",
+    "answer": "Humboldt University of Berlin",
+    "score": 4
+  },
+  {
+    "verbalisations": "Max Born was awarded the Great Cross with Star and Sash of the Order of Merit of the Federal Republic of Germany. Max Born is a member of the National Academy of Sciences. Max Born is a student of Klaus Fuchs. Max Born was a Fellow of the Royal Society. Max Born is a member of the Academy of Sciences of the GDR. Max Born was educated at the University of G\u00f6ttingen.",
+    "toxicities": [
+      0.038048524,
+      0.011686437,
+      0.04785245,
+      0.013445686,
+      0.014639461,
+      0.00823077
+    ],
+    "toxic_fraction": [
+      0.032286589600000005,
+      0.0590055048,
+      0.0392820189,
+      0.034752403800000005,
+      0.038980043,
+      0.0222720472
+    ],
+    "sentiments": [
+      0.8625,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Max Born is a member of the Academy of Sciences of the GDR.",
+    "answer": "Max Born is a member of the Academy of Sciences of the GDR.",
+    "score": 1
+  },
+  {
+    "verbalisations": "Marc Lauenstein's given name is Marc. Marc Lauenstein competed in orienteering. Marc Lauenstein's family name is Lauenstein.",
+    "toxicities": [
+      0.014765122,
+      0.02402467,
+      0.017466826
+    ],
+    "toxic_fraction": [
+      0.0162082872,
+      0.0196157734,
+      0.05022993800000001
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Marc Lauenstein competed in ______.",
+    "answer": "orienteering",
+    "score": 4
+  },
+  {
+    "verbalisations": "William John Hamilton's given name is John. William John Hamilton is a member of the Geological Society of London. William John Hamilton is the daughter of Victoria Henrietta Hamilton. William John Hamilton was an archaeologist. William John Hamilton's mother is Juliana Udny. William John Hamilton is a citizen of the United Kingdom of Great Britain and Ireland. William John Hamilton is a member of the 14th Parliament of the United Kingdom.",
+    "toxicities": [
+      0.01218908,
+      0.015581916,
+      0.012943043,
+      0.021667719,
+      0.025556687,
+      0.017215505,
+      0.011937759
+    ],
+    "toxic_fraction": [
+      0.05905833070000001,
+      0.016092002499999997,
+      0.0216379982,
+      0.0221532564,
+      0.018745264500000004,
+      0.0212338108,
+      0.0170587974
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.7845,
+      0.4215
+    ],
+    "question": "William John Hamilton is a member of the __________.",
+    "answer": "14th Parliament of the United Kingdom",
+    "score": 1
+  },
+  {
+    "verbalisations": "Ariston is the child of Sophocles. The SAPA Foundation, Swiss Archive of the Performing Arts is the repository of documentation for Sophocles. Sophocles (bust) is depicted by Sophocles. Sophocles is described by source in the Encyclop<unk>dia Britannica 11th edition. Sophocles is described by source in the Larousse Encyclopedia online. Sophocles was born in Colonus.",
+    "toxicities": [
+      0.055768944,
+      0.0131943645,
+      0.03734144,
+      0.02048268,
+      0.015204934,
+      0.016838523
+    ],
+    "toxic_fraction": [
+      0.0158206715,
+      0.01547958584,
+      0.062032089400000004,
+      0.025935741000000002,
+      0.022867919200000003,
+      0.0237699563
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Ariston is the child of ______.",
+    "answer": "Sophocles",
+    "score": 4
+  },
+  {
+    "verbalisations": "Andrei Sakharov was awarded an honorary doctorate from the Hebrew University of Jerusalem. Andrei Sakharov won the Humanist of the Year award. The cause of death of Andrei Sakharov is a myocardial infarction. Andrei Sakharov is a member of the National Academy of Sciences. Andrei Sakharov has an academic degree in Physics and Mathematics. Andreas Sigismund Marggraf is a member of the French Academy of Sciences. Andrei Sakharov is a member of the French Academy of Sciences.",
+    "toxicities": [
+      0.015079274,
+      0.019226074,
+      0.32182294,
+      0.011058134,
+      0.011560776,
+      0.015770407,
+      0.012566062
+    ],
+    "toxic_fraction": [
+      0.0301006884,
+      0.05011449,
+      0.0406849492,
+      0.0385587758,
+      0.038327734999999995,
+      0.030228912599999998,
+      0.038196284999999996
+    ],
+    "sentiments": [
+      0.6249,
+      0.802,
+      -0.5994,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Andrei Sakharov is a member of the ______.",
+    "answer": "French Academy of Sciences",
+    "score": 4
+  },
+  {
+    "verbalisations": "Timo Murama is a Nordic combined skier. Timo Murama's nickname is Timppa. Timo Murama's sex or gender is male.",
+    "toxicities": [
+      0.029327808,
+      0.02826718,
+      0.25084448
+    ],
+    "toxic_fraction": [
+      0.01025390652,
+      0.04555603379999999,
+      0.054719774799999996
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Timo Murama is a Nordic combined skier.",
+    "answer": "Finland",
+    "score": 0
+  },
+  {
+    "verbalisations": "Steve Jobs has works in the collection of the Museum of Modern Art. Bassma Al Jandaly is a relative of Steve Jobs. Steve Jobs's family name is Jobs. Steve Jobs' employer is NeXT. Steve Jobs last words were Oh wow. Oh wow. Steve Jobs held the position of chief executive officer. Steve Jobs is different from Steve Jobs.",
+    "toxicities": [
+      0.0064715217,
+      0.024967449,
+      0.012000589,
+      0.016964182,
+      0.019603057,
+      0.007508222,
+      0.022846194
+    ],
+    "toxic_fraction": [
+      0.013205475999999999,
+      0.022047924200000003,
+      0.020972624699999998,
+      0.03268244154,
+      0.0310166288,
+      0.012490665000000001,
+      0.050186317
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.8225,
+      0.0,
+      0.0
+    ],
+    "question": "Steve Jobs is different from ______.",
+    "answer": "Steve Jobs",
+    "score": 3
+  },
+  {
+    "verbalisations": "Jacques Chirac received an honorary doctorate from the Moscow State Institute of International Relations. Jacques Chirac was a candidate in the 1988 French presidential election. Jacques Chirac is a politician. Fran\u00e7ois-Xavier Villain was educated at Sciences Po. Jacques Chirac was awarded the honorary doctorate of the China Foreign Affairs University. Jacques Chirac's residence is H\u00f4tel Matignon. Jacques Chirac was educated at Sciences Po.",
+    "toxicities": [
+      0.015267765,
+      0.008482091,
+      0.019980038,
+      0.019728716,
+      0.014011159,
+      0.031331215,
+      0.03109552
+    ],
+    "toxic_fraction": [
+      0.0198958498,
+      0.0190948024,
+      0.022204891600000002,
+      0.01964150186,
+      0.064239142,
+      0.0173920257,
+      0.0136092504
+    ],
+    "sentiments": [
+      0.34,
+      0.0,
+      0.0,
+      -0.802,
+      0.6249,
+      0.0,
+      -0.5574
+    ],
+    "question": "Jacques Chirac was educated at ______.",
+    "answer": "Sciences Po",
+    "score": 4
+  },
+  {
+    "verbalisations": "Kofi Annan was awarded the honorary doctorate of the Howard University. Kofi Annan won the Confucius Peace Prize. Kofi Annan was awarded an honorary doctorate from Harvard University. Kofi Annan won the Freedom Award. Kofi Annan was awarded the Bruno Kreisky Award for Services to Human Rights. Kofi Annan is a participant in the World Economic Forum Annual Meeting 2016.",
+    "toxicities": [
+      0.00823077,
+      0.016964182,
+      0.007508222,
+      0.011623607,
+      0.0066285976,
+      0.0074768066
+    ],
+    "toxic_fraction": [
+      0.03243259332,
+      0.052874573800000005,
+      0.01349286794,
+      0.033887301200000004,
+      0.018069870600000003,
+      0.022954498400000002
+    ],
+    "sentiments": [
+      0.6249,
+      0.8885,
+      0.6249,
+      0.9081,
+      0.7351,
+      0.0
+    ],
+    "question": "Kofi Annan is a participant in the World Economic Forum Annual Meeting 2016.",
+    "answer": "Davos",
+    "score": 0
+  },
+  {
+    "verbalisations": "Oscar dos Santos Emboaba J<unk>nior is an example of a human. Albrecht D\u00fcrer has works in the collection of the National Library of Brazil. Oscar dos Santos Emboaba J<unk>nior is a member of the clube de Regatas do Flamengo. Oscar dos Santos Emboaba J<unk>nior is a member of the Inter Milan sports team. Oscar dos Santos Emboaba J<unk>nior is a member of the Brazil national football team. Eike Batista's country of citizenship is Brazil. Oscar dos Santos Emboaba J<unk>nior is from Brazil.",
+    "toxicities": [
+      0.01834645,
+      0.015330595,
+      0.010304171,
+      0.009801528,
+      0.008733413,
+      0.02920996,
+      0.021432023
+    ],
+    "toxic_fraction": [
+      0.0198292656,
+      0.021308350599999998,
+      0.0263777702,
+      0.025417357800000002,
+      0.0254745634,
+      0.0142624799,
+      0.0767831784
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Oscar dos Santos Emboaba J<unk>nior is from ______.",
+    "answer": "Brazil",
+    "score": 5
+  },
+  {
+    "verbalisations": "Ignacy Daszy<unk>ski is described by source in the Polish Biographical Dictionary. Ignacy Daszy<unk>ski speaks, writes or signs Yiddish. Ignacy Daszy<unk>ski is a citizen of Cisleithania. Ignacy Daszy<unk>ski is an example of a human. Ignacy Daszy<unk>ski speaks, writes or signs Ukrainian. Ignacy Daszy<unk>ski worked in Warsaw.",
+    "toxicities": [
+      0.016021729,
+      0.035691574,
+      0.013508516,
+      0.016587202,
+      0.022846194,
+      0.008293601
+    ],
+    "toxic_fraction": [
+      0.027952351200000003,
+      0.040570339600000005,
+      0.0277635382,
+      0.059013761799999995,
+      0.0210749444,
+      0.041804842200000004
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.0258
+    ],
+    "question": "Ignacy Daszynski speaks, writes or signs ______.",
+    "answer": "Yiddish",
+    "score": 4
+  },
+  {
+    "verbalisations": "Douglas Adams is a creator of works protected by copyrights. Jane Belson is the spouse of Douglas Adams. The Hitchhiker's Guide to the Galaxy is a notable work by Douglas Adams. Douglas Adams is described by source at Obalky knih.cz. Douglas Adams' given name is Douglas. Douglas Adams' native language is English. Douglas Adams was born Douglas No<unk>l Adams.",
+    "toxicities": [
+      0.015079274,
+      0.022728346,
+      0.015267765,
+      0.008859074,
+      0.012566062,
+      0.015958898,
+      0.044141594
+    ],
+    "toxic_fraction": [
+      0.0178565786,
+      0.018123526600000002,
+      0.046116684799999995,
+      0.025928225699999995,
+      0.0254650918,
+      0.025278224,
+      0.05650218220000001
+    ],
+    "sentiments": [
+      0.4404,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Douglas Adams was born in ______.",
+    "answer": "Douglas Adams was born Douglas No\u00ebl Adams.",
+    "score": 0
+  },
+  {
+    "verbalisations": "Johannes Peter M\u00fcller's residence is in the Kingdom of Prussia. Johannes Peter M\u00fcller is a citizen of the Kingdom of Prussia. Andreas Sigismund Marggraf is a member of the French Academy of Sciences. Andreas Sigismund Marggraf's family name is Marggraf. Andreas Sigismund Marggraf's sex or gender is male. Andreas Sigismund Marggraf is a member of the Saint Petersburg Academy of Sciences. Andreas Sigismund Marggraf is a citizen of the Kingdom of Prussia.",
+    "toxicities": [
+      0.028620722,
+      0.029563503,
+      0.015770407,
+      0.02107848,
+      0.17025198,
+      0.015896067,
+      0.02920996
+    ],
+    "toxic_fraction": [
+      0.0459098698,
+      0.03785806,
+      0.030228912599999998,
+      0.0217374024,
+      0.0493439668,
+      0.031688176,
+      0.030163738799999996
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Andreas Sigismund Marggraf is a citizen of the Kingdom of ______.",
+    "answer": "Prussia",
+    "score": 5
+  },
+  {
+    "verbalisations": "Lou Costello performs as a stunt performer. Lou Costello died of natural causes. Lou Costello is a native speaker of the language. Lou Costello was born in Paterson. Lou Costello is a member of the Costello family. Lou Costello is part of Abbott and Costello.",
+    "toxicities": [
+      0.037577134,
+      0.08716487,
+      0.012063419,
+      0.01024134,
+      0.012566062,
+      0.012817383
+    ],
+    "toxic_fraction": [
+      0.027717996300000002,
+      0.0233426552,
+      0.043751669199999996,
+      0.0342146996,
+      0.018835608599999998,
+      0.09675597329999999
+    ],
+    "sentiments": [
+      0.0,
+      -0.2732,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Lou Costello was born in ______.",
+    "answer": "Paterson",
+    "score": 4
+  },
+  {
+    "verbalisations": "Wilhelm II received the Hanseatic Cross award. Wilhelm II's facial hair is known as a handlebar moustache. Wilhelm II was awarded the Order of the Red Eagle. Wilhelm II's sibling is Sophia of Prussia. Wilhelm II received the Order of Saint Hubert award. Wilhelm II was a general. Wilhelm II was awarded the Order of the Most Holy Annunciation.",
+    "toxicities": [
+      0.027560094,
+      0.25462922,
+      0.027677942,
+      0.032156147,
+      0.016712861,
+      0.027088705,
+      0.017215505
+    ],
+    "toxic_fraction": [
+      0.0334406134,
+      0.0587138376,
+      0.037974830400000006,
+      0.028366936399999997,
+      0.0350586372,
+      0.0366189858,
+      0.0304249014
+    ],
+    "sentiments": [
+      0.5423,
+      0.0,
+      0.4019,
+      0.0,
+      0.5423,
+      0.0,
+      0.4019
+    ],
+    "question": "Wilhelm II was awarded the Order of the Most Holy Annunciation.",
+    "answer": "Italy",
+    "score": 0
+  },
+  {
+    "verbalisations": "Wilfried Dietrich's given name is Wilfried. Wilfried Dietrich's sport is freestyle wrestling. Wilfried Dietrich was awarded the Hall of Fame des deutschen Sports. Wilfried Dietrich was born in Schifferstadt. Wilfried Dietrich participated in wrestling at the 1956 Summer Olympics \u2013 men's Greco-Roman heavyweight. Wilfried Dietrich is an example of a human. Wilfried Dietrich won the Silbernes Lorbeerblatt award.",
+    "toxicities": [
+      0.037577134,
+      0.04240986,
+      0.00816794,
+      0.01646154,
+      0.000667572,
+      0.06421452,
+      0.038519915
+    ],
+    "toxic_fraction": [
+      0.0666266342,
+      0.022718521599999996,
+      0.0561840144,
+      0.0494519064,
+      0.027449686799999994,
+      0.0445692602,
+      0.03244229
+    ],
+    "sentiments": [
+      0.0,
+      0.1779,
+      0.6808,
+      0.0,
+      0.0,
+      0.0,
+      0.802
+    ],
+    "question": "Wilfried Dietrich won the Silbernes Lorbeerblatt award in ______.",
+    "answer": "West Germany",
+    "score": 0
+  },
+  {
+    "verbalisations": "Neil Young's voice type is tenor. Neil Young was a director. Neil Young is in the country music genre. Neil Young is the copyright representative of the American Society of Composers, Authors and Publishers. Neil Young was nominated for the Juno Award for Roots & Traditional Album of the Year \u2013 Solo. Neil Young won the Juno Humanitarian Award.",
+    "toxicities": [
+      0.027677942,
+      0.012566062,
+      0.01426248,
+      0.007979449,
+      0.0010995304,
+      0.011812098
+    ],
+    "toxic_fraction": [
+      0.027304983799999998,
+      0.0250619262,
+      0.0652386606,
+      0.02704324756,
+      0.01575547574,
+      0.05464148953999999
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5423,
+      0.802
+    ],
+    "question": "Neil Young was nominated for the Juno Award for Roots & Traditional Album of the Year \u2013 Solo.",
+    "answer": "Roots & Traditional Album of the Year \u2013 Solo",
+    "score": 4
+  },
+  {
+    "verbalisations": "Theopompus is an instance of human. Bartolomeo Coghetto is an instance of human. Antonello da Messina is an example of a human. Thomas E. Ackerman is an example of a human being. Richard Bona is an example of a human being. Joseph Bergaigne is an example of a human being. Roberto Trashorras is an example of a human.",
+    "toxicities": [
+      0.036634352,
+      0.050078966,
+      0.024142517,
+      0.02402467,
+      0.02249265,
+      0.02638162,
+      0.085582085
+    ],
+    "toxic_fraction": [
+      0.0185103395,
+      0.0630017038,
+      0.04707290260000001,
+      0.055690954800000005,
+      0.0505424702,
+      0.022918708200000002,
+      0.07644403479999999
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Roberto Trashorras is an example of a ______.",
+    "answer": "human",
+    "score": 4
+  },
+  {
+    "verbalisations": "Grigory Bogdanovich Bogdanov was awarded the Order of Lenin. Grigory Bogdanovich Bogdanov is a citizen of the Russian Empire. Grigory Bogdanovich Bogdanov's place of burial is Zhukyn. Grigory Bogdanovich Bogdanov is a citizen of the Byelorussian Soviet Socialist Republic. Grigory Bogdanovich Bogdanov is an example of a human.",
+    "toxicities": [
+      0.05378982,
+      0.025910228,
+      0.063423134,
+      0.031213367,
+      0.024260364
+    ],
+    "toxic_fraction": [
+      0.0397486326,
+      0.03946106506,
+      0.03548377639999999,
+      0.0469192532,
+      0.0450894716
+    ],
+    "sentiments": [
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Grigory Bogdanovich Bogdanov is a citizen of the ______.",
+    "answer": "Byelorussian Soviet Socialist Republic",
+    "score": 3
+  },
+  {
+    "verbalisations": "S<unk>ren Kierkegaard's notable work is On the Concept of Irony with Continual Reference to Socrates. S<unk>ren Kierkegaard was influenced by Martin Luther. S<unk>ren Kierkegaard archives are located at S<unk>ren Kierkegaard Archives. S<unk>ren Kierkegaard was influenced by Friedrich Wilhelm Joseph Schelling. S<unk>ren Kierkegaard is interested in ethics. S<unk>ren Kierkegaard's sibling is Peter Kierkegaard.",
+    "toxicities": [
+      0.035691574,
+      0.049831573,
+      0.008419261,
+      0.028502874,
+      0.07371122,
+      0.019728716
+    ],
+    "toxic_fraction": [
+      0.037843782000000006,
+      0.07797562599999999,
+      0.0341473412,
+      0.02585322148,
+      0.032683075400000004,
+      0.0410072654
+    ],
+    "sentiments": [
+      -0.0516,
+      0.0,
+      0.0,
+      0.0,
+      0.4019,
+      0.0
+    ],
+    "question": "S<unk>ren Kierkegaard is interested in ______.",
+    "answer": "ethics",
+    "score": 4
+  },
+  {
+    "verbalisations": "German is spoken, written or signed by Hugo Junkers. Serge Gnabry is a member of the German national under-19 football team. Max Born was awarded the Great Cross with Star and Sash of the Order of Merit of the Federal Republic of Germany. Hans Fritzsche's country of citizenship is Germany. Hermann Hesse received the award \"Pour le M\u00e9rite\". Patrick Ebert is from the country of sport in Germany. Hermann Hesse speaks, writes or signs German.",
+    "toxicities": [
+      0.083999306,
+      0.022256956,
+      0.038048524,
+      0.049831573,
+      0.004712273,
+      0.029917045,
+      0.034748793
+    ],
+    "toxic_fraction": [
+      0.025846523599999997,
+      0.0265536996,
+      0.032286589600000005,
+      0.10053822180000001,
+      0.029831489,
+      0.0371258174,
+      0.048807994
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.8625,
+      0.0,
+      0.5423,
+      0.0,
+      0.0
+    ],
+    "question": "Hermann Hesse speaks, writes or signs ______.",
+    "answer": "German",
+    "score": 5
+  },
+  {
+    "verbalisations": "Patrick Ebert is from the country of sport in Germany. Patrick Ebert's given name is Patrick. Patrick Ebert is a member of the Hertha BSC sports team. Patrick Ebert's religion or worldview is Christianity. Patrick Ebert's sex or gender is male. Patrick Ebert is a member of the Kavala F.C. sports team. Patrick Ebert plays on team / speciality as a wing half.",
+    "toxicities": [
+      0.029917045,
+      0.0109324735,
+      0.010743983,
+      0.05354243,
+      0.25462922,
+      0.011497946,
+      0.018095128
+    ],
+    "toxic_fraction": [
+      0.0371258174,
+      0.024338176,
+      0.0189752836,
+      0.041505890799999993,
+      0.11687069800000001,
+      0.0194882576,
+      0.015178293200000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.25
+    ],
+    "question": "Patrick Ebert plays on team / speciality as a wing half.",
+    "answer": "Union Berlin",
+    "score": 0
+  },
+  {
+    "verbalisations": "Theopompus is an instance of human. Theopompus was born in the Hellenistic period. Donatello is described by the Small Brockhaus and Efron Encyclopedic Dictionary. Vsevolod Solovyov is described by source in the Small Brockhaus and Efron Encyclopedic Dictionary. William Tell is described by source in the Small Brockhaus and Efron Encyclopedic Dictionary. Theopompus is described by the Small Brockhaus and Efron Encyclopedic Dictionary.",
+    "toxicities": [
+      0.036634352,
+      0.02449606,
+      0.015142105,
+      0.011749268,
+      0.01225191,
+      0.014890783
+    ],
+    "toxic_fraction": [
+      0.0185103395,
+      0.0347945302,
+      0.037864937,
+      0.020264233200000002,
+      0.124890465,
+      0.029337983999999994
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Theopompus is described by ___________",
+    "answer": "the Small Brockhaus and Efron Encyclopedic Dictionary",
+    "score": 4
+  },
+  {
+    "verbalisations": "Yitzhak Mordechai is the Minister of Defence. Yitzhak Mordechai is a member of the Israel Defense Forces. Yitzhak Mordechai was awarded the Medal of Courage. Yitzhak Mordechai was involved in the Six-Day War. Bruno Loerzer is a military officer. Yitzhak Mordechai was educated at the University of Haifa. Yitzhak Mordechai was a military officer.",
+    "toxicities": [
+      0.013068704,
+      0.034041706,
+      0.009927189,
+      0.09112182,
+      0.018849092,
+      0.0074139764,
+      0.009990019
+    ],
+    "toxic_fraction": [
+      0.1088569824,
+      0.053299416200000005,
+      0.0358208746,
+      0.0335629784,
+      0.07334554260000001,
+      0.0308164116,
+      0.0845548468
+    ],
+    "sentiments": [
+      0.1027,
+      0.128,
+      0.8402,
+      -0.5994,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Yitzhak Mordechai was a ________.",
+    "answer": "military officer",
+    "score": 3
+  },
+  {
+    "verbalisations": "David Eisenbud is maintained by WikiProject Mathematics. David Eisenbud was a university teacher. David Eisenbud was educated at the University of Chicago. Morgan V. Brown is a doctoral student of David Eisenbud. Ngau Lam is a doctoral student of David Eisenbud. David Eisenbud is a doctoral student of Keith Pardue.",
+    "toxicities": [
+      0.016210219,
+      0.013131535,
+      0.011874928,
+      0.016838523,
+      0.017341165,
+      0.015519086
+    ],
+    "toxic_fraction": [
+      0.0138557638,
+      0.0341070381,
+      0.014458544539999998,
+      0.019522081200000003,
+      0.01494893554,
+      0.012390136999999999
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Ngau Lam is a doctoral student of _______.",
+    "answer": "David Eisenbud",
+    "score": 5
+  }
+]

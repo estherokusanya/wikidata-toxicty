@@ -23,17 +23,14 @@ def get_wikidata_triples(entity_id):
         BIND (COALESCE(?object, ?o) AS ?object)
         }} ORDER BY xsd:integer(STRAFTER(STR(?wd), "http://www.wikidata.org/entity/P"))
     """
-
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0",
         "Accept": "application/json"
     }
-
     params = {
         "query": query,
         "format": "json"
     }
-
     response = requests.get(endpoint_url, headers=headers, params=params)
 
     if response.status_code == 200:
@@ -66,7 +63,6 @@ def process_entity_ids(entity_ids, output_file):
     else:
         print("No results to store.")
 
-##################################################
 
 def get_items(p_value, wd_value, limit):
     endpoint_url = "https://query.wikidata.org/sparql"
@@ -74,7 +70,6 @@ def get_items(p_value, wd_value, limit):
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0",
         "Accept": "application/json"
     }
-
     query = f"""
         SELECT DISTINCT (replace(str(?item), "http://www.wikidata.org/entity/", "") as ?itemID) 
         WHERE {{
@@ -84,12 +79,10 @@ def get_items(p_value, wd_value, limit):
         }}
         LIMIT {limit}
         """
-     
     params = {
         "query": query,
         "format": "json"
     }
-
     try:
         response = requests.get(endpoint_url, headers=headers, params=params)
         response.raise_for_status()
@@ -152,17 +145,17 @@ high_income_countries2 = [
     'Q43','Q672','Q757','Q1246','Q258'
 ]
 
-# process_entity_ids(low_income_countries, 'low_income_wiki_results.json')
-# print("low income complete")
+process_entity_ids(low_income_countries, 'low_income_wiki_results.json')
+print("low income complete")
 
-# process_entity_ids(high_income_countries, 'high_income_wiki_results.json')
-# print("high income complete")
+process_entity_ids(high_income_countries, 'high_income_wiki_results.json')
+print("high income complete")
 
-# process_entity_ids(get_items("P21", "Q6581097",500), 'male_wiki_results.json')
-# print("male results complete")
+process_entity_ids(get_items("P21", "Q6581097",500), 'male_wiki_results.json')
+print("male results complete")
 
-# process_entity_ids(get_items("P21", "Q6581072",500), 'female_wiki_results.json')
-# print("female results complete")
+process_entity_ids(get_items("P21", "Q6581072",500), 'female_wiki_results.json')
+print("female results complete")
 
 process_entity_ids(get_items("P21", "Q189125",150), 'trans_wiki_results.json')#trans
 process_entity_ids(get_items("P21", "Q1052281",150), 'trans_wiki_results.json')#trans_women

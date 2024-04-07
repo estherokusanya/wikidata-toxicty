@@ -1,0 +1,6566 @@
+[
+  {
+    "verbalisations": "Rang is the language used in Nigeria. Shiki is the language used in Nigeria. Agatu is the language used in Nigeria. Luri is the language used in Nigeria. Igala is the language of Nigeria. The language used in Nigeria is Alege. Jere is the language used in Nigeria.",
+    "toxicities": [
+      0.054779384,
+      0.04785245,
+      0.030388435,
+      0.051563308,
+      0.0414203,
+      0.049831573,
+      0.046120718
+    ],
+    "toxic_fraction": [
+      0.0496930906,
+      0.027560500999999998,
+      0.0311541807,
+      0.025559999600000004,
+      0.025513052600000002,
+      0.01889815011052,
+      0.050336819
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Jere is the language used in ______.",
+    "answer": "Nigeria",
+    "score": 5
+  },
+  {
+    "verbalisations": "Rang is the language used in Nigeria. Shiki is the language used in Nigeria. Agatu is the language used in Nigeria. Luri is the language used in Nigeria. Igala is the language of Nigeria. The language used in Nigeria is Alege.",
+    "toxicities": [
+      0.054779384,
+      0.04785245,
+      0.030388435,
+      0.051563308,
+      0.0414203,
+      0.049831573
+    ],
+    "toxic_fraction": [
+      0.0496930906,
+      0.027560500999999998,
+      0.0311541807,
+      0.025559999600000004,
+      0.025513052600000002,
+      0.01889815011052
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The language used in Nigeria is ______.",
+    "answer": "Alege",
+    "score": 2
+  },
+  {
+    "verbalisations": "Mozambique has a diplomatic relation with Finland. Mozambique has a diplomatic relationship with the United States of America. Mozambique is a member of Interpol. Swazi is the language used in Mozambique. .mz is the top level Internet domain in Mozambique. Makhuwa-Saka is the language used in Mozambique. Marenje is the language used in Mozambique.",
+    "toxicities": [
+      0.021785567,
+      0.0201057,
+      0.04735767,
+      0.039462693,
+      0.01426248,
+      0.013068704,
+      0.010429831
+    ],
+    "toxic_fraction": [
+      0.0200242788,
+      0.0161195433,
+      0.0399124596,
+      0.0262469626,
+      0.0161678436,
+      0.0329140002,
+      0.035848543999999996
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.2023,
+      0.0,
+      0.0
+    ],
+    "question": "Marenje is the language used in ______.",
+    "answer": "Mozambique",
+    "score": 4
+  },
+  {
+    "verbalisations": "Chad's demonym is Chadian. Dangal\u00e9at is the language used in Chad. The head of state of Chad is Mahamat D\u00e9by Itno. The language used in Chad is Babalia Creole Arabic. Chad's economy of topic is Chad. The official language of Chad is French. The administrative territorial entity of Chad is Sila Region.",
+    "toxicities": [
+      0.30464804,
+      0.020960633,
+      0.17458448,
+      0.0154562555,
+      0.023906821,
+      0.016210219,
+      0.00816794
+    ],
+    "toxic_fraction": [
+      0.1378399422,
+      0.034110323,
+      0.0162602336,
+      0.043654114800000005,
+      0.030931053199999996,
+      0.03499803406,
+      0.0178320435
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The administrative territorial entity of Chad is ______.",
+    "answer": "Sila Region",
+    "score": 4
+  },
+  {
+    "verbalisations": "Ere is the language used in Papua New Guinea. Nai is the language used in Papua New Guinea. Abu\u2019 Arapesh is the language used in Papua New Guinea. The language used in Papua New Guinea is Are. Kol is the language used in Papua New Guinea. The language used in Papua New Guinea is Minidien. Waskia is the language used in Papua New Guinea.",
+    "toxicities": [
+      0.0137598375,
+      0.013634177,
+      0.015896067,
+      0.009298885,
+      0.01237757,
+      0.015393426,
+      0.015581916
+    ],
+    "toxic_fraction": [
+      0.0176684788,
+      0.0187457748,
+      0.02511888,
+      0.018530719,
+      0.026291071,
+      0.029715097000000003,
+      0.0376927049
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Waskia is the language used in ______.",
+    "answer": "Papua New Guinea",
+    "score": 4
+  },
+  {
+    "verbalisations": "Panchpargania is a language used in India. Reli is a language used in India. Moyon is a language used in India. Spiti Bhoti is a dish from India. Pardhan is a language used in India. Gujarat is the administrative territorial entity of India. Pratapgarh State is replaced by India.",
+    "toxicities": [
+      0.015016444,
+      0.014827953,
+      0.019980038,
+      0.010115679,
+      0.013005874,
+      0.016021729,
+      0.04216247
+    ],
+    "toxic_fraction": [
+      0.0223131246,
+      0.0194160836,
+      0.027745792600000003,
+      0.017512162199999997,
+      0.0259109896,
+      0.021276837399999998,
+      0.0511908617
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Pratapgarh State is replaced by ______.",
+    "answer": "India",
+    "score": 4
+  },
+  {
+    "verbalisations": "The people of Tanzania are called Tanzanians. The native label of Tanzania is United Republic of Tanzania. The language used in Tanzania is English. The Cabinet of Tanzania is the executive body of Tanzania. Dholuo is the language used in Tanzania. Hangaza is a language used in Tanzania. Gusii is the language used in Tanzania.",
+    "toxicities": [
+      0.05230548,
+      0.016210219,
+      0.015393426,
+      0.014450971,
+      0.023317585,
+      0.016587202,
+      0.027442247
+    ],
+    "toxic_fraction": [
+      0.033261925600000006,
+      0.085309176,
+      0.0191712082,
+      0.0192490786,
+      0.0259533106,
+      0.0402588498,
+      0.0407720424
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Gusii is the language used in ______.",
+    "answer": "Tanzania",
+    "score": 5
+  },
+  {
+    "verbalisations": "The people of Tanzania are called Tanzanians. The native label of Tanzania is United Republic of Tanzania. The language used in Tanzania is English. The Cabinet of Tanzania is the executive body of Tanzania. Dholuo is the language used in Tanzania. Hangaza is a language used in Tanzania. The main category of Tanzania is \"Tanzania\".",
+    "toxicities": [
+      0.05230548,
+      0.016210219,
+      0.015393426,
+      0.014450971,
+      0.023317585,
+      0.016587202,
+      0.024142517
+    ],
+    "toxic_fraction": [
+      0.033261925600000006,
+      0.085309176,
+      0.0191712082,
+      0.0192490786,
+      0.0259533106,
+      0.0402588498,
+      0.0216315511
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The main category of Tanzania is ______.",
+    "answer": "Tanzania",
+    "score": 4
+  },
+  {
+    "verbalisations": "The administrative territorial entity of Honduras is La Paz Department. Olancho Department is the administrative territorial entity of Honduras. Syria has a diplomatic relationship with the European Union. Yemen has a diplomatic relationship with the European Union. Spanish is the language of Honduras. Honduras is an example of country. Honduras has a diplomatic relationship with the European Union.",
+    "toxicities": [
+      0.010555492,
+      0.013508516,
+      0.026970858,
+      0.027324399,
+      0.049089402,
+      0.022610499,
+      0.023671126
+    ],
+    "toxic_fraction": [
+      0.016066534,
+      0.01277015666,
+      0.0308632074,
+      0.0329415282,
+      0.05285775519999999,
+      0.0561373978,
+      0.0176792324
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Honduras has a diplomatic relationship with ________.",
+    "answer": "the European Union",
+    "score": 4
+  },
+  {
+    "verbalisations": "Panchpargania is a language used in India. Reli is a language used in India. Moyon is a language used in India. Spiti Bhoti is a dish from India. Pardhan is a language used in India. Gujarat is the administrative territorial entity of India. Mirgan is a language used in India.",
+    "toxicities": [
+      0.015016444,
+      0.014827953,
+      0.019980038,
+      0.010115679,
+      0.013005874,
+      0.016021729,
+      0.018095128
+    ],
+    "toxic_fraction": [
+      0.0223131246,
+      0.0194160836,
+      0.027745792600000003,
+      0.017512162199999997,
+      0.0259109896,
+      0.021276837399999998,
+      0.024415862599999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Mirgan is a language used in ______.",
+    "answer": "India",
+    "score": 5
+  },
+  {
+    "verbalisations": "Rwanda has a diplomatic relation with France. Rwanda is a landlocked country. The currency of Rwanda is the Rwandan franc. The head of state of Rwanda is the President of Rwanda. Rwanda is a member of the International Bank for Reconstruction and Development. North Korea has a diplomatic relation with Rwanda. Rwanda is a country in Rwanda.",
+    "toxicities": [
+      0.02072494,
+      0.22712809,
+      0.020960633,
+      0.016587202,
+      0.01237757,
+      0.02779579,
+      0.030034892
+    ],
+    "toxic_fraction": [
+      0.0524163518,
+      0.042834102,
+      0.020710658599999997,
+      0.020277672400000005,
+      0.0160361934,
+      0.0261196314,
+      0.028193926999999997
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Rwanda is a country in ______.",
+    "answer": "Rwanda",
+    "score": 5
+  },
+  {
+    "verbalisations": "Mali has a border with Niger. Bangladesh is a country that has a culture of Bangladesh. Pana is the language used in Mali. Bangladesh has a diplomatic relation with Serbia. Pakistan has a diplomatic relationship with Bangladesh. Bangladesh's flag is the flag of Bangladesh. Bangladesh has a diplomatic relation with Mali.",
+    "toxicities": [
+      0.509388,
+      0.044388983,
+      0.014953613,
+      0.02543884,
+      0.028149333,
+      0.058737632,
+      0.028149333
+    ],
+    "toxic_fraction": [
+      0.239099948,
+      0.0608053954,
+      0.049760327199999996,
+      0.022900864700000002,
+      0.0252776824,
+      0.049640089000000005,
+      0.031089300200000003
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Bangladesh has a diplomatic relation with ______.",
+    "answer": "Mali",
+    "score": 4
+  },
+  {
+    "verbalisations": "Gunu is the language used in Cameroon. Hdi is the language used in Cameroon. Basaa is the language used in Cameroon. Cameroon is a member of the Group on Earth Observations. The anthem of Cameroon is O Cameroon, Cradle of Our Forefathers. The language used in Cameroon is Fe'fe. Kwa\u2019 is the language used in Cameroon.",
+    "toxicities": [
+      0.029327808,
+      0.020231359,
+      0.023317585,
+      0.033806015,
+      0.0665887,
+      0.031684756,
+      0.015958898
+    ],
+    "toxic_fraction": [
+      0.02353073,
+      0.03716151659999999,
+      0.021376845,
+      0.02870223866,
+      0.028724616199999997,
+      0.0399173107,
+      0.0218533032
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Kwa\u2019 is the language used in ___________.",
+    "answer": "Cameroon",
+    "score": 5
+  },
+  {
+    "verbalisations": "Panchpargania is a language used in India. Reli is a language used in India. Moyon is a language used in India. Spiti Bhoti is a dish from India. Pardhan is a language used in India. Gujarat is the administrative territorial entity of India. Maria is a language used in India.",
+    "toxicities": [
+      0.015016444,
+      0.014827953,
+      0.019980038,
+      0.010115679,
+      0.013005874,
+      0.016021729,
+      0.018095128
+    ],
+    "toxic_fraction": [
+      0.0223131246,
+      0.0194160836,
+      0.027745792600000003,
+      0.017512162199999997,
+      0.0259109896,
+      0.021276837399999998,
+      0.042575228
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Maria is a language used in ______.",
+    "answer": "India",
+    "score": 5
+  },
+  {
+    "verbalisations": "Panchpargania is a language used in India. Reli is a language used in India. Moyon is a language used in India. Spiti Bhoti is a dish from India. Pardhan is a language used in India. Gujarat is the administrative territorial entity of India. Chitwania Tharu is a language used in India.",
+    "toxicities": [
+      0.015016444,
+      0.014827953,
+      0.019980038,
+      0.010115679,
+      0.013005874,
+      0.016021729,
+      0.012126249
+    ],
+    "toxic_fraction": [
+      0.0223131246,
+      0.0194160836,
+      0.027745792600000003,
+      0.017512162199999997,
+      0.0259109896,
+      0.021276837399999998,
+      0.0213299908
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Chitwania Tharu is a language used in ______.",
+    "answer": "India",
+    "score": 4
+  },
+  {
+    "verbalisations": "The administrative territorial entity of Algeria is Tissemsilt Province. Algeria is a member of the United Nations. The administrative territorial entity of Algeria is M\u00e9d\u00e9a Province. The administrative territorial entity of Algeria is Khenchela Province. Encyclop<unk>dia Britannica 11th edition is the source of information about Algeria. The motto of Algeria is <unk> <unk> <unk> <unk>. The administrative territorial entity of Algeria is T\u00e9bessa Province.",
+    "toxicities": [
+      0.026028076,
+      0.022846194,
+      0.018974753,
+      0.026970858,
+      0.023788974,
+      0.165053,
+      0.01834645
+    ],
+    "toxic_fraction": [
+      0.015054152299999998,
+      0.0409302144,
+      0.015141854199999999,
+      0.026684591199999996,
+      0.042059160199999994,
+      0.06287577939999998,
+      0.019896133200000003
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The administrative territorial entity of Algeria is ______ Province.",
+    "answer": "T\u00e9bessa",
+    "score": 3
+  },
+  {
+    "verbalisations": "Panchpargania is a language used in India. Reli is a language used in India. Moyon is a language used in India. Spiti Bhoti is a dish from India. Pardhan is a language used in India. Gujarat is the administrative territorial entity of India. Narsinghpur State is in India.",
+    "toxicities": [
+      0.015016444,
+      0.014827953,
+      0.019980038,
+      0.010115679,
+      0.013005874,
+      0.016021729,
+      0.0063144458
+    ],
+    "toxic_fraction": [
+      0.0223131246,
+      0.0194160836,
+      0.027745792600000003,
+      0.017512162199999997,
+      0.0259109896,
+      0.021276837399999998,
+      0.01094503974
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Narsinghpur State is in ______.",
+    "answer": "India",
+    "score": 3
+  },
+  {
+    "verbalisations": "The emergency phone number in Sri Lanka is 110. The main category of Sri Lanka is Sri Lanka. Ranil Wickremesinghe is the head of state of Sri Lanka. Sri Lanka has a diplomatic relation with Australia. Sri Lanka is described by source as the History of Ming. Sri Lanka is a member of the Commonwealth of Nations. Colombo is the capital of Sri Lanka.",
+    "toxicities": [
+      0.011058134,
+      0.024142517,
+      0.009047564,
+      0.016838523,
+      0.016712861,
+      0.013508516,
+      0.025910228
+    ],
+    "toxic_fraction": [
+      0.0157046677,
+      0.06488436519999999,
+      0.06085432479999999,
+      0.01702309506,
+      0.026097732800000002,
+      0.0250871774,
+      0.019740245
+    ],
+    "sentiments": [
+      -0.3182,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Colombo is the capital of __________.",
+    "answer": "Sri Lanka",
+    "score": 5
+  },
+  {
+    "verbalisations": "Central African Republic is the demonym for Central African. Central African Republic is a member of OHADA. Gbanu is the language used in the Central African Republic. Central African Republic is a member of the Group on Earth Observations. Yakoma is the language used in the Central African Republic. The Central African Republic is geographically located within the country.",
+    "toxicities": [
+      0.4269174,
+      0.081625134,
+      0.018095128,
+      0.11181668,
+      0.022021262,
+      0.027913637
+    ],
+    "toxic_fraction": [
+      0.1398346436,
+      0.0229003084,
+      0.0209918646,
+      0.0220444188,
+      0.019251997799999997,
+      0.033242795400000004
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "______ is the demonym for Central African.",
+    "answer": "Central African Republic",
+    "score": 2
+  },
+  {
+    "verbalisations": "Eritrea's anthem is Ertra, Ertra, Ertra. The Europlug is an electrical plug type in Iran. Blin is the language used in Eritrea. Modern Standard Arabic is the language used in Eritrea. The electrical plug type in Kyrgyzstan is Europlug. Eritrea is a member of the International Telecommunication Union. The electrical plug type in Eritrea is Europlug.",
+    "toxicities": [
+      0.053295042,
+      0.10566349,
+      0.027560094,
+      0.019100413,
+      0.063027434,
+      0.016964182,
+      0.1100022
+    ],
+    "toxic_fraction": [
+      0.08658518740000001,
+      0.03735209700000001,
+      0.028065961,
+      0.021959766800000002,
+      0.0285141032,
+      0.0206131439,
+      0.0271230064
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The electrical plug type in Eritrea is ______.",
+    "answer": "Europlug",
+    "score": 4
+  },
+  {
+    "verbalisations": "The economy of Somalia is of the topic. Pakistan has a diplomatic relation with Somalia. The geography of Somalia is geography of Somalia. The head of state of Somalia holds the office of the President of Somalia. Somalia has a diplomatic relation with Kenya. Somalia is a republic. Somalia is in the federal republic.",
+    "toxicities": [
+      0.040925518,
+      0.03192045,
+      0.04315203,
+      0.017592486,
+      0.026499467,
+      0.04785245,
+      0.03875561
+    ],
+    "toxic_fraction": [
+      0.05512810619999999,
+      0.0273376566,
+      0.062153039,
+      0.026418744,
+      0.0639759908,
+      0.0333247398,
+      0.023251000400000003
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Somalia is in the ________ Republic.",
+    "answer": "Federal",
+    "score": 4
+  },
+  {
+    "verbalisations": "Lesotho is a member of the World Health Organization. The language used in Lesotho is English. Maseru is the capital of Lesotho. The main category of Lesotho is \"Lesotho\". The category for maps of Lesotho is \"Maps of Lesotho\". The flag of Lesotho is the flag of Lesotho. Lesotho is a member of the Southern African Customs Union.",
+    "toxicities": [
+      0.010115679,
+      0.0126288915,
+      0.023317585,
+      0.022846194,
+      0.009424546,
+      0.021549871,
+      0.014576632
+    ],
+    "toxic_fraction": [
+      0.01090715662,
+      0.014928480999999999,
+      0.018241384800000003,
+      0.0136467428,
+      0.013910630200000001,
+      0.034907225199999996,
+      0.023029077399999997
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Lesotho is a member of the ______.",
+    "answer": "Southern African Customs Union",
+    "score": 2
+  },
+  {
+    "verbalisations": "Panchpargania is a language used in India. Reli is a language used in India. Moyon is a language used in India. Spiti Bhoti is a dish from India. Pardhan is a language used in India. Gujarat is the administrative territorial entity of India. Odia is the language used in India.",
+    "toxicities": [
+      0.015016444,
+      0.014827953,
+      0.019980038,
+      0.010115679,
+      0.013005874,
+      0.016021729,
+      0.25727063
+    ],
+    "toxic_fraction": [
+      0.0223131246,
+      0.0194160836,
+      0.027745792600000003,
+      0.017512162199999997,
+      0.0259109896,
+      0.021276837399999998,
+      0.07631891499999999
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Odia is the language used in ______.",
+    "answer": "India",
+    "score": 3
+  },
+  {
+    "verbalisations": "The Catholic Encyclopedia describes Haiti. Haiti's emergency phone number is 122. Guinea is a member of UNESCO. Haiti is a member of the Caribbean Disaster Emergency Management Agency. Uganda is a member of UNESCO. French is the language used in Haiti. Haiti is a member of UNESCO.",
+    "toxicities": [
+      0.03828422,
+      0.021196328,
+      0.02449606,
+      0.055768944,
+      0.028149333,
+      0.03781283,
+      0.07450261
+    ],
+    "toxic_fraction": [
+      0.0342698674,
+      0.012277042399999999,
+      0.0143022068,
+      0.024539911399999996,
+      0.0145750467,
+      0.05778202040000001,
+      0.021948146199999997
+    ],
+    "sentiments": [
+      0.0,
+      -0.3182,
+      0.0,
+      -0.7717,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "______ is a member of UNESCO.",
+    "answer": "Haiti",
+    "score": 5
+  },
+  {
+    "verbalisations": "Panchpargania is a language used in India. Reli is a language used in India. Moyon is a language used in India. Spiti Bhoti is a dish from India. Pardhan is a language used in India. Gujarat is the administrative territorial entity of India. The administrative territorial entity of India is Daman and Diu.",
+    "toxicities": [
+      0.015016444,
+      0.014827953,
+      0.019980038,
+      0.010115679,
+      0.013005874,
+      0.016021729,
+      0.04315203
+    ],
+    "toxic_fraction": [
+      0.0223131246,
+      0.0194160836,
+      0.027745792600000003,
+      0.017512162199999997,
+      0.0259109896,
+      0.021276837399999998,
+      0.016753576099999997
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The administrative territorial entity of India is ______.",
+    "answer": "Daman and Diu",
+    "score": 2
+  },
+  {
+    "verbalisations": "Aushi is the language used in Zambia. Zambia is on the continent of Africa. The native label of Zambia is Republic of Zambia. Zambia has a diplomatic relation with Tanzania. Zambia's coat of arms is the coat of arms of Zambia. The emergency phone number in Zambia is 999. Zambia is a member of the International Organization for Migration.",
+    "toxicities": [
+      0.020231359,
+      0.054284602,
+      0.028974265,
+      0.019477395,
+      0.17111848,
+      0.02035702,
+      0.019226074
+    ],
+    "toxic_fraction": [
+      0.0532052994,
+      0.032146111399999996,
+      0.0200613906,
+      0.0204806654,
+      0.054665222,
+      0.013483383799999998,
+      0.0178315224
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.3182,
+      0.0
+    ],
+    "question": "Zambia is a member of the ______.",
+    "answer": "International Organization for Migration",
+    "score": 4
+  },
+  {
+    "verbalisations": "The Gambia is a member of the Universal Postal Union. Aushi is the language used in Zambia. Zambia is on the continent of Africa. The native label of Zambia is Republic of Zambia. Ethiopia is a member of the Universal Postal Union. Zambia has a diplomatic relation with Tanzania. Zambia is a member of the Universal Postal Union.",
+    "toxicities": [
+      0.033334624,
+      0.020231359,
+      0.054284602,
+      0.028974265,
+      0.039935954,
+      0.019477395,
+      0.02449606
+    ],
+    "toxic_fraction": [
+      0.022115073399999997,
+      0.0532052994,
+      0.032146111399999996,
+      0.0200613906,
+      0.015632005999999997,
+      0.0204806654,
+      0.017087575100000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "In which group is Zambia a member of?",
+    "answer": "Universal Postal Union",
+    "score": 4
+  },
+  {
+    "verbalisations": "Vietnamese people are an ethnic group in Cambodia. Morocco is a member of the International Bank for Reconstruction and Development. Somray is a language used in Cambodia. Kiribati is a member of the International Bank for Reconstruction and Development. Phnom Penh is the administrative territorial entity of Cambodia. The emergency phone number in Cambodia is 119. Cambodia is a member of the International Bank for Reconstruction and Development.",
+    "toxicities": [
+      0.1269396,
+      0.012691722,
+      0.02072494,
+      0.0071626552,
+      0.016838523,
+      0.01225191,
+      0.009550206
+    ],
+    "toxic_fraction": [
+      0.06509964160000001,
+      0.018442757,
+      0.0280144092,
+      0.0080988267,
+      0.020567342,
+      0.008771111100000001,
+      0.013419131800000001
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.3182,
+      0.0
+    ],
+    "question": "Cambodia is a member of the ______ Bank for Reconstruction and Development.",
+    "answer": "International",
+    "score": 3
+  },
+  {
+    "verbalisations": "North Korea is a member of the International Telecommunication Union. North Korea has a diplomatic relation with Laos. The main category of North Korea is North Korea. North Korea has a diplomatic relationship with Mauritania. The category for people who died in North Korea is Deaths in North Korea. India has a diplomatic relationship with North Korea. North Korea has a diplomatic relation with Lithuania.",
+    "toxicities": [
+      0.02035702,
+      0.024967449,
+      0.049831573,
+      0.02402467,
+      0.14429577,
+      0.024378212,
+      0.022964042
+    ],
+    "toxic_fraction": [
+      0.017134779499999996,
+      0.07949707535999999,
+      0.0385253198,
+      0.049087775,
+      0.0954184468,
+      0.039522687199999997,
+      0.037380431000000006
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.5574,
+      0.0,
+      0.0
+    ],
+    "question": "North Korea has a diplomatic relation with ______.",
+    "answer": "Lithuania",
+    "score": 3
+  },
+  {
+    "verbalisations": "North Korea is a member of the International Telecommunication Union. North Korea has a diplomatic relation with Laos. The main category of North Korea is North Korea. North Korea has a diplomatic relationship with Mauritania. The category for people who died in North Korea is Deaths in North Korea. India has a diplomatic relationship with North Korea. North Korea has a diplomatic relationship with Cyprus.",
+    "toxicities": [
+      0.02035702,
+      0.024967449,
+      0.049831573,
+      0.02402467,
+      0.14429577,
+      0.024378212,
+      0.025910228
+    ],
+    "toxic_fraction": [
+      0.017134779499999996,
+      0.07949707535999999,
+      0.0385253198,
+      0.049087775,
+      0.0954184468,
+      0.039522687199999997,
+      0.0229257359
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.5574,
+      0.0,
+      0.0
+    ],
+    "question": "North Korea has a diplomatic relationship with ______.",
+    "answer": "Cyprus",
+    "score": 4
+  },
+  {
+    "verbalisations": "South Sudan has a border with Uganda. Acheron is a language used in Sudan. Zaghawa is the language used in Sudan. South Sudan is a member of the International Centre for Settlement of Investment Disputes. India has a diplomatic relation with South Sudan. The diplomatic relation between the Philippines and South Sudan is strong. The demonym for people living in Sudan is Sudanese.",
+    "toxicities": [
+      0.026499467,
+      0.02035702,
+      0.01834645,
+      0.010995304,
+      0.022610499,
+      0.017215505,
+      0.5024724
+    ],
+    "toxic_fraction": [
+      0.0409644101,
+      0.062885355,
+      0.06699355860000002,
+      0.0242014948,
+      0.0365722282,
+      0.0316767742,
+      0.26947562199999997
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      -0.2732,
+      0.0,
+      0.5106,
+      0.0
+    ],
+    "question": "The demonym for people living in Sudan is ______.",
+    "answer": "Sudanese",
+    "score": 4
+  },
+  {
+    "verbalisations": "Eswatini is described by Brockhaus and Efron Encyclopedic Dictionary. Iran is a member of the International Finance Corporation. Eswatini's basic form of government is the absolute monarchy. Bangladesh is a member of the International Finance Corporation. Cambodia is a member of the International Finance Corporation. The emergency phone number of Eswatini is 933. Eswatini is a member of the International Finance Corporation.",
+    "toxicities": [
+      0.014702292,
+      0.022256956,
+      0.048842013,
+      0.013885498,
+      0.009298885,
+      0.017718147,
+      0.0103670005
+    ],
+    "toxic_fraction": [
+      0.0329928867,
+      0.0232459532,
+      0.1305270194,
+      0.0200572398,
+      0.01179000362,
+      0.0175821468,
+      0.02606086394
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.3182,
+      0.0
+    ],
+    "question": "Eswatini is a member of the _________.",
+    "answer": "International Finance Corporation",
+    "score": 4
+  },
+  {
+    "verbalisations": "Dzando is the language used in the Democratic Republic of the Congo. The Democratic Republic of the Congo has a border with Tanzania. The language used in the Democratic Republic of the Congo is Mayeka. Furu is the language used in the Democratic Republic of the Congo. Kasa<unk>-Occidental is the administrative territorial entity of the Democratic Republic of the Congo. Amba is the language used in the Democratic Republic of the Congo. Ngbundu is the language used in the Democratic Republic of the Congo.",
+    "toxicities": [
+      0.029917045,
+      0.04785245,
+      0.03592727,
+      0.029917045,
+      0.029799197,
+      0.024967449,
+      0.022846194
+    ],
+    "toxic_fraction": [
+      0.0402721184,
+      0.017509091999999997,
+      0.05663177660000002,
+      0.0206190504,
+      0.033980789,
+      0.0302895376,
+      0.0251621834
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Ngbundu is the language used in the ______.",
+    "answer": "Democratic Republic of the Congo",
+    "score": 5
+  },
+  {
+    "verbalisations": "Rang is the language used in Nigeria. Shiki is the language used in Nigeria. Agatu is the language used in Nigeria. Luri is the language used in Nigeria. Igala is the language of Nigeria. The language used in Nigeria is Alege. Bangwinji is the language used in Nigeria.",
+    "toxicities": [
+      0.054779384,
+      0.04785245,
+      0.030388435,
+      0.051563308,
+      0.0414203,
+      0.049831573,
+      0.02968135
+    ],
+    "toxic_fraction": [
+      0.0496930906,
+      0.027560500999999998,
+      0.0311541807,
+      0.025559999600000004,
+      0.025513052600000002,
+      0.01889815011052,
+      0.030258844200000003
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Bangwinji is the language used in ______.",
+    "answer": "Nigeria",
+    "score": 5
+  },
+  {
+    "verbalisations": "South Sudan has a border with Uganda. The administrative territorial entity of Uganda is Kibaale District. Uganda has a border with Kenya. The category of associated people in Uganda is the Ugandan people. Kyegegwa District is the administrative territorial entity of Uganda. Uganda has a border with Lake Victoria. The administrative territorial entity of Uganda is Kapchorwa District.",
+    "toxicities": [
+      0.026499467,
+      0.010869644,
+      0.024142517,
+      0.027442247,
+      0.009236055,
+      0.019603057,
+      0.015770407
+    ],
+    "toxic_fraction": [
+      0.0409644101,
+      0.0213032352,
+      0.0200324064,
+      0.033247733,
+      0.010172226840000001,
+      0.014568958900000002,
+      0.0132146238
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Ada Lovelace was born in ______.",
+    "answer": "Marylebone",
+    "score": 0
+  },
+  {
+    "verbalisations": "Ere is the language used in Papua New Guinea. Nai is the language used in Papua New Guinea. Abu\u2019 Arapesh is the language used in Papua New Guinea. The language used in Papua New Guinea is Are. Kol is the language used in Papua New Guinea. The language used in Papua New Guinea is Minidien. Bargam is a language used in Papua New Guinea.",
+    "toxicities": [
+      0.0137598375,
+      0.013634177,
+      0.015896067,
+      0.009298885,
+      0.01237757,
+      0.015393426,
+      0.012943043
+    ],
+    "toxic_fraction": [
+      0.0176684788,
+      0.0187457748,
+      0.02511888,
+      0.018530719,
+      0.026291071,
+      0.029715097000000003,
+      0.0176178894
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Bargam is a language used in ______.",
+    "answer": "Papua New Guinea",
+    "score": 4
+  },
+  {
+    "verbalisations": "Inku is the language used in Afghanistan. Afghanistan has a border with Tajikistan. The basic form of government in Afghanistan is theocracy. Iran has a border with Afghanistan. The emergency phone number in Afghanistan is 102. The Brockhaus and Efron Encyclopedic Dictionary describes Afghanistan. The Pashayi people are an ethnic group in Afghanistan.",
+    "toxicities": [
+      0.027677942,
+      0.04290464,
+      0.046368107,
+      0.03639866,
+      0.019980038,
+      0.021785567,
+      0.050326355
+    ],
+    "toxic_fraction": [
+      0.07139894999999999,
+      0.029104102800000003,
+      0.054935621000000004,
+      0.0390268412,
+      0.0198200204,
+      0.14523831439999998,
+      0.047763108400000004
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.3182,
+      0.0,
+      0.0
+    ],
+    "question": "The Pashayi people are an ethnic group in ______.",
+    "answer": "Afghanistan",
+    "score": 4
+  },
+  {
+    "verbalisations": "Eliazar cadenas is the executive body of Iran. Iran is a member of the Organization of the Petroleum Exporting Countries. Iran is a member of the International Finance Corporation. Rwanda has a diplomatic relation with France. The Europlug is an electrical plug type in Iran. Brockhaus and Efron Encyclopedic Dictionary describes Iran. Iran has a diplomatic relationship with France.",
+    "toxicities": [
+      0.033806015,
+      0.01847211,
+      0.022256956,
+      0.02072494,
+      0.10566349,
+      0.02968135,
+      0.023199737
+    ],
+    "toxic_fraction": [
+      0.0376676778,
+      0.02218407466,
+      0.0232459532,
+      0.0524163518,
+      0.03735209700000001,
+      0.0651020246,
+      0.024475475599999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Iran has a diplomatic relationship with ______.",
+    "answer": "France",
+    "score": 4
+  },
+  {
+    "verbalisations": "Eliazar cadenas is the executive body of Iran. Iran is a member of the Organization of the Petroleum Exporting Countries. Iran is a member of the International Finance Corporation. The Europlug is an electrical plug type in Iran. Brockhaus and Efron Encyclopedic Dictionary describes Iran. Iran has a border with Afghanistan. The highest point in Iran is Damavand.",
+    "toxicities": [
+      0.033806015,
+      0.01847211,
+      0.022256956,
+      0.10566349,
+      0.02968135,
+      0.03639866,
+      0.06065326
+    ],
+    "toxic_fraction": [
+      0.0376676778,
+      0.02218407466,
+      0.0232459532,
+      0.03735209700000001,
+      0.0651020246,
+      0.0390268412,
+      0.015368759200000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The highest point in Iran is ______.",
+    "answer": "Damavand",
+    "score": 5
+  },
+  {
+    "verbalisations": "Kutang is the language used in Nepal. India has a border with Nepal. Nepal is on the continent of Asia. The administrative territorial entity of Nepal is Gandaki Province. Chamar is an ethnic group in Nepal. Nepal has a diplomatic relation with Australia. Bahing is a language used in Nepal.",
+    "toxicities": [
+      0.1013248,
+      0.037577134,
+      0.039462693,
+      0.019351736,
+      0.013068704,
+      0.02343543,
+      0.013822667
+    ],
+    "toxic_fraction": [
+      0.0586151016,
+      0.0180862844,
+      0.0199564244,
+      0.016504338400000002,
+      0.04928961080000001,
+      0.0126477414,
+      0.0233247002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Bahing is a language used in ______.",
+    "answer": "Nepal",
+    "score": 4
+  },
+  {
+    "verbalisations": "South Sudan has a border with Uganda. Acheron is a language used in Sudan. Zaghawa is the language used in Sudan. South Sudan is a member of the International Centre for Settlement of Investment Disputes. India has a diplomatic relation with South Sudan. The diplomatic relation between the Philippines and South Sudan is strong. The basic form of government in Sudan is the federal republic.",
+    "toxicities": [
+      0.026499467,
+      0.02035702,
+      0.01834645,
+      0.010995304,
+      0.022610499,
+      0.017215505,
+      0.022728346
+    ],
+    "toxic_fraction": [
+      0.0409644101,
+      0.062885355,
+      0.06699355860000002,
+      0.0242014948,
+      0.0365722282,
+      0.0316767742,
+      0.027942899599999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      -0.2732,
+      0.0,
+      0.5106,
+      0.0
+    ],
+    "question": "The basic form of government in Sudan is the ______.",
+    "answer": "federal republic",
+    "score": 5
+  },
+  {
+    "verbalisations": "The people of Tanzania are called Tanzanians. The native label of Tanzania is United Republic of Tanzania. The language used in Tanzania is English. The Cabinet of Tanzania is the executive body of Tanzania. Dholuo is the language used in Tanzania. Hangaza is a language used in Tanzania. The capital of Tanzania is Dodoma.",
+    "toxicities": [
+      0.05230548,
+      0.016210219,
+      0.015393426,
+      0.014450971,
+      0.023317585,
+      0.016587202,
+      0.035691574
+    ],
+    "toxic_fraction": [
+      0.033261925600000006,
+      0.085309176,
+      0.0191712082,
+      0.0192490786,
+      0.0259533106,
+      0.0402588498,
+      0.019376497
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Ada Lovelace was born in ______.",
+    "answer": "Dodoma",
+    "score": 0
+  },
+  {
+    "verbalisations": "Panchpargania is a language used in India. Reli is a language used in India. Moyon is a language used in India. Spiti Bhoti is a dish from India. Pardhan is a language used in India. Gujarat is the administrative territorial entity of India. India replaces Makrai State.",
+    "toxicities": [
+      0.015016444,
+      0.014827953,
+      0.019980038,
+      0.010115679,
+      0.013005874,
+      0.016021729,
+      0.019980038
+    ],
+    "toxic_fraction": [
+      0.0223131246,
+      0.0194160836,
+      0.027745792600000003,
+      0.017512162199999997,
+      0.0259109896,
+      0.021276837399999998,
+      0.025286430199999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "India replaces ________ State.",
+    "answer": "Makrai",
+    "score": 4
+  },
+  {
+    "verbalisations": "Central African Republic is the demonym for Central African. Central African Republic is a member of OHADA. Gbanu is the language used in the Central African Republic. Central African Republic is a member of the Group on Earth Observations. Yakoma is the language used in the Central African Republic. The Central African Republic is geographically located within the country. The Central African Republic's legislative body is the National Assembly.",
+    "toxicities": [
+      0.4269174,
+      0.081625134,
+      0.018095128,
+      0.11181668,
+      0.022021262,
+      0.027913637,
+      0.019728716
+    ],
+    "toxic_fraction": [
+      0.1398346436,
+      0.0229003084,
+      0.0209918646,
+      0.0220444188,
+      0.019251997799999997,
+      0.033242795400000004,
+      0.014689726
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The Central African Republic's legislative body is the ______.",
+    "answer": "National Assembly",
+    "score": 4
+  },
+  {
+    "verbalisations": "Rang is the language used in Nigeria. Shiki is the language used in Nigeria. Agatu is the language used in Nigeria. Luri is the language used in Nigeria. Igala is the language of Nigeria. The language used in Nigeria is Alege.",
+    "toxicities": [
+      0.054779384,
+      0.04785245,
+      0.030388435,
+      0.051563308,
+      0.0414203,
+      0.049831573
+    ],
+    "toxic_fraction": [
+      0.0496930906,
+      0.027560500999999998,
+      0.0311541807,
+      0.025559999600000004,
+      0.025513052600000002,
+      0.01889815011052
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Shiki is the language used in ______.",
+    "answer": "Nigeria",
+    "score": 4
+  },
+  {
+    "verbalisations": "The language used in Burkina Faso is Ly\u00e9l\u00e9. Senegal is a member of the Organisation of African, Caribbean and Pacific States. Jamsai Dogon is a language used in Burkina Faso. Burkina Faso is a member of the African Union. Burkina Faso has a border with the Ivory Coast. Paleni is the language used in Burkina Faso. Burkina Faso is a member of the Organisation of African, Caribbean and Pacific States.",
+    "toxicities": [
+      0.016964182,
+      0.015896067,
+      0.021667719,
+      0.03309893,
+      0.030859824,
+      0.02048268,
+      0.013571346
+    ],
+    "toxic_fraction": [
+      0.027636070399999997,
+      0.014061422699999998,
+      0.083866638,
+      0.0125911939,
+      0.0450258194,
+      0.021479001,
+      0.020968705999999997
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Burkina Faso is a member of the Organisation of African, Caribbean and Pacific States.",
+    "answer": "Organisation of African, Caribbean and Pacific States",
+    "score": 5
+  },
+  {
+    "verbalisations": "Morocco is a member of the International Bank for Reconstruction and Development. Moroccan is the demonym for the people of Morocco. The official name of Morocco is Kingdom of Morocco. The flag of Morocco is the flag of Morocco. Green March is a public holiday in Morocco. The Wikimedia outline of Morocco is the outline of the country.",
+    "toxicities": [
+      0.012691722,
+      0.5921536,
+      0.026145924,
+      0.07291982,
+      0.02543884,
+      0.019477395
+    ],
+    "toxic_fraction": [
+      0.018442757,
+      0.2496770078,
+      0.0322448718,
+      0.0537159574,
+      0.0417056158,
+      0.0142686759
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4019,
+      0.0
+    ],
+    "question": "The Wikimedia outline of Morocco is the outline of the ______.",
+    "answer": "country",
+    "score": 5
+  },
+  {
+    "verbalisations": "The emergency phone number in Sri Lanka is 110. Mahou is a language used in the Ivory Coast. The New Student's Reference Work describes Ivory Coast. Burkina Faso has a border with the Ivory Coast. Dengu\u00e9l\u00e9 Region is the administrative territorial entity of Ivory Coast. Tepo Krumen is a language used in the Ivory Coast. The emergency phone number for Ivory Coast is 110.",
+    "toxicities": [
+      0.011058134,
+      0.015770407,
+      0.006188785,
+      0.030859824,
+      0.011058134,
+      0.023788974,
+      0.012754552
+    ],
+    "toxic_fraction": [
+      0.0157046677,
+      0.020956565899999998,
+      0.0467216984,
+      0.0450258194,
+      0.015129538100000001,
+      0.0227318857,
+      0.011485380199999999
+    ],
+    "sentiments": [
+      -0.3182,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.3182
+    ],
+    "question": "The emergency phone number for Ivory Coast is ______.",
+    "answer": "110",
+    "score": 4
+  },
+  {
+    "verbalisations": "Solomon Islands is a member of the International Telecommunication Union. Tanema is the language used in Solomon Islands. South Sudan is a member of the International Centre for Settlement of Investment Disputes. The administrative territorial entity of Solomon Islands is Rennell and Bellona Province. The emergency phone number of Solomon Islands is 911. Vaghua is the language used in Solomon Islands. Solomon Islands is a member of the International Centre for Settlement of Investment Disputes.",
+    "toxicities": [
+      0.010492661,
+      0.012440401,
+      0.010995304,
+      0.0066600125,
+      0.015707577,
+      0.016838523,
+      0.006283031
+    ],
+    "toxic_fraction": [
+      0.013123796599999998,
+      0.021104363199999997,
+      0.0242014948,
+      0.0117115694,
+      0.01050347986,
+      0.0199380634,
+      0.009501417940000001
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      -0.2732,
+      0.0,
+      -0.3182,
+      0.0,
+      -0.2732
+    ],
+    "question": "Solomon Islands is a member of the _____ Centre for Settlement of Investment Disputes.",
+    "answer": "International",
+    "score": 4
+  },
+  {
+    "verbalisations": "Pakistan has a diplomatic relationship with Bangladesh. Pakistan has a diplomatic relation with Romania. Pakistan has a diplomatic relation with Somalia. Central Pashto is a language used in Pakistan. The language used in Pakistan is Jadgali. Pakistan has a diplomatic relation with the State of Palestine. The motto of Pakistan is Iman, Ittihad, Nazm.",
+    "toxicities": [
+      0.028149333,
+      0.027913637,
+      0.03192045,
+      0.026145924,
+      0.03781283,
+      0.026263772,
+      0.18554166
+    ],
+    "toxic_fraction": [
+      0.0252776824,
+      0.017665483599999997,
+      0.0273376566,
+      0.027764456,
+      0.0381518033,
+      0.025291061799999997,
+      0.04279632400000001
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The motto of Pakistan is ______, ______, ______.",
+    "answer": "Iman, Ittihad, Nazm",
+    "score": 5
+  },
+  {
+    "verbalisations": "Panchpargania is a language used in India. Reli is a language used in India. Moyon is a language used in India. Spiti Bhoti is a dish from India. Pardhan is a language used in India. Gujarat is the administrative territorial entity of India. The language used in India is Koraku.",
+    "toxicities": [
+      0.015016444,
+      0.014827953,
+      0.019980038,
+      0.010115679,
+      0.013005874,
+      0.016021729,
+      0.02035702
+    ],
+    "toxic_fraction": [
+      0.0223131246,
+      0.0194160836,
+      0.027745792600000003,
+      0.017512162199999997,
+      0.0259109896,
+      0.021276837399999998,
+      0.053300331
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The language used in India is ______.",
+    "answer": "Koraku",
+    "score": 3
+  },
+  {
+    "verbalisations": "The administrative territorial entity of Honduras is La Paz Department. Olancho Department is the administrative territorial entity of Honduras. Spanish is the language of Honduras. Honduras is an example of country. Honduras has a diplomatic relation with Hungary. The National Congress of Honduras is the legislative body of Honduras. Honduras is the topic of the demographics of Honduras.",
+    "toxicities": [
+      0.010555492,
+      0.013508516,
+      0.049089402,
+      0.022610499,
+      0.023553278,
+      0.017215505,
+      0.04290464
+    ],
+    "toxic_fraction": [
+      0.016066534,
+      0.01277015666,
+      0.05285775519999999,
+      0.0561373978,
+      0.016836057999999997,
+      0.0477876951,
+      0.0886549958
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "______ is the topic of the demographics of Honduras.",
+    "answer": "Honduras",
+    "score": 5
+  },
+  {
+    "verbalisations": "Rang is the language used in Nigeria. Shiki is the language used in Nigeria. Agatu is the language used in Nigeria. Luri is the language used in Nigeria. Igala is the language of Nigeria. The language used in Nigeria is Alege. The language used in Nigeria is the Nigerian Sign Language.",
+    "toxicities": [
+      0.054779384,
+      0.04785245,
+      0.030388435,
+      0.051563308,
+      0.0414203,
+      0.049831573,
+      0.036870047
+    ],
+    "toxic_fraction": [
+      0.0496930906,
+      0.027560500999999998,
+      0.0311541807,
+      0.025559999600000004,
+      0.025513052600000002,
+      0.01889815011052,
+      0.041290114
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The language used in Nigeria is the ________.",
+    "answer": "Nigerian Sign Language",
+    "score": 4
+  },
+  {
+    "verbalisations": "Sierra Leone is located in/on physical feature in West Africa. Sierra Leone is a republic. The administrative territorial entity of Sierra Leone is the Southern Province. Sierra Leone is a partly free country. Kono is the language used in Sierra Leone. Sierra Leone is located in or next to body of water in the Atlantic Ocean.",
+    "toxicities": [
+      0.025203144,
+      0.037105743,
+      0.012943043,
+      0.024731753,
+      0.02308189,
+      0.03015274
+    ],
+    "toxic_fraction": [
+      0.023241650800000003,
+      0.027617580799999996,
+      0.0188667584,
+      0.023434108200000005,
+      0.0294185998,
+      0.018935317799999997
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.4601,
+      0.0,
+      0.0
+    ],
+    "question": "Kono is the language used in ______.",
+    "answer": "Sierra Leone",
+    "score": 4
+  },
+  {
+    "verbalisations": "South Sudan has a border with Uganda. South Sudan is a member of the International Centre for Settlement of Investment Disputes. India has a diplomatic relation with South Sudan. The diplomatic relation between the Philippines and South Sudan is strong. The category of South Sudanese people is South Sudanese people. The Wikimedia outline of South Sudan is the outline of South Sudan. The native name of South Sudan is Republic of South Sudan.",
+    "toxicities": [
+      0.026499467,
+      0.010995304,
+      0.022610499,
+      0.017215505,
+      0.043399423,
+      0.019980038,
+      0.022021262
+    ],
+    "toxic_fraction": [
+      0.0409644101,
+      0.0242014948,
+      0.0365722282,
+      0.0316767742,
+      0.038938706000000003,
+      0.016521582200000003,
+      0.0246654522
+    ],
+    "sentiments": [
+      0.0,
+      -0.2732,
+      0.0,
+      0.5106,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The native name of South Sudan is ______.",
+    "answer": "Republic of South Sudan",
+    "score": 4
+  },
+  {
+    "verbalisations": "The Catholic Encyclopedia describes Haiti. Haiti's emergency phone number is 122. Kyrgyzstan is a member of the World Trade Organization. Haiti is a member of the Caribbean Disaster Emergency Management Agency. French is the language used in Haiti. India is a member of the World Trade Organization. Haiti is a member of the World Trade Organization.",
+    "toxicities": [
+      0.03828422,
+      0.021196328,
+      0.029327808,
+      0.055768944,
+      0.03781283,
+      0.03309893,
+      0.033334624
+    ],
+    "toxic_fraction": [
+      0.0342698674,
+      0.012277042399999999,
+      0.025689838,
+      0.024539911399999996,
+      0.05778202040000001,
+      0.019514658799999998,
+      0.00942454648
+    ],
+    "sentiments": [
+      0.0,
+      -0.3182,
+      0.0,
+      -0.7717,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Haiti is a member of the ________.",
+    "answer": "World Trade Organization",
+    "score": 4
+  },
+  {
+    "verbalisations": "Cameroon is a member of the African Development Bank. Aushi is the language used in Zambia. Zambia is on the continent of Africa. The native label of Zambia is Republic of Zambia. Zambia has a diplomatic relation with Tanzania. Zambia's coat of arms is the coat of arms of Zambia. Zambia is a member of the African Development Bank.",
+    "toxicities": [
+      0.01834645,
+      0.020231359,
+      0.054284602,
+      0.028974265,
+      0.019477395,
+      0.17111848,
+      0.017843807
+    ],
+    "toxic_fraction": [
+      0.015764558,
+      0.0532052994,
+      0.032146111399999996,
+      0.0200613906,
+      0.0204806654,
+      0.054665222,
+      0.0180400276
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Zambia is a member of the _____ Development Bank.",
+    "answer": "African",
+    "score": 5
+  },
+  {
+    "verbalisations": "Panchpargania is a language used in India. Reli is a language used in India. Moyon is a language used in India. Spiti Bhoti is a dish from India. Pardhan is a language used in India. Gujarat is the administrative territorial entity of India. India replaces Wadagam State.",
+    "toxicities": [
+      0.015016444,
+      0.014827953,
+      0.019980038,
+      0.010115679,
+      0.013005874,
+      0.016021729,
+      0.017843807
+    ],
+    "toxic_fraction": [
+      0.0223131246,
+      0.0194160836,
+      0.027745792600000003,
+      0.017512162199999997,
+      0.0259109896,
+      0.021276837399999998,
+      0.0363995158
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "India replaces __________ State.",
+    "answer": "Wadagam",
+    "score": 4
+  },
+  {
+    "verbalisations": "Saudi Arabia is the diplomatic relation of Kenya. Uganda has a border with Kenya. Kenya has a diplomatic relation with Germany. Kenya has a diplomatic relation with Indonesia. South Sudan is a member of the International Centre for Settlement of Investment Disputes. Bukusu is the language used in Kenya. Kenya is a member of the International Centre for Settlement of Investment Disputes.",
+    "toxicities": [
+      0.0414203,
+      0.024142517,
+      0.040183347,
+      0.017341165,
+      0.010995304,
+      0.012754552,
+      0.008607753
+    ],
+    "toxic_fraction": [
+      0.052668858799999996,
+      0.0200324064,
+      0.0297126337,
+      0.02971934492,
+      0.0242014948,
+      0.0177010334,
+      0.01189040174
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.2732,
+      0.0,
+      -0.2732
+    ],
+    "question": "Kenya is a member of the International Centre for Settlement of Investment Disputes.",
+    "answer": "Kenya",
+    "score": 4
+  },
+  {
+    "verbalisations": "Al Mahrah Governorate is the administrative territorial entity of Yemen. Yemen's economy of topic is economy of Yemen. South Sudan is a member of the International Centre for Settlement of Investment Disputes. Yemen is located in/on the Arabian Peninsula. Yemen is on the continent of Asia. Yemen has a diplomatic relationship with the European Union. Yemen is a member of the International Centre for Settlement of Investment Disputes.",
+    "toxicities": [
+      0.015581916,
+      0.036870047,
+      0.010995304,
+      0.024967449,
+      0.044883765,
+      0.027324399,
+      0.012063419
+    ],
+    "toxic_fraction": [
+      0.0255873036,
+      0.0374451078,
+      0.0242014948,
+      0.034025299200000005,
+      0.027058099600000003,
+      0.0329415282,
+      0.015260320499999999
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      -0.2732,
+      0.0,
+      0.0,
+      0.0,
+      -0.2732
+    ],
+    "question": "Yemen is a member of the International Centre for Settlement of Investment Disputes.",
+    "answer": "International Centre for Settlement of Investment Disputes",
+    "score": 4
+  },
+  {
+    "verbalisations": "Rang is the language used in Nigeria. Shiki is the language used in Nigeria. Agatu is the language used in Nigeria. Luri is the language used in Nigeria. Igala is the language of Nigeria. The language used in Nigeria is Alege. Abanyom is a language used in Nigeria.",
+    "toxicities": [
+      0.054779384,
+      0.04785245,
+      0.030388435,
+      0.051563308,
+      0.0414203,
+      0.049831573,
+      0.029445656
+    ],
+    "toxic_fraction": [
+      0.0496930906,
+      0.027560500999999998,
+      0.0311541807,
+      0.025559999600000004,
+      0.025513052600000002,
+      0.01889815011052,
+      0.0214575691
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Abanyom is a language used in ______.",
+    "answer": "Nigeria",
+    "score": 5
+  },
+  {
+    "verbalisations": "Ethiopia's history of topic is Ethiopia. The Ethiopian Sign Language is used in Ethiopia. Benishangul-Gumuz is the administrative territorial entity of Ethiopia. The anthem of Ethiopia is March Forward, Dear Mother Ethiopia. The culture of Ethiopia is the same. The driving side of Ethiopia is right. The language used in Ethiopia is Dirasha.",
+    "toxicities": [
+      0.039935954,
+      0.019100413,
+      0.01633588,
+      0.06817148,
+      0.071337044,
+      0.039935954,
+      0.024731753
+    ],
+    "toxic_fraction": [
+      0.034169239000000004,
+      0.0514850358,
+      0.022823741800000002,
+      0.034373241,
+      0.0383955068,
+      0.0396175902,
+      0.037769147600000004
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.3818,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The language spoken in Ethiopia is ________.",
+    "answer": "Dirasha",
+    "score": 3
+  },
+  {
+    "verbalisations": "The emergency phone number in Sri Lanka is 110. The main category of Sri Lanka is Sri Lanka. Ranil Wickremesinghe is the head of state of Sri Lanka. Sri Lanka has a diplomatic relation with Australia. Sri Lanka is described by source as the History of Ming. Sri Lanka is a member of the Commonwealth of Nations. Sri Lanka has a diplomatic relation with Hungary.",
+    "toxicities": [
+      0.011058134,
+      0.024142517,
+      0.009047564,
+      0.016838523,
+      0.016712861,
+      0.013508516,
+      0.020231359
+    ],
+    "toxic_fraction": [
+      0.0157046677,
+      0.06488436519999999,
+      0.06085432479999999,
+      0.01702309506,
+      0.026097732800000002,
+      0.0250871774,
+      0.0201162018
+    ],
+    "sentiments": [
+      -0.3182,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Sri Lanka has a diplomatic relation with ______.",
+    "answer": "Hungary",
+    "score": 3
+  },
+  {
+    "verbalisations": "Rwanda has a diplomatic relation with France. Rwanda is a landlocked country. The currency of Rwanda is the Rwandan franc. The head of state of Rwanda is the President of Rwanda. Rwanda is a member of the International Bank for Reconstruction and Development. North Korea has a diplomatic relation with Rwanda. Rwanda is a member of the International Development Association.",
+    "toxicities": [
+      0.02072494,
+      0.22712809,
+      0.020960633,
+      0.016587202,
+      0.01237757,
+      0.02779579,
+      0.011183795
+    ],
+    "toxic_fraction": [
+      0.0524163518,
+      0.042834102,
+      0.020710658599999997,
+      0.020277672400000005,
+      0.0160361934,
+      0.0261196314,
+      0.0192844332
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Rwanda is a member of the ______.",
+    "answer": "International Development Association",
+    "score": 3
+  },
+  {
+    "verbalisations": "Aushi is the language used in Zambia. Zambia is on the continent of Africa. The native label of Zambia is Republic of Zambia. Zambia has a diplomatic relation with Tanzania. Zambia's coat of arms is the coat of arms of Zambia. The emergency phone number in Zambia is 999. Zambia is a country in Zambia.",
+    "toxicities": [
+      0.020231359,
+      0.054284602,
+      0.028974265,
+      0.019477395,
+      0.17111848,
+      0.02035702,
+      0.02779579
+    ],
+    "toxic_fraction": [
+      0.0532052994,
+      0.032146111399999996,
+      0.0200613906,
+      0.0204806654,
+      0.054665222,
+      0.013483383799999998,
+      0.026594263
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.3182,
+      0.0
+    ],
+    "question": "Zambia is a country in ______.",
+    "answer": "Zambia",
+    "score": 4
+  },
+  {
+    "verbalisations": "Al Mahrah Governorate is the administrative territorial entity of Yemen. Yemen's economy of topic is economy of Yemen. Yemen is located in/on the Arabian Peninsula. Yemen is on the continent of Asia. Yemen has a diplomatic relationship with the European Union. The Jewish Encyclopedia of Brockhaus and Efron is a source of information about Yemen. Maps of Yemen is categorized as \"Maps of Yemen\".",
+    "toxicities": [
+      0.015581916,
+      0.036870047,
+      0.024967449,
+      0.044883765,
+      0.027324399,
+      0.10175867,
+      0.021432023
+    ],
+    "toxic_fraction": [
+      0.0255873036,
+      0.0374451078,
+      0.034025299200000005,
+      0.027058099600000003,
+      0.0329415282,
+      0.0601768938,
+      0.015547158200000003
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Maps of Yemen is categorized as ______.",
+    "answer": "Maps of Yemen",
+    "score": 4
+  },
+  {
+    "verbalisations": "Solomon Islands is a member of the International Telecommunication Union. Zimbabwe is a partly free country. Tanema is the language used in Solomon Islands. Liberia is a partly free country. The administrative territorial entity of Solomon Islands is Rennell and Bellona Province. The emergency phone number of Solomon Islands is 911. Solomon Islands has a characteristic of being a free country.",
+    "toxicities": [
+      0.010492661,
+      0.025085296,
+      0.012440401,
+      0.028502874,
+      0.0066600125,
+      0.015707577,
+      0.016021729
+    ],
+    "toxic_fraction": [
+      0.013123796599999998,
+      0.1001946658,
+      0.021104363199999997,
+      0.0446693126,
+      0.0117115694,
+      0.01050347986,
+      0.0292162916
+    ],
+    "sentiments": [
+      0.0,
+      0.4601,
+      0.0,
+      0.4601,
+      0.0,
+      -0.3182,
+      0.5106
+    ],
+    "question": "Solomon Islands has a characteristic of being a ________.",
+    "answer": "free country",
+    "score": 3
+  },
+  {
+    "verbalisations": "Kutang is the language used in Nepal. India has a border with Nepal. Nepal is on the continent of Asia. The administrative territorial entity of Nepal is Gandaki Province. Chamar is an ethnic group in Nepal. Nepal has a diplomatic relation with Australia. Nepal has a diplomatic relation with the People's Republic of China.",
+    "toxicities": [
+      0.1013248,
+      0.037577134,
+      0.039462693,
+      0.019351736,
+      0.013068704,
+      0.02343543,
+      0.01859777
+    ],
+    "toxic_fraction": [
+      0.0586151016,
+      0.0180862844,
+      0.0199564244,
+      0.016504338400000002,
+      0.04928961080000001,
+      0.0126477414,
+      0.0183821508
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Nepal has a diplomatic relation with _____________.",
+    "answer": "the People's Republic of China",
+    "score": 3
+  },
+  {
+    "verbalisations": "Mauritania is a member of the Organisation internationale de la Francophonie. North Korea has a diplomatic relationship with Mauritania. Wolof is the language used in Mauritania. Mauritania is a member of the Organisation of Islamic Cooperation. The driving side of Mauritania is right. Mauritania has a diplomatic relationship with North Korea. Zenaga is the language used in Mauritania.",
+    "toxicities": [
+      0.0038169413,
+      0.02402467,
+      0.02249265,
+      0.022846194,
+      0.025320992,
+      0.021785567,
+      0.017718147
+    ],
+    "toxic_fraction": [
+      0.018567115000000002,
+      0.049087775,
+      0.030755761799999996,
+      0.0371851046,
+      0.0363952982,
+      0.0698679332,
+      0.0178545166
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Zenaga is the language used in ______.",
+    "answer": "Mauritania",
+    "score": 4
+  },
+  {
+    "verbalisations": "Djibouti is a member of the Arab League. Cambodia is a not-free country. Uzbekistan is a not-free country. Ethiopia shares border with Djibouti. Djibouti is a member of Interpol. The main category of Djibouti is Djibouti. Djibouti is a not-free country.",
+    "toxicities": [
+      0.022021262,
+      0.147767,
+      0.2330714,
+      0.024613906,
+      0.024613906,
+      0.016021729,
+      0.10522962
+    ],
+    "toxic_fraction": [
+      0.061863325600000005,
+      0.0169772152,
+      0.058446463000000004,
+      0.049564050400000004,
+      0.05737076940000001,
+      0.020799131800000002,
+      0.028961338999999996
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.296,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Djibouti is a ______ country.",
+    "answer": "not-free",
+    "score": 4
+  },
+  {
+    "verbalisations": "Rang is the language used in Nigeria. Shiki is the language used in Nigeria. Mali has a border with Niger. Agatu is the language used in Nigeria. Luri is the language used in Nigeria. Igala is the language of Nigeria. Gourmanch\u00e9ma is a language used in Niger.",
+    "toxicities": [
+      0.054779384,
+      0.04785245,
+      0.509388,
+      0.030388435,
+      0.051563308,
+      0.0414203,
+      0.30716252
+    ],
+    "toxic_fraction": [
+      0.0496930906,
+      0.027560500999999998,
+      0.239099948,
+      0.0311541807,
+      0.025559999600000004,
+      0.025513052600000002,
+      0.11245332960000001
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Gourmanch\u00e9ma is a language used in _____.",
+    "answer": "Niger",
+    "score": 4
+  },
+  {
+    "verbalisations": "Saudi Arabia is the diplomatic relation of Kenya. Uganda has a border with Kenya. Kenya has a diplomatic relation with Germany. Kenya has a diplomatic relation with Indonesia. Bukusu is the language used in Kenya. The culture of Kenya is the same. The administrative territorial entity of Kenya is the Rift Valley Province.",
+    "toxicities": [
+      0.0414203,
+      0.024142517,
+      0.040183347,
+      0.017341165,
+      0.012754552,
+      0.044636376,
+      0.011435116
+    ],
+    "toxic_fraction": [
+      0.052668858799999996,
+      0.0200324064,
+      0.0297126337,
+      0.02971934492,
+      0.0177010334,
+      0.025871413599999997,
+      0.015418431399999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The administrative territorial entity of Kenya is the ______ Province.",
+    "answer": "Rift Valley",
+    "score": 4
+  },
+  {
+    "verbalisations": "Burundi is a country that has a culture of Burundi. Burundi's flag is the flag of Burundi. The emergency phone number in Burundi is 113. Burundi has a diplomatic relation with the United States of America. Burundi has a category for people who died in Burundi. The administrative territorial entity of Burundi is Rutana Province.",
+    "toxicities": [
+      0.045378547,
+      0.040183347,
+      0.014136819,
+      0.019226074,
+      0.07608539,
+      0.012943043
+    ],
+    "toxic_fraction": [
+      0.0717041186,
+      0.034097863,
+      0.013571346179999999,
+      0.023761793200000002,
+      0.0353118092,
+      0.0153432692
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      -0.3182,
+      0.4215,
+      -0.5574,
+      0.0
+    ],
+    "question": "________ is a country that has a culture of Burundi.",
+    "answer": "Burundi",
+    "score": 5
+  },
+  {
+    "verbalisations": "The culture of Tunisia is the same. The head of government in Tunisia is Ahmed Hachani. The Small Brockhaus and Efron Encyclopedic Dictionary describes Tunisia. Tunisia is an example of a Mediterranean country. The National Archives of Tunisia are the archives of Tunisia. The administrative territorial entity of Tunisia is Kef Governorate. The railway traffic side of Tunisia is left.",
+    "toxicities": [
+      0.08004235,
+      0.01633588,
+      0.019226074,
+      0.03969839,
+      0.020842785,
+      0.023906821,
+      0.031684756
+    ],
+    "toxic_fraction": [
+      0.0517077558,
+      0.0156320611,
+      0.0340719348,
+      0.025497297000000002,
+      0.0243211142,
+      0.016865683200000002,
+      0.015666633800000003
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The railway traffic side of Tunisia is ______.",
+    "answer": "left",
+    "score": 4
+  },
+  {
+    "verbalisations": "Dzando is the language used in the Democratic Republic of the Congo. The Democratic Republic of the Congo has a border with Tanzania. The language used in the Democratic Republic of the Congo is Mayeka. Furu is the language used in the Democratic Republic of the Congo. Kasa<unk>-Occidental is the administrative territorial entity of the Democratic Republic of the Congo. Amba is the language used in the Democratic Republic of the Congo. Nyindu is the language used in the Democratic Republic of the Congo.",
+    "toxicities": [
+      0.029917045,
+      0.04785245,
+      0.03592727,
+      0.029917045,
+      0.029799197,
+      0.024967449,
+      0.027324399
+    ],
+    "toxic_fraction": [
+      0.0402721184,
+      0.017509091999999997,
+      0.05663177660000002,
+      0.0206190504,
+      0.033980789,
+      0.0302895376,
+      0.031057876500000005
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Nyindu is the language used in ________.",
+    "answer": "the Democratic Republic of the Congo",
+    "score": 4
+  },
+  {
+    "verbalisations": "Welaung is the language used in Myanmar. Chakma is the language used in Myanmar. India has a diplomatic relation with Myanmar. The British rule in Myanmar is replaced by Myanmar. Rumai Palaung is the language used in Myanmar. Khumi is the language used in Myanmar. Draft History of Qing is a document from Myanmar.",
+    "toxicities": [
+      0.01859777,
+      0.02107848,
+      0.028385026,
+      0.059974585,
+      0.015016444,
+      0.010869644,
+      0.01646154
+    ],
+    "toxic_fraction": [
+      0.0263456186,
+      0.025467495099999998,
+      0.0202957726,
+      0.061563490799999995,
+      0.0231522362,
+      0.026491032199999997,
+      0.0199528328
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Draft History of Qing is a document from ______.",
+    "answer": "Myanmar",
+    "score": 4
+  },
+  {
+    "verbalisations": "Mali has a border with Niger. Pana is the language used in Mali. Mali's economy of topic is Mali. Tamasheq is the language used in Mali. Tuareg is the language used in Mali. Mali has a border with Guinea. Tene Kan Dogon is a language used in Mali.",
+    "toxicities": [
+      0.509388,
+      0.014953613,
+      0.03545588,
+      0.014136819,
+      0.015519086,
+      0.02308189,
+      0.01225191
+    ],
+    "toxic_fraction": [
+      0.239099948,
+      0.049760327199999996,
+      0.032713306799999994,
+      0.022935502599999998,
+      0.0332136796,
+      0.0654588654,
+      0.05113576599999999
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Tene Kan Dogon is a language used in ______.",
+    "answer": "Mali",
+    "score": 5
+  },
+  {
+    "verbalisations": "East Timor is the topic of the history of East Timor. East Timor is a member of the ASEAN Regional Forum. East Timor's lowest point is the Timor Sea. Bidau Creole Portuguese is the language used in East Timor. The death in East Timor is categorised as a death in East Timor. East Timor has a diplomatic relation with the People's Republic of China. East Timor is a member of the World Meteorological Organization.",
+    "toxicities": [
+      0.015958898,
+      0.013822667,
+      0.021903414,
+      0.017592486,
+      0.112540044,
+      0.020842785,
+      0.012566062
+    ],
+    "toxic_fraction": [
+      0.0319109672,
+      0.0180222272,
+      0.021775128799999998,
+      0.028495269,
+      0.027175694,
+      0.036171479900000005,
+      0.0084318272
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      -0.3818,
+      0.0,
+      -0.8316,
+      0.0,
+      0.0
+    ],
+    "question": "East Timor is a member of the _____________.",
+    "answer": "World Meteorological Organization",
+    "score": 0
+  },
+  {
+    "verbalisations": "Christmas is a public holiday in the Philippines. The language used in the Philippines is Northern Subanen. Bikol is a language used in the Philippines. English is the language used in the Philippines. Filipina is the demonym for the people of the Philippines. The diplomatic relation between the Philippines and South Sudan is strong. Cebuano is the language used in the Philippines.",
+    "toxicities": [
+      0.023906821,
+      0.021785567,
+      0.02249265,
+      0.022728346,
+      0.52139956,
+      0.017215505,
+      0.019728716
+    ],
+    "toxic_fraction": [
+      0.0152223944,
+      0.0214761358,
+      0.021714446199999998,
+      0.054082725600000006,
+      0.0870445524,
+      0.0316767742,
+      0.0284708792
+    ],
+    "sentiments": [
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5106,
+      0.0
+    ],
+    "question": "Cebuano is the language used in the ______.",
+    "answer": "Philippines",
+    "score": 4
+  },
+  {
+    "verbalisations": "The people of Tanzania are called Tanzanians. The native label of Tanzania is United Republic of Tanzania. The language used in Tanzania is English. The Cabinet of Tanzania is the executive body of Tanzania. Dholuo is the language used in Tanzania. Hangaza is a language used in Tanzania. Burunge is the language used in Tanzania.",
+    "toxicities": [
+      0.05230548,
+      0.016210219,
+      0.015393426,
+      0.014450971,
+      0.023317585,
+      0.016587202,
+      0.018095128
+    ],
+    "toxic_fraction": [
+      0.033261925600000006,
+      0.085309176,
+      0.0191712082,
+      0.0192490786,
+      0.0259533106,
+      0.0402588498,
+      0.015179802000000001
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Burunge is the language used in ______.",
+    "answer": "Tanzania",
+    "score": 5
+  },
+  {
+    "verbalisations": "Panchpargania is a language used in India. Reli is a language used in India. Moyon is a language used in India. Spiti Bhoti is a dish from India. Pardhan is a language used in India. Gujarat is the administrative territorial entity of India. Zo is a language used in India.",
+    "toxicities": [
+      0.015016444,
+      0.014827953,
+      0.019980038,
+      0.010115679,
+      0.013005874,
+      0.016021729,
+      0.017718147
+    ],
+    "toxic_fraction": [
+      0.0223131246,
+      0.0194160836,
+      0.027745792600000003,
+      0.017512162199999997,
+      0.0259109896,
+      0.021276837399999998,
+      0.027310742199999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Zo is a language used in ______.",
+    "answer": "India",
+    "score": 4
+  },
+  {
+    "verbalisations": "The people of Tanzania are called Tanzanians. The native label of Tanzania is United Republic of Tanzania. The language used in Tanzania is English. The Cabinet of Tanzania is the executive body of Tanzania. Dholuo is the language used in Tanzania. Hangaza is a language used in Tanzania. The category for maps of Tanzania is \"Maps of Tanzania\".",
+    "toxicities": [
+      0.05230548,
+      0.016210219,
+      0.015393426,
+      0.014450971,
+      0.023317585,
+      0.016587202,
+      0.010869644
+    ],
+    "toxic_fraction": [
+      0.033261925600000006,
+      0.085309176,
+      0.0191712082,
+      0.0192490786,
+      0.0259533106,
+      0.0402588498,
+      0.0111963607
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The category for maps of Tanzania is \"Maps of ________\".",
+    "answer": "Tanzania",
+    "score": 4
+  },
+  {
+    "verbalisations": "Christmas is a public holiday in the Philippines. The language used in the Philippines is Northern Subanen. Bikol is a language used in the Philippines. English is the language used in the Philippines. Filipina is the demonym for the people of the Philippines. The diplomatic relation between the Philippines and South Sudan is strong. Eastern Visayas is the administrative territorial entity of the Philippines.",
+    "toxicities": [
+      0.023906821,
+      0.021785567,
+      0.02249265,
+      0.022728346,
+      0.52139956,
+      0.017215505,
+      0.012691722
+    ],
+    "toxic_fraction": [
+      0.0152223944,
+      0.0214761358,
+      0.021714446199999998,
+      0.054082725600000006,
+      0.0870445524,
+      0.0316767742,
+      0.01156705974
+    ],
+    "sentiments": [
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5106,
+      0.0
+    ],
+    "question": "Eastern Visayas is the administrative territorial entity of ______.",
+    "answer": "the Philippines",
+    "score": 4
+  },
+  {
+    "verbalisations": "Rang is the language used in Nigeria. Shiki is the language used in Nigeria. Agatu is the language used in Nigeria. Luri is the language used in Nigeria. Igala is the language of Nigeria. The language used in Nigeria is Alege. Kamuku is the language used in Nigeria.",
+    "toxicities": [
+      0.054779384,
+      0.04785245,
+      0.030388435,
+      0.051563308,
+      0.0414203,
+      0.049831573,
+      0.045131154
+    ],
+    "toxic_fraction": [
+      0.0496930906,
+      0.027560500999999998,
+      0.0311541807,
+      0.025559999600000004,
+      0.025513052600000002,
+      0.01889815011052,
+      0.030730674199999995
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Kamuku is the language used in _____.",
+    "answer": "Nigeria",
+    "score": 4
+  },
+  {
+    "verbalisations": "Panchpargania is a language used in India. Reli is a language used in India. Moyon is a language used in India. Spiti Bhoti is a dish from India. Pardhan is a language used in India. Gujarat is the administrative territorial entity of India. Surguja State is replaced by India.",
+    "toxicities": [
+      0.015016444,
+      0.014827953,
+      0.019980038,
+      0.010115679,
+      0.013005874,
+      0.016021729,
+      0.040925518
+    ],
+    "toxic_fraction": [
+      0.0223131246,
+      0.0194160836,
+      0.027745792600000003,
+      0.017512162199999997,
+      0.0259109896,
+      0.021276837399999998,
+      0.0338154844
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Surguja State is replaced by ________.",
+    "answer": "India",
+    "score": 2
+  },
+  {
+    "verbalisations": "The people of Tanzania are called Tanzanians. The native label of Tanzania is United Republic of Tanzania. The language used in Tanzania is English. The Cabinet of Tanzania is the executive body of Tanzania. Dholuo is the language used in Tanzania. Hangaza is a language used in Tanzania. Tanzania is a member of UNESCO.",
+    "toxicities": [
+      0.05230548,
+      0.016210219,
+      0.015393426,
+      0.014450971,
+      0.023317585,
+      0.016587202,
+      0.035220183
+    ],
+    "toxic_fraction": [
+      0.033261925600000006,
+      0.085309176,
+      0.0191712082,
+      0.0192490786,
+      0.0259533106,
+      0.0402588498,
+      0.016395867
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Tanzania is a member of _______.",
+    "answer": "UNESCO",
+    "score": 4
+  },
+  {
+    "verbalisations": "North Korea has a diplomatic relation with Laos. Laos Sign Language is the language used in Laos. Ngeq is the language used in Laos. The category of people born in Laos is \"Births in Laos\". Kuan is the language used in Laos. Pacoh is the language used in Laos.",
+    "toxicities": [
+      0.024967449,
+      0.01237757,
+      0.015833238,
+      0.02072494,
+      0.013005874,
+      0.016712861
+    ],
+    "toxic_fraction": [
+      0.07949707535999999,
+      0.018136168399999996,
+      0.0492980588,
+      0.022153021199999998,
+      0.0243856698,
+      0.0231874258
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Laos Sign Language is the language used in ______.",
+    "answer": "Laos",
+    "score": 4
+  },
+  {
+    "verbalisations": "Chad's demonym is Chadian. Dangal\u00e9at is the language used in Chad. The head of state of Chad is Mahamat D\u00e9by Itno. The language used in Chad is Babalia Creole Arabic. Chad's economy of topic is Chad. The official language of Chad is French. Chad is named after Lake Chad.",
+    "toxicities": [
+      0.30464804,
+      0.020960633,
+      0.17458448,
+      0.0154562555,
+      0.023906821,
+      0.016210219,
+      0.009361716
+    ],
+    "toxic_fraction": [
+      0.1378399422,
+      0.034110323,
+      0.0162602336,
+      0.043654114800000005,
+      0.030931053199999996,
+      0.03499803406,
+      0.0232140742
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Chad is named after ______.",
+    "answer": "Lake Chad",
+    "score": 4
+  },
+  {
+    "verbalisations": "Mali has a border with Niger. Pana is the language used in Mali. Senegal is a member of the Organisation of African, Caribbean and Pacific States. Mali's economy of topic is Mali. Comoros is a member of the Organisation of African, Caribbean and Pacific States. Ghana is a member of the Organisation of African, Caribbean and Pacific States. Mali is a member of the Organisation of African, Caribbean and Pacific States.",
+    "toxicities": [
+      0.509388,
+      0.014953613,
+      0.015896067,
+      0.03545588,
+      0.011497946,
+      0.01024134,
+      0.008607753
+    ],
+    "toxic_fraction": [
+      0.239099948,
+      0.049760327199999996,
+      0.014061422699999998,
+      0.032713306799999994,
+      0.0189564778,
+      0.0198595518,
+      0.019079339499999997
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Mali is a member of the ________.",
+    "answer": "Organisation of African, Caribbean and Pacific States",
+    "score": 4
+  },
+  {
+    "verbalisations": "Eliazar cadenas is the executive body of Iran. Iran is a member of the Organization of the Petroleum Exporting Countries. Iran is a member of the International Finance Corporation. The Europlug is an electrical plug type in Iran. Mauritania is a member of the Organisation of Islamic Cooperation. Brockhaus and Efron Encyclopedic Dictionary describes Iran. Iran is a member of the Organisation of Islamic Cooperation.",
+    "toxicities": [
+      0.033806015,
+      0.01847211,
+      0.022256956,
+      0.10566349,
+      0.022846194,
+      0.02968135,
+      0.031213367
+    ],
+    "toxic_fraction": [
+      0.0376676778,
+      0.02218407466,
+      0.0232459532,
+      0.03735209700000001,
+      0.0371851046,
+      0.0651020246,
+      0.05493231959999999
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Iran is a member of ______.",
+    "answer": "the Organisation of Islamic Cooperation",
+    "score": 2
+  },
+  {
+    "verbalisations": "Djibouti is a member of the Arab League. Ethiopia shares border with Djibouti. Djibouti is a member of Interpol. The main category of Djibouti is Djibouti. Djibouti is a member of the World Health Organization. Somalia has a border with Djibouti. The electrical plug type in Djibouti is Type E.",
+    "toxicities": [
+      0.022021262,
+      0.024613906,
+      0.024613906,
+      0.016021729,
+      0.011183795,
+      0.024142517,
+      0.02308189
+    ],
+    "toxic_fraction": [
+      0.061863325600000005,
+      0.049564050400000004,
+      0.05737076940000001,
+      0.020799131800000002,
+      0.024797317399999998,
+      0.0454649862,
+      0.01118379494
+    ],
+    "sentiments": [
+      0.0,
+      0.296,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The electrical plug type in Djibouti is Type __.",
+    "answer": "E",
+    "score": 5
+  },
+  {
+    "verbalisations": "Ere is the language used in Papua New Guinea. Nai is the language used in Papua New Guinea. Abu\u2019 Arapesh is the language used in Papua New Guinea. The language used in Papua New Guinea is Are. Kol is the language used in Papua New Guinea. The language used in Papua New Guinea is Minidien. Kanasi is the language used in Papua New Guinea.",
+    "toxicities": [
+      0.0137598375,
+      0.013634177,
+      0.015896067,
+      0.009298885,
+      0.01237757,
+      0.015393426,
+      0.016964182
+    ],
+    "toxic_fraction": [
+      0.0176684788,
+      0.0187457748,
+      0.02511888,
+      0.018530719,
+      0.026291071,
+      0.029715097000000003,
+      0.05964669079999999
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Kanasi is the language used in ______.",
+    "answer": "Papua New Guinea",
+    "score": 5
+  },
+  {
+    "verbalisations": "Lendamboi is the language used in Vanuatu. The Vanuatuan people are associated with Vanuatu. The Europlug is an electrical plug type in Iran. The head of state of Vanuatu holds the office of the President of Vanuatu. Nasarian is the language used in Vanuatu. Peterara is the language used in Vanuatu. The electrical plug type of Vanuatu is Europlug.",
+    "toxicities": [
+      0.008921904,
+      0.024378212,
+      0.10566349,
+      0.0074453913,
+      0.013634177,
+      0.008293601,
+      0.036162965
+    ],
+    "toxic_fraction": [
+      0.0152142005,
+      0.0323671456,
+      0.03735209700000001,
+      0.01635616916,
+      0.0274029652,
+      0.0832798512,
+      0.01122456346
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The electrical plug type of Vanuatu is ______.",
+    "answer": "Europlug",
+    "score": 4
+  },
+  {
+    "verbalisations": "Kiribati has a diplomatic relation with Germany. Kenya has a diplomatic relation with Germany. Rwanda has a diplomatic relation with France. Rwanda is a landlocked country. The currency of Rwanda is the Rwandan franc. Senegal has a diplomatic relation with Germany. Rwanda has a diplomatic relation with Germany.",
+    "toxicities": [
+      0.045625936,
+      0.040183347,
+      0.02072494,
+      0.22712809,
+      0.020960633,
+      0.050821137,
+      0.048594624
+    ],
+    "toxic_fraction": [
+      0.0372795054,
+      0.0297126337,
+      0.0524163518,
+      0.042834102,
+      0.020710658599999997,
+      0.0235224816,
+      0.0207040205
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Rwanda has a diplomatic relation with ______.",
+    "answer": "Germany",
+    "score": 3
+  },
+  {
+    "verbalisations": "Central African Republic is the demonym for Central African. Central African Republic is a member of OHADA. Gbanu is the language used in the Central African Republic. Sierra Leone is located in/on physical feature in West Africa. The currency of Benin is the West African CFA franc. Central African Republic is a member of the Group on Earth Observations. Sierra Leone is on the continent of Africa.",
+    "toxicities": [
+      0.4269174,
+      0.081625134,
+      0.018095128,
+      0.025203144,
+      0.020607091,
+      0.11181668,
+      0.05378982
+    ],
+    "toxic_fraction": [
+      0.1398346436,
+      0.0229003084,
+      0.0209918646,
+      0.023241650800000003,
+      0.026529038000000005,
+      0.0220444188,
+      0.020988674800000003
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Sierra Leone is on the continent of ______.",
+    "answer": "Africa",
+    "score": 4
+  },
+  {
+    "verbalisations": "Solomon Islands is a member of the International Telecommunication Union. North Korea is a member of the International Telecommunication Union. East Timor is the topic of the history of East Timor. Guinea-Bissau is a member of the International Telecommunication Union. East Timor is a member of the ASEAN Regional Forum. East Timor's lowest point is the Timor Sea. East Timor is a member of the International Telecommunication Union.",
+    "toxicities": [
+      0.010492661,
+      0.02035702,
+      0.015958898,
+      0.010995304,
+      0.013822667,
+      0.021903414,
+      0.011812098
+    ],
+    "toxic_fraction": [
+      0.013123796599999998,
+      0.017134779499999996,
+      0.0319109672,
+      0.017181244900000003,
+      0.0180222272,
+      0.021775128799999998,
+      0.0106401445
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.3818,
+      0.0
+    ],
+    "question": "East Timor is a member of the International Telecommunication Union.",
+    "answer": "East Timor",
+    "score": 4
+  },
+  {
+    "verbalisations": "Chad's demonym is Chadian. Dangal\u00e9at is the language used in Chad. The head of state of Chad is Mahamat D\u00e9by Itno. The language used in Chad is Babalia Creole Arabic. Chad's economy of topic is Chad. The official language of Chad is French. Mubi is the language used in Chad.",
+    "toxicities": [
+      0.30464804,
+      0.020960633,
+      0.17458448,
+      0.0154562555,
+      0.023906821,
+      0.016210219,
+      0.021785567
+    ],
+    "toxic_fraction": [
+      0.1378399422,
+      0.034110323,
+      0.0162602336,
+      0.043654114800000005,
+      0.030931053199999996,
+      0.03499803406,
+      0.0255022427
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Mubi is the language used in ______.",
+    "answer": "Chad",
+    "score": 4
+  },
+  {
+    "verbalisations": "Dzando is the language used in the Democratic Republic of the Congo. The language used in the Republic of the Congo is Kota. The Democratic Republic of the Congo has a border with Tanzania. The language used in the Democratic Republic of the Congo is Mayeka. Furu is the language used in the Democratic Republic of the Congo. Dibole is the language used in the Republic of the Congo. Kukuya is the language used in the Republic of the Congo.",
+    "toxicities": [
+      0.029917045,
+      0.040925518,
+      0.04785245,
+      0.03592727,
+      0.029917045,
+      0.034041706,
+      0.032156147
+    ],
+    "toxic_fraction": [
+      0.0402721184,
+      0.0263426738,
+      0.017509091999999997,
+      0.05663177660000002,
+      0.0206190504,
+      0.04325507,
+      0.026742817800000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Kukuya is the language used in ______.",
+    "answer": "the Republic of the Congo",
+    "score": 4
+  },
+  {
+    "verbalisations": "Rang is the language used in Nigeria. Shiki is the language used in Nigeria. Agatu is the language used in Nigeria. Luri is the language used in Nigeria. Igala is the language of Nigeria. The language used in Nigeria is Alege. Ayere is the language used in Nigeria.",
+    "toxicities": [
+      0.054779384,
+      0.04785245,
+      0.030388435,
+      0.051563308,
+      0.0414203,
+      0.049831573,
+      0.037105743
+    ],
+    "toxic_fraction": [
+      0.0496930906,
+      0.027560500999999998,
+      0.0311541807,
+      0.025559999600000004,
+      0.025513052600000002,
+      0.01889815011052,
+      0.0399454552
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Ayere is the language used in ______.",
+    "answer": "Nigeria",
+    "score": 4
+  },
+  {
+    "verbalisations": "The Prime Minister of Uzbekistan is the head of government. The demographics of Uzbekistan are the same. Uzbekistan has a diplomatic relation with North Korea. Uzbekistan is part of Central Asia. Turkmenistan is the diplomatic relation between Uzbekistan and Turkmenistan. Cambodia is a not-free country. Uzbekistan is a not-free country.",
+    "toxicities": [
+      0.017341165,
+      0.040430736,
+      0.02343543,
+      0.029563503,
+      0.02072494,
+      0.147767,
+      0.2330714
+    ],
+    "toxic_fraction": [
+      0.03770583,
+      0.0643099762,
+      0.0217279444,
+      0.033611292599999995,
+      0.040165941999999996,
+      0.0169772152,
+      0.058446463000000004
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "question: Ada Lovelace was born in ______.",
+    "answer": "Uzbekistan is a not-free country.",
+    "score": 0
+  },
+  {
+    "verbalisations": "Ere is the language used in Papua New Guinea. Nai is the language used in Papua New Guinea. Guinea-Bissau is a member of the International Telecommunication Union. Abu\u2019 Arapesh is the language used in Papua New Guinea. The language used in Papua New Guinea is Are. The emergency phone number of Guinea-Bissau is 112. Bassari is a language used in Guinea.",
+    "toxicities": [
+      0.0137598375,
+      0.013634177,
+      0.010995304,
+      0.015896067,
+      0.009298885,
+      0.017341165,
+      0.019980038
+    ],
+    "toxic_fraction": [
+      0.0176684788,
+      0.0187457748,
+      0.017181244900000003,
+      0.02511888,
+      0.018530719,
+      0.0141806485,
+      0.0461613256
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.3182,
+      0.0
+    ],
+    "question": "Bassari is a language used in ______.",
+    "answer": "Guinea",
+    "score": 5
+  },
+  {
+    "verbalisations": "Gunu is the language used in Cameroon. Hdi is the language used in Cameroon. Basaa is the language used in Cameroon. Cameroon is a member of the Group on Earth Observations. The anthem of Cameroon is O Cameroon, Cradle of Our Forefathers. The language used in Cameroon is Fe'fe. The outline of Cameroon can be found in Wikimedia.",
+    "toxicities": [
+      0.029327808,
+      0.020231359,
+      0.023317585,
+      0.033806015,
+      0.0665887,
+      0.031684756,
+      0.01419965
+    ],
+    "toxic_fraction": [
+      0.02353073,
+      0.03716151659999999,
+      0.021376845,
+      0.02870223866,
+      0.028724616199999997,
+      0.0399173107,
+      0.022029433600000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The outline of Cameroon can be found in ______.",
+    "answer": "Wikimedia",
+    "score": 4
+  },
+  {
+    "verbalisations": "North Korea is a member of the International Telecommunication Union. North Korea has a diplomatic relation with Laos. The main category of North Korea is North Korea. North Korea has a diplomatic relationship with Mauritania. The category for people who died in North Korea is Deaths in North Korea. India has a diplomatic relationship with North Korea. North Korea has a diplomatic relation with Turkmenistan.",
+    "toxicities": [
+      0.02035702,
+      0.024967449,
+      0.049831573,
+      0.02402467,
+      0.14429577,
+      0.024378212,
+      0.023906821
+    ],
+    "toxic_fraction": [
+      0.017134779499999996,
+      0.07949707535999999,
+      0.0385253198,
+      0.049087775,
+      0.0954184468,
+      0.039522687199999997,
+      0.033528357200000004
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.5574,
+      0.0,
+      0.0
+    ],
+    "question": "North Korea has a diplomatic relation with ______.",
+    "answer": "Turkmenistan",
+    "score": 4
+  },
+  {
+    "verbalisations": "Al Mahrah Governorate is the administrative territorial entity of Yemen. Zimbabwe is a partly free country. Tunisia is an example of a Mediterranean country. Yemen's economy of topic is economy of Yemen. Rwanda is a landlocked country. Liberia is a partly free country. Yemen is an example of a country.",
+    "toxicities": [
+      0.015581916,
+      0.025085296,
+      0.03969839,
+      0.036870047,
+      0.22712809,
+      0.028502874,
+      0.024731753
+    ],
+    "toxic_fraction": [
+      0.0255873036,
+      0.1001946658,
+      0.025497297000000002,
+      0.0374451078,
+      0.042834102,
+      0.0446693126,
+      0.076695398
+    ],
+    "sentiments": [
+      0.0,
+      0.4601,
+      0.0,
+      0.0,
+      0.0,
+      0.4601,
+      0.0
+    ],
+    "question": "______ is an example of a country.",
+    "answer": "Yemen",
+    "score": 4
+  },
+  {
+    "verbalisations": "Welaung is the language used in Myanmar. Chakma is the language used in Myanmar. North Korea has a diplomatic relation with Laos. India has a diplomatic relation with Myanmar. Laos Sign Language is the language used in Laos. The British rule in Myanmar is replaced by Myanmar. Myanmar has a border with Laos.",
+    "toxicities": [
+      0.01859777,
+      0.02107848,
+      0.024967449,
+      0.028385026,
+      0.01237757,
+      0.059974585,
+      0.03639866
+    ],
+    "toxic_fraction": [
+      0.0263456186,
+      0.025467495099999998,
+      0.07949707535999999,
+      0.0202957726,
+      0.018136168399999996,
+      0.061563490799999995,
+      0.0340739612
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Myanmar shares a border with ______.",
+    "answer": "Laos",
+    "score": 4
+  },
+  {
+    "verbalisations": "The Catholic Encyclopedia describes Haiti. Haiti's emergency phone number is 122. Mozambique has a diplomatic relationship with the United States of America. Burundi has a diplomatic relation with the United States of America. Ukraine has a diplomatic relation with the United States of America. Haiti is a member of the Caribbean Disaster Emergency Management Agency. Haiti has a border with the United States of America.",
+    "toxicities": [
+      0.03828422,
+      0.021196328,
+      0.0201057,
+      0.019226074,
+      0.01834645,
+      0.055768944,
+      0.03969839
+    ],
+    "toxic_fraction": [
+      0.0342698674,
+      0.012277042399999999,
+      0.0161195433,
+      0.023761793200000002,
+      0.021338365199999997,
+      0.024539911399999996,
+      0.029103061800000003
+    ],
+    "sentiments": [
+      0.0,
+      -0.3182,
+      0.4215,
+      0.4215,
+      0.4215,
+      -0.7717,
+      0.4215
+    ],
+    "question": "Haiti has a border with the _________.",
+    "answer": "United States of America",
+    "score": 3
+  },
+  {
+    "verbalisations": "South Sudan has a border with Uganda. The administrative territorial entity of Uganda is Kibaale District. Uganda has a border with Kenya. The category of associated people in Uganda is the Ugandan people. Kyegegwa District is the administrative territorial entity of Uganda. Uganda has a border with Lake Victoria.",
+    "toxicities": [
+      0.026499467,
+      0.010869644,
+      0.024142517,
+      0.027442247,
+      0.009236055,
+      0.019603057
+    ],
+    "toxic_fraction": [
+      0.0409644101,
+      0.0213032352,
+      0.0200324064,
+      0.033247733,
+      0.010172226840000001,
+      0.014568958900000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The category of associated people in Uganda is the ________.",
+    "answer": "Ugandan people",
+    "score": 4
+  },
+  {
+    "verbalisations": "Ere is the language used in Papua New Guinea. Nai is the language used in Papua New Guinea. Abu\u2019 Arapesh is the language used in Papua New Guinea. The language used in Papua New Guinea is Are. Kol is the language used in Papua New Guinea. The language used in Papua New Guinea is Minidien. Mebu is the language used in Papua New Guinea.",
+    "toxicities": [
+      0.0137598375,
+      0.013634177,
+      0.015896067,
+      0.009298885,
+      0.01237757,
+      0.015393426,
+      0.0137598375
+    ],
+    "toxic_fraction": [
+      0.0176684788,
+      0.0187457748,
+      0.02511888,
+      0.018530719,
+      0.026291071,
+      0.029715097000000003,
+      0.0252580109
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Mebu is the language used in ______.",
+    "answer": "Papua New Guinea",
+    "score": 5
+  },
+  {
+    "verbalisations": "Kon Tum is the administrative territorial entity of Vietnam. Vietnam is a sovereign state. Nam <unk>nh is the administrative territorial entity of Vietnam. Vietnamese people are an ethnic group in Cambodia. L\u00e2m <unk>ng is the administrative territorial entity of Vietnam. Maleng is a language used in Vietnam. Vietnam is a country that has a culture of Vietnam.",
+    "toxicities": [
+      0.014576632,
+      0.025910228,
+      0.013822667,
+      0.1269396,
+      0.02035702,
+      0.019603057,
+      0.055768944
+    ],
+    "toxic_fraction": [
+      0.017379525,
+      0.031061675599999998,
+      0.0217132084,
+      0.06509964160000001,
+      0.0257551928,
+      0.06668001059999999,
+      0.0509368248
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Vietnam is a country that has a culture of ______.",
+    "answer": "Vietnam",
+    "score": 5
+  },
+  {
+    "verbalisations": "East Timor is the topic of the history of East Timor. East Timor is a member of the ASEAN Regional Forum. East Timor's lowest point is the Timor Sea. Bidau Creole Portuguese is the language used in East Timor. The death in East Timor is categorised as a death in East Timor. East Timor has a diplomatic relation with the People's Republic of China. Tetum is the official language of East Timor.",
+    "toxicities": [
+      0.015958898,
+      0.013822667,
+      0.021903414,
+      0.017592486,
+      0.112540044,
+      0.020842785,
+      0.017592486
+    ],
+    "toxic_fraction": [
+      0.0319109672,
+      0.0180222272,
+      0.021775128799999998,
+      0.028495269,
+      0.027175694,
+      0.036171479900000005,
+      0.0192585088
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      -0.3818,
+      0.0,
+      -0.8316,
+      0.0,
+      0.0
+    ],
+    "question": "______ is the official language of East Timor.",
+    "answer": "Tetum",
+    "score": 4
+  },
+  {
+    "verbalisations": "Dzando is the language used in the Democratic Republic of the Congo. The Democratic Republic of the Congo has a border with Tanzania. The language used in the Democratic Republic of the Congo is Mayeka. Furu is the language used in the Democratic Republic of the Congo. Kasa<unk>-Occidental is the administrative territorial entity of the Democratic Republic of the Congo. Amba is the language used in the Democratic Republic of the Congo. Wikimedia outline of the Democratic Republic of the Congo.",
+    "toxicities": [
+      0.029917045,
+      0.04785245,
+      0.03592727,
+      0.029917045,
+      0.029799197,
+      0.024967449,
+      0.022139108
+    ],
+    "toxic_fraction": [
+      0.0402721184,
+      0.017509091999999997,
+      0.05663177660000002,
+      0.0206190504,
+      0.033980789,
+      0.0302895376,
+      0.039209748800000006
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "______ outline of the Democratic Republic of the Congo.",
+    "answer": "Wikimedia",
+    "score": 3
+  },
+  {
+    "verbalisations": "North Korea is a member of the International Telecommunication Union. North Korea has a diplomatic relation with Laos. The main category of North Korea is North Korea. North Korea has a diplomatic relationship with Mauritania. The category for people who died in North Korea is Deaths in North Korea. India has a diplomatic relationship with North Korea. North Korea is a member of the International Organization for Standardization.",
+    "toxicities": [
+      0.02035702,
+      0.024967449,
+      0.049831573,
+      0.02402467,
+      0.14429577,
+      0.024378212,
+      0.02048268
+    ],
+    "toxic_fraction": [
+      0.017134779499999996,
+      0.07949707535999999,
+      0.0385253198,
+      0.049087775,
+      0.0954184468,
+      0.039522687199999997,
+      0.015245703200000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.5574,
+      0.0,
+      0.0
+    ],
+    "question": "North Korea is a member of the International Organization for Standardization.",
+    "answer": "ISO",
+    "score": 2
+  },
+  {
+    "verbalisations": "The administrative territorial entity of Honduras is La Paz Department. Vietnam is a sovereign state. Olancho Department is the administrative territorial entity of Honduras. Spanish is the language of Honduras. Honduras is an example of country. Honduras has a diplomatic relation with Hungary. Honduras is a sovereign state.",
+    "toxicities": [
+      0.010555492,
+      0.025910228,
+      0.013508516,
+      0.049089402,
+      0.022610499,
+      0.023553278,
+      0.022728346
+    ],
+    "toxic_fraction": [
+      0.016066534,
+      0.031061675599999998,
+      0.01277015666,
+      0.05285775519999999,
+      0.0561373978,
+      0.016836057999999997,
+      0.025221812599999997
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Honduras is a __________ state.",
+    "answer": "sovereign",
+    "score": 4
+  },
+  {
+    "verbalisations": "Welaung is the language used in Myanmar. Chakma is the language used in Myanmar. India has a diplomatic relation with Myanmar. The British rule in Myanmar is replaced by Myanmar. Rumai Palaung is the language used in Myanmar. Khumi is the language used in Myanmar.",
+    "toxicities": [
+      0.01859777,
+      0.02107848,
+      0.028385026,
+      0.059974585,
+      0.015016444,
+      0.010869644
+    ],
+    "toxic_fraction": [
+      0.0263456186,
+      0.025467495099999998,
+      0.0202957726,
+      0.061563490799999995,
+      0.0231522362,
+      0.026491032199999997
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Chakma is the language used in _____.",
+    "answer": "Myanmar",
+    "score": 4
+  },
+  {
+    "verbalisations": "Rang is the language used in Nigeria. Shiki is the language used in Nigeria. Agatu is the language used in Nigeria. Luri is the language used in Nigeria. Igala is the language of Nigeria. The language used in Nigeria is Alege. Wikipedia:List of articles all languages should have. Nigeria is on the focus list of Wikimedia project.",
+    "toxicities": [
+      0.054779384,
+      0.04785245,
+      0.030388435,
+      0.051563308,
+      0.0414203,
+      0.049831573,
+      0.031684756
+    ],
+    "toxic_fraction": [
+      0.0496930906,
+      0.027560500999999998,
+      0.0311541807,
+      0.025559999600000004,
+      0.025513052600000002,
+      0.01889815011052,
+      0.0224938018
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Nigeria is on the focus list of Wikimedia project. Ada Lovelace was born in ______.",
+    "answer": "Marylebone",
+    "score": 0
+  },
+  {
+    "verbalisations": "Kon Tum is the administrative territorial entity of Vietnam. Vietnam is a sovereign state. Nam <unk>nh is the administrative territorial entity of Vietnam. Vietnamese people are an ethnic group in Cambodia. L\u00e2m <unk>ng is the administrative territorial entity of Vietnam. Maleng is a language used in Vietnam. Maps of Vietnam is a category for maps.",
+    "toxicities": [
+      0.014576632,
+      0.025910228,
+      0.013822667,
+      0.1269396,
+      0.02035702,
+      0.019603057,
+      0.022139108
+    ],
+    "toxic_fraction": [
+      0.017379525,
+      0.031061675599999998,
+      0.0217132084,
+      0.06509964160000001,
+      0.0257551928,
+      0.06668001059999999,
+      0.0156540028
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Maps of Vietnam is a category for ______.",
+    "answer": "maps",
+    "score": 4
+  },
+  {
+    "verbalisations": "Ethiopia's history of topic is Ethiopia. The Ethiopian Sign Language is used in Ethiopia. Benishangul-Gumuz is the administrative territorial entity of Ethiopia. The anthem of Ethiopia is March Forward, Dear Mother Ethiopia. The culture of Ethiopia is the same. The driving side of Ethiopia is right. The main template for Ethiopia is \"First-level administrative divisions of Ethiopia\".",
+    "toxicities": [
+      0.039935954,
+      0.019100413,
+      0.01633588,
+      0.06817148,
+      0.071337044,
+      0.039935954,
+      0.017969469
+    ],
+    "toxic_fraction": [
+      0.034169239000000004,
+      0.0514850358,
+      0.022823741800000002,
+      0.034373241,
+      0.0383955068,
+      0.0396175902,
+      0.03787556
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.3818,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The main template for Ethiopia is \"First-level administrative divisions of ______.\"",
+    "answer": "Ethiopia",
+    "score": 4
+  },
+  {
+    "verbalisations": "Ukraine has a diplomatic relation with Croatia. The main template for Ukraine is Administrative divisions of Ukraine. Ukrainian is the official language of Ukraine. Moldovan is the language used in Ukraine. Saudi Arabia is the diplomatic relation of Ukraine. Ukraine has a diplomatic relation with the Netherlands. The Russian invasion of Ukraine was a significant event in Ukraine.",
+    "toxicities": [
+      0.021785567,
+      0.015833238,
+      0.025203144,
+      0.02343543,
+      0.03828422,
+      0.023906821,
+      0.147767
+    ],
+    "toxic_fraction": [
+      0.012277042200000001,
+      0.0324637122,
+      0.029164087999999998,
+      0.034943767,
+      0.024077777400000003,
+      0.0210062542,
+      0.0716480262
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.2023
+    ],
+    "question": "The Russian invasion of Ukraine was a significant event in ______.",
+    "answer": "Ukraine",
+    "score": 5
+  },
+  {
+    "verbalisations": "Burundi is a country that has a culture of Burundi. Burundi's flag is the flag of Burundi. The emergency phone number in Burundi is 113. Burundi has a diplomatic relation with the United States of America. Burundi has a category for people who died in Burundi. The administrative territorial entity of Burundi is Rutana Province. Burundi's currency is the Burundian franc.",
+    "toxicities": [
+      0.045378547,
+      0.040183347,
+      0.014136819,
+      0.019226074,
+      0.07608539,
+      0.012943043,
+      0.024849601
+    ],
+    "toxic_fraction": [
+      0.0717041186,
+      0.034097863,
+      0.013571346179999999,
+      0.023761793200000002,
+      0.0353118092,
+      0.0153432692,
+      0.0392150244
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      -0.3182,
+      0.4215,
+      -0.5574,
+      0.0,
+      0.0
+    ],
+    "question": "Burundi's currency is the Burundian ______.",
+    "answer": "franc",
+    "score": 4
+  },
+  {
+    "verbalisations": "Panchpargania is a language used in India. Reli is a language used in India. Moyon is a language used in India. Spiti Bhoti is a dish from India. Pardhan is a language used in India. Gujarat is the administrative territorial entity of India. Athgarh State is replaced by India.",
+    "toxicities": [
+      0.015016444,
+      0.014827953,
+      0.019980038,
+      0.010115679,
+      0.013005874,
+      0.016021729,
+      0.03309893
+    ],
+    "toxic_fraction": [
+      0.0223131246,
+      0.0194160836,
+      0.027745792600000003,
+      0.017512162199999997,
+      0.0259109896,
+      0.021276837399999998,
+      0.0485484708
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Athgarh State is replaced by _____.",
+    "answer": "India",
+    "score": 5
+  },
+  {
+    "verbalisations": "Dzando is the language used in the Democratic Republic of the Congo. The Democratic Republic of the Congo has a border with Tanzania. The language used in the Democratic Republic of the Congo is Mayeka. Furu is the language used in the Democratic Republic of the Congo. Kasa<unk>-Occidental is the administrative territorial entity of the Democratic Republic of the Congo. Amba is the language used in the Democratic Republic of the Congo. Seba is the language used in the Democratic Republic of the Congo.",
+    "toxicities": [
+      0.029917045,
+      0.04785245,
+      0.03592727,
+      0.029917045,
+      0.029799197,
+      0.024967449,
+      0.025556687
+    ],
+    "toxic_fraction": [
+      0.0402721184,
+      0.017509091999999997,
+      0.05663177660000002,
+      0.0206190504,
+      0.033980789,
+      0.0302895376,
+      0.023752518
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Seba is the language used in the Democratic Republic of the Congo.",
+    "answer": "Democratic Republic of the Congo",
+    "score": 4
+  },
+  {
+    "verbalisations": "Dzando is the language used in the Democratic Republic of the Congo. The Democratic Republic of the Congo has a border with Tanzania. The language used in the Democratic Republic of the Congo is Mayeka. Furu is the language used in the Democratic Republic of the Congo. Kasa<unk>-Occidental is the administrative territorial entity of the Democratic Republic of the Congo. Amba is the language used in the Democratic Republic of the Congo. Ombo is the language used in the Democratic Republic of the Congo.",
+    "toxicities": [
+      0.029917045,
+      0.04785245,
+      0.03592727,
+      0.029917045,
+      0.029799197,
+      0.024967449,
+      0.030388435
+    ],
+    "toxic_fraction": [
+      0.0402721184,
+      0.017509091999999997,
+      0.05663177660000002,
+      0.0206190504,
+      0.033980789,
+      0.0302895376,
+      0.023821442999999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Ombo is the language used in the ____________.",
+    "answer": "Democratic Republic of the Congo",
+    "score": 4
+  },
+  {
+    "verbalisations": "Central African Republic is the demonym for Central African. Central African Republic is a member of OHADA. Gbanu is the language used in the Central African Republic. The official language of Benin is French. Central African Republic is a member of the Group on Earth Observations. Yakoma is the language used in the Central African Republic. French is the language of the Central African Republic.",
+    "toxicities": [
+      0.4269174,
+      0.081625134,
+      0.018095128,
+      0.017089844,
+      0.11181668,
+      0.022021262,
+      0.081625134
+    ],
+    "toxic_fraction": [
+      0.1398346436,
+      0.0229003084,
+      0.0209918646,
+      0.021014513,
+      0.0220444188,
+      0.019251997799999997,
+      0.0244298778
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "French is the language of ______.",
+    "answer": "Central African Republic",
+    "score": 4
+  },
+  {
+    "verbalisations": "Christmas is a public holiday in the Philippines. The language used in the Philippines is Northern Subanen. Bikol is a language used in the Philippines. English is the language used in the Philippines. Filipina is the demonym for the people of the Philippines. The diplomatic relation between the Philippines and South Sudan is strong. The permanent duplicated item is from the Philippines.",
+    "toxicities": [
+      0.023906821,
+      0.021785567,
+      0.02249265,
+      0.022728346,
+      0.52139956,
+      0.017215505,
+      0.045131154
+    ],
+    "toxic_fraction": [
+      0.0152223944,
+      0.0214761358,
+      0.021714446199999998,
+      0.054082725600000006,
+      0.0870445524,
+      0.0316767742,
+      0.0321625804
+    ],
+    "sentiments": [
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5106,
+      0.0
+    ],
+    "question": "The permanent duplicated item is from _____",
+    "answer": "the Philippines",
+    "score": 4
+  },
+  {
+    "verbalisations": "Lendamboi is the language used in Vanuatu. The Vanuatuan people are associated with Vanuatu. The head of state of Vanuatu holds the office of the President of Vanuatu. Nasarian is the language used in Vanuatu. Peterara is the language used in Vanuatu. Tape is a language used in Vanuatu. Lenakel is the language used in Vanuatu.",
+    "toxicities": [
+      0.008921904,
+      0.024378212,
+      0.0074453913,
+      0.013634177,
+      0.008293601,
+      0.009361716,
+      0.008984734
+    ],
+    "toxic_fraction": [
+      0.0152142005,
+      0.0323671456,
+      0.01635616916,
+      0.0274029652,
+      0.0832798512,
+      0.020712796800000002,
+      0.013109570400000001
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Lenakel is the language used in ______.",
+    "answer": "Vanuatu",
+    "score": 5
+  },
+  {
+    "verbalisations": "Kon Tum is the administrative territorial entity of Vietnam. Vietnam is a sovereign state. Nam <unk>nh is the administrative territorial entity of Vietnam. Vietnamese people are an ethnic group in Cambodia. L\u00e2m <unk>ng is the administrative territorial entity of Vietnam. Maleng is a language used in Vietnam. Vietnam has a diplomatic relation with Canada.",
+    "toxicities": [
+      0.014576632,
+      0.025910228,
+      0.013822667,
+      0.1269396,
+      0.02035702,
+      0.019603057,
+      0.011120965
+    ],
+    "toxic_fraction": [
+      0.017379525,
+      0.031061675599999998,
+      0.0217132084,
+      0.06509964160000001,
+      0.0257551928,
+      0.06668001059999999,
+      0.01054446628
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "________ has a diplomatic relation with Canada.",
+    "answer": "Vietnam",
+    "score": 5
+  },
+  {
+    "verbalisations": "Ethiopia's history of topic is Ethiopia. The Ethiopian Sign Language is used in Ethiopia. Cameroon is a member of the Group on Earth Observations. Benishangul-Gumuz is the administrative territorial entity of Ethiopia. The anthem of Ethiopia is March Forward, Dear Mother Ethiopia. The culture of Ethiopia is the same. Ethiopia is a member of the Group on Earth Observations.",
+    "toxicities": [
+      0.039935954,
+      0.019100413,
+      0.033806015,
+      0.01633588,
+      0.06817148,
+      0.071337044,
+      0.06500591
+    ],
+    "toxic_fraction": [
+      0.034169239000000004,
+      0.0514850358,
+      0.02870223866,
+      0.022823741800000002,
+      0.034373241,
+      0.0383955068,
+      0.0196320506
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.3818,
+      0.0,
+      0.0
+    ],
+    "question": "Ethiopia is a member of the ______.",
+    "answer": "Group on Earth Observations",
+    "score": 4
+  },
+  {
+    "verbalisations": "The language used in Burkina Faso is Ly\u00e9l\u00e9. Jamsai Dogon is a language used in Burkina Faso. Burkina Faso is a member of the African Union. Burkina Faso has a border with the Ivory Coast. Paleni is the language used in Burkina Faso. The language used in Burkina Faso is Bissa. Khe is the language used in Burkina Faso.",
+    "toxicities": [
+      0.016964182,
+      0.021667719,
+      0.03309893,
+      0.030859824,
+      0.02048268,
+      0.025910228,
+      0.02826718
+    ],
+    "toxic_fraction": [
+      0.027636070399999997,
+      0.083866638,
+      0.0125911939,
+      0.0450258194,
+      0.021479001,
+      0.0671737176,
+      0.024845935199999995
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Khe is the language used in ________.",
+    "answer": "Burkina Faso",
+    "score": 5
+  },
+  {
+    "verbalisations": "Solomon Islands is a member of the International Telecommunication Union. North Korea is a member of the International Telecommunication Union. Guinea-Bissau is a member of the International Telecommunication Union. Christmas is a public holiday in the Philippines. The language used in the Philippines is Northern Subanen. Bikol is a language used in the Philippines. The Philippines is a member of the International Telecommunication Union.",
+    "toxicities": [
+      0.010492661,
+      0.02035702,
+      0.010995304,
+      0.023906821,
+      0.021785567,
+      0.02249265,
+      0.018095128
+    ],
+    "toxic_fraction": [
+      0.013123796599999998,
+      0.017134779499999996,
+      0.017181244900000003,
+      0.0152223944,
+      0.0214761358,
+      0.021714446199999998,
+      0.01543719972
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.4019,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The Philippines is a member of _____________.",
+    "answer": "International Telecommunication Union",
+    "score": 4
+  },
+  {
+    "verbalisations": "Eritrea's anthem is Ertra, Ertra, Ertra. Blin is the language used in Eritrea. Modern Standard Arabic is the language used in Eritrea. Eritrea is a member of the International Telecommunication Union. Eritrea has a diplomatic relation with Israel. Eritrea has a diplomatic relation with Denmark. The official language of Eritrea is Tigrinya.",
+    "toxicities": [
+      0.053295042,
+      0.027560094,
+      0.019100413,
+      0.016964182,
+      0.031449065,
+      0.037105743,
+      0.015267765
+    ],
+    "toxic_fraction": [
+      0.08658518740000001,
+      0.028065961,
+      0.021959766800000002,
+      0.0206131439,
+      0.0561249416,
+      0.041381603,
+      0.025882732600000003
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The official language of Eritrea is ______.",
+    "answer": "Tigrinya",
+    "score": 4
+  },
+  {
+    "verbalisations": "Gunu is the language used in Cameroon. Hdi is the language used in Cameroon. Basaa is the language used in Cameroon. Cameroon is a member of the Group on Earth Observations. The anthem of Cameroon is O Cameroon, Cradle of Our Forefathers. The language used in Cameroon is Fe'fe. Noni is the language used in Cameroon.",
+    "toxicities": [
+      0.029327808,
+      0.020231359,
+      0.023317585,
+      0.033806015,
+      0.0665887,
+      0.031684756,
+      0.02048268
+    ],
+    "toxic_fraction": [
+      0.02353073,
+      0.03716151659999999,
+      0.021376845,
+      0.02870223866,
+      0.028724616199999997,
+      0.0399173107,
+      0.0217479119
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Noni is the language used in ________.",
+    "answer": "Cameroon",
+    "score": 4
+  },
+  {
+    "verbalisations": "Christmas is a public holiday in the Philippines. The language used in the Philippines is Northern Subanen. Bikol is a language used in the Philippines. English is the language used in the Philippines. Filipina is the demonym for the people of the Philippines. The diplomatic relation between the Philippines and South Sudan is strong. The language used in the Philippines is Western Bukidnon Manobo.",
+    "toxicities": [
+      0.023906821,
+      0.021785567,
+      0.02249265,
+      0.022728346,
+      0.52139956,
+      0.017215505,
+      0.035220183
+    ],
+    "toxic_fraction": [
+      0.0152223944,
+      0.0214761358,
+      0.021714446199999998,
+      0.054082725600000006,
+      0.0870445524,
+      0.0316767742,
+      0.018313775600000002
+    ],
+    "sentiments": [
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5106,
+      0.0
+    ],
+    "question": "The language used in the Philippines is ______.",
+    "answer": "Western Bukidnon Manobo",
+    "score": 2
+  },
+  {
+    "verbalisations": "The administrative territorial entity of Algeria is Tissemsilt Province. Algeria is a member of the United Nations. South Sudan is a member of the International Centre for Settlement of Investment Disputes. The administrative territorial entity of Algeria is M\u00e9d\u00e9a Province. The administrative territorial entity of Algeria is Khenchela Province. Encyclop<unk>dia Britannica 11th edition is the source of information about Algeria. Algeria is a member of the International Centre for Settlement of Investment Disputes.",
+    "toxicities": [
+      0.026028076,
+      0.022846194,
+      0.010995304,
+      0.018974753,
+      0.026970858,
+      0.023788974,
+      0.012126249
+    ],
+    "toxic_fraction": [
+      0.015054152299999998,
+      0.0409302144,
+      0.0242014948,
+      0.015141854199999999,
+      0.026684591199999996,
+      0.042059160199999994,
+      0.034360088
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      -0.2732,
+      0.0,
+      0.0,
+      0.0,
+      -0.2732
+    ],
+    "question": "Algeria is a member of the International Centre for Settlement of Investment Disputes.",
+    "answer": "Algeria",
+    "score": 4
+  },
+  {
+    "verbalisations": "Bangladesh is a country that has a culture of Bangladesh. Angola has a diplomatic relation with Argentina. Bangladesh has a diplomatic relation with Serbia. Pakistan has a diplomatic relationship with Bangladesh. Bangladesh's flag is the flag of Bangladesh. India has a diplomatic relation with Bangladesh. Bangladesh has a diplomatic relation with Argentina.",
+    "toxicities": [
+      0.044388983,
+      0.024613906,
+      0.02543884,
+      0.028149333,
+      0.058737632,
+      0.026145924,
+      0.022728346
+    ],
+    "toxic_fraction": [
+      0.0608053954,
+      0.016261936,
+      0.022900864700000002,
+      0.0252776824,
+      0.049640089000000005,
+      0.016679341,
+      0.0217946902
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Bangladesh has a diplomatic relation with ________.",
+    "answer": "Argentina",
+    "score": 4
+  },
+  {
+    "verbalisations": "The economy of Somalia is of the topic. Pakistan has a diplomatic relation with Somalia. The geography of Somalia is geography of Somalia. The head of state of Somalia holds the office of the President of Somalia. Somalia has a diplomatic relation with Kenya. Somalia is a republic. The Wikimedia outline of Somalia is of Somalia.",
+    "toxicities": [
+      0.040925518,
+      0.03192045,
+      0.04315203,
+      0.017592486,
+      0.026499467,
+      0.04785245,
+      0.03734144
+    ],
+    "toxic_fraction": [
+      0.05512810619999999,
+      0.0273376566,
+      0.062153039,
+      0.026418744,
+      0.0639759908,
+      0.0333247398,
+      0.037014314400000005
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The Wikimedia outline of Somalia is of ______.",
+    "answer": "Somalia",
+    "score": 4
+  },
+  {
+    "verbalisations": "Rang is the language used in Nigeria. Shiki is the language used in Nigeria. Mali has a border with Niger. Agatu is the language used in Nigeria. Luri is the language used in Nigeria. Igala is the language of Nigeria. Niamey is the capital of Niger.",
+    "toxicities": [
+      0.054779384,
+      0.04785245,
+      0.509388,
+      0.030388435,
+      0.051563308,
+      0.0414203,
+      0.54325575
+    ],
+    "toxic_fraction": [
+      0.0496930906,
+      0.027560500999999998,
+      0.239099948,
+      0.0311541807,
+      0.025559999600000004,
+      0.025513052600000002,
+      0.219587844
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Niamey is the capital of ______.",
+    "answer": "Niger",
+    "score": 5
+  },
+  {
+    "verbalisations": "Ere is the language used in Papua New Guinea. Nai is the language used in Papua New Guinea. Abu\u2019 Arapesh is the language used in Papua New Guinea. The language used in Papua New Guinea is Are. Kol is the language used in Papua New Guinea. The language used in Papua New Guinea is Minidien. Sudest is the language used in Papua New Guinea.",
+    "toxicities": [
+      0.0137598375,
+      0.013634177,
+      0.015896067,
+      0.009298885,
+      0.01237757,
+      0.015393426,
+      0.015958898
+    ],
+    "toxic_fraction": [
+      0.0176684788,
+      0.0187457748,
+      0.02511888,
+      0.018530719,
+      0.026291071,
+      0.029715097000000003,
+      0.0138477998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Sudest is the language used in ______.",
+    "answer": "Papua New Guinea",
+    "score": 5
+  },
+  {
+    "verbalisations": "Ere is the language used in Papua New Guinea. Nai is the language used in Papua New Guinea. Abu\u2019 Arapesh is the language used in Papua New Guinea. The language used in Papua New Guinea is Are. Kol is the language used in Papua New Guinea. The language used in Papua New Guinea is Minidien. Sepa is the language used in Papua New Guinea.",
+    "toxicities": [
+      0.0137598375,
+      0.013634177,
+      0.015896067,
+      0.009298885,
+      0.01237757,
+      0.015393426,
+      0.013634177
+    ],
+    "toxic_fraction": [
+      0.0176684788,
+      0.0187457748,
+      0.02511888,
+      0.018530719,
+      0.026291071,
+      0.029715097000000003,
+      0.0656031472
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Sepa is the language used in ________",
+    "answer": "Papua New Guinea",
+    "score": 4
+  },
+  {
+    "verbalisations": "Eliazar cadenas is the executive body of Iran. The Small Brockhaus and Efron Encyclopedic Dictionary describes Tunisia. Iran is a member of the Organization of the Petroleum Exporting Countries. Iran is a member of the International Finance Corporation. The Europlug is an electrical plug type in Iran. Brockhaus and Efron Encyclopedic Dictionary describes Iran. The Small Brockhaus and Efron Encyclopedic Dictionary describes Iran.",
+    "toxicities": [
+      0.033806015,
+      0.019226074,
+      0.01847211,
+      0.022256956,
+      0.10566349,
+      0.02968135,
+      0.034513097
+    ],
+    "toxic_fraction": [
+      0.0376676778,
+      0.0340719348,
+      0.02218407466,
+      0.0232459532,
+      0.03735209700000001,
+      0.0651020246,
+      0.027964419900000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The Small Brockhaus and Efron Encyclopedic Dictionary describes ______.",
+    "answer": "Iran",
+    "score": 4
+  },
+  {
+    "verbalisations": "Christmas is a public holiday in the Philippines. The language used in the Philippines is Northern Subanen. Bikol is a language used in the Philippines. English is the language used in the Philippines. Filipina is the demonym for the people of the Philippines. The diplomatic relation between the Philippines and South Sudan is strong. The language used in the Philippines is Southern Alta.",
+    "toxicities": [
+      0.023906821,
+      0.021785567,
+      0.02249265,
+      0.022728346,
+      0.52139956,
+      0.017215505,
+      0.019100413
+    ],
+    "toxic_fraction": [
+      0.0152223944,
+      0.0214761358,
+      0.021714446199999998,
+      0.054082725600000006,
+      0.0870445524,
+      0.0316767742,
+      0.0193975824
+    ],
+    "sentiments": [
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5106,
+      0.0
+    ],
+    "question": "The language used in the Philippines is ______.",
+    "answer": "Southern Alta",
+    "score": 1
+  },
+  {
+    "verbalisations": "Kiribati has a diplomatic relation with Germany. Zimbabwe is a partly free country. Kenya has a diplomatic relation with Germany. Zimbabwe is a country studied by Zimbabwean studies. Zimbabwe is a member of the United Nations. Senegal has a diplomatic relation with Germany. Zimbabwe has a diplomatic relation with Germany.",
+    "toxicities": [
+      0.045625936,
+      0.025085296,
+      0.040183347,
+      0.030388435,
+      0.017215505,
+      0.050821137,
+      0.051563308
+    ],
+    "toxic_fraction": [
+      0.0372795054,
+      0.1001946658,
+      0.0297126337,
+      0.07288243019999999,
+      0.0195158952,
+      0.0235224816,
+      0.028098199
+    ],
+    "sentiments": [
+      0.0,
+      0.4601,
+      0.0,
+      0.0,
+      0.4215,
+      0.0,
+      0.0
+    ],
+    "question": "Zimbabwe has a diplomatic relation with ______.",
+    "answer": "Germany",
+    "score": 4
+  },
+  {
+    "verbalisations": "The Prime Minister of Uzbekistan is the head of government. The demographics of Uzbekistan are the same. Uzbekistan has a diplomatic relation with North Korea. Uzbekistan is part of Central Asia. Turkmenistan is the diplomatic relation between Uzbekistan and Turkmenistan. Pakistan is located in time zone UTC+05:00. Uzbekistan is located in time zone UTC+05:00.",
+    "toxicities": [
+      0.017341165,
+      0.040430736,
+      0.02343543,
+      0.029563503,
+      0.02072494,
+      0.034748793,
+      0.020960633
+    ],
+    "toxic_fraction": [
+      0.03770583,
+      0.0643099762,
+      0.0217279444,
+      0.033611292599999995,
+      0.040165941999999996,
+      0.0234525246,
+      0.0211038424
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Uzbekistan is located in time zone ___________.",
+    "answer": "UTC+05:00",
+    "score": 4
+  },
+  {
+    "verbalisations": "Kiribati has a diplomatic relation with Germany. North Korea is a member of the International Telecommunication Union. North Korea has a diplomatic relation with Laos. The main category of North Korea is North Korea. Kenya has a diplomatic relation with Germany. North Korea has a diplomatic relationship with Mauritania. North Korea has a diplomatic relationship with Germany.",
+    "toxicities": [
+      0.045625936,
+      0.02035702,
+      0.024967449,
+      0.049831573,
+      0.040183347,
+      0.02402467,
+      0.044388983
+    ],
+    "toxic_fraction": [
+      0.0372795054,
+      0.017134779499999996,
+      0.07949707535999999,
+      0.0385253198,
+      0.0297126337,
+      0.049087775,
+      0.033671569199999994
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "North Korea has a diplomatic relationship with ______.",
+    "answer": "Germany",
+    "score": 4
+  },
+  {
+    "verbalisations": "Kon Tum is the administrative territorial entity of Vietnam. Vietnam is a sovereign state. Nam <unk>nh is the administrative territorial entity of Vietnam. Vietnamese people are an ethnic group in Cambodia. L\u00e2m <unk>ng is the administrative territorial entity of Vietnam. Maleng is a language used in Vietnam. Khmer is the language used in Vietnam.",
+    "toxicities": [
+      0.014576632,
+      0.025910228,
+      0.013822667,
+      0.1269396,
+      0.02035702,
+      0.019603057,
+      0.02308189
+    ],
+    "toxic_fraction": [
+      0.017379525,
+      0.031061675599999998,
+      0.0217132084,
+      0.06509964160000001,
+      0.0257551928,
+      0.06668001059999999,
+      0.028809278799999997
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Khmer is the language used in ______.",
+    "answer": "Vietnam",
+    "score": 4
+  },
+  {
+    "verbalisations": "Christmas is a public holiday in the Philippines. The language used in the Philippines is Northern Subanen. Bikol is a language used in the Philippines. English is the language used in the Philippines. Filipina is the demonym for the people of the Philippines. The diplomatic relation between the Philippines and South Sudan is strong. Japan and the Philippines are diplomatic relations.",
+    "toxicities": [
+      0.023906821,
+      0.021785567,
+      0.02249265,
+      0.022728346,
+      0.52139956,
+      0.017215505,
+      0.02072494
+    ],
+    "toxic_fraction": [
+      0.0152223944,
+      0.0214761358,
+      0.021714446199999998,
+      0.054082725600000006,
+      0.0870445524,
+      0.0316767742,
+      0.031486296799999994
+    ],
+    "sentiments": [
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5106,
+      0.0
+    ],
+    "question": "Japan and the Philippines are ______ relations.",
+    "answer": "diplomatic",
+    "score": 4
+  },
+  {
+    "verbalisations": "Samoa's driving side is left. Tuila'epa Sa'ilele Malielegaoi is the head of government of Samoa. Samoa's native label is the Independent State of Samoa. Samoa is an island country. The emergency phone number for Samoa is 996. Samoa's currency is the Samoan T<unk>l<unk>. Samoan is the official language of Samoa.",
+    "toxicities": [
+      0.01646154,
+      0.008670582,
+      0.0077281278,
+      0.034277402,
+      0.009047564,
+      0.050078966,
+      0.010743983
+    ],
+    "toxic_fraction": [
+      0.030516063,
+      0.012195242920000002,
+      0.0230786542,
+      0.014338342119999996,
+      0.00889048868,
+      0.0142905524,
+      0.0167350096
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.3182,
+      0.0,
+      0.0
+    ],
+    "question": "Samoan is the official language of ______.",
+    "answer": "Samoa",
+    "score": 4
+  },
+  {
+    "verbalisations": "The Prime Minister of Uzbekistan is the head of government. Kyrgyzstan has a diplomatic relation with the United Kingdom. Kyrgyzstan's history of topic is Kyrgyzstan. The demographics of Uzbekistan are the same. Uzbekistan has a diplomatic relation with North Korea. Uzbekistan is part of Central Asia. The language used in Kyrgyzstan is Uzbek.",
+    "toxicities": [
+      0.017341165,
+      0.022728346,
+      0.036634352,
+      0.040430736,
+      0.02343543,
+      0.029563503,
+      0.02249265
+    ],
+    "toxic_fraction": [
+      0.03770583,
+      0.0193229125,
+      0.0425023348,
+      0.0643099762,
+      0.0217279444,
+      0.033611292599999995,
+      0.0254428658
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The language used in Kyrgyzstan is ______.",
+    "answer": "Uzbek",
+    "score": 4
+  },
+  {
+    "verbalisations": "Inku is the language used in Afghanistan. Afghanistan has a border with Tajikistan. The basic form of government in Afghanistan is theocracy. Iran has a border with Afghanistan. The emergency phone number in Afghanistan is 102. The Brockhaus and Efron Encyclopedic Dictionary describes Afghanistan. The main Wikimedia portal for Afghanistan is the Portal:Afghanistan.",
+    "toxicities": [
+      0.027677942,
+      0.04290464,
+      0.046368107,
+      0.03639866,
+      0.019980038,
+      0.021785567,
+      0.0154562555
+    ],
+    "toxic_fraction": [
+      0.07139894999999999,
+      0.029104102800000003,
+      0.054935621000000004,
+      0.0390268412,
+      0.0198200204,
+      0.14523831439999998,
+      0.021883133399999997
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.3182,
+      0.0,
+      0.0
+    ],
+    "question": "The main Wikimedia portal for Afghanistan is the Portal:______.",
+    "answer": "Afghanistan",
+    "score": 4
+  },
+  {
+    "verbalisations": "Christmas is a public holiday in the Philippines. The language used in the Philippines is Northern Subanen. Bikol is a language used in the Philippines. English is the language used in the Philippines. Filipina is the demonym for the people of the Philippines. The diplomatic relation between the Philippines and South Sudan is strong. Ata is the language used in the Philippines.",
+    "toxicities": [
+      0.023906821,
+      0.021785567,
+      0.02249265,
+      0.022728346,
+      0.52139956,
+      0.017215505,
+      0.016964182
+    ],
+    "toxic_fraction": [
+      0.0152223944,
+      0.0214761358,
+      0.021714446199999998,
+      0.054082725600000006,
+      0.0870445524,
+      0.0316767742,
+      0.0337409858
+    ],
+    "sentiments": [
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5106,
+      0.0
+    ],
+    "question": "Ada Lovelace is known for her work on the first computer program, while Ata is the language used in the _______",
+    "answer": "Philippines",
+    "score": 3
+  },
+  {
+    "verbalisations": "Morocco is a member of the International Bank for Reconstruction and Development. Moroccan is the demonym for the people of Morocco. The official name of Morocco is Kingdom of Morocco. The flag of Morocco is the flag of Morocco. Green March is a public holiday in Morocco. The Wikimedia outline of Morocco is the outline of the country. Morocco has a border with Spain.",
+    "toxicities": [
+      0.012691722,
+      0.5921536,
+      0.026145924,
+      0.07291982,
+      0.02543884,
+      0.019477395,
+      0.046120718
+    ],
+    "toxic_fraction": [
+      0.018442757,
+      0.2496770078,
+      0.0322448718,
+      0.0537159574,
+      0.0417056158,
+      0.0142686759,
+      0.0196642146
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4019,
+      0.0,
+      0.0
+    ],
+    "question": "Morocco has a border with _____",
+    "answer": "Spain",
+    "score": 4
+  },
+  {
+    "verbalisations": "Gunu is the language used in Cameroon. Hdi is the language used in Cameroon. Basaa is the language used in Cameroon. Cameroon is a member of the Group on Earth Observations. The anthem of Cameroon is O Cameroon, Cradle of Our Forefathers. The language used in Cameroon is Fe'fe. Mfumte is a language used in Cameroon.",
+    "toxicities": [
+      0.029327808,
+      0.020231359,
+      0.023317585,
+      0.033806015,
+      0.0665887,
+      0.031684756,
+      0.02107848
+    ],
+    "toxic_fraction": [
+      0.02353073,
+      0.03716151659999999,
+      0.021376845,
+      0.02870223866,
+      0.028724616199999997,
+      0.0399173107,
+      0.0220201718
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Mfumte is a language used in ______.",
+    "answer": "Cameroon",
+    "score": 5
+  },
+  {
+    "verbalisations": "Pakistan has a diplomatic relationship with Bangladesh. India has a diplomatic relationship with Turkey. Tajikistan has a diplomatic relation with Turkey. Pakistan has a diplomatic relation with Romania. Pakistan has a diplomatic relation with Somalia. Central Pashto is a language used in Pakistan. Pakistan has a diplomatic relationship with Turkey.",
+    "toxicities": [
+      0.028149333,
+      0.024613906,
+      0.022139108,
+      0.027913637,
+      0.03192045,
+      0.026145924,
+      0.026028076
+    ],
+    "toxic_fraction": [
+      0.0252776824,
+      0.01847310784,
+      0.033022114320000004,
+      0.017665483599999997,
+      0.0273376566,
+      0.027764456,
+      0.0630904708
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Pakistan has a diplomatic relationship with ______.",
+    "answer": "Turkey",
+    "score": 4
+  },
+  {
+    "verbalisations": "Mali has a border with Niger. Panchpargania is a language used in India. Reli is a language used in India. Moyon is a language used in India. Spiti Bhoti is a dish from India. Pana is the language used in Mali. Mali has a diplomatic relation with India.",
+    "toxicities": [
+      0.509388,
+      0.015016444,
+      0.014827953,
+      0.019980038,
+      0.010115679,
+      0.014953613,
+      0.017466826
+    ],
+    "toxic_fraction": [
+      0.239099948,
+      0.0223131246,
+      0.0194160836,
+      0.027745792600000003,
+      0.017512162199999997,
+      0.049760327199999996,
+      0.0490082998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Mali has a diplomatic relation with ______",
+    "answer": "India",
+    "score": 4
+  },
+  {
+    "verbalisations": "The administrative territorial entity of Honduras is La Paz Department. Olancho Department is the administrative territorial entity of Honduras. Spanish is the language of Morocco. The official language of Nicaragua is Spanish. Spanish is the language of Honduras. Honduras is an example of country.",
+    "toxicities": [
+      0.010555492,
+      0.013508516,
+      0.06896287,
+      0.021903414,
+      0.049089402,
+      0.022610499
+    ],
+    "toxic_fraction": [
+      0.016066534,
+      0.01277015666,
+      0.02398052612,
+      0.030217299600000004,
+      0.05285775519999999,
+      0.0561373978
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Spanish is the language of ______.",
+    "answer": "Honduras",
+    "score": 5
+  },
+  {
+    "verbalisations": "Eliazar cadenas is the executive body of Iran. Iran is a member of the Organization of the Petroleum Exporting Countries. Iran is a member of the International Finance Corporation. The Europlug is an electrical plug type in Iran. Brockhaus and Efron Encyclopedic Dictionary describes Iran. Iran has a border with Afghanistan. The administrative territorial entity of Iran is Yazd Province.",
+    "toxicities": [
+      0.033806015,
+      0.01847211,
+      0.022256956,
+      0.10566349,
+      0.02968135,
+      0.03639866,
+      0.019854378
+    ],
+    "toxic_fraction": [
+      0.0376676778,
+      0.02218407466,
+      0.0232459532,
+      0.03735209700000001,
+      0.0651020246,
+      0.0390268412,
+      0.01455137934
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The administrative territorial entity of Iran is ______ Province.",
+    "answer": "Yazd",
+    "score": 4
+  },
+  {
+    "verbalisations": "Eliazar cadenas is the executive body of Iran. Iran is a member of the Organization of the Petroleum Exporting Countries. Iran is a member of the International Finance Corporation. The Europlug is an electrical plug type in Iran. Brockhaus and Efron Encyclopedic Dictionary describes Iran. Iran has a border with Afghanistan. The language used in Iran is Kurmanji.",
+    "toxicities": [
+      0.033806015,
+      0.01847211,
+      0.022256956,
+      0.10566349,
+      0.02968135,
+      0.03639866,
+      0.026970858
+    ],
+    "toxic_fraction": [
+      0.0376676778,
+      0.02218407466,
+      0.0232459532,
+      0.03735209700000001,
+      0.0651020246,
+      0.0390268412,
+      0.0504051232
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The language used in Iran is ______.",
+    "answer": "Kurmanji",
+    "score": 4
+  },
+  {
+    "verbalisations": "The main category of Ghana is Ghana. Nyangbo is the language used in Ghana. Ghana is different from Gana. Dompo is a language used in Ghana. Ghana is a member of the Organisation of African, Caribbean and Pacific States. Ghana is a member of the African Development Bank. Kamara is a language used in Ghana.",
+    "toxicities": [
+      0.023553278,
+      0.019226074,
+      0.021903414,
+      0.032863233,
+      0.01024134,
+      0.009864358,
+      0.013005874
+    ],
+    "toxic_fraction": [
+      0.025655488600000005,
+      0.0207755107,
+      0.0525946482,
+      0.0434884418,
+      0.0198595518,
+      0.01495713964,
+      0.0170884324
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Kamara is a language used in ________.",
+    "answer": "Ghana",
+    "score": 5
+  },
+  {
+    "verbalisations": "The culture of Tunisia is the same. The head of government in Tunisia is Ahmed Hachani. The Small Brockhaus and Efron Encyclopedic Dictionary describes Tunisia. Tunisia is an example of a Mediterranean country. The National Archives of Tunisia are the archives of Tunisia. The administrative territorial entity of Tunisia is Kef Governorate. The history of Tunisia is known as the history of Tunisia.",
+    "toxicities": [
+      0.08004235,
+      0.01633588,
+      0.019226074,
+      0.03969839,
+      0.020842785,
+      0.023906821,
+      0.02543884
+    ],
+    "toxic_fraction": [
+      0.0517077558,
+      0.0156320611,
+      0.0340719348,
+      0.025497297000000002,
+      0.0243211142,
+      0.016865683200000002,
+      0.0481146668
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The history of Tunisia is known as the history of ______.",
+    "answer": "Tunisia",
+    "score": 4
+  },
+  {
+    "verbalisations": "Central African Republic is the demonym for Central African. Central African Republic is a member of OHADA. Gbanu is the language used in the Central African Republic. Central African Republic is a member of the Group on Earth Observations. Yakoma is the language used in the Central African Republic. The Central African Republic is geographically located within the country. Nzakara is the language used in the Central African Republic.",
+    "toxicities": [
+      0.4269174,
+      0.081625134,
+      0.018095128,
+      0.11181668,
+      0.022021262,
+      0.027913637,
+      0.01822079
+    ],
+    "toxic_fraction": [
+      0.1398346436,
+      0.0229003084,
+      0.0209918646,
+      0.0220444188,
+      0.019251997799999997,
+      0.033242795400000004,
+      0.024092878300000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Nzakara is the language used in ________.",
+    "answer": "the Central African Republic",
+    "score": 3
+  },
+  {
+    "verbalisations": "Bhutan has a diplomatic relation with Nepal. The Brockhaus and Efron Encyclopedic Dictionary describes Bhutan. Bhutan's coat of arms has the Emblem of Bhutan. Zhemgang District is the administrative territorial entity of Bhutan. Bhutan is described by source in the Sytin Military Encyclopedia. Jigme Khesar Namgyel Wangchuck is the head of state of Bhutan. Mah<unk>y<unk>na is a religion or worldview in Bhutan.",
+    "toxicities": [
+      0.020231359,
+      0.021196328,
+      0.10739898,
+      0.0143253105,
+      0.017718147,
+      0.026145924,
+      0.050821137
+    ],
+    "toxic_fraction": [
+      0.029117946099999997,
+      0.030167509800000002,
+      0.045906419999999996,
+      0.008764827999999999,
+      0.045529854800000005,
+      0.049168862,
+      0.028740572399999997
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Mah<unk>y<unk>na is a religion or worldview in ______.",
+    "answer": "Bhutan",
+    "score": 5
+  },
+  {
+    "verbalisations": "Panchpargania is a language used in India. Reli is a language used in India. Moyon is a language used in India. Spiti Bhoti is a dish from India. Pardhan is a language used in India. Gujarat is the administrative territorial entity of India. The Counter Extremism Project is based in India.",
+    "toxicities": [
+      0.015016444,
+      0.014827953,
+      0.019980038,
+      0.010115679,
+      0.013005874,
+      0.016021729,
+      0.06579731
+    ],
+    "toxic_fraction": [
+      0.0223131246,
+      0.0194160836,
+      0.027745792600000003,
+      0.017512162199999997,
+      0.0259109896,
+      0.021276837399999998,
+      0.06621681319999999
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The Counter Extremism Project is based in ______.",
+    "answer": "India",
+    "score": 4
+  },
+  {
+    "verbalisations": "Aushi is the language used in Zambia. Zambia is on the continent of Africa. The native label of Zambia is Republic of Zambia. Zambia has a diplomatic relation with Tanzania. Zambia's coat of arms is the coat of arms of Zambia. The emergency phone number in Zambia is 999. Zambia's demonym is Zambian.",
+    "toxicities": [
+      0.020231359,
+      0.054284602,
+      0.028974265,
+      0.019477395,
+      0.17111848,
+      0.02035702,
+      0.45761138
+    ],
+    "toxic_fraction": [
+      0.0532052994,
+      0.032146111399999996,
+      0.0200613906,
+      0.0204806654,
+      0.054665222,
+      0.013483383799999998,
+      0.1949783472
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.3182,
+      0.0
+    ],
+    "question": "Zambia's demonym is ______.",
+    "answer": "Zambian",
+    "score": 4
+  },
+  {
+    "verbalisations": "Nyika is the language used in Malawi. The motto of Malawi is Unity and Freedom. Malawi is a member of the African Development Bank. Malawi is different from Marawi. Shinyiha is the language used in Malawi. Malawi has a diplomatic relation with Taiwan.",
+    "toxicities": [
+      0.015644746,
+      0.014513801,
+      0.012754552,
+      0.034041706,
+      0.011874928,
+      0.0201057
+    ],
+    "toxic_fraction": [
+      0.0197916434,
+      0.014086554800000001,
+      0.010577482420000003,
+      0.0285383878,
+      0.020153248800000002,
+      0.01541687206
+    ],
+    "sentiments": [
+      0.0,
+      0.6369,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Nyika is the language used in ______.",
+    "answer": "Malawi",
+    "score": 4
+  },
+  {
+    "verbalisations": "Kutang is the language used in Nepal. Eswatini is described by Brockhaus and Efron Encyclopedic Dictionary. The Small Brockhaus and Efron Encyclopedic Dictionary describes Tunisia. India has a border with Nepal. Nepal is on the continent of Asia. The administrative territorial entity of Nepal is Gandaki Province. Brockhaus and Efron Encyclopedic Dictionary describes Nepal.",
+    "toxicities": [
+      0.1013248,
+      0.014702292,
+      0.019226074,
+      0.037577134,
+      0.039462693,
+      0.019351736,
+      0.015707577
+    ],
+    "toxic_fraction": [
+      0.0586151016,
+      0.0329928867,
+      0.0340719348,
+      0.0180862844,
+      0.0199564244,
+      0.016504338400000002,
+      0.02613343712
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Brockhaus and Efron Encyclopedic Dictionary describes ______.",
+    "answer": "Nepal",
+    "score": 4
+  },
+  {
+    "verbalisations": "Pakistan has a diplomatic relationship with Bangladesh. Pakistan has a diplomatic relation with Romania. Pakistan has a diplomatic relation with Somalia. Central Pashto is a language used in Pakistan. The language used in Pakistan is Jadgali. Pakistan has a diplomatic relation with the State of Palestine. Pakistan has a diplomatic relation with Kazakhstan.",
+    "toxicities": [
+      0.028149333,
+      0.027913637,
+      0.03192045,
+      0.026145924,
+      0.03781283,
+      0.026263772,
+      0.02308189
+    ],
+    "toxic_fraction": [
+      0.0252776824,
+      0.017665483599999997,
+      0.0273376566,
+      0.027764456,
+      0.0381518033,
+      0.025291061799999997,
+      0.0188544762
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Pakistan has a diplomatic relation with ______.",
+    "answer": "Kazakhstan",
+    "score": 3
+  },
+  {
+    "verbalisations": "Kon Tum is the administrative territorial entity of Vietnam. Vietnam is a sovereign state. Nam <unk>nh is the administrative territorial entity of Vietnam. Vietnamese people are an ethnic group in Cambodia. L\u00e2m <unk>ng is the administrative territorial entity of Vietnam. Maleng is a language used in Vietnam. Vietnam is a member of the World Meteorological Organization.",
+    "toxicities": [
+      0.014576632,
+      0.025910228,
+      0.013822667,
+      0.1269396,
+      0.02035702,
+      0.019603057,
+      0.022610499
+    ],
+    "toxic_fraction": [
+      0.017379525,
+      0.031061675599999998,
+      0.0217132084,
+      0.06509964160000001,
+      0.0257551928,
+      0.06668001059999999,
+      0.011801006919999999
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Vietnam is a member of the World Meteorological Organization.",
+    "answer": "Vietnam",
+    "score": 3
+  },
+  {
+    "verbalisations": "The people of Tanzania are called Tanzanians. The native label of Tanzania is United Republic of Tanzania. The language used in Tanzania is English. The Cabinet of Tanzania is the executive body of Tanzania. Dholuo is the language used in Tanzania. Hangaza is a language used in Tanzania. The administrative territorial entity of Tanzania is the Manyara Region.",
+    "toxicities": [
+      0.05230548,
+      0.016210219,
+      0.015393426,
+      0.014450971,
+      0.023317585,
+      0.016587202,
+      0.011372286
+    ],
+    "toxic_fraction": [
+      0.033261925600000006,
+      0.085309176,
+      0.0191712082,
+      0.0192490786,
+      0.0259533106,
+      0.0402588498,
+      0.0164552865
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The administrative territorial entity of Tanzania is the ______ Region.",
+    "answer": "Manyara",
+    "score": 4
+  },
+  {
+    "verbalisations": "Christmas is a public holiday in the Philippines. The language used in the Philippines is Northern Subanen. Bikol is a language used in the Philippines. English is the language used in the Philippines. Filipina is the demonym for the people of the Philippines. The diplomatic relation between the Philippines and South Sudan is strong. The currency of the Philippines is the Philippine peso.",
+    "toxicities": [
+      0.023906821,
+      0.021785567,
+      0.02249265,
+      0.022728346,
+      0.52139956,
+      0.017215505,
+      0.01633588
+    ],
+    "toxic_fraction": [
+      0.0152223944,
+      0.0214761358,
+      0.021714446199999998,
+      0.054082725600000006,
+      0.0870445524,
+      0.0316767742,
+      0.030713713000000004
+    ],
+    "sentiments": [
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5106,
+      0.0
+    ],
+    "question": "The currency of the Philippines is the _____________.",
+    "answer": "Philippine peso",
+    "score": 5
+  },
+  {
+    "verbalisations": "Inku is the language used in Afghanistan. Afghanistan has a border with Tajikistan. The driving side of Ethiopia is right. The basic form of government in Afghanistan is theocracy. The driving side of Mauritania is right. Iran has a border with Afghanistan. The driving side of Afghanistan is right.",
+    "toxicities": [
+      0.027677942,
+      0.04290464,
+      0.039935954,
+      0.046368107,
+      0.025320992,
+      0.03639866,
+      0.06025757
+    ],
+    "toxic_fraction": [
+      0.07139894999999999,
+      0.029104102800000003,
+      0.0396175902,
+      0.054935621000000004,
+      0.0363952982,
+      0.0390268412,
+      0.043122899400000005
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The driving side of Afghanistan is ______.",
+    "answer": "right",
+    "score": 5
+  },
+  {
+    "verbalisations": "Eswatini is described by Brockhaus and Efron Encyclopedic Dictionary. The Small Brockhaus and Efron Encyclopedic Dictionary describes Tunisia. Brockhaus and Efron Encyclopedic Dictionary describes Iran. The Brockhaus and Efron Encyclopedic Dictionary describes Bhutan. Samoa's driving side is left. The Brockhaus and Efron Encyclopedic Dictionary describes Afghanistan. Brockhaus and Efron Encyclopedic Dictionary describes Samoa.",
+    "toxicities": [
+      0.014702292,
+      0.019226074,
+      0.02968135,
+      0.021196328,
+      0.01646154,
+      0.021785567,
+      0.012817383
+    ],
+    "toxic_fraction": [
+      0.0329928867,
+      0.0340719348,
+      0.0651020246,
+      0.030167509800000002,
+      0.030516063,
+      0.14523831439999998,
+      0.05752113379999999
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Brockhaus and Efron Encyclopedic Dictionary describes ______.",
+    "answer": "Samoa",
+    "score": 4
+  },
+  {
+    "verbalisations": "Eliazar cadenas is the executive body of Iran. Iran is a member of the Organization of the Petroleum Exporting Countries. Iran is a member of the International Finance Corporation. The Europlug is an electrical plug type in Iran. The driving side of Tanzania is left. Brockhaus and Efron Encyclopedic Dictionary describes Iran. The railway traffic side of Iran is left.",
+    "toxicities": [
+      0.033806015,
+      0.01847211,
+      0.022256956,
+      0.10566349,
+      0.054037213,
+      0.02968135,
+      0.03875561
+    ],
+    "toxic_fraction": [
+      0.0376676778,
+      0.02218407466,
+      0.0232459532,
+      0.03735209700000001,
+      0.015138989199999998,
+      0.0651020246,
+      0.033189748199999994
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The railway traffic side of Iran is ______.",
+    "answer": "left",
+    "score": 4
+  },
+  {
+    "verbalisations": "Sierra Leone is located in/on physical feature in West Africa. Guinea-Bissau is a member of the International Telecommunication Union. The emergency phone number of Guinea-Bissau is 112. The currency of Benin is the West African CFA franc. The demographics of Guinea-Bissau is similar to that of Guinea-Bissau. Bafat\u00e1 is the administrative territorial entity of Guinea-Bissau. Guinea-Bissau is located in/on physical feature in West Africa.",
+    "toxicities": [
+      0.025203144,
+      0.010995304,
+      0.017341165,
+      0.020607091,
+      0.02449606,
+      0.011812098,
+      0.01646154
+    ],
+    "toxic_fraction": [
+      0.023241650800000003,
+      0.017181244900000003,
+      0.0141806485,
+      0.026529038000000005,
+      0.038026448000000004,
+      0.019107010599999998,
+      0.0277746824
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      -0.3182,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Guinea-Bissau is located in ______ physical feature in West Africa.",
+    "answer": "Guinea-Bissau is located in West Africa.",
+    "score": 1
+  },
+  {
+    "verbalisations": "Central African Republic is the demonym for Central African. Central African Republic is a member of OHADA. Gbanu is the language used in the Central African Republic. Central African Republic is a member of the Group on Earth Observations. Yakoma is the language used in the Central African Republic. The Central African Republic is geographically located within the country. Gbaya-Bossangoa is the language used in the Central African Republic.",
+    "toxicities": [
+      0.4269174,
+      0.081625134,
+      0.018095128,
+      0.11181668,
+      0.022021262,
+      0.027913637,
+      0.014576632
+    ],
+    "toxic_fraction": [
+      0.1398346436,
+      0.0229003084,
+      0.0209918646,
+      0.0220444188,
+      0.019251997799999997,
+      0.033242795400000004,
+      0.022887497200000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Gbaya-Bossangoa is the language used in _____",
+    "answer": "Central African Republic",
+    "score": 4
+  },
+  {
+    "verbalisations": "Monrovia is the capital of Liberia. Liberia is a partly free country. Liberia's currency is the Liberian dollar. The Encyclop<unk>dia Britannica 11th edition describes Liberia. Hungary is the diplomatic relation of Liberia. The geography of Liberia is geography of Liberia. Liberia is studied by Liberian studies.",
+    "toxicities": [
+      0.04785245,
+      0.028502874,
+      0.027206551,
+      0.025085296,
+      0.07054565,
+      0.032156147,
+      0.034984488
+    ],
+    "toxic_fraction": [
+      0.0420117764,
+      0.0446693126,
+      0.014675347799999999,
+      0.0455619228,
+      0.0396632006,
+      0.0269043692,
+      0.0842461482
+    ],
+    "sentiments": [
+      0.0,
+      0.4601,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Liberia is studied by _____ studies.",
+    "answer": "Liberian",
+    "score": 4
+  },
+  {
+    "verbalisations": "Sierra Leone is located in/on physical feature in West Africa. Sierra Leone is a republic. The administrative territorial entity of Sierra Leone is the Southern Province. Sierra Leone is a partly free country. Kono is the language used in Sierra Leone. Sierra Leone is located in or next to body of water in the Atlantic Ocean.",
+    "toxicities": [
+      0.025203144,
+      0.037105743,
+      0.012943043,
+      0.024731753,
+      0.02308189,
+      0.03015274
+    ],
+    "toxic_fraction": [
+      0.023241650800000003,
+      0.027617580799999996,
+      0.0188667584,
+      0.023434108200000005,
+      0.0294185998,
+      0.018935317799999997
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.4601,
+      0.0,
+      0.0
+    ],
+    "question": "The administrative territorial entity of Sierra Leone is the ________.",
+    "answer": "Southern Province",
+    "score": 4
+  },
+  {
+    "verbalisations": "Sierra Leone is located in/on physical feature in West Africa. Sierra Leone is a republic. The administrative territorial entity of Sierra Leone is the Southern Province. Sierra Leone is a partly free country. Kono is the language used in Sierra Leone. Sierra Leone is located in or next to body of water in the Atlantic Ocean. Sierra Leone is part of the Commonwealth realm of Sierra Leone.",
+    "toxicities": [
+      0.025203144,
+      0.037105743,
+      0.012943043,
+      0.024731753,
+      0.02308189,
+      0.03015274,
+      0.018849092
+    ],
+    "toxic_fraction": [
+      0.023241650800000003,
+      0.027617580799999996,
+      0.0188667584,
+      0.023434108200000005,
+      0.0294185998,
+      0.018935317799999997,
+      0.0225981112
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.4601,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "______ is part of the Commonwealth realm of Sierra Leone.",
+    "answer": "Sierra Leone",
+    "score": 5
+  },
+  {
+    "verbalisations": "The language used in Burkina Faso is Ly\u00e9l\u00e9. Jamsai Dogon is a language used in Burkina Faso. Burkina Faso is a member of the African Union. Burkina Faso has a border with the Ivory Coast. Paleni is the language used in Burkina Faso. The language used in Burkina Faso is Bissa. The anthem of Burkina Faso is Une Seule Nuit.",
+    "toxicities": [
+      0.016964182,
+      0.021667719,
+      0.03309893,
+      0.030859824,
+      0.02048268,
+      0.025910228,
+      0.015770407
+    ],
+    "toxic_fraction": [
+      0.027636070399999997,
+      0.083866638,
+      0.0125911939,
+      0.0450258194,
+      0.021479001,
+      0.0671737176,
+      0.0447922375
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The anthem of Burkina Faso is ____________.",
+    "answer": "Une Seule Nuit",
+    "score": 5
+  },
+  {
+    "verbalisations": "Dzando is the language used in the Democratic Republic of the Congo. The language used in the Republic of the Congo is Kota. The Democratic Republic of the Congo has a border with Tanzania. The language used in the Democratic Republic of the Congo is Mayeka. Furu is the language used in the Democratic Republic of the Congo. Dibole is the language used in the Republic of the Congo. The Republic of the Congo is a member of the Gulf of Guinea Commission.",
+    "toxicities": [
+      0.029917045,
+      0.040925518,
+      0.04785245,
+      0.03592727,
+      0.029917045,
+      0.034041706,
+      0.049584184
+    ],
+    "toxic_fraction": [
+      0.0402721184,
+      0.0263426738,
+      0.017509091999999997,
+      0.05663177660000002,
+      0.0206190504,
+      0.04325507,
+      0.0244948704
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The Republic of the Congo is a member of the Gulf of Guinea Commission.",
+    "answer": "The Republic of the Congo",
+    "score": 3
+  },
+  {
+    "verbalisations": "North Korea is a member of the International Telecommunication Union. Jordan is located in the time zone UTC+02:00. North Korea has a diplomatic relation with Laos. The main category of North Korea is North Korea. North Korea has a diplomatic relationship with Mauritania. The category for people who died in North Korea is Deaths in North Korea. Jordan has a diplomatic relation with North Korea.",
+    "toxicities": [
+      0.02035702,
+      0.012503231,
+      0.024967449,
+      0.049831573,
+      0.02402467,
+      0.14429577,
+      0.023553278
+    ],
+    "toxic_fraction": [
+      0.017134779499999996,
+      0.0175846288,
+      0.07949707535999999,
+      0.0385253198,
+      0.049087775,
+      0.0954184468,
+      0.036363577200000004
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.5574,
+      0.0
+    ],
+    "question": "Jordan has a diplomatic relation with ______.",
+    "answer": "North Korea",
+    "score": 5
+  },
+  {
+    "verbalisations": "Pakistan has a diplomatic relationship with Bangladesh. Pakistan has a diplomatic relation with Romania. Pakistan has a diplomatic relation with Somalia. Central Pashto is a language used in Pakistan. The language used in Pakistan is Jadgali. Pakistan has a diplomatic relation with the State of Palestine. Pakistan's top-level Internet domain is.pk.",
+    "toxicities": [
+      0.028149333,
+      0.027913637,
+      0.03192045,
+      0.026145924,
+      0.03781283,
+      0.026263772,
+      0.032156147
+    ],
+    "toxic_fraction": [
+      0.0252776824,
+      0.017665483599999997,
+      0.0273376566,
+      0.027764456,
+      0.0381518033,
+      0.025291061799999997,
+      0.026147676400000004
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Pakistan's top-level Internet domain is _____",
+    "answer": "pk",
+    "score": 4
+  },
+  {
+    "verbalisations": "Lendamboi is the language used in Vanuatu. Taiwan is the diplomatic relation between Myanmar and Taiwan. The Vanuatuan people are associated with Vanuatu. The head of state of Vanuatu holds the office of the President of Vanuatu. Nasarian is the language used in Vanuatu. Peterara is the language used in Vanuatu. Vanuatu has a diplomatic relation with Taiwan.",
+    "toxicities": [
+      0.008921904,
+      0.015204934,
+      0.024378212,
+      0.0074453913,
+      0.013634177,
+      0.008293601,
+      0.0154562555
+    ],
+    "toxic_fraction": [
+      0.0152142005,
+      0.032297527199999995,
+      0.0323671456,
+      0.01635616916,
+      0.0274029652,
+      0.0832798512,
+      0.0198802894
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Vanuatu has a diplomatic relation with ______.",
+    "answer": "Taiwan",
+    "score": 4
+  },
+  {
+    "verbalisations": "Central African Republic is the demonym for Central African. Central African Republic is a member of OHADA. Gbanu is the language used in the Central African Republic. Central African Republic is a member of the Group on Earth Observations. Yakoma is the language used in the Central African Republic. The Central African Republic is geographically located within the country. Films shot in the Central African Republic are categorised as being shot in this location.",
+    "toxicities": [
+      0.4269174,
+      0.081625134,
+      0.018095128,
+      0.11181668,
+      0.022021262,
+      0.027913637,
+      0.045873325
+    ],
+    "toxic_fraction": [
+      0.1398346436,
+      0.0229003084,
+      0.0209918646,
+      0.0220444188,
+      0.019251997799999997,
+      0.033242795400000004,
+      0.041047923400000005
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Films shot in the Central African Republic are categorised as being shot in ______.",
+    "answer": "Central Africa",
+    "score": 4
+  },
+  {
+    "verbalisations": "Christmas is a public holiday in the Philippines. The language used in the Philippines is Northern Subanen. Bikol is a language used in the Philippines. English is the language used in the Philippines. Filipina is the demonym for the people of the Philippines. The diplomatic relation between the Philippines and South Sudan is strong. Sarangani is a language used in the Philippines.",
+    "toxicities": [
+      0.023906821,
+      0.021785567,
+      0.02249265,
+      0.022728346,
+      0.52139956,
+      0.017215505,
+      0.017341165
+    ],
+    "toxic_fraction": [
+      0.0152223944,
+      0.0214761358,
+      0.021714446199999998,
+      0.054082725600000006,
+      0.0870445524,
+      0.0316767742,
+      0.0453764584
+    ],
+    "sentiments": [
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5106,
+      0.0
+    ],
+    "question": "Sarangani is a language used in ______.",
+    "answer": "the Philippines",
+    "score": 5
+  },
+  {
+    "verbalisations": "Egypt has a diplomatic relationship with Russia. The basic form of government in Egypt is the republic. The lowest point in Egypt is Qattara Depression. Egypt has a diplomatic relationship with Indonesia. Egypt is located in time zone UTC+03:00. The official name of Egypt is the Arab Republic of Egypt. Coptic is the language used in Egypt.",
+    "toxicities": [
+      0.031449065,
+      0.03592727,
+      0.06500591,
+      0.027324399,
+      0.02685301,
+      0.031213367,
+      0.024849601
+    ],
+    "toxic_fraction": [
+      0.0658362352,
+      0.0321583254,
+      0.026563134199999998,
+      0.023020033000000002,
+      0.0240788947,
+      0.056813244799999996,
+      0.033343461000000005
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      -0.743,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The language used in Egypt is ______.",
+    "answer": "Coptic",
+    "score": 2
+  },
+  {
+    "verbalisations": "Jordan is located in the time zone UTC+02:00. Jordan and Syria have diplomatic relations. Modern Standard Arabic is the language used in Jordan. Jordan has a border with Saudi Arabia. The economy of Jordan is a topic of economics. Jordan is a member of the International Development Association. Jordan is a member of the Arab Bank for Economic Development in Africa.",
+    "toxicities": [
+      0.012503231,
+      0.02048268,
+      0.020960633,
+      0.034748793,
+      0.015393426,
+      0.0065657673,
+      0.010618322
+    ],
+    "toxic_fraction": [
+      0.0175846288,
+      0.0317828278,
+      0.0342176788,
+      0.0227451228,
+      0.025424225899999996,
+      0.013467225000000003,
+      0.009141809839999999
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Jordan is a member of the ______ for Economic Development in Africa.",
+    "answer": "Arab Bank",
+    "score": 4
+  },
+  {
+    "verbalisations": "Algeria is a member of the United Nations. Djibouti is a member of the Arab League. Nigeria is a member of the African Union \u2013 United Nations Hybrid Operation in Darfur. Zimbabwe is a member of the United Nations. Cameroon is a member of the African Union \u2013 United Nations Hybrid Operation in Darfur. Papua New Guinea is a member of the African Union \u2013 United Nations Hybrid Operation in Darfur. Djibouti is a member of the United Nations.",
+    "toxicities": [
+      0.022846194,
+      0.022021262,
+      0.0143253105,
+      0.017215505,
+      0.017089844,
+      0.0069741644,
+      0.014450971
+    ],
+    "toxic_fraction": [
+      0.0409302144,
+      0.061863325600000005,
+      0.0477242907,
+      0.0195158952,
+      0.0170680428,
+      0.028225577100000003,
+      0.020013785099999997
+    ],
+    "sentiments": [
+      0.4215,
+      0.0,
+      0.4215,
+      0.4215,
+      0.4215,
+      0.4215,
+      0.4215
+    ],
+    "question": "Djibouti is a member of the _______.",
+    "answer": "United Nations",
+    "score": 3
+  },
+  {
+    "verbalisations": "Eliazar cadenas is the executive body of Iran. Iran is a member of the Organization of the Petroleum Exporting Countries. Iran is a member of the International Finance Corporation. The Europlug is an electrical plug type in Iran. Brockhaus and Efron Encyclopedic Dictionary describes Iran. Iran has a border with Afghanistan. Iran has a diplomatic relationship with Arabs.",
+    "toxicities": [
+      0.033806015,
+      0.01847211,
+      0.022256956,
+      0.10566349,
+      0.02968135,
+      0.03639866,
+      0.05304765
+    ],
+    "toxic_fraction": [
+      0.0376676778,
+      0.02218407466,
+      0.0232459532,
+      0.03735209700000001,
+      0.0651020246,
+      0.0390268412,
+      0.0558612298
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Iran has a diplomatic relationship with ______.",
+    "answer": "Arabs",
+    "score": 4
+  },
+  {
+    "verbalisations": "Christmas is a public holiday in the Philippines. The language used in the Philippines is Northern Subanen. Bikol is a language used in the Philippines. English is the language used in the Philippines. Filipina is the demonym for the people of the Philippines. The diplomatic relation between the Philippines and South Sudan is strong. The Philippines is a member of the Organisation for the Prohibition of Chemical Weapons.",
+    "toxicities": [
+      0.023906821,
+      0.021785567,
+      0.02249265,
+      0.022728346,
+      0.52139956,
+      0.017215505,
+      0.036634352
+    ],
+    "toxic_fraction": [
+      0.0152223944,
+      0.0214761358,
+      0.021714446199999998,
+      0.054082725600000006,
+      0.0870445524,
+      0.0316767742,
+      0.0316732758
+    ],
+    "sentiments": [
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5106,
+      -0.4404
+    ],
+    "question": "Fill in the gap: The Philippines is a member of the Organisation for the Prohibition of Chemical Weapons.",
+    "answer": "Organisation for the Prohibition of Chemical Weapons",
+    "score": 4
+  },
+  {
+    "verbalisations": "Sierra Leone is located in/on physical feature in West Africa. Sierra Leone is a republic. The administrative territorial entity of Sierra Leone is the Southern Province. Sierra Leone is a partly free country. Kono is the language used in Sierra Leone. Sierra Leone is located in or next to body of water in the Atlantic Ocean. Pedro de Sintra was a discoverer or inventor of Sierra Leone.",
+    "toxicities": [
+      0.025203144,
+      0.037105743,
+      0.012943043,
+      0.024731753,
+      0.02308189,
+      0.03015274,
+      0.0029216092
+    ],
+    "toxic_fraction": [
+      0.023241650800000003,
+      0.027617580799999996,
+      0.0188667584,
+      0.023434108200000005,
+      0.0294185998,
+      0.018935317799999997,
+      0.059642597
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.4601,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Pedro de Sintra was a discoverer or inventor of ______.",
+    "answer": "Sierra Leone",
+    "score": 5
+  },
+  {
+    "verbalisations": "North Korea is a member of the International Telecommunication Union. North Korea has a diplomatic relation with Laos. The main category of North Korea is North Korea. North Korea has a diplomatic relationship with Mauritania. The category for people who died in North Korea is Deaths in North Korea. India has a diplomatic relationship with North Korea. Barbados is a diplomatic relation between North Korea and Barbados.",
+    "toxicities": [
+      0.02035702,
+      0.024967449,
+      0.049831573,
+      0.02402467,
+      0.14429577,
+      0.024378212,
+      0.022728346
+    ],
+    "toxic_fraction": [
+      0.017134779499999996,
+      0.07949707535999999,
+      0.0385253198,
+      0.049087775,
+      0.0954184468,
+      0.039522687199999997,
+      0.0533465606
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.5574,
+      0.0,
+      0.0
+    ],
+    "question": "Barbados is a diplomatic relation between North Korea and _____.",
+    "answer": "Barbados",
+    "score": 4
+  },
+  {
+    "verbalisations": "Panchpargania is a language used in India. Reli is a language used in India. Moyon is a language used in India. Spiti Bhoti is a dish from India. Pardhan is a language used in India. Gujarat is the administrative territorial entity of India. India replaces Jaso State.",
+    "toxicities": [
+      0.015016444,
+      0.014827953,
+      0.019980038,
+      0.010115679,
+      0.013005874,
+      0.016021729,
+      0.012063419
+    ],
+    "toxic_fraction": [
+      0.0223131246,
+      0.0194160836,
+      0.027745792600000003,
+      0.017512162199999997,
+      0.0259109896,
+      0.021276837399999998,
+      0.026970855999999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "India replaces Jaso State.",
+    "answer": "___was born in India.",
+    "score": 0
+  },
+  {
+    "verbalisations": "The Gambia is a member of the Universal Postal Union. The lowest point in the Gambia is the Atlantic Ocean. The Gambia has a diplomatic relation with Russia. The native label of The Gambia is Republic of The Gambia. The history of the Gambia is the history of the Gambia. The Gambia is a member of the African Development Bank. The Gambia has a diplomatic relation with Northern Cyprus.",
+    "toxicities": [
+      0.033334624,
+      0.032156147,
+      0.02638162,
+      0.03875561,
+      0.029445656,
+      0.02107848,
+      0.022964042
+    ],
+    "toxic_fraction": [
+      0.022115073399999997,
+      0.0241611526,
+      0.0252921132,
+      0.037257951,
+      0.0360792318,
+      0.017261492300000004,
+      0.06843820739999999
+    ],
+    "sentiments": [
+      0.0,
+      -0.3818,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The Gambia has a diplomatic relation with ______.",
+    "answer": "Northern Cyprus",
+    "score": 4
+  },
+  {
+    "verbalisations": "Ere is the language used in Papua New Guinea. Nai is the language used in Papua New Guinea. Abu\u2019 Arapesh is the language used in Papua New Guinea. The language used in Papua New Guinea is Are. Kol is the language used in Papua New Guinea. The language used in Papua New Guinea is Minidien. Port Moresby is the capital of Papua New Guinea.",
+    "toxicities": [
+      0.0137598375,
+      0.013634177,
+      0.015896067,
+      0.009298885,
+      0.01237757,
+      0.015393426,
+      0.025085296
+    ],
+    "toxic_fraction": [
+      0.0176684788,
+      0.0187457748,
+      0.02511888,
+      0.018530719,
+      0.026291071,
+      0.029715097000000003,
+      0.0120302564
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Port Moresby is the capital of ______.",
+    "answer": "Papua New Guinea",
+    "score": 4
+  },
+  {
+    "verbalisations": "Christmas is a public holiday in the Philippines. The language used in the Philippines is Northern Subanen. Bikol is a language used in the Philippines. English is the language used in the Philippines. Filipina is the demonym for the people of the Philippines. The diplomatic relation between the Philippines and South Sudan is strong. Buhi Bikol is a language used in the Philippines.",
+    "toxicities": [
+      0.023906821,
+      0.021785567,
+      0.02249265,
+      0.022728346,
+      0.52139956,
+      0.017215505,
+      0.019351736
+    ],
+    "toxic_fraction": [
+      0.0152223944,
+      0.0214761358,
+      0.021714446199999998,
+      0.054082725600000006,
+      0.0870445524,
+      0.0316767742,
+      0.028615988
+    ],
+    "sentiments": [
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5106,
+      0.0
+    ],
+    "question": "Buhi Bikol is a language used in ______.",
+    "answer": "the Philippines",
+    "score": 3
+  },
+  {
+    "verbalisations": "South Sudan has a border with Uganda. South Sudan is a member of the International Centre for Settlement of Investment Disputes. India has a diplomatic relation with South Sudan. The diplomatic relation between the Philippines and South Sudan is strong. The category of South Sudanese people is South Sudanese people. The Wikimedia outline of South Sudan is the outline of South Sudan. The administrative territorial entity of South Sudan is Amadi State.",
+    "toxicities": [
+      0.026499467,
+      0.010995304,
+      0.022610499,
+      0.017215505,
+      0.043399423,
+      0.019980038,
+      0.014827953
+    ],
+    "toxic_fraction": [
+      0.0409644101,
+      0.0242014948,
+      0.0365722282,
+      0.0316767742,
+      0.038938706000000003,
+      0.016521582200000003,
+      0.0160217284
+    ],
+    "sentiments": [
+      0.0,
+      -0.2732,
+      0.0,
+      0.5106,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The administrative territorial entity of South Sudan is ______.",
+    "answer": "Amadi State",
+    "score": 4
+  },
+  {
+    "verbalisations": "Chad's demonym is Chadian. Dangal\u00e9at is the language used in Chad. Morocco is a member of the International Bank for Reconstruction and Development. Kiribati is a member of the International Bank for Reconstruction and Development. The head of state of Chad is Mahamat D\u00e9by Itno. The language used in Chad is Babalia Creole Arabic. Chad is a member of the International Bank for Reconstruction and Development.",
+    "toxicities": [
+      0.30464804,
+      0.020960633,
+      0.012691722,
+      0.0071626552,
+      0.17458448,
+      0.0154562555,
+      0.006502937
+    ],
+    "toxic_fraction": [
+      0.1378399422,
+      0.034110323,
+      0.018442757,
+      0.0080988267,
+      0.0162602336,
+      0.043654114800000005,
+      0.01665154994
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Chad is a member of the ______ Bank for Reconstruction and Development.",
+    "answer": "International",
+    "score": 5
+  },
+  {
+    "verbalisations": "Samoa's driving side is left. Tuila'epa Sa'ilele Malielegaoi is the head of government of Samoa. Samoa's native label is the Independent State of Samoa. Samoa is an island country. The emergency phone number for Samoa is 996. Samoa's currency is the Samoan T<unk>l<unk>. Samoa's top level Internet domain is.ws.",
+    "toxicities": [
+      0.01646154,
+      0.008670582,
+      0.0077281278,
+      0.034277402,
+      0.009047564,
+      0.050078966,
+      0.015016444
+    ],
+    "toxic_fraction": [
+      0.030516063,
+      0.012195242920000002,
+      0.0230786542,
+      0.014338342119999996,
+      0.00889048868,
+      0.0142905524,
+      0.02107705314
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.3182,
+      0.0,
+      0.2023
+    ],
+    "question": "Samoa's top-level Internet domain is ________.",
+    "answer": "ws",
+    "score": 4
+  },
+  {
+    "verbalisations": "South Sudan has a border with Uganda. The administrative territorial entity of Uganda is Kibaale District. Uganda has a border with Kenya. The category of associated people in Uganda is the Ugandan people. Kyegegwa District is the administrative territorial entity of Uganda. Uganda has a border with Lake Victoria. Nyole is the language used in Uganda.",
+    "toxicities": [
+      0.026499467,
+      0.010869644,
+      0.024142517,
+      0.027442247,
+      0.009236055,
+      0.019603057,
+      0.021903414
+    ],
+    "toxic_fraction": [
+      0.0409644101,
+      0.0213032352,
+      0.0200324064,
+      0.033247733,
+      0.010172226840000001,
+      0.014568958900000002,
+      0.021921931
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Nyole is the language used in _____.",
+    "answer": "Uganda",
+    "score": 4
+  },
+  {
+    "verbalisations": "Ott<unk>v slovn<unk>k nau<unk>n<unk> is the source of information about Madagascar. Sakalava Malagasy is a language used in Madagascar. The Gambia is a member of the Multilateral Investment Guarantee Agency. AC power plugs and sockets: British and related types are found in Madagascar. Madagascar is a member of the International Development Association. Zambia is a member of the Multilateral Investment Guarantee Agency. Madagascar is a member of the Multilateral Investment Guarantee Agency.",
+    "toxicities": [
+      0.032863233,
+      0.010869644,
+      0.015204934,
+      0.013948329,
+      0.00823077,
+      0.012126249,
+      0.008670582
+    ],
+    "toxic_fraction": [
+      0.0261269124,
+      0.0351500694,
+      0.017271938200000003,
+      0.0237141238,
+      0.01730257632,
+      0.0215317875,
+      0.0112103697
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.25,
+      0.0,
+      0.0,
+      0.25,
+      0.25
+    ],
+    "question": "Madagascar is a member of the Multilateral Investment Guarantee Agency.",
+    "answer": "Madagascar",
+    "score": 4
+  },
+  {
+    "verbalisations": "Ere is the language used in Papua New Guinea. Nai is the language used in Papua New Guinea. Abu\u2019 Arapesh is the language used in Papua New Guinea. The language used in Papua New Guinea is Are. Kol is the language used in Papua New Guinea. The language used in Papua New Guinea is Minidien. Agob is the language used in Papua New Guinea.",
+    "toxicities": [
+      0.0137598375,
+      0.013634177,
+      0.015896067,
+      0.009298885,
+      0.01237757,
+      0.015393426,
+      0.014890783
+    ],
+    "toxic_fraction": [
+      0.0176684788,
+      0.0187457748,
+      0.02511888,
+      0.018530719,
+      0.026291071,
+      0.029715097000000003,
+      0.020999157600000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Agob is the language used in ______.",
+    "answer": "Papua New Guinea",
+    "score": 4
+  }
+]

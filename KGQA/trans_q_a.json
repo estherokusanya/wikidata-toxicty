@@ -1,0 +1,6416 @@
+[
+  {
+    "verbalisations": "Meg John Barker is a psychotherapist. Michelle O'Brien was educated at Hunter College. Michelle O'Brien's given name is Michelle. Michelle O'Brien's employer is Gallatin School of Individualized Study. Michelle O'Brien is a teacher. Michelle O'Brien is an example of a human. Michelle O'Brien is a psychotherapist.",
+    "toxicities": [
+      0.104795754,
+      0.018974753,
+      0.015581916,
+      0.019980038,
+      0.016964182,
+      0.024613906,
+      0.112953395
+    ],
+    "toxic_fraction": [
+      0.0500579628,
+      0.016072752000000003,
+      0.0379647965,
+      0.014743809020000002,
+      0.0204247678,
+      0.034195189800000005,
+      0.0274549608
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Michelle O'Brien works as a _______.",
+    "answer": "psychotherapist",
+    "score": 5
+  },
+  {
+    "verbalisations": "Tamy Glauser is a member of the Green Party of Switzerland. Diana Green is a sex or gender trans woman. Ellia Green is a member of the family Green. Ellia Green is a member of the Australian women's national rugby union team (sevens). Ellia Green was born in Suva. Diana Green is a teacher.",
+    "toxicities": [
+      0.018974753,
+      0.1641865,
+      0.013382856,
+      0.00402114,
+      0.0103670005,
+      0.016712861
+    ],
+    "toxic_fraction": [
+      0.0239256121,
+      0.1076284064,
+      0.0645952294,
+      0.03174674,
+      0.026870777899999997,
+      0.020366272560000002
+    ],
+    "sentiments": [
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Ellia Green is a member of the family ______.",
+    "answer": "Green",
+    "score": 4
+  },
+  {
+    "verbalisations": "Olive Gray is a member of the Gray family. Tylan Grant is an example of a human. Carrie Grant is the mother of Olive Gray. Tylan Grant is a television actor. Olive Gray is different from Olivia Grant. Tylan Grant was born in London. Olive Gray's sibling is Tylan Grant.",
+    "toxicities": [
+      0.022256956,
+      0.020231359,
+      0.023553278,
+      0.019351736,
+      0.021196328,
+      0.015267765,
+      0.011309455
+    ],
+    "toxic_fraction": [
+      0.024383120600000002,
+      0.0725148006,
+      0.0187743626,
+      0.0186866006,
+      0.022723195600000003,
+      0.04252395230000001,
+      0.013888731400000002
+    ],
+    "sentiments": [
+      0.0,
+      0.3612,
+      0.3612,
+      0.3612,
+      0.3612,
+      0.3612,
+      0.3612
+    ],
+    "question": "Olive Gray's sibling is ______.",
+    "answer": "Tylan Grant",
+    "score": 4
+  },
+  {
+    "verbalisations": "Elia Bonci was born in Velletri. Elia Bonci is a trans man. Elia Bonci writes in Italian. Elia Bonci is an example of a human. Elia Bonci speaks, writes or signs Italian. Elia Bonci's given name is Elia.",
+    "toxicities": [
+      0.009047564,
+      0.15545623,
+      0.009110395,
+      0.02072494,
+      0.008105109,
+      0.0103670005
+    ],
+    "toxic_fraction": [
+      0.0213835208,
+      0.0620124552,
+      0.0235820812,
+      0.0216226312,
+      0.015416908080000003,
+      0.033084894499999996
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Elia Bonci's given name is ______.",
+    "answer": "Elia",
+    "score": 5
+  },
+  {
+    "verbalisations": "Micah Bazant's sex or gender is non-binary. Siibii is a songwriter. Peter Basma-Lord's sex or gender is non-binary. The Paperboy Prince has a gender that is non-binary. Sasha Alexander's sex or gender is non-binary. Marin Miller's sex or gender is non-binary. Siibii is non-binary in sex or gender.",
+    "toxicities": [
+      0.2396185,
+      0.025320992,
+      0.23415339,
+      0.11192002,
+      0.2540519,
+      0.24603334,
+      0.18364124
+    ],
+    "toxic_fraction": [
+      0.0334125444,
+      0.0212640099,
+      0.0540585054,
+      0.039650378400000005,
+      0.10242316260000002,
+      0.05949927819999999,
+      0.0861618296
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Siibii is ______ in sex or gender.",
+    "answer": "non-binary",
+    "score": 4
+  },
+  {
+    "verbalisations": "Courtney Stodden is an example of a human. JN Hoad is an instance of a human. Robert Madge is an example of a human being. Manjamma Jogathi is an instance of human. Bea Knecht is an example of a human. Thea Doyle is an example of a human. Smith is an example of a human being.",
+    "toxicities": [
+      0.019854378,
+      0.031684756,
+      0.020231359,
+      0.013257195,
+      0.020231359,
+      0.019728716,
+      0.020842785
+    ],
+    "toxic_fraction": [
+      0.079344881,
+      0.0355830706,
+      0.0718660974,
+      0.031222348599999998,
+      0.0229976454,
+      0.13128145379999998,
+      0.0308604086
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Smith is an example of a _______.",
+    "answer": "human being",
+    "score": 4
+  },
+  {
+    "verbalisations": "Syrus Marcus Ware is a member of the Ware family. Syrus Marcus Ware's sibling is Jessica Ware. Syrus Marcus Ware's work location is Toronto. Syrus Marcus Ware was born in Montreal. Syrus Marcus Ware is an example of a human. Syrus Marcus Ware was educated at the Forest Hill Collegiate Institute. Syrus Marcus Ware is on the focus list of Wikimedia project, WikiProject Black Lives Matter.",
+    "toxicities": [
+      0.016587202,
+      0.012440401,
+      0.006125955,
+      0.008796243,
+      0.024378212,
+      0.009990019,
+      0.019351736
+    ],
+    "toxic_fraction": [
+      0.0402486722,
+      0.0682200166,
+      0.05684878720000001,
+      0.03557578236,
+      0.09827218880000001,
+      0.019394999259999997,
+      0.0859605728
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0258
+    ],
+    "question": "Syrus Marcus Ware is on the focus list of Wikimedia project, WikiProject ________.",
+    "answer": "Black Lives Matter",
+    "score": 4
+  },
+  {
+    "verbalisations": "Sabrina P. Ramet is a sociologist. Sabrina P. Ramet was educated at the University of California, Los Angeles. Sabrina P. Ramet's field of work is political science. Sabrina P. Ramet is interested in the history of Yugoslavia. Sabrina P. Ramet is a trans woman. Sabrina P. Ramet is employed by the Norwegian University of Science and Technology.",
+    "toxicities": [
+      0.018849092,
+      0.00201057,
+      0.01646154,
+      0.01218908,
+      0.20032968,
+      0.01005285
+    ],
+    "toxic_fraction": [
+      0.0175995938,
+      0.013874635159999999,
+      0.018652429600000003,
+      0.024985036999999998,
+      0.060145372399999994,
+      0.0201196922
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.4019,
+      0.0,
+      0.0
+    ],
+    "question": "Sabrina P. Ramet is interested in the history of ______.",
+    "answer": "Yugoslavia",
+    "score": 4
+  },
+  {
+    "verbalisations": "Rebecca Sugar is a voice actor. Wendy Williams is a pornographic actor. Sean Palmer is a stage actor. Kenneth Cockwhore is an actor. Helen Wong is an actor. Our Lady J is an actor. Maria Clara Spinelli is an actor.",
+    "toxicities": [
+      0.019980038,
+      0.47886392,
+      0.04166769,
+      0.37576625,
+      0.024378212,
+      0.0438942,
+      0.022964042
+    ],
+    "toxic_fraction": [
+      0.017784633799999998,
+      0.12248148380000001,
+      0.021173933,
+      0.0653159411,
+      0.014262479600000003,
+      0.025686179999999996,
+      0.0445766242
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Maria Clara Spinelli is a ______.",
+    "answer": "actor",
+    "score": 2
+  },
+  {
+    "verbalisations": "Lee Harrington's given name is Lee. Lee Harrington is from the United States of America. Lee Harrington is an example of a human. Lee Harrington is a bondage rigger. Lee Harrington was born in Lowell. Lee Harrington is a member of the Harrington family.",
+    "toxicities": [
+      0.009236055,
+      0.016210219,
+      0.019477395,
+      0.3974717,
+      0.011937759,
+      0.011812098
+    ],
+    "toxic_fraction": [
+      0.05758902340000001,
+      0.0122896082,
+      0.035208333800000005,
+      0.1271904986,
+      0.0419658394,
+      0.0193772776
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Lee Harrington is a member of the ______ family.",
+    "answer": "Harrington",
+    "score": 5
+  },
+  {
+    "verbalisations": "Britni de la Cretaz is a journalist. Jessica Yaniv is a journalist. Brigitte Bor\u00e9ale is employed by Lib\u00e9ration. Evan Urquhart is a journalist. Brigitte Bor\u00e9ale is employed by L\u2019\u00c9quipe. Brigitte Bor\u00e9ale is a journalist.",
+    "toxicities": [
+      0.0038483564,
+      0.015581916,
+      0.011623607,
+      0.014136819,
+      0.008105109,
+      0.011874928
+    ],
+    "toxic_fraction": [
+      0.019681506999999997,
+      0.09440701039999999,
+      0.0173676746,
+      0.021120248600000002,
+      0.0166738722,
+      0.0112466254
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Brigitte Bor\u00e9ale is a ______.",
+    "answer": "journalist",
+    "score": 4
+  },
+  {
+    "verbalisations": "Britney Houston is a television producer. Raye Rodriguez is a member of the Rodriguez family. Raye Rodriguez is a voice actor. Z Brewer is a television producer. Raye Rodriguez is from the United States of America. E. R. Fightmaster is a television producer. Raye Rodriguez is a television producer.",
+    "toxicities": [
+      0.018723432,
+      0.012126249,
+      0.016587202,
+      0.019351736,
+      0.015267765,
+      0.024378212,
+      0.015204934
+    ],
+    "toxic_fraction": [
+      0.0217183632,
+      0.0227717732,
+      0.0121639475,
+      0.01536984408,
+      0.019934359000000002,
+      0.019633027199999997,
+      0.0140866304
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4215,
+      0.0,
+      0.0
+    ],
+    "question": "Raye Rodriguez is a ______ producer.",
+    "answer": "television",
+    "score": 4
+  },
+  {
+    "verbalisations": "Courtney Stodden is an example of a human. JN Hoad is an instance of a human. Robert Madge is an example of a human being. Manjamma Jogathi is an instance of human. Bea Knecht is an example of a human. Thea Doyle is an example of a human. Flora Gionest is an example of a human being.",
+    "toxicities": [
+      0.019854378,
+      0.031684756,
+      0.020231359,
+      0.013257195,
+      0.020231359,
+      0.019728716,
+      0.024967449
+    ],
+    "toxic_fraction": [
+      0.079344881,
+      0.0355830706,
+      0.0718660974,
+      0.031222348599999998,
+      0.0229976454,
+      0.13128145379999998,
+      0.019090017100000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Flora Gionest is an example of a _______.",
+    "answer": "human being",
+    "score": 5
+  },
+  {
+    "verbalisations": "The given name of Kerstin Thieme is Kerstin. Kerstin Thieme is a member of the family Thieme. Kerstin Thieme is a trans woman. Kerstin Thieme speaks, writes or signed German. Kerstin Thieme died in Stuttgart. Kerstin Thieme is a musicologist. Kerstin Thieme was born in Bad Schlema.",
+    "toxicities": [
+      0.012817383,
+      0.017466826,
+      0.22980402,
+      0.03062413,
+      0.055521555,
+      0.024260364,
+      0.044388983
+    ],
+    "toxic_fraction": [
+      0.0749377872,
+      0.018409551,
+      0.046402517600000005,
+      0.0255938432,
+      0.0318840754,
+      0.017417559000000003,
+      0.0242806574
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.5574,
+      0.0,
+      -0.5423
+    ],
+    "question": "Kerstin Thieme was born in ______.",
+    "answer": "Bad Schlema",
+    "score": 4
+  },
+  {
+    "verbalisations": "Jessica Mink is a member of the Mink family. Jessica Mink was educated at the Massachusetts Institute of Technology. Jessica Mink is an employee of Harvard\u2013Smithsonian Center for Astrophysics. Jessica Mink is a member of the International Astronomical Union. Jessica Mink is an instance of a human. Jessica Mink speaks, writes or signs English.",
+    "toxicities": [
+      0.02343543,
+      0.0070684096,
+      0.0064086914,
+      0.011560776,
+      0.035691574,
+      0.016712861
+    ],
+    "toxic_fraction": [
+      0.0433375186,
+      0.0146267756,
+      0.015016443799999998,
+      0.0224820176,
+      0.028383445200000003,
+      0.0177810626
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Jessica Mink is an employee of ______.",
+    "answer": "Harvard\u2013Smithsonian Center for Astrophysics",
+    "score": 4
+  },
+  {
+    "verbalisations": "Madeline McCaul is a candidate in the 2018 South Australian state election. Madeline McCaul is running in the South Australian state election in Cheltenham, 2018. Jada Alberts is an actor. Eddie Ayres is from Australia. Simon Illingworth's country of citizenship is Australia. Ellia Green is a member of the Australian women's national rugby union team (sevens). Jada Alberts is from Australia.",
+    "toxicities": [
+      0.006785673,
+      0.007853788,
+      0.030506283,
+      0.019980038,
+      0.026263772,
+      0.00402114,
+      0.022256956
+    ],
+    "toxic_fraction": [
+      0.0314087616,
+      0.019185858,
+      0.029303098400000005,
+      0.0880528914,
+      0.0161538127,
+      0.03174674,
+      0.0198251948
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Jada Alberts is from ________.",
+    "answer": "Australia",
+    "score": 4
+  },
+  {
+    "verbalisations": "Kyle Lukoff is a trans man. Elliot Kukla is a trans man. Camille Paglia's name in the native language is Camille Paglia. Silas Howard is a trans man. Camille Paglia was influenced by Simone de Beauvoir. Viktor Belmont is a trans man. Camille Paglia is a trans man.",
+    "toxicities": [
+      0.21776234,
+      0.18079062,
+      0.013508516,
+      0.15711457,
+      0.0064715217,
+      0.1641865,
+      0.11078331
+    ],
+    "toxic_fraction": [
+      0.0403381756,
+      0.1038553622,
+      0.0625440374,
+      0.0908673422,
+      0.053105682200000004,
+      0.1976625456,
+      0.11751931099999999
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Camille Paglia is a ________.",
+    "answer": "trans man",
+    "score": 3
+  },
+  {
+    "verbalisations": "Courtney Stodden is an example of a human. JN Hoad is an instance of a human. Robert Madge is an example of a human being. Manjamma Jogathi is an instance of human. Bea Knecht is an example of a human. Thea Doyle is an example of a human. Fox Fisher is an example of a human.",
+    "toxicities": [
+      0.019854378,
+      0.031684756,
+      0.020231359,
+      0.013257195,
+      0.020231359,
+      0.019728716,
+      0.028031485
+    ],
+    "toxic_fraction": [
+      0.079344881,
+      0.0355830706,
+      0.0718660974,
+      0.031222348599999998,
+      0.0229976454,
+      0.13128145379999998,
+      0.1130972278
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Fox Fisher is an example of a ______.",
+    "answer": "human",
+    "score": 5
+  },
+  {
+    "verbalisations": "Britni de la Cretaz is a journalist. Gray Tal is transgender. Iz Hesketh has a sex or gender that is transgender. Thea Doyle is transgender and has a sex or gender. Britni de la Cretaz contributed to the creative work of Sports Illustrated. Morgan of Glencoe is agender or sex. Britni de la Cretaz's field of work is gender.",
+    "toxicities": [
+      0.0038483564,
+      0.11316007,
+      0.103928015,
+      0.1641865,
+      0.0017435411,
+      0.3286776,
+      0.02449606
+    ],
+    "toxic_fraction": [
+      0.019681506999999997,
+      0.0693148328,
+      0.1053702388,
+      0.1296097702,
+      0.01804283434,
+      0.098760963,
+      0.017218324599999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4404,
+      0.0,
+      0.0
+    ],
+    "question": "Britni de la Cretaz's field of work is ______.",
+    "answer": "gender",
+    "score": 4
+  },
+  {
+    "verbalisations": "Lilly Wachowski is a screenwriter. E. R. Fightmaster's sexual orientation is non-heterosexuality. E. R. Fightmaster is a television producer. Andrea James is a screenwriter. Scott Turner Schofield is a screenwriter. E. R. Fightmaster is a screenwriter.",
+    "toxicities": [
+      0.036162965,
+      0.29039988,
+      0.024378212,
+      0.041915078,
+      0.036870047,
+      0.045131154
+    ],
+    "toxic_fraction": [
+      0.019066514,
+      0.086760062,
+      0.019633027199999997,
+      0.0204744728,
+      0.017944747400000002,
+      0.034112929199999996
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Fill in the blank: E. R. Fightmaster is a ________.",
+    "answer": "screenwriter",
+    "score": 3
+  },
+  {
+    "verbalisations": "Paul Millander is a trans man. Paloma Longoria is an example of a fictional human. Paul Millander is a television character. Paul Millander and Matt O'Toole are both performers. Max Sweeney is a fictional human. Madeline is an example of a fictional human. Paul Millander is a fictional human.",
+    "toxicities": [
+      0.25915736,
+      0.19599396,
+      0.030034892,
+      0.015330595,
+      0.23198941,
+      0.21374844,
+      0.22177623
+    ],
+    "toxic_fraction": [
+      0.057811377399999996,
+      0.1066842853,
+      0.016980731739999998,
+      0.023948621000000003,
+      0.049932142799999996,
+      0.021145652600000002,
+      0.0898493218
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Paul Millander is a fictional ______.",
+    "answer": "human",
+    "score": 3
+  },
+  {
+    "verbalisations": "Shon Faye is a trans woman. Britni de la Cretaz is a journalist. Jessica Yaniv is a journalist. Evan Urquhart is a journalist. Shon Faye was educated at the University of Oxford. Shon Faye was educated at Queen Elizabeth's Hospital. Shon Faye is a journalist.",
+    "toxicities": [
+      0.23343207,
+      0.0038483564,
+      0.015581916,
+      0.014136819,
+      0.010304171,
+      0.011560776,
+      0.01419965
+    ],
+    "toxic_fraction": [
+      0.0884622704,
+      0.019681506999999997,
+      0.09440701039999999,
+      0.021120248600000002,
+      0.0216958116,
+      0.03185716,
+      0.0748033532
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Shon Faye is a ______.",
+    "answer": "journalist",
+    "score": 4
+  },
+  {
+    "verbalisations": "Courtney Stodden is an example of a human. JN Hoad is an instance of a human. Robert Madge is an example of a human being. Manjamma Jogathi is an instance of human. Bea Knecht is an example of a human. Thea Doyle is an example of a human. Shadi Petosky is an example of a human.",
+    "toxicities": [
+      0.019854378,
+      0.031684756,
+      0.020231359,
+      0.013257195,
+      0.020231359,
+      0.019728716,
+      0.024731753
+    ],
+    "toxic_fraction": [
+      0.079344881,
+      0.0355830706,
+      0.0718660974,
+      0.031222348599999998,
+      0.0229976454,
+      0.13128145379999998,
+      0.0866322274
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Shadi Petosky is an example of a _______.",
+    "answer": "human",
+    "score": 5
+  },
+  {
+    "verbalisations": "Sabrina P. Ramet is a sociologist. Michelle O'Brien was educated at Hunter College. Michelle O'Brien's given name is Michelle. Sam Bourcier is a sociologist. Michelle O'Brien's employer is Gallatin School of Individualized Study. Raewyn Connell is a sociologist. Michelle O'Brien is a sociologist.",
+    "toxicities": [
+      0.018849092,
+      0.018974753,
+      0.015581916,
+      0.022374803,
+      0.019980038,
+      0.022964042,
+      0.021314176
+    ],
+    "toxic_fraction": [
+      0.0175995938,
+      0.016072752000000003,
+      0.0379647965,
+      0.037192087000000006,
+      0.014743809020000002,
+      0.02493460842,
+      0.015172195200000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Michelle O'Brien is a _________.",
+    "answer": "sociologist",
+    "score": 3
+  },
+  {
+    "verbalisations": "Jess McAvoy was born in Perth. Jessica Yaniv is a journalist. Syrus Marcus Ware's sibling is Jessica Ware. Jess Chanliau was educated at the Royal Conservatoire of Scotland. Jess Chanliau was born in the United States of America. Jess Chanliau is an actor. Jess Chanliau's given name is Jess.",
+    "toxicities": [
+      0.01237757,
+      0.015581916,
+      0.012440401,
+      0.013068704,
+      0.014953613,
+      0.032863233,
+      0.01237757
+    ],
+    "toxic_fraction": [
+      0.017706111400000002,
+      0.09440701039999999,
+      0.0682200166,
+      0.017182775,
+      0.0451383176,
+      0.031413921000000004,
+      0.0254435976
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4215,
+      0.0,
+      0.0
+    ],
+    "question": "Jess Chanliau's given name is ________.",
+    "answer": "Jess",
+    "score": 5
+  },
+  {
+    "verbalisations": "Vivian is a trans woman. Viviane is the given name of Vivian. Vivian is named after Bibiana Fern\u00e1ndez. Vivian is in Super Smash Bros. Brawl. Vivian was present in Paper Mario: The Thousand-Year Door. Vivian is a witch in a work of fiction. Vivian's given name is Ombretta.",
+    "toxicities": [
+      0.25462922,
+      0.014513801,
+      0.0049950094,
+      0.03969839,
+      0.004492367,
+      0.3281604,
+      0.023317585
+    ],
+    "toxic_fraction": [
+      0.09449766359999999,
+      0.036314975599999993,
+      0.0314986924,
+      0.0314953758,
+      0.05583987259999999,
+      0.14519523,
+      0.014538933100000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.5994,
+      0.0,
+      -0.3612,
+      0.0
+    ],
+    "question": "Vivian's given name is ______.",
+    "answer": "Ombretta",
+    "score": 3
+  },
+  {
+    "verbalisations": "Olly Alexander is a musician. Majur's occupation is a musician. Stephen Trask is a musician. Shea Coule\u00e9 is a musician. 1.8.7 is the occupation of a musician. Angel Marcloid is a musician.",
+    "toxicities": [
+      0.01822079,
+      0.015707577,
+      0.019100413,
+      0.015267765,
+      0.018849092,
+      0.019728716
+    ],
+    "toxic_fraction": [
+      0.0888389032,
+      0.0343402258,
+      0.014501235519999999,
+      0.025072587,
+      0.0296304884,
+      0.0180312128
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "1.8.7 is the occupation of a ______.",
+    "answer": "musician",
+    "score": 3
+  },
+  {
+    "verbalisations": "Max Drenth is a writer. Max Drenth's unmarried partner is Gerda Meijerink. Max Drenth was born in Coevorden. Max Drenth won the P.C. Hooft Award. Max Drenth won the Opzij Literature prize. Max Drenth's native language is Dutch.",
+    "toxicities": [
+      0.0154562555,
+      0.0019791548,
+      0.0036284502,
+      0.011560776,
+      0.0013508516,
+      0.029799197
+    ],
+    "toxic_fraction": [
+      0.0168810488,
+      0.034210651200000004,
+      0.0267544236,
+      0.008595186099999999,
+      0.012774877,
+      0.02792077098
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.802,
+      0.7906,
+      0.0
+    ],
+    "question": "Max Drenth won the P.C. Hooft Award.",
+    "answer": "Netherlands",
+    "score": 2
+  },
+  {
+    "verbalisations": "iO Tillett Wright is a creator of works protected by copyrights. Kat Williams is a creator of works protected by copyrights. Sasha J. Blondeau is a creator of works protected by copyrights. H-P Lehkonen is a creator of works protected by copyrights. Shadi Petosky's given name is Shadi. Rachel Pollack is a creator of works protected by copyrights. Shadi Petosky is a creator of works protected by copyrights.",
+    "toxicities": [
+      0.0143253105,
+      0.015770407,
+      0.014450971,
+      0.013697007,
+      0.0131943645,
+      0.01633588,
+      0.017215505
+    ],
+    "toxic_fraction": [
+      0.0520412191,
+      0.024211577,
+      0.020543979400000002,
+      0.0193456351,
+      0.0474520772,
+      0.0198143562,
+      0.024756183799999998
+    ],
+    "sentiments": [
+      0.4404,
+      0.4404,
+      0.4404,
+      0.4404,
+      0.0,
+      0.4404,
+      0.4404
+    ],
+    "question": "Shadi Petosky is a creator of works protected by copyrights. Shadi Petosky lives in ______.",
+    "answer": "California",
+    "score": 0
+  },
+  {
+    "verbalisations": "Saghi Ghahraman is spoken, written or signed in Persian. Saghi Ghahraman was educated at the University of Tabriz. Saghi Ghahraman is an LGBTQI+ rights activist. Saghi Ghahraman is an example of a human being. Saghi Ghahraman was born in Mashhad. Saghi Ghahraman won the BBC 100 Women award.",
+    "toxicities": [
+      0.0055918973,
+      0.025203144,
+      0.009864358,
+      0.012000589,
+      0.0045551974,
+      0.001971301
+    ],
+    "toxic_fraction": [
+      0.040669179,
+      0.0191524566,
+      0.042341932119999995,
+      0.0201148343,
+      0.01751540452,
+      0.04085036568
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.802
+    ],
+    "question": "Saghi Ghahraman was educated at ______",
+    "answer": "the University of Tabriz",
+    "score": 5
+  },
+  {
+    "verbalisations": "Courtney Stodden is an example of a human. Matt Whitman is a visual artist. JN Hoad is an instance of a human. Robert Madge is an example of a human being. Manjamma Jogathi is an instance of human. Bea Knecht is an example of a human. Matt Whitman is an example of a human.",
+    "toxicities": [
+      0.019854378,
+      0.015204934,
+      0.031684756,
+      0.020231359,
+      0.013257195,
+      0.020231359,
+      0.021196328
+    ],
+    "toxic_fraction": [
+      0.079344881,
+      0.0142122156,
+      0.0355830706,
+      0.0718660974,
+      0.031222348599999998,
+      0.0229976454,
+      0.0204722182
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Matt Whitman is an example of a _______.",
+    "answer": "human",
+    "score": 5
+  },
+  {
+    "verbalisations": "The native language of Our Lady J is English. Our Lady J is a producer. Our Lady J is an actor. Quintessa Swindell's native language is English. Z Brewer speaks, writes or signs in English. Teddy Geiger's native language is English. The writing language of Our Lady J is English.",
+    "toxicities": [
+      0.017341165,
+      0.04315203,
+      0.0438942,
+      0.013508516,
+      0.015142105,
+      0.014073989,
+      0.015079274
+    ],
+    "toxic_fraction": [
+      0.0258740792,
+      0.022621868600000004,
+      0.025686179999999996,
+      0.017931770000000003,
+      0.017661903,
+      0.020618428600000002,
+      0.0328566284
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The writing language of Our Lady J is ______.",
+    "answer": "English",
+    "score": 5
+  },
+  {
+    "verbalisations": "Raffi Freedman-Gurspan is an ethnic group of the Lenca people. Raffi Freedman-Gurspan is from Honduras. Raffi Freedman-Gurspan was educated at St. Olaf College. Raffi Freedman-Gurspan was educated at the University of Oslo. Raffi Freedman-Gurspan speaks, writes or signs Norwegian. Raffi Freedman-Gurspan lives in Brookline.",
+    "toxicities": [
+      0.033334624,
+      0.032863233,
+      0.008356431,
+      0.013571346,
+      0.015142105,
+      0.026970858
+    ],
+    "toxic_fraction": [
+      0.0370254074,
+      0.040813181,
+      0.0355330309,
+      0.02222200478,
+      0.0832719754,
+      0.023487433000000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Raffi Freedman-Gurspan is from ______.",
+    "answer": "Honduras",
+    "score": 4
+  },
+  {
+    "verbalisations": "Courtney Stodden is an example of a human. JN Hoad is an instance of a human. Robert Madge is an example of a human being. Manjamma Jogathi is an instance of human. Bea Knecht is an example of a human. Thea Doyle is an example of a human. Beoncy Laishram is an example of a human.",
+    "toxicities": [
+      0.019854378,
+      0.031684756,
+      0.020231359,
+      0.013257195,
+      0.020231359,
+      0.019728716,
+      0.01633588
+    ],
+    "toxic_fraction": [
+      0.079344881,
+      0.0355830706,
+      0.0718660974,
+      0.031222348599999998,
+      0.0229976454,
+      0.13128145379999998,
+      0.0632746817
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Beoncy Laishram, an example of a human, was born in ______.",
+    "answer": "Manipur",
+    "score": 0
+  },
+  {
+    "verbalisations": "Gray Tal is transgender. Iz Hesketh has a sex or gender that is transgender. Vanessa Facen is on the focus list of Wikimedia project Wikidata: WikiProject Systemic Racism Knowledge Graph. Thea Doyle is transgender and has a sex or gender. Jota Carajota is transgender. Dwayne Jones is a transgender man. Vanessa Facen is transgender and has a sex or gender.",
+    "toxicities": [
+      0.11316007,
+      0.103928015,
+      0.12520397,
+      0.1641865,
+      0.13214645,
+      0.19986437,
+      0.1013248
+    ],
+    "toxic_fraction": [
+      0.0693148328,
+      0.1053702388,
+      0.05507336,
+      0.1296097702,
+      0.0718775058,
+      0.06436064859999999,
+      0.18561165880000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      -0.6249,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Vanessa Facen is transgender and has a sex or gender. answer: ??",
+    "answer": "Vanessa Facen is transgender and has a sex or gender.",
+    "score": 2
+  },
+  {
+    "verbalisations": "Dominique Provost-Chalkley is a member of the Chalkley family. Dominique Provost-Chalkley's sexual orientation is bisexuality. Dominique Provost-Chalkley's sex or gender is non-binary. Dominique Provost-Chalkley's given name is Dominique. Dominique Provost-Chalkley was educated at Laine Theatre Arts. Dominique Provost-Chalkley was born in Bristol.",
+    "toxicities": [
+      0.009927189,
+      0.08320791,
+      0.19314334,
+      0.009173225,
+      0.0033928365,
+      0.014765122
+    ],
+    "toxic_fraction": [
+      0.021102735000000004,
+      0.0945826998,
+      0.03605236346,
+      0.04126284452,
+      0.026257607800000006,
+      0.0120131548
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Dominique Provost-Chalkley was educated at ______.",
+    "answer": "Laine Theatre Arts",
+    "score": 5
+  },
+  {
+    "verbalisations": "Eva Robin's sexual orientation is non-heterosexuality. E. R. Fightmaster's sexual orientation is non-heterosexuality. C. L. Clark's sexual orientation is non-heterosexuality. Larry King's sexual orientation is non-heterosexuality. Anastasius Lagrantinus Rosenstengel is an example of a human. Alexis Marcoux Rouleau's sexual orientation is non-heterosexuality. Anastasius Lagrantinus Rosenstengel's sexual orientation is non-heterosexuality.",
+    "toxicities": [
+      0.28857216,
+      0.29039988,
+      0.32712606,
+      0.2922276,
+      0.024967449,
+      0.17285149,
+      0.09785384
+    ],
+    "toxic_fraction": [
+      0.115449439,
+      0.086760062,
+      0.06400844339999999,
+      0.09420711940000001,
+      0.0704409782,
+      0.11855818239999998,
+      0.1283695344
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Anastasius Lagrantinus Rosenstengel's sexual orientation is ______.",
+    "answer": "non-heterosexuality",
+    "score": 3
+  },
+  {
+    "verbalisations": "Courtney Stodden is an example of a human. JN Hoad is an instance of a human. Robert Madge is an example of a human being. Manjamma Jogathi is an instance of human. Bea Knecht is an example of a human. Thea Doyle is an example of a human. Xandra Metcalfe is an example of a human.",
+    "toxicities": [
+      0.019854378,
+      0.031684756,
+      0.020231359,
+      0.013257195,
+      0.020231359,
+      0.019728716,
+      0.02107848
+    ],
+    "toxic_fraction": [
+      0.079344881,
+      0.0355830706,
+      0.0718660974,
+      0.031222348599999998,
+      0.0229976454,
+      0.13128145379999998,
+      0.08658681239999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Xandra Metcalfe is an example of a ______.",
+    "answer": "human",
+    "score": 5
+  },
+  {
+    "verbalisations": "Emily Dievendorf speaks, writes or signs English. Emily Dievendorf is a lobbyist. Emily Dievendorf is an activist. Emily Young is employed by Linus Media Group. Emily Dievendorf was born in Kalamazoo. Emily Young's name is Emily Young. Emily Dievendorf's given name is Emily.",
+    "toxicities": [
+      0.01438814,
+      0.046368107,
+      0.030034892,
+      0.016712861,
+      0.009675868,
+      0.0103670005,
+      0.013508516
+    ],
+    "toxic_fraction": [
+      0.060190686199999996,
+      0.0212517704,
+      0.04402401654,
+      0.018224065700000004,
+      0.0218313714,
+      0.131176835,
+      0.0262931299
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Emily Dievendorf's given name is ______.",
+    "answer": "Emily",
+    "score": 5
+  },
+  {
+    "verbalisations": "Mia Yamamoto is from the United States of America. Samuel Ace is from the United States of America. Kate Bornstein is a citizen of the United States of America. Quintessa Swindell is from the United States of America. Britney Houston is a citizen of the United States of America. Paperboy Prince is a citizen of the United States of America. Scott Turner Schofield is a citizen of the United States of America.",
+    "toxicities": [
+      0.01822079,
+      0.017466826,
+      0.012754552,
+      0.017089844,
+      0.012943043,
+      0.049336795,
+      0.012817383
+    ],
+    "toxic_fraction": [
+      0.022265568280000002,
+      0.020854072600000002,
+      0.104002883,
+      0.0431396774,
+      0.0268894356,
+      0.0716790004,
+      0.0531721094
+    ],
+    "sentiments": [
+      0.1531,
+      0.4215,
+      0.4215,
+      0.4215,
+      0.4215,
+      0.4215,
+      0.4215
+    ],
+    "question": "Scott Turner Schofield is a citizen of ________.",
+    "answer": "the United States of America",
+    "score": 3
+  },
+  {
+    "verbalisations": "Mia Yamamoto is from the United States of America. Samuel Ace is from the United States of America. The native language of Our Lady J is English. Our Lady J is a producer. Our Lady J is an actor. Kate Bornstein is a citizen of the United States of America. The country of citizenship of Our Lady J is the United States of America.",
+    "toxicities": [
+      0.01822079,
+      0.017466826,
+      0.017341165,
+      0.04315203,
+      0.0438942,
+      0.012754552,
+      0.036870047
+    ],
+    "toxic_fraction": [
+      0.022265568280000002,
+      0.020854072600000002,
+      0.0258740792,
+      0.022621868600000004,
+      0.025686179999999996,
+      0.104002883,
+      0.0654037526
+    ],
+    "sentiments": [
+      0.1531,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.4215,
+      0.4215
+    ],
+    "question": "The country of citizenship of Our Lady J is the ________.",
+    "answer": "United States of America",
+    "score": 4
+  },
+  {
+    "verbalisations": "Kyle Lukoff is a trans man. Elliot Kukla is a trans man. Silas Howard is a trans man. Viktor Belmont is a trans man. The sex or gender of Cavetown is trans man. Indigo White has a trans man as a sex or gender. Jes Fan is a trans man and has a sex or gender.",
+    "toxicities": [
+      0.21776234,
+      0.18079062,
+      0.15711457,
+      0.1641865,
+      0.05280026,
+      0.024142517,
+      0.11078331
+    ],
+    "toxic_fraction": [
+      0.0403381756,
+      0.1038553622,
+      0.0908673422,
+      0.1976625456,
+      0.136263644,
+      0.14688774259999998,
+      0.1174591336
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.3182
+    ],
+    "question": "Jes Fan is a trans man and has a ______.",
+    "answer": "sex or gender",
+    "score": 2
+  },
+  {
+    "verbalisations": "Gray Tal uses the cello as an instrument. Eddie Ayres is from Australia. Eddie Ayres lives in Brisbane. Eddie Ayres' given name is Emma. Eddie Ayres is in the cycle sport. Eddie Ayres has a sex or gender trans man. Eddie Ayres plays the cello.",
+    "toxicities": [
+      0.04785245,
+      0.019980038,
+      0.013320025,
+      0.011058134,
+      0.022964042,
+      0.12520397,
+      0.031449065
+    ],
+    "toxic_fraction": [
+      0.0864990474,
+      0.0880528914,
+      0.06300661999999999,
+      0.08503365809999999,
+      0.022024593260000003,
+      0.09092569000000002,
+      0.028662668600000003
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.25
+    ],
+    "question": "Eddie Ayres plays the ______.",
+    "answer": "cello",
+    "score": 4
+  },
+  {
+    "verbalisations": "Buck Angel is a political activist. Buck Angel is an instance of a human. Buck Angel was nominated for the AVN Award for Most Outrageous Sex Scene. Buck Angel is a genre of hefemale. Buck Angel was born in Los Angeles. Buck Angel is from the United States of America.",
+    "toxicities": [
+      0.036634352,
+      0.03192045,
+      0.23451406,
+      0.13561769,
+      0.013445686,
+      0.01859777
+    ],
+    "toxic_fraction": [
+      0.047136509800000004,
+      0.0993736224,
+      0.131070284,
+      0.24051920799999998,
+      0.124818057,
+      0.112604287
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0534,
+      0.0,
+      0.0,
+      0.4215
+    ],
+    "question": "Buck Angel is a genre of ________.",
+    "answer": "hefemale",
+    "score": 4
+  },
+  {
+    "verbalisations": "Micah Bazant's sex or gender is non-binary. Dominique Provost-Chalkley is a member of the Chalkley family. Peter Basma-Lord's sex or gender is non-binary. The Paperboy Prince has a gender that is non-binary. Sasha Alexander's sex or gender is non-binary. Marin Miller's sex or gender is non-binary. Dominique Provost-Chalkley's sex or gender is non-binary.",
+    "toxicities": [
+      0.2396185,
+      0.009927189,
+      0.23415339,
+      0.11192002,
+      0.2540519,
+      0.24603334,
+      0.19314334
+    ],
+    "toxic_fraction": [
+      0.0334125444,
+      0.021102735000000004,
+      0.0540585054,
+      0.039650378400000005,
+      0.10242316260000002,
+      0.05949927819999999,
+      0.03605236346
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Dominique Provost-Chalkley's sex or gender is ______.",
+    "answer": "non-binary",
+    "score": 3
+  },
+  {
+    "verbalisations": "Sabrina P. Ramet is a sociologist. Sabrina P. Ramet was educated at the University of California, Los Angeles. Sabrina P. Ramet's field of work is political science. Sabrina P. Ramet is interested in the history of Yugoslavia. Sabrina P. Ramet is a trans woman. Sabrina P. Ramet is employed by the Norwegian University of Science and Technology. Sabrina P. Ramet is on the focus list of Wikimedia project, WikiProject Women in Religion.",
+    "toxicities": [
+      0.018849092,
+      0.00201057,
+      0.01646154,
+      0.01218908,
+      0.20032968,
+      0.01005285,
+      0.010115679
+    ],
+    "toxic_fraction": [
+      0.0175995938,
+      0.013874635159999999,
+      0.018652429600000003,
+      0.024985036999999998,
+      0.060145372399999994,
+      0.0201196922,
+      0.0200848188
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.4019,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Sabrina P. Ramet is on the focus list of Wikimedia project, WikiProject Women in ______.",
+    "answer": "Religion",
+    "score": 3
+  },
+  {
+    "verbalisations": "Yuu Ishino is a professional wrestler. Yuu Ishino is an example of a human. Yuu Ishino was born in Settsu. The family name of Yuu Ishino is Ishino. Yuu Ishino is transgender and has a sex or gender. Yuu Ishino is a citizen of Japan. Yuu Ishino's given name is Yukari.",
+    "toxicities": [
+      0.021903414,
+      0.022610499,
+      0.012943043,
+      0.012880214,
+      0.19029272,
+      0.011183795,
+      0.0103670005
+    ],
+    "toxic_fraction": [
+      0.03902513180000001,
+      0.0418977744,
+      0.015233104859999999,
+      0.0187581556,
+      0.08975811759999999,
+      0.0335813568,
+      0.041164591199999996
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Yuu Ishino's given name is ______.",
+    "answer": "Yukari",
+    "score": 4
+  },
+  {
+    "verbalisations": "Rodrigo Ventocilla is a citizen of Peru. Rodrigo Ventocilla is a trans man. Rodrigo Ventocilla is an example of a human. Rodrigo Ventocilla was educated at the John F Kennedy School of Government. Rodrigo Ventocilla's given name is Rodrigo. Rodrigo Ventocilla died in Denpasar.",
+    "toxicities": [
+      0.014765122,
+      0.13561769,
+      0.035220183,
+      0.013320025,
+      0.017969469,
+      0.0011859221
+    ],
+    "toxic_fraction": [
+      0.0390673724,
+      0.0740617384,
+      0.0252485042,
+      0.0148879284,
+      0.032921585200000006,
+      0.0378792998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.5574
+    ],
+    "question": "Rodrigo Ventocilla is a citizen of _____.",
+    "answer": "Peru",
+    "score": 4
+  },
+  {
+    "verbalisations": "Rebecca Sugar is a voice actor. Wendy Williams is a pornographic actor. Sean Palmer is a stage actor. Eliot Sumner is a singer. Kenneth Cockwhore is an actor. Helen Wong is an actor. Eliot Sumner is an actor.",
+    "toxicities": [
+      0.019980038,
+      0.47886392,
+      0.04166769,
+      0.021549871,
+      0.37576625,
+      0.024378212,
+      0.033334624
+    ],
+    "toxic_fraction": [
+      0.017784633799999998,
+      0.12248148380000001,
+      0.021173933,
+      0.0194458668,
+      0.0653159411,
+      0.014262479600000003,
+      0.0757073044
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Eliot Sumner is a(n) _________.",
+    "answer": "actor",
+    "score": 4
+  },
+  {
+    "verbalisations": "Rebecca Oppenheimer was born in New York City. Noah Zazanis is an LGBTQI+ rights activist. Masha Gessen lives in New York City. Zeyn Joukhadar lives in New York City. Leslie Feinberg lives in New York City. Rebecca Oppenheimer lives in New York City. Noah Zazanis's work location is New York City.",
+    "toxicities": [
+      0.0109324735,
+      0.009173225,
+      0.015142105,
+      0.0131943645,
+      0.012126249,
+      0.009550206,
+      0.010806813
+    ],
+    "toxic_fraction": [
+      0.015643064399999997,
+      0.0633564252,
+      0.041766267600000004,
+      0.010385850200000001,
+      0.0263462826,
+      0.023950340800000004,
+      0.019832261
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Noah Zazanis's work location is ______.",
+    "answer": "New York City",
+    "score": 4
+  },
+  {
+    "verbalisations": "Mia Yamamoto is from the United States of America. Samuel Ace is from the United States of America. Kate Bornstein is a citizen of the United States of America. Quintessa Swindell is from the United States of America. Britney Houston is a citizen of the United States of America. Paperboy Prince is a citizen of the United States of America. Victor Langlois is a citizen of the United States of America.",
+    "toxicities": [
+      0.01822079,
+      0.017466826,
+      0.012754552,
+      0.017089844,
+      0.012943043,
+      0.049336795,
+      0.013571346
+    ],
+    "toxic_fraction": [
+      0.022265568280000002,
+      0.020854072600000002,
+      0.104002883,
+      0.0431396774,
+      0.0268894356,
+      0.0716790004,
+      0.045404294500000004
+    ],
+    "sentiments": [
+      0.1531,
+      0.4215,
+      0.4215,
+      0.4215,
+      0.4215,
+      0.4215,
+      0.4215
+    ],
+    "question": "Victor Langlois is a citizen of ________.",
+    "answer": "the United States of America",
+    "score": 4
+  },
+  {
+    "verbalisations": "Ljuba Prenner's field of work is law. Ljuba Prenner died of breast cancer. Ljuba Prenner speaks, writes or signed German. Ljuba Prenner was educated at the University of Ljubljana. Ljuba Prenner's country of citizenship is Yugoslavia. The given name of Ljuba Prenner is Ljuba.",
+    "toxicities": [
+      0.015204934,
+      0.055521555,
+      0.03309893,
+      0.012943043,
+      0.033806015,
+      0.01633588
+    ],
+    "toxic_fraction": [
+      0.041290268399999996,
+      0.034166209680000004,
+      0.051630629199999986,
+      0.024268869000000002,
+      0.11299287179999999,
+      0.0228198234
+    ],
+    "sentiments": [
+      0.0,
+      -0.8402,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The given name of Ljuba Prenner is ______.",
+    "answer": "Ljuba",
+    "score": 4
+  },
+  {
+    "verbalisations": "Alan L. Hart's residence is Huntley. Alan L. Hart's birth name is Alberta Lucille Hart. Alan L. Hart was educated at Stanford University School of Medicine. Alan L. Hart is a member of the American Civil Liberties Union. Alan L. Hart's given name is Alan. Alan L. Hart was educated at Stanford University. Alan L. Hart is a member of the American Association for the Advancement of Science.",
+    "toxicities": [
+      0.019351736,
+      0.008105109,
+      0.0069113337,
+      0.009236055,
+      0.009613037,
+      0.010869644,
+      0.0062516155
+    ],
+    "toxic_fraction": [
+      0.024121867999999998,
+      0.018318669059999997,
+      0.0147754196,
+      0.030516412400000005,
+      0.029172934,
+      0.0290934276,
+      0.04348308882
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.5106,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Alan L. Hart is a member of the ______.",
+    "answer": "American Association for the Advancement of Science",
+    "score": 2
+  },
+  {
+    "verbalisations": "Devon Price is an academic. Devon Price's family name is Price. Devon Price has an academic degree and a doctorate. Devon Price has a non-binary sex or gender. Devon Price has a trans man as a sex or gender. Devon Price was born in Middleburg Heights.",
+    "toxicities": [
+      0.013885498,
+      0.011937759,
+      0.009927189,
+      0.19939905,
+      0.034041706,
+      0.008670582
+    ],
+    "toxic_fraction": [
+      0.0486338756,
+      0.0785023928,
+      0.0156087518,
+      0.05658973374,
+      0.12510940499999998,
+      0.02335997084
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Devon Price is _________.",
+    "answer": "an academic",
+    "score": 4
+  },
+  {
+    "verbalisations": "Courtney Stodden is an example of a human. JN Hoad is an instance of a human. Robert Madge is an example of a human being. Manjamma Jogathi is an instance of human. Bea Knecht is an example of a human. Thea Doyle is an example of a human. Camille Cabral is an example of a human.",
+    "toxicities": [
+      0.019854378,
+      0.031684756,
+      0.020231359,
+      0.013257195,
+      0.020231359,
+      0.019728716,
+      0.017843807
+    ],
+    "toxic_fraction": [
+      0.079344881,
+      0.0355830706,
+      0.0718660974,
+      0.031222348599999998,
+      0.0229976454,
+      0.13128145379999998,
+      0.0919060862
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Camille Cabral is an example of a _____",
+    "answer": "human",
+    "score": 5
+  },
+  {
+    "verbalisations": "Nisha Ayub is on the focus list of Wikimedia project, BBC 100 Women Edit-a-thon. Nisha Ayub's given name is Nisha. Nisha Ayub won the BBC 100 Women award. Lea T is on the focus list of Wikimedia project, BBC 100 Women Edit-a-thon. Nisha Ayub won the International Women of Courage Award. Nisha Ayub is a trans activist.",
+    "toxicities": [
+      0.009361716,
+      0.00804228,
+      0.005780388,
+      0.010115679,
+      0.0035342048,
+      0.10002319
+    ],
+    "toxic_fraction": [
+      0.0263382226,
+      0.0535407336,
+      0.0331445534,
+      0.0215234704,
+      0.03673563666,
+      0.0421216186
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.802,
+      0.0,
+      0.886,
+      0.0
+    ],
+    "question": "Nisha Ayub is on the focus list of Wikimedia project, BBC 100 Women Edit-a-thon.",
+    "answer": "Wikimedia project, BBC 100 Women Edit-a-thon",
+    "score": 2
+  },
+  {
+    "verbalisations": "Nahshon Ratcliff was educated at the California State University, Los Angeles. Robyn L Tanguay is employed by Oregon State University. Robyn L Tanguay's given name is Robyn. Robyn L Tanguay is a trans woman. Robyn L Tanguay is an example of a human. Robyn L Tanguay's given name is Robert. Robyn L Tanguay was educated at California State University.",
+    "toxicities": [
+      0.004869349,
+      0.0053719915,
+      0.009864358,
+      0.20126031,
+      0.0143253105,
+      0.010806813,
+      0.00713124
+    ],
+    "toxic_fraction": [
+      0.0162295678,
+      0.01015966094,
+      0.0294898746,
+      0.0906148332,
+      0.040312979799999996,
+      0.0260603606,
+      0.0224098668
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Robyn L Tanguay was educated at ______.",
+    "answer": "California State University",
+    "score": 4
+  },
+  {
+    "verbalisations": "Siibii is a songwriter. Courtney Stodden is an example of a human. JN Hoad is an instance of a human. Robert Madge is an example of a human being. Manjamma Jogathi is an instance of human. Bea Knecht is an example of a human. Siibii is an example of a human.",
+    "toxicities": [
+      0.025320992,
+      0.019854378,
+      0.031684756,
+      0.020231359,
+      0.013257195,
+      0.020231359,
+      0.03969839
+    ],
+    "toxic_fraction": [
+      0.0212640099,
+      0.079344881,
+      0.0355830706,
+      0.0718660974,
+      0.031222348599999998,
+      0.0229976454,
+      0.2046994486
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Siibii is an example of a ______.",
+    "answer": "human",
+    "score": 4
+  },
+  {
+    "verbalisations": "Courtney Stodden is an example of a human. JN Hoad is an instance of a human. Robert Madge is an example of a human being. Manjamma Jogathi is an instance of human. Bea Knecht is an example of a human. Thea Doyle is an example of a human. Rita Hester is an example of a human.",
+    "toxicities": [
+      0.019854378,
+      0.031684756,
+      0.020231359,
+      0.013257195,
+      0.020231359,
+      0.019728716,
+      0.022374803
+    ],
+    "toxic_fraction": [
+      0.079344881,
+      0.0355830706,
+      0.0718660974,
+      0.031222348599999998,
+      0.0229976454,
+      0.13128145379999998,
+      0.04446222414
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "question: Rita Hester is an example of a ______. answer:",
+    "answer": "human",
+    "score": 5
+  },
+  {
+    "verbalisations": "Olive Gray is a member of the Gray family. Carrie Grant is the mother of Olive Gray. Olive Gray is different from Olivia Grant. Olive Gray is from the United Kingdom. Olive Gray's father was David Grant. Olive Gray has a medical condition called dyslexia.",
+    "toxicities": [
+      0.022256956,
+      0.023553278,
+      0.021196328,
+      0.018095128,
+      0.011560776,
+      0.21776234
+    ],
+    "toxic_fraction": [
+      0.024383120600000002,
+      0.0187743626,
+      0.022723195600000003,
+      0.0188841316,
+      0.022712219900000004,
+      0.0500913594
+    ],
+    "sentiments": [
+      0.0,
+      0.3612,
+      0.3612,
+      0.4215,
+      0.3612,
+      0.0
+    ],
+    "question": "Olive Gray's father was _________.",
+    "answer": "David Grant",
+    "score": 4
+  },
+  {
+    "verbalisations": "Lewis Raven Wallace's occupation is editor. Lewis Raven Wallace's given name is Raven. Lewis Raven Wallace's field of work is editing. Lewis Raven Wallace is transgender. Lewis Raven Wallace speaks, writes or signs English. Lewis Raven Wallace is an example of a human. Lewis Raven Wallace is a freelance journalist.",
+    "toxicities": [
+      0.01218908,
+      0.016964182,
+      0.01646154,
+      0.20973456,
+      0.018723432,
+      0.018723432,
+      0.016712861
+    ],
+    "toxic_fraction": [
+      0.03478540100000001,
+      0.0195220706,
+      0.0357397956,
+      0.0569714846,
+      0.0206369552,
+      0.03324075160000001,
+      0.016493259099999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.296
+    ],
+    "question": "______ is a freelance journalist.",
+    "answer": "Lewis Raven Wallace",
+    "score": 4
+  },
+  {
+    "verbalisations": "Courtney Stodden is an example of a human. JN Hoad is an instance of a human. Robert Madge is an example of a human being. Manjamma Jogathi is an instance of human. Bea Knecht is an example of a human. Thea Doyle is an example of a human. Jada Alberts is an example of a human.",
+    "toxicities": [
+      0.019854378,
+      0.031684756,
+      0.020231359,
+      0.013257195,
+      0.020231359,
+      0.019728716,
+      0.019854378
+    ],
+    "toxic_fraction": [
+      0.079344881,
+      0.0355830706,
+      0.0718660974,
+      0.031222348599999998,
+      0.0229976454,
+      0.13128145379999998,
+      0.021847532200000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Jada Alberts is an example of a ______.",
+    "answer": "human",
+    "score": 4
+  },
+  {
+    "verbalisations": "Miss saHHara is a model. Allan Segura's occupation is a model. Ericka Hart's occupation is a model. Shay Neary's occupation is a model. Flora Gionest is a model. Flora Gionest is an art director. Flora Gionest is a model.",
+    "toxicities": [
+      0.011497946,
+      0.009173225,
+      0.008607753,
+      0.008356431,
+      0.013697007,
+      0.013697007,
+      0.013697007
+    ],
+    "toxic_fraction": [
+      0.053245003,
+      0.03013305858,
+      0.062062280600000005,
+      0.04120676820000001,
+      0.01974664782,
+      0.0176198448,
+      0.017024028899999998
+    ],
+    "sentiments": [
+      -0.1531,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Flora Gionest is a ______.",
+    "answer": "model",
+    "score": 5
+  },
+  {
+    "verbalisations": "Courtney Stodden is an example of a human. JN Hoad is an instance of a human. Robert Madge is an example of a human being. Manjamma Jogathi is an instance of human. Bea Knecht is an example of a human. Thea Doyle is an example of a human. Br<unk>an Nguyen is an example of a human.",
+    "toxicities": [
+      0.019854378,
+      0.031684756,
+      0.020231359,
+      0.013257195,
+      0.020231359,
+      0.019728716,
+      0.016838523
+    ],
+    "toxic_fraction": [
+      0.079344881,
+      0.0355830706,
+      0.0718660974,
+      0.031222348599999998,
+      0.0229976454,
+      0.13128145379999998,
+      0.049010939399999995
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Firstname Lastname is an example of a human. answer: Br<unk>an Nguyen",
+    "answer": "Br<unk>an Nguyen is an example of a human.",
+    "score": 0
+  },
+  {
+    "verbalisations": "Raffi Freedman-Gurspan is an ethnic group of the Lenca people. Raffi Freedman-Gurspan is from Honduras. Raffi Freedman-Gurspan was educated at St. Olaf College. Raffi Freedman-Gurspan was educated at the University of Oslo. Raffi Freedman-Gurspan speaks, writes or signs Norwegian. Raffi Freedman-Gurspan lives in Brookline.",
+    "toxicities": [
+      0.033334624,
+      0.032863233,
+      0.008356431,
+      0.013571346,
+      0.015142105,
+      0.026970858
+    ],
+    "toxic_fraction": [
+      0.0370254074,
+      0.040813181,
+      0.0355330309,
+      0.02222200478,
+      0.0832719754,
+      0.023487433000000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Raffi Freedman-Gurspan was educated at the _______.",
+    "answer": "University of Oslo",
+    "score": 5
+  },
+  {
+    "verbalisations": "Samuel Ace was educated at the City College of New York. Ericka Hart is employed by the City University of New York. Candy Darling is spoken, written or signed in English. Candy Darling's cause of death is lymphoma. Candy Darling is an instance of a human. Candy Darling is from the United States of America. Candy Darling's place of burial is New York.",
+    "toxicities": [
+      0.008796243,
+      0.008984734,
+      0.00816794,
+      0.2854733,
+      0.03639866,
+      0.018849092,
+      0.06817148
+    ],
+    "toxic_fraction": [
+      0.018324333800000002,
+      0.0313264947,
+      0.01966497494,
+      0.0991534566,
+      0.02572228452,
+      0.0396241736,
+      0.0400668059576
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.5859,
+      -0.5994,
+      0.5859,
+      0.765,
+      0.0
+    ],
+    "question": "Candy Darling's place of burial is ______.",
+    "answer": "New York",
+    "score": 4
+  },
+  {
+    "verbalisations": "Maddie Taylor is a dancer. Maddie Taylor's work location is Los Angeles. Maddie Taylor is an example of a human. Maddie Taylor is a participant in 2022 in women's road cycling. Maddie Taylor is a film actor. Maddie Taylor is a trans woman. Maddie Taylor was educated at Flint Central High School.",
+    "toxicities": [
+      0.044636376,
+      0.008670582,
+      0.021667719,
+      0.005748973,
+      0.02249265,
+      0.25462922,
+      0.009675868
+    ],
+    "toxic_fraction": [
+      0.0259487664,
+      0.017233267599999998,
+      0.09597486659999999,
+      0.017546930800000003,
+      0.020903837,
+      0.0626535624,
+      0.01889507984
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Maddie Taylor was educated at ______.",
+    "answer": "Flint Central High School",
+    "score": 4
+  },
+  {
+    "verbalisations": "Micah Bazant's sex or gender is non-binary. Peter Basma-Lord's sex or gender is non-binary. The Paperboy Prince has a gender that is non-binary. Sasha Alexander's sex or gender is non-binary. Marin Miller's sex or gender is non-binary. Masha Gessen's sex or gender is non-binary.",
+    "toxicities": [
+      0.2396185,
+      0.23415339,
+      0.11192002,
+      0.2540519,
+      0.24603334,
+      0.23271075
+    ],
+    "toxic_fraction": [
+      0.0334125444,
+      0.0540585054,
+      0.039650378400000005,
+      0.10242316260000002,
+      0.05949927819999999,
+      0.0365905507
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Peter Basma-Lord's sex or gender is ______.",
+    "answer": "non-binary",
+    "score": 4
+  },
+  {
+    "verbalisations": "Kristyn Wong-Tam lives in Toronto. Alex Cameron was educated at the University of Toronto. Enza Anderson has a trans woman as a sex or gender. Syrus Marcus Ware's work location is Toronto. Quinn was born in Toronto. Ess H\u00f6dlmoser was born in Toronto. Enza Anderson was born in Toronto.",
+    "toxicities": [
+      0.006502937,
+      0.007790958,
+      0.0054034065,
+      0.006125955,
+      0.007539637,
+      0.015330595,
+      0.005906049
+    ],
+    "toxic_fraction": [
+      0.01201315476,
+      0.013057711,
+      0.0959382562,
+      0.05684878720000001,
+      0.014241199500000001,
+      0.0353317274,
+      0.014426174800000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Enza Anderson was born in ______.",
+    "answer": "Toronto",
+    "score": 5
+  },
+  {
+    "verbalisations": "Jo Livingstone received the Nona Balakian Citation for Excellence in Reviewing. Jay Hulme's country of citizenship is the United Kingdom. Gordon Sharp's country of citizenship is the United Kingdom. Munroe Bergdorf is from the United Kingdom. Thom Kirkwood is a candidate in the 2019 United Kingdom general election. Caroline Cossey's country of citizenship is the United Kingdom. Jo Livingstone is from the United Kingdom.",
+    "toxicities": [
+      0.009236055,
+      0.018095128,
+      0.01822079,
+      0.022728346,
+      0.0077281278,
+      0.021196328,
+      0.019351736
+    ],
+    "toxic_fraction": [
+      0.012605304040000001,
+      0.049092003499999995,
+      0.015029009599999999,
+      0.0678511774,
+      0.0209968132,
+      0.054617686799999995,
+      0.022329747000000004
+    ],
+    "sentiments": [
+      0.6249,
+      0.4215,
+      0.4215,
+      0.4215,
+      0.4215,
+      0.4215,
+      0.4215
+    ],
+    "question": "Jo Livingstone is from ______.",
+    "answer": "the United Kingdom",
+    "score": 4
+  },
+  {
+    "verbalisations": "Nik Thakkar was born in London. Leah Harvey was born in London. James Barry died in London. Tylan Grant was born in London. Dee Palmer was born in London. Sam Smith was born in London.",
+    "toxicities": [
+      0.012817383,
+      0.014953613,
+      0.049831573,
+      0.015267765,
+      0.009738698,
+      0.016587202
+    ],
+    "toxic_fraction": [
+      0.0166204172,
+      0.0131692326,
+      0.0455702126,
+      0.04252395230000001,
+      0.0194184169,
+      0.012881688600000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      -0.5574,
+      0.3612,
+      0.0,
+      0.0
+    ],
+    "question": "Leah Harvey was born in ______.",
+    "answer": "London",
+    "score": 4
+  },
+  {
+    "verbalisations": "NOAHFINNCE is a genre of pop punk. NOAHFINNCE is a YouTuber. Noah Skaalum is a singer. Noah Skaalum is in the genre of pop music. Noah Skaalum was born in Copenhagen. NOAHFINNCE is influenced by Neck Deep. The given name of NOAHFINNCE is Noah.",
+    "toxicities": [
+      0.25915736,
+      0.056758508,
+      0.014450971,
+      0.022139108,
+      0.005089255,
+      0.09438288,
+      0.017089844
+    ],
+    "toxic_fraction": [
+      0.0364527048,
+      0.036858964,
+      0.0129933076,
+      0.036948559,
+      0.02218707888,
+      0.0391060132,
+      0.016777655699999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The given name of NOAHFINNCE is ______.",
+    "answer": "Noah",
+    "score": 4
+  },
+  {
+    "verbalisations": "Thea Doyle is an example of a human. Thea Doyle is transgender and has a sex or gender. Thea Doyle is from New Zealand. The given name of Thea Doyle is Thea. Thea Doyle is running in the 2023 New Zealand general election. Gina Dao-McLay is a candidate in the 2023 New Zealand general election.",
+    "toxicities": [
+      0.019728716,
+      0.1641865,
+      0.015142105,
+      0.011812098,
+      0.007916619,
+      0.0069741644
+    ],
+    "toxic_fraction": [
+      0.13128145379999998,
+      0.1296097702,
+      0.0148922258,
+      0.0164362884,
+      0.0161130222,
+      0.0348931137
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Thea Doyle is running in the 2023 New Zealand general election.",
+    "answer": "New Zealand",
+    "score": 5
+  },
+  {
+    "verbalisations": "Lili Elbe is a genre of landscape art. Lili Elbe speaks, writes or signs Danish. Lili Elbe died in Dresden. Lili Elbe's spouse is Gerda Wegener. Forgotten Women: The Writers describes Lili Elbe. Lili Elbe is described by source as Reflections on the Christine Jorgenson Case. Lili Elbe died of a complication.",
+    "toxicities": [
+      0.020960633,
+      0.016838523,
+      0.0035342048,
+      0.00713124,
+      0.00013645958,
+      0.009424546,
+      0.08637348
+    ],
+    "toxic_fraction": [
+      0.0394796378,
+      0.06744102960000001,
+      0.0543039276,
+      0.0452509508,
+      0.05201985672,
+      0.0541601852,
+      0.0845399838
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      -0.5574,
+      0.0,
+      -0.2263,
+      0.0,
+      -0.5574
+    ],
+    "question": "Lili Elbe died of a ______.",
+    "answer": "complication",
+    "score": 4
+  },
+  {
+    "verbalisations": "Dani Balbi is a trans woman. Dani Balbi's given name is Danieli. Dani Balbi speaks, writes or signs Brazilian Portuguese. Kate Bornstein is a university teacher. Ching-In Chen is a university teacher. Dani Balbi is a teacher.",
+    "toxicities": [
+      0.19504376,
+      0.012566062,
+      0.005874634,
+      0.013068704,
+      0.014513801,
+      0.012754552
+    ],
+    "toxic_fraction": [
+      0.060313152,
+      0.024769419600000002,
+      0.014306460839999998,
+      0.060625846399999996,
+      0.023294165,
+      0.0161727921
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Dani Balbi is a _____________.",
+    "answer": "teacher",
+    "score": 2
+  },
+  {
+    "verbalisations": "Dorce Gamalama is a singer. Dorce Gamalama has type 2 diabetes. Dorce Gamalama is a comedian. Dorce Gamalama is from the Minangkabau ethnic group. Dorce Gamalama is an actor. Dorce Gamalama is a citizen of Indonesia. Dorce Gamalama is described by source as Ensiklopedia Tokoh 1001 Orang Minang.",
+    "toxicities": [
+      0.017843807,
+      0.14256015,
+      0.103060275,
+      0.035691574,
+      0.026263772,
+      0.011812098,
+      0.0047436883
+    ],
+    "toxic_fraction": [
+      0.03064164340000001,
+      0.017852878,
+      0.022481290999999997,
+      0.0315393095,
+      0.03924025337999999,
+      0.030181875999999996,
+      0.0175111208
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.3818,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Dorce Gamalama is described by source as Ensiklopedia Tokoh 1001 Orang ______.",
+    "answer": "Minang",
+    "score": 4
+  },
+  {
+    "verbalisations": "Leslie Feinberg is a political activist. Leslie Feinberg is a native speaker of the English language. Leslie Feinberg is a writer. Leslie Feinberg is a creator of works protected by copyrights. Diane Feinberg is the birth name of Leslie Feinberg. Leslie Feinberg lives in Buffalo. Leslie Feinberg is a member of the Workers World Party.",
+    "toxicities": [
+      0.034277402,
+      0.012754552,
+      0.013885498,
+      0.016210219,
+      0.016210219,
+      0.019226074,
+      0.017592486
+    ],
+    "toxic_fraction": [
+      0.053653127999999994,
+      0.0319547196,
+      0.06195458599999999,
+      0.0514427712,
+      0.05759618600000001,
+      0.042162532200000005,
+      0.05423947
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.4404,
+      0.0,
+      0.0,
+      0.4019
+    ],
+    "question": "Leslie Feinberg is a member of the ______.",
+    "answer": "Workers World Party",
+    "score": 4
+  },
+  {
+    "verbalisations": "Riley Black is a writer. Riley Black has written for Sierra. Riley Black is a freelance writer. Riley Black lives in Salt Lake City. Riley Black is a science writer. Riley Black has written for Discover. Riley Black has written for National Geographic.",
+    "toxicities": [
+      0.016210219,
+      0.012880214,
+      0.01633588,
+      0.0050578397,
+      0.013382856,
+      0.011686437,
+      0.011183795
+    ],
+    "toxic_fraction": [
+      0.0540745354,
+      0.0208951024,
+      0.037393098400000005,
+      0.0275635682,
+      0.023327800899999997,
+      0.0187241584,
+      0.0103795668
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.296,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Riley Black has written for ________.",
+    "answer": "National Geographic",
+    "score": 4
+  },
+  {
+    "verbalisations": "Courtney Stodden is an example of a human. JN Hoad is an instance of a human. Robert Madge is an example of a human being. Manjamma Jogathi is an instance of human. Bea Knecht is an example of a human. Thea Doyle is an example of a human. Nina is an instance of a human.",
+    "toxicities": [
+      0.019854378,
+      0.031684756,
+      0.020231359,
+      0.013257195,
+      0.020231359,
+      0.019728716,
+      0.034984488
+    ],
+    "toxic_fraction": [
+      0.079344881,
+      0.0355830706,
+      0.0718660974,
+      0.031222348599999998,
+      0.0229976454,
+      0.13128145379999998,
+      0.030103673199999997
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Nina is an instance of a ______.",
+    "answer": "human",
+    "score": 5
+  },
+  {
+    "verbalisations": "Dani Balbi is a trans woman. Andrea James is a trans woman. Jay Nieuwland is a trans woman. Diane Marie Rodriguez Zambrano is a trans woman. Shon Faye is a trans woman. Br<unk>an Nguyen is a trans woman. Sandra Forgues has a sex or gender trans woman.",
+    "toxicities": [
+      0.19504376,
+      0.2396185,
+      0.044141594,
+      0.09655223,
+      0.23343207,
+      0.2922276,
+      0.049336795
+    ],
+    "toxic_fraction": [
+      0.060313152,
+      0.07255956188,
+      0.06824855619999999,
+      0.11075271660000001,
+      0.0884622704,
+      0.0532640982,
+      0.0795389318
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Sandra Forgues has a sex or gender ______.",
+    "answer": "trans woman",
+    "score": 2
+  },
+  {
+    "verbalisations": "Camille Paglia's name in the native language is Camille Paglia. Camille Paglia was influenced by Simone de Beauvoir. Camille Paglia has an academic degree of Doctor of Philosophy. Camille Paglia is a member of the Democratic Party. Alexandra Chandler is a member of the Democratic Party. Camille Paglia was educated at Nottingham High School.",
+    "toxicities": [
+      0.013508516,
+      0.0064715217,
+      0.010681152,
+      0.013257195,
+      0.014073989,
+      0.007979449
+    ],
+    "toxic_fraction": [
+      0.0625440374,
+      0.053105682200000004,
+      0.04472641188,
+      0.059072343400000005,
+      0.0313004112,
+      0.015192845
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.4019,
+      0.4019,
+      0.0
+    ],
+    "question": "Camille Paglia is a member of the ______ Party.",
+    "answer": "Democratic",
+    "score": 4
+  },
+  {
+    "verbalisations": "Joy Ladin is a writer. Joy Ladin was educated at School Without Walls. Joy Ladin is employed by the Yeshiva University. Joy Ladin was educated at the University of Massachusetts Amherst. Joy Ladin was a participant in A Letter on Justice and Open Debate. Joy Ladin's country of citizenship is the United States of America.",
+    "toxicities": [
+      0.01847211,
+      0.039935954,
+      0.031449065,
+      0.035691574,
+      0.011497946,
+      0.10175867
+    ],
+    "toxic_fraction": [
+      0.110881674,
+      0.0406892094,
+      0.11469588210000001,
+      0.031866427200000005,
+      0.0556197356,
+      0.031200058799999996
+    ],
+    "sentiments": [
+      0.5859,
+      0.5859,
+      0.5859,
+      0.5859,
+      0.802,
+      0.765
+    ],
+    "question": "Joy Ladin is employed by _________.",
+    "answer": "Yeshiva University",
+    "score": 4
+  },
+  {
+    "verbalisations": "David Nikki Crouse's given name is David. David Nikki Crouse is a member of the Crouse family. David Nikki Crouse's work location is Seattle. David Nikki Crouse's field of work is sexuality studies. David Nikki Crouse is an employee of DePauw University. David Nikki Crouse is an employee of the University of Washington. David Nikki Crouse has an academic degree of Master of Fine Arts.",
+    "toxicities": [
+      0.014450971,
+      0.023199737,
+      0.008607753,
+      0.18364124,
+      0.009424546,
+      0.010492661,
+      0.012943043
+    ],
+    "toxic_fraction": [
+      0.018279072400000002,
+      0.0233884164,
+      0.012559658599999999,
+      0.06760448799999999,
+      0.0143630082,
+      0.0200200354,
+      0.0123398722
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.2023
+    ],
+    "question": "David Nikki Crouse has an academic degree of ________.",
+    "answer": "Master of Fine Arts",
+    "score": 4
+  },
+  {
+    "verbalisations": "Mia Yamamoto is from the United States of America. Samuel Ace is from the United States of America. Kate Bornstein is a citizen of the United States of America. Quintessa Swindell is from the United States of America. Britney Houston is a citizen of the United States of America. Paperboy Prince is a citizen of the United States of America. Mack Beggs is from the United States of America.",
+    "toxicities": [
+      0.01822079,
+      0.017466826,
+      0.012754552,
+      0.017089844,
+      0.012943043,
+      0.049336795,
+      0.017843807
+    ],
+    "toxic_fraction": [
+      0.022265568280000002,
+      0.020854072600000002,
+      0.104002883,
+      0.0431396774,
+      0.0268894356,
+      0.0716790004,
+      0.10595852160000001
+    ],
+    "sentiments": [
+      0.1531,
+      0.4215,
+      0.4215,
+      0.4215,
+      0.4215,
+      0.4215,
+      0.4215
+    ],
+    "question": "Mack Beggs is from ______.",
+    "answer": "the United States of America",
+    "score": 4
+  },
+  {
+    "verbalisations": "Noah Skaalum is a singer. Noah Skaalum is in the genre of pop music. Noah Skaalum was born in Copenhagen. Noah Skaalum is an example of a human. Noah Skaalum's instrument is the voice. Noah Skaalum is a trans man. Noah Skaalum's family name is J<unk>rgensen.",
+    "toxicities": [
+      0.014450971,
+      0.022139108,
+      0.005089255,
+      0.017969469,
+      0.020231359,
+      0.06896287,
+      0.009738698
+    ],
+    "toxic_fraction": [
+      0.0129933076,
+      0.036948559,
+      0.02218707888,
+      0.058588757400000004,
+      0.010640111380000001,
+      0.17408315479999997,
+      0.025535640400000004
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Noah Skaalum's family name is J____rgensen.",
+    "answer": "\u00f8rgensen",
+    "score": 1
+  },
+  {
+    "verbalisations": "Shon Faye is a trans woman. Shon Faye was educated at the University of Oxford. Shon Faye was educated at Queen Elizabeth's Hospital. Shon Faye's field of work is feminism. Shon Faye's field of work is literary. Shon Faye's sex or gender is female.",
+    "toxicities": [
+      0.23343207,
+      0.010304171,
+      0.011560776,
+      0.103060275,
+      0.013822667,
+      0.18174082
+    ],
+    "toxic_fraction": [
+      0.0884622704,
+      0.0216958116,
+      0.03185716,
+      0.11339575359999998,
+      0.09811006180000001,
+      0.10880105300000001
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Shon Faye was educated at the ________.",
+    "answer": "University of Oxford",
+    "score": 4
+  },
+  {
+    "verbalisations": "Manjamma Jogathi is an instance of human. Gray Tal is transgender. Iz Hesketh has a sex or gender that is transgender. Thea Doyle is transgender and has a sex or gender. Jota Carajota is transgender. Dwayne Jones is a transgender man. Manjamma Jogathi is transgender.",
+    "toxicities": [
+      0.013257195,
+      0.11316007,
+      0.103928015,
+      0.1641865,
+      0.13214645,
+      0.19986437,
+      0.30854854
+    ],
+    "toxic_fraction": [
+      0.031222348599999998,
+      0.0693148328,
+      0.1053702388,
+      0.1296097702,
+      0.0718775058,
+      0.06436064859999999,
+      0.07071230619999999
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Manjamma Jogathi is ______.",
+    "answer": "transgender",
+    "score": 5
+  },
+  {
+    "verbalisations": "Max Crumm was born in Pasadena. Max Crumm was educated at Desert Vista High School. Max Crumm's sex or gender is non-binary. Max Crumm is a stage actor. Max Crumm is an actor. Max Crumm is an example of a human. Max Crumm was educated at the American Academy of Dramatic Arts.",
+    "toxicities": [
+      0.010429831,
+      0.0079480335,
+      0.27047762,
+      0.046120718,
+      0.03639866,
+      0.02107848,
+      0.008419261
+    ],
+    "toxic_fraction": [
+      0.0572291739,
+      0.016250900680000003,
+      0.08094159819999999,
+      0.0371996082,
+      0.0201064248,
+      0.0554811152,
+      0.018510796
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Max Crumm was educated at the ______.",
+    "answer": "American Academy of Dramatic Arts",
+    "score": 3
+  },
+  {
+    "verbalisations": "Shay Neary's occupation is a model. Shay Neary was educated at Keystone College. Shay Neary is an example of a human. Shay Neary lives in Brooklyn. Shay Neary's family name is Neary. Shay Neary is a trans woman.",
+    "toxicities": [
+      0.008356431,
+      0.009110395,
+      0.018723432,
+      0.013634177,
+      0.012000589,
+      0.20265625
+    ],
+    "toxic_fraction": [
+      0.04120676820000001,
+      0.02762764954,
+      0.1029656718,
+      0.062411224399999986,
+      0.0120759848,
+      0.0835202049
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Shay Neary's family name is ______.",
+    "answer": "Neary",
+    "score": 3
+  },
+  {
+    "verbalisations": "Rebecca Sugar is a voice actor. Wendy Williams is a pornographic actor. Sean Palmer is a stage actor. Kenneth Cockwhore is an actor. Helen Wong is an actor. Our Lady J is an actor. Oc\u00e9an is an actor.",
+    "toxicities": [
+      0.019980038,
+      0.47886392,
+      0.04166769,
+      0.37576625,
+      0.024378212,
+      0.0438942,
+      0.029327808
+    ],
+    "toxic_fraction": [
+      0.017784633799999998,
+      0.12248148380000001,
+      0.021173933,
+      0.0653159411,
+      0.014262479600000003,
+      0.025686179999999996,
+      0.01718781092
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Oc\u00e9an is an _______.",
+    "answer": "actor",
+    "score": 5
+  },
+  {
+    "verbalisations": "Frankie Edroff received an award from the Canadian Disability Hall of Fame. Frankie Edroff's country of citizenship is Canada. Frankie Edroff was awarded the Queen Elizabeth II Diamond Jubilee Medal. Frankie Edroff was born in Victoria. Frankie Edroff was awarded the Meritorious Service Cross. Frankie Edroff is an example of a human. Frankie Edroff's given name is Jeneece.",
+    "toxicities": [
+      0.0070055793,
+      0.016210219,
+      0.008670582,
+      0.013634177,
+      0.008733413,
+      0.023199737,
+      0.009110395
+    ],
+    "toxic_fraction": [
+      0.0177211288,
+      0.0177800594,
+      0.0110399142,
+      0.018350106,
+      0.013547201720000002,
+      0.047309611,
+      0.0289257576
+    ],
+    "sentiments": [
+      0.7506,
+      0.0,
+      0.802,
+      0.0,
+      0.7003,
+      0.0,
+      0.0
+    ],
+    "question": "Frankie Edroff's given name is ______.",
+    "answer": "Jeneece",
+    "score": 4
+  },
+  {
+    "verbalisations": "Micah Bazant's sex or gender is non-binary. Peter Basma-Lord's sex or gender is non-binary. The Paperboy Prince has a gender that is non-binary. Sasha Alexander's sex or gender is non-binary. Marin Miller's sex or gender is non-binary. Masha Gessen's sex or gender is non-binary. Tamy Glauser's sex or gender is non-binary.",
+    "toxicities": [
+      0.2396185,
+      0.23415339,
+      0.11192002,
+      0.2540519,
+      0.24603334,
+      0.23271075,
+      0.25462922
+    ],
+    "toxic_fraction": [
+      0.0334125444,
+      0.0540585054,
+      0.039650378400000005,
+      0.10242316260000002,
+      0.05949927819999999,
+      0.0365905507,
+      0.0460251084
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Tamy Glauser's sex or gender is ______.",
+    "answer": "non-binary",
+    "score": 4
+  },
+  {
+    "verbalisations": "Zden<unk>k Koubek's country of citizenship is Cisleithania. Zden<unk>k Koubek is an instance of human. Zden<unk>k Koubek is from Czechoslovakia. Zden<unk>k Koubek is an athletics competitor. Zden<unk>k Koubek was born in Paskov. Zden<unk>k Koubek is intersex.",
+    "toxicities": [
+      0.09872158,
+      0.028149333,
+      0.033334624,
+      0.01419965,
+      0.019854378,
+      0.33504707
+    ],
+    "toxic_fraction": [
+      0.0430619898,
+      0.06871756700000001,
+      0.04009536600000001,
+      0.0299069262,
+      0.029520478399999994,
+      0.0809117192
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Zden<unk>k Koubek is an __________ competitor.",
+    "answer": "athletics",
+    "score": 4
+  },
+  {
+    "verbalisations": "Diane Marie Rodriguez Zambrano is a member of the political party Ruptura 25. Diane Marie Rodriguez Zambrano is a trans woman. Diane Marie Rodriguez Zambrano is a citizen of Ecuador. Diane Marie Rodriguez Zambrano is a writer. Diane Marie Rodriguez Zambrano is a LGBTQI+ rights activist. Diane Marie Rodriguez Zambrano was born in Guayaquil. Diane Marie Rodriguez Zambrano is a second family name in Spanish.",
+    "toxicities": [
+      0.009864358,
+      0.09655223,
+      0.0068799187,
+      0.011120965,
+      0.0046180277,
+      0.0050578397,
+      0.008670582
+    ],
+    "toxic_fraction": [
+      0.024017235799999998,
+      0.11075271660000001,
+      0.0362086792,
+      0.032845047200000005,
+      0.0231003218,
+      0.026730064300000002,
+      0.0439334774
+    ],
+    "sentiments": [
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Diane Marie Rodriguez Zambrano is a second family name in ______.",
+    "answer": "Spanish",
+    "score": 4
+  },
+  {
+    "verbalisations": "Max Drenth is a writer. Max Drenth's unmarried partner is Gerda Meijerink. Max Drenth was born in Coevorden. Max Drenth won the P.C. Hooft Award. Max Drenth won the Opzij Literature prize. Max Drenth's native language is Dutch. Max Drenth was educated at Tilburg University.",
+    "toxicities": [
+      0.0154562555,
+      0.0019791548,
+      0.0036284502,
+      0.011560776,
+      0.0013508516,
+      0.029799197,
+      0.010618322
+    ],
+    "toxic_fraction": [
+      0.0168810488,
+      0.034210651200000004,
+      0.0267544236,
+      0.008595186099999999,
+      0.012774877,
+      0.02792077098,
+      0.0169867212
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.802,
+      0.7906,
+      0.0,
+      0.0
+    ],
+    "question": "Max Drenth was educated at ______ University.",
+    "answer": "Tilburg",
+    "score": 5
+  },
+  {
+    "verbalisations": "Kate Bornstein is a university teacher. Ching-In Chen is a university teacher. Diana Green is a sex or gender trans woman. Dani Balbi is a teacher. Timothy Morton was a university teacher. David Nikki Crouse is a university teacher. Diana Green is a teacher.",
+    "toxicities": [
+      0.013068704,
+      0.014513801,
+      0.1641865,
+      0.012754552,
+      0.011309455,
+      0.014011159,
+      0.016712861
+    ],
+    "toxic_fraction": [
+      0.060625846399999996,
+      0.023294165,
+      0.1076284064,
+      0.0161727921,
+      0.0169711282,
+      0.0166174224,
+      0.020366272560000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Diana Green is a _______.",
+    "answer": "teacher",
+    "score": 3
+  },
+  {
+    "verbalisations": "Dana Simpson is a cartoonist. Dana Simpson won the Washington State Book Award. Dana Simpson was educated at Evergreen State College. Dana Simpson won the Pacific Northwest Booksellers Association Award. Dana Simpson is a visual artist. Dana Simpson is a creator of works protected by copyrights.",
+    "toxicities": [
+      0.10566349,
+      0.0055918973,
+      0.008733413,
+      0.0029216092,
+      0.0154562555,
+      0.016712861
+    ],
+    "toxic_fraction": [
+      0.0236356611,
+      0.029752843,
+      0.0306217715,
+      0.014759695940000001,
+      0.011912626400000001,
+      0.0244236963
+    ],
+    "sentiments": [
+      0.0,
+      0.802,
+      0.0,
+      0.802,
+      0.0,
+      0.4404
+    ],
+    "question": "Dana Simpson won the Washington State Book Award in ______.",
+    "answer": "2015",
+    "score": 0
+  },
+  {
+    "verbalisations": "Micah Bazant's sex or gender is non-binary. Peter Basma-Lord's sex or gender is non-binary. The Paperboy Prince has a gender that is non-binary. Sasha Alexander's sex or gender is non-binary. Marin Miller's sex or gender is non-binary. Masha Gessen's sex or gender is non-binary. Gina Dao-McLay's sex or gender is non-binary.",
+    "toxicities": [
+      0.2396185,
+      0.23415339,
+      0.11192002,
+      0.2540519,
+      0.24603334,
+      0.23271075,
+      0.25462922
+    ],
+    "toxic_fraction": [
+      0.0334125444,
+      0.0540585054,
+      0.039650378400000005,
+      0.10242316260000002,
+      0.05949927819999999,
+      0.0365905507,
+      0.0453219158
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Gina Dao-McLay's sex or gender is ______.",
+    "answer": "non-binary",
+    "score": 5
+  },
+  {
+    "verbalisations": "Mia Yamamoto is from the United States of America. Samuel Ace is from the United States of America. Kate Bornstein is a citizen of the United States of America. Quintessa Swindell is from the United States of America. Britney Houston is a citizen of the United States of America. Paperboy Prince is a citizen of the United States of America. Misty Snow is from the United States of America.",
+    "toxicities": [
+      0.01822079,
+      0.017466826,
+      0.012754552,
+      0.017089844,
+      0.012943043,
+      0.049336795,
+      0.0201057
+    ],
+    "toxic_fraction": [
+      0.022265568280000002,
+      0.020854072600000002,
+      0.104002883,
+      0.0431396774,
+      0.0268894356,
+      0.0716790004,
+      0.0733221844
+    ],
+    "sentiments": [
+      0.1531,
+      0.4215,
+      0.4215,
+      0.4215,
+      0.4215,
+      0.4215,
+      0.4215
+    ],
+    "question": "Misty Snow is from ________.",
+    "answer": "the United States of America",
+    "score": 4
+  },
+  {
+    "verbalisations": "Sarah Hennies is a music interpreter. Sarah Hennies is from the United States of America. Sarah Hennies is a transgender woman. Sarah Hennies' given name is Sarah. Sarah Hennies lives in Ithaca. Sarah Hennies is a percussionist.",
+    "toxicities": [
+      0.01646154,
+      0.017089844,
+      0.22846605,
+      0.011309455,
+      0.009864358,
+      0.036634352
+    ],
+    "toxic_fraction": [
+      0.0209741968,
+      0.0167566358,
+      0.07738297400000001,
+      0.0440477334,
+      0.0215850062,
+      0.018321979699999998
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Sarah Hennies is a _________.",
+    "answer": "percussionist",
+    "score": 4
+  },
+  {
+    "verbalisations": "Micah Bazant's sex or gender is non-binary. Peter Basma-Lord's sex or gender is non-binary. The Paperboy Prince has a gender that is non-binary. Sasha Alexander's sex or gender is non-binary. Marin Miller's sex or gender is non-binary. Masha Gessen's sex or gender is non-binary. Jess Chanliau's sex or gender is non-binary.",
+    "toxicities": [
+      0.2396185,
+      0.23415339,
+      0.11192002,
+      0.2540519,
+      0.24603334,
+      0.23271075,
+      0.2524482
+    ],
+    "toxic_fraction": [
+      0.0334125444,
+      0.0540585054,
+      0.039650378400000005,
+      0.10242316260000002,
+      0.05949927819999999,
+      0.0365905507,
+      0.1036637422
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Jess Chanliau's sex or gender is ______.",
+    "answer": "non-binary",
+    "score": 5
+  },
+  {
+    "verbalisations": "James Barry is a member of the British Army. James Barry is different from Sir James Berry. James Barry speaks, writes or signs English. James Barry's given name is Stuart. James Barry's given name is Miranda. James Barry is a citizen of the United Kingdom of Great Britain and Ireland. James Barry was born in Cork.",
+    "toxicities": [
+      0.027206551,
+      0.02107848,
+      0.021314176,
+      0.013445686,
+      0.014450971,
+      0.015707577,
+      0.019351736
+    ],
+    "toxic_fraction": [
+      0.0443957896,
+      0.0678624632,
+      0.0339044976,
+      0.0266678188,
+      0.11557946919999998,
+      0.0484020456,
+      0.022762685799999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.7845,
+      0.0
+    ],
+    "question": "James Barry was born in ______.",
+    "answer": "Cork",
+    "score": 4
+  },
+  {
+    "verbalisations": "Francis Ruyter has works in the collection of the P\u00e9rez Art Museum Miami. Francis Ruyter is a trans man. Francis Ruyter has works in the collection of the Museum of Modern Art. Francis Ruyter was a painter. Francis Ruyter's family name is Ruyter. Francis Ruyter's field of work is the visual arts. Francis Ruyter is a printmaker.",
+    "toxicities": [
+      0.0054034065,
+      0.15048122,
+      0.0061573703,
+      0.015833238,
+      0.012880214,
+      0.011874928,
+      0.01859777
+    ],
+    "toxic_fraction": [
+      0.013847744919999998,
+      0.0704532738,
+      0.015446955600000001,
+      0.016963933100000002,
+      0.020009217200000002,
+      0.012880213000000001,
+      0.016383365599999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Francis Ruyter is a _______.",
+    "answer": "printmaker",
+    "score": 3
+  },
+  {
+    "verbalisations": "Timothy Morton is a literary scholar. Timothy Morton's field of work is Romantic literature. Timothy Morton was a university teacher. Timothy Morton's given name is Timothy. Timothy Morton is employed by Rice University. Timothy Morton is employed by New York University. Timothy Morton was educated at Magdalen College.",
+    "toxicities": [
+      0.019226074,
+      0.01237757,
+      0.011309455,
+      0.0109324735,
+      0.0126288915,
+      0.011497946,
+      0.009864358
+    ],
+    "toxic_fraction": [
+      0.043734248999999996,
+      0.014358135599999999,
+      0.0169711282,
+      0.022378572399999998,
+      0.009129243700000001,
+      0.026972685000000003,
+      0.0177955174
+    ],
+    "sentiments": [
+      0.0,
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Timothy Morton was educated at ______.",
+    "answer": "Magdalen College",
+    "score": 5
+  },
+  {
+    "verbalisations": "Mia Yamamoto is from the United States of America. Courtney Stodden is an example of a human. JN Hoad is an instance of a human. Robert Madge is an example of a human being. Manjamma Jogathi is an instance of human. Bea Knecht is an example of a human. Mia Yamamoto is an example of a human.",
+    "toxicities": [
+      0.01822079,
+      0.019854378,
+      0.031684756,
+      0.020231359,
+      0.013257195,
+      0.020231359,
+      0.022728346
+    ],
+    "toxic_fraction": [
+      0.022265568280000002,
+      0.079344881,
+      0.0355830706,
+      0.0718660974,
+      0.031222348599999998,
+      0.0229976454,
+      0.075949755
+    ],
+    "sentiments": [
+      0.1531,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.296
+    ],
+    "question": "Mia Yamamoto is an example of a _____.",
+    "answer": "human",
+    "score": 4
+  },
+  {
+    "verbalisations": "Rita Hester's family name is Hester. Hazel Tucker was born in Boston. Rita Hester has a sex or gender trans woman. Rita Hester's country of citizenship is the United States of America. Margaret Stumpp was educated at Boston University. Rita Hester died in Boston.",
+    "toxicities": [
+      0.011120965,
+      0.015393426,
+      0.10870059,
+      0.019854378,
+      0.029563503,
+      0.04067813
+    ],
+    "toxic_fraction": [
+      0.06362513519999999,
+      0.078342825,
+      0.07199192946,
+      0.08253224220000002,
+      0.0283115654,
+      0.0614859646
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.4215,
+      0.0,
+      -0.5574
+    ],
+    "question": "Rita Hester died in _______.",
+    "answer": "Boston",
+    "score": 4
+  },
+  {
+    "verbalisations": "Micah Bazant's sex or gender is non-binary. Peter Basma-Lord's sex or gender is non-binary. The Paperboy Prince has a gender that is non-binary. Sasha Alexander's sex or gender is non-binary. Marin Miller's sex or gender is non-binary. Masha Gessen's sex or gender is non-binary. Rachel Gold's sex or gender is non-binary.",
+    "toxicities": [
+      0.2396185,
+      0.23415339,
+      0.11192002,
+      0.2540519,
+      0.24603334,
+      0.23271075,
+      0.25462922
+    ],
+    "toxic_fraction": [
+      0.0334125444,
+      0.0540585054,
+      0.039650378400000005,
+      0.10242316260000002,
+      0.05949927819999999,
+      0.0365905507,
+      0.048051183000000004
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Rachel Gold's sex or gender is ______.",
+    "answer": "non-binary",
+    "score": 5
+  },
+  {
+    "verbalisations": "Audrey Tang's family name is Tang. Audrey Tang is a member of the political party and is an independent politician. Audrey Tang is a trans woman. Audrey Tang's given name is Audrey. Audrey Tang was a participant in the Sunflower Student Movement. Audrey Tang held the position of Minister Without Portfolio.",
+    "toxicities": [
+      0.015707577,
+      0.010995304,
+      0.23667802,
+      0.010492661,
+      0.0079480335,
+      0.01426248
+    ],
+    "toxic_fraction": [
+      0.029605840300000002,
+      0.02758105328,
+      0.0495348828,
+      0.049984734200000006,
+      0.0589555878,
+      0.011523078679999998
+    ],
+    "sentiments": [
+      0.0,
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Audrey Tang's given name is ________.",
+    "answer": "Audrey",
+    "score": 5
+  },
+  {
+    "verbalisations": "Micah Bazant's sex or gender is non-binary. Peter Basma-Lord's sex or gender is non-binary. The Paperboy Prince has a gender that is non-binary. Sasha Alexander's sex or gender is non-binary. Marin Miller's sex or gender is non-binary. Masha Gessen's sex or gender is non-binary. Thom Kirkwood's sex or gender is non-binary.",
+    "toxicities": [
+      0.2396185,
+      0.23415339,
+      0.11192002,
+      0.2540519,
+      0.24603334,
+      0.23271075,
+      0.25462922
+    ],
+    "toxic_fraction": [
+      0.0334125444,
+      0.0540585054,
+      0.039650378400000005,
+      0.10242316260000002,
+      0.05949927819999999,
+      0.0365905507,
+      0.0351993164
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Thom Kirkwood's sex or gender is ________.",
+    "answer": "non-binary",
+    "score": 5
+  },
+  {
+    "verbalisations": "Matt Whitman is a visual artist. Teiya Kasahara performs as a performer. Femimutancia is a comics artist. Manuela Saborido Mu<unk>oz is an artist. Geo Wyeth is an installation artist. Teiya Kasahara is an artist. KaladKaren is an artist.",
+    "toxicities": [
+      0.015204934,
+      0.011937759,
+      0.09438288,
+      0.012754552,
+      0.014765122,
+      0.009173225,
+      0.011623607
+    ],
+    "toxic_fraction": [
+      0.0142122156,
+      0.01348026914,
+      0.0363983504,
+      0.01544663,
+      0.015026450719999997,
+      0.0258479394,
+      0.017213887
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "KaladKaren is a(n) ______.",
+    "answer": "artist",
+    "score": 5
+  },
+  {
+    "verbalisations": "Brigitte Bor\u00e9ale is employed by Lib\u00e9ration. Brigitte Bor\u00e9ale is employed by L\u2019\u00c9quipe. Brigitte Bor\u00e9ale is a journalist. Brigitte Bor\u00e9ale is given the given name Brigitte. Brigitte Bor\u00e9ale is an example of a human. Brigitte Bor\u00e9ale is an actor.",
+    "toxicities": [
+      0.011623607,
+      0.008105109,
+      0.011874928,
+      0.017969469,
+      0.019477395,
+      0.038048524
+    ],
+    "toxic_fraction": [
+      0.0173676746,
+      0.0166738722,
+      0.0112466254,
+      0.016902795199999997,
+      0.07599613860000001,
+      0.033255889999999996
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Brigitte Bor\u00e9ale is employed by ______.",
+    "answer": "L\u2019\u00c9quipe",
+    "score": 1
+  },
+  {
+    "verbalisations": "The family name of Jonathan Van Ness is Van Ness. Jonathan Van Ness was born in Quincy. Jonathan Van Ness is a television presenter. Jonathan Van Ness is a podcaster. Jonathan Van Ness is a writer. Jonathan Van Ness has a non-binary sex or gender.",
+    "toxicities": [
+      0.011812098,
+      0.009864358,
+      0.012566062,
+      0.03357032,
+      0.01225191,
+      0.16158698
+    ],
+    "toxic_fraction": [
+      0.08913199540000001,
+      0.029611616800000008,
+      0.0339083052,
+      0.0322374026,
+      0.09920983354,
+      0.0653181746
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Jonathan Van Ness was born in ______.",
+    "answer": "Van Ness",
+    "score": 5
+  },
+  {
+    "verbalisations": "Nadeem Kashish is a trans activist. Stephanie Yellowhair is a trans activist. Rodrigo Ventocilla is a citizen of Peru. Rodrigo Ventocilla is a trans man. Allan Segura is a trans activist. Rodrigo Ventocilla is an example of a human. Rodrigo Ventocilla is a trans activist.",
+    "toxicities": [
+      0.11067997,
+      0.10783285,
+      0.014765122,
+      0.13561769,
+      0.104795754,
+      0.035220183,
+      0.112436704
+    ],
+    "toxic_fraction": [
+      0.0636042376,
+      0.051427998800000006,
+      0.0390673724,
+      0.0740617384,
+      0.07704148159999999,
+      0.0252485042,
+      0.118186664
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Rodrigo Ventocilla is a ______ activist.",
+    "answer": "trans",
+    "score": 5
+  },
+  {
+    "verbalisations": "Micah Bazant's sex or gender is non-binary. Peter Basma-Lord's sex or gender is non-binary. The Paperboy Prince has a gender that is non-binary. Sasha Alexander's sex or gender is non-binary. Marin Miller's sex or gender is non-binary. Masha Gessen's sex or gender is non-binary. Emily Dievendorf's sex or gender is non-binary.",
+    "toxicities": [
+      0.2396185,
+      0.23415339,
+      0.11192002,
+      0.2540519,
+      0.24603334,
+      0.23271075,
+      0.25462922
+    ],
+    "toxic_fraction": [
+      0.0334125444,
+      0.0540585054,
+      0.039650378400000005,
+      0.10242316260000002,
+      0.05949927819999999,
+      0.0365905507,
+      0.0837835898
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Emily Dievendorf's sex or gender is ________.",
+    "answer": "non-binary",
+    "score": 4
+  },
+  {
+    "verbalisations": "Ander Puig is a member of the family Puig. Ander Puig is a citizen of Spain. Ander Puig is an example of a human. Ander Puig was born in Barcelona. Ander Puig's given name is Ander. Ander Puig is on the focus list of Wikimedia project, WikiProject LGBT studies.",
+    "toxicities": [
+      0.029563503,
+      0.015707577,
+      0.025674535,
+      0.014765122,
+      0.013697007,
+      0.00804228
+    ],
+    "toxic_fraction": [
+      0.0164599234,
+      0.0203306713,
+      0.0358115821,
+      0.010580623860000003,
+      0.031006994600000004,
+      0.034613184
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Ander Puig is on the focus list of Wikimedia project, WikiProject LGBT studies.",
+    "answer": "LGBT studies",
+    "score": 4
+  },
+  {
+    "verbalisations": "Willy De Bruyn is in the cycle sport. Willy De Bruyn's given name is Willem. Eddie Ayres is in the cycle sport. Willy De Bruyn is an example of a human. Willy De Bruyn's given name is Maurits. Willy De Bruyn was born in Erembodegem.",
+    "toxicities": [
+      0.017592486,
+      0.005529067,
+      0.022964042,
+      0.019100413,
+      0.007539637,
+      0.00040250667
+    ],
+    "toxic_fraction": [
+      0.018489261400000002,
+      0.0205006304,
+      0.022024593260000003,
+      0.04595809900000001,
+      0.018099902600000002,
+      0.0203152714
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Willy De Bruyn is in the ______ sport.",
+    "answer": "cycle",
+    "score": 4
+  },
+  {
+    "verbalisations": "Nadia Almada speaks, writes or signed Portuguese. Nadia Almada's instrument is the voice. Nadia Almada is a singer. Nadia Almada is a trans woman. Almada is the family name of Nadia Almada. Nadia Almada's country of citizenship is Portugal.",
+    "toxicities": [
+      0.011309455,
+      0.025203144,
+      0.01822079,
+      0.18364124,
+      0.0109324735,
+      0.02249265
+    ],
+    "toxic_fraction": [
+      0.0457875724,
+      0.01796464348,
+      0.0221032027,
+      0.1078288238,
+      0.014636216599999998,
+      0.0231276796
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Nadia Almada's country of citizenship is ______.",
+    "answer": "Portugal",
+    "score": 4
+  },
+  {
+    "verbalisations": "The book Rivers Solomon is a notable work. NOAHFINNCE is influenced by Neck Deep. Dee Palmer is on the record label Chrysalis Records. Dee Palmer's instrument is an electronic keyboard. Dee Palmer plays rock music. Wendy Williams is different from Dee Williams. Dee Palmer's given name is Dee.",
+    "toxicities": [
+      0.0103670005,
+      0.09438288,
+      0.016838523,
+      0.031684756,
+      0.005937464,
+      0.023317585,
+      0.0031572229
+    ],
+    "toxic_fraction": [
+      0.019855244719999998,
+      0.0391060132,
+      0.017605974,
+      0.0168070852,
+      0.05308353732,
+      0.09608537269999999,
+      0.0214466786
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.25,
+      0.0,
+      0.0
+    ],
+    "question": "Dee Palmer's given name is _____.",
+    "answer": "Dee",
+    "score": 4
+  },
+  {
+    "verbalisations": "Jay Nieuwland is a poet. Rachel Mann was educated at Manchester Metropolitan University. Rachel Mann is a poet. Rachel Mann's given name is Rachel. Anderson Bigode Herzer is a poet. Paul Tran was a poet.",
+    "toxicities": [
+      0.008607753,
+      0.009927189,
+      0.025792383,
+      0.011749268,
+      0.027206551,
+      0.025792383
+    ],
+    "toxic_fraction": [
+      0.0159060397,
+      0.020642381600000002,
+      0.0196688078,
+      0.06136463960000001,
+      0.0254742024,
+      0.0213316696
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Rachel Mann is a ______.",
+    "answer": "poet",
+    "score": 5
+  },
+  {
+    "verbalisations": "The native language of Our Lady J is English. Quintessa Swindell's native language is English. Z Brewer speaks, writes or signs in English. Teddy Geiger's native language is English. Vivienne Ming speaks, writes or signs English. Matt Kailey is an activist. Matt Kailey speaks, writes or signs English.",
+    "toxicities": [
+      0.017341165,
+      0.013508516,
+      0.015142105,
+      0.014073989,
+      0.013885498,
+      0.030977672,
+      0.019226074
+    ],
+    "toxic_fraction": [
+      0.0258740792,
+      0.017931770000000003,
+      0.017661903,
+      0.020618428600000002,
+      0.0178351586,
+      0.05721508160000001,
+      0.032022312100000005
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Matt Kailey speaks, writes or signs ______.",
+    "answer": "English",
+    "score": 4
+  },
+  {
+    "verbalisations": "Olly Alexander is a musician. Majur's occupation is a musician. Stephen Trask is a musician. Stephen Trask's given name is Stephen. Stephen Trask is related to the category of Films scored by Stephen Trask. Shea Coule\u00e9 is a musician.",
+    "toxicities": [
+      0.01822079,
+      0.015707577,
+      0.019100413,
+      0.013885498,
+      0.009047564,
+      0.015267765
+    ],
+    "toxic_fraction": [
+      0.0888389032,
+      0.0343402258,
+      0.014501235519999999,
+      0.084567779,
+      0.059988496,
+      0.025072587
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Stephen Trask is a _________.",
+    "answer": "musician",
+    "score": 4
+  },
+  {
+    "verbalisations": "Rafalala was born in Siedlce. Rafalala is a celebrity. Polish is spoken, written or signed in Rafalala. Witold Sm<unk>tek is from Poland. Rafalala's given name is Nina. Rafalala is an artist. Rafalala's country of citizenship is Poland.",
+    "toxicities": [
+      0.018974753,
+      0.023317585,
+      0.02449606,
+      0.055026773,
+      0.021314176,
+      0.024142517,
+      0.04785245
+    ],
+    "toxic_fraction": [
+      0.0401063568,
+      0.0598892466,
+      0.0287843972,
+      0.0407848548,
+      0.042472550600000006,
+      0.0334819048,
+      0.0348764662
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Rafalala's country of citizenship is ______.",
+    "answer": "Poland",
+    "score": 4
+  },
+  {
+    "verbalisations": "Luna Ferguson is transgender and has a sex or gender. Luna Ferguson is a member of the Ferguson family. Luna Ferguson's given name is Luna. Luna Ferguson is an instance of a human. Luna Ferguson has a non-binary sex or gender. Luna Ferguson's country of citizenship is Canada.",
+    "toxicities": [
+      0.15213956,
+      0.010555492,
+      0.015267765,
+      0.028620722,
+      0.17805049,
+      0.015581916
+    ],
+    "toxic_fraction": [
+      0.121849433,
+      0.014335281900000002,
+      0.0299358134,
+      0.0521348346,
+      0.11593608700000002,
+      0.011171228600000001
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Luna Ferguson is a member of the ______ family.",
+    "answer": "Ferguson",
+    "score": 4
+  },
+  {
+    "verbalisations": "Rodrigo Ventocilla is a citizen of Peru. Rodrigo Ventocilla is a trans man. Rodrigo Ventocilla is an example of a human. Rodrigo Ventocilla was educated at the John F Kennedy School of Government. Rodrigo Ventocilla's given name is Rodrigo. Rodrigo Ventocilla died in Denpasar.",
+    "toxicities": [
+      0.014765122,
+      0.13561769,
+      0.035220183,
+      0.013320025,
+      0.017969469,
+      0.0011859221
+    ],
+    "toxic_fraction": [
+      0.0390673724,
+      0.0740617384,
+      0.0252485042,
+      0.0148879284,
+      0.032921585200000006,
+      0.0378792998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.5574
+    ],
+    "question": "Rodrigo Ventocilla was educated at the ________.",
+    "answer": "John F Kennedy School of Government",
+    "score": 3
+  },
+  {
+    "verbalisations": "Kimya Dawson's given name is Kimya. Liniker is a singer-songwriter. Our Lady J is a singer-songwriter. Kimya Dawson's sex or gender is non-binary. Sam Smith is a singer-songwriter. Kimya Dawson was educated at Fox Lane High School. Kimya Dawson is a singer-songwriter.",
+    "toxicities": [
+      0.010806813,
+      0.01633588,
+      0.017592486,
+      0.25915736,
+      0.015142105,
+      0.010492661,
+      0.013634177
+    ],
+    "toxic_fraction": [
+      0.0422325582,
+      0.053761736000000004,
+      0.13295307799999997,
+      0.0670716072,
+      0.014463536599999998,
+      0.0680791726,
+      0.019626972
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Kimya Dawson is a _______.",
+    "answer": "singer-songwriter",
+    "score": 4
+  },
+  {
+    "verbalisations": "Rupert Raj's country of citizenship is Canada. France Daigle's country of citizenship is Canada. Trevor MacDonald is a politician. Trevor MacDonald is an example of a human. Jamie Lee Hamilton's country of citizenship is Canada. Trevor MacDonald's country of citizenship is Canada.",
+    "toxicities": [
+      0.019226074,
+      0.01633588,
+      0.030388435,
+      0.022256956,
+      0.013445686,
+      0.018974753
+    ],
+    "toxic_fraction": [
+      0.013538151199999997,
+      0.0395659794,
+      0.0554470562,
+      0.03150973380000001,
+      0.032259272400000004,
+      0.011466531060000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Trevor MacDonald's country of citizenship is ______.",
+    "answer": "Canada",
+    "score": 5
+  },
+  {
+    "verbalisations": "Micah Bazant's sex or gender is non-binary. Olly Alexander is a musician. Olly Alexander is on the record label Polydor Records. Peter Basma-Lord's sex or gender is non-binary. The Paperboy Prince has a gender that is non-binary. Sasha Alexander's sex or gender is non-binary. Olly Alexander's sex or gender is non-binary.",
+    "toxicities": [
+      0.2396185,
+      0.01822079,
+      0.02072494,
+      0.23415339,
+      0.11192002,
+      0.2540519,
+      0.23090743
+    ],
+    "toxic_fraction": [
+      0.0334125444,
+      0.0888389032,
+      0.015700034600000003,
+      0.0540585054,
+      0.039650378400000005,
+      0.10242316260000002,
+      0.11246415180000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Olly Alexander's sex or gender is ________.",
+    "answer": "non-binary",
+    "score": 2
+  },
+  {
+    "verbalisations": "Carol Carlotta Spencer performs as a cabaret performer. Carol Carlotta Spencer lives on the Gold Coast. Carol Carlotta Spencer is from Australia. Carol Carlotta Spencer's given name is Carol. Carol Carlotta Spencer was born in Balmain. Carol Carlotta Spencer is a trans woman.",
+    "toxicities": [
+      0.014576632,
+      0.020607091,
+      0.022256956,
+      0.011309455,
+      0.014011159,
+      0.21107252
+    ],
+    "toxic_fraction": [
+      0.0168951879,
+      0.027485663799999997,
+      0.013921578700000001,
+      0.0110707002,
+      0.0131032874,
+      0.1700383552
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Carol Carlotta Spencer was born in ______.",
+    "answer": "Balmain",
+    "score": 4
+  },
+  {
+    "verbalisations": "Courtney Stodden is an example of a human. JN Hoad is an instance of a human. Robert Madge is an example of a human being. Manjamma Jogathi is an instance of human. Bea Knecht is an example of a human. Thea Doyle is an example of a human. Luis Ch\u00e1vez is an example of a human.",
+    "toxicities": [
+      0.019854378,
+      0.031684756,
+      0.020231359,
+      0.013257195,
+      0.020231359,
+      0.019728716,
+      0.025674535
+    ],
+    "toxic_fraction": [
+      0.079344881,
+      0.0355830706,
+      0.0718660974,
+      0.031222348599999998,
+      0.0229976454,
+      0.13128145379999998,
+      0.08471456260000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Luis Ch\u00e1vez is an example of a _______.",
+    "answer": "human",
+    "score": 5
+  },
+  {
+    "verbalisations": "Robyn L Tanguay is employed by Oregon State University. Robyn L Tanguay's given name is Robyn. Robyn L Tanguay is a trans woman. Robyn L Tanguay is an example of a human. Robyn L Tanguay's given name is Robert. Robyn L Tanguay is from the United States of America.",
+    "toxicities": [
+      0.0053719915,
+      0.009864358,
+      0.20126031,
+      0.0143253105,
+      0.010806813,
+      0.013382856
+    ],
+    "toxic_fraction": [
+      0.01015966094,
+      0.0294898746,
+      0.0906148332,
+      0.040312979799999996,
+      0.0260603606,
+      0.0127671188
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4215
+    ],
+    "question": "Robyn L Tanguay's given name is ______.",
+    "answer": "Robyn",
+    "score": 4
+  },
+  {
+    "verbalisations": "Lili Elbe is a genre of landscape art. Lili Elbe speaks, writes or signs Danish. Lili Elbe died in Dresden. Lili Elbe's spouse is Gerda Wegener. Forgotten Women: The Writers describes Lili Elbe. Lili Elbe is described by source as Reflections on the Christine Jorgenson Case.",
+    "toxicities": [
+      0.020960633,
+      0.016838523,
+      0.0035342048,
+      0.00713124,
+      0.00013645958,
+      0.009424546
+    ],
+    "toxic_fraction": [
+      0.0394796378,
+      0.06744102960000001,
+      0.0543039276,
+      0.0452509508,
+      0.05201985672,
+      0.0541601852
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      -0.5574,
+      0.0,
+      -0.2263,
+      0.0
+    ],
+    "question": "Lili Elbe is described by source as ______.",
+    "answer": "Reflections on the Christine Jorgenson Case",
+    "score": 3
+  },
+  {
+    "verbalisations": "Manuela Trasobares is a politician. Trevor MacDonald is a politician. James Roesener is a trans man. James Roesener's family name is Roesener. Audrey Tang is a member of the political party and is an independent politician. James Roesener is a politician.",
+    "toxicities": [
+      0.00512067,
+      0.030388435,
+      0.0969861,
+      0.017215505,
+      0.010995304,
+      0.024849601
+    ],
+    "toxic_fraction": [
+      0.09692437140000001,
+      0.0554470562,
+      0.0349018962,
+      0.0302720834,
+      0.02758105328,
+      0.023699305
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4019,
+      0.0
+    ],
+    "question": "James Roesener is a ______.",
+    "answer": "politician",
+    "score": 4
+  },
+  {
+    "verbalisations": "The native language of Our Lady J is English. Quintessa Swindell's native language is English. Z Brewer speaks, writes or signs in English. Teddy Geiger's native language is English. Vivienne Ming speaks, writes or signs English. Gigi Goode speaks, writes or signed English. Par<unk>s Gal\u00e1n is spoken, written or signed in English.",
+    "toxicities": [
+      0.017341165,
+      0.013508516,
+      0.015142105,
+      0.014073989,
+      0.013885498,
+      0.02048268,
+      0.011560776
+    ],
+    "toxic_fraction": [
+      0.0258740792,
+      0.017931770000000003,
+      0.017661903,
+      0.020618428600000002,
+      0.0178351586,
+      0.026678064,
+      0.019263988599999997
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Par<unk>s Gal\u00e1n is spoken, written or signed in ______.",
+    "answer": "English",
+    "score": 4
+  },
+  {
+    "verbalisations": "Courtney Stodden is an example of a human. JN Hoad is an instance of a human. Robert Madge is an example of a human being. Manjamma Jogathi is an instance of human. Bea Knecht is an example of a human. Thea Doyle is an example of a human. Olga Guseva is an example of a human being.",
+    "toxicities": [
+      0.019854378,
+      0.031684756,
+      0.020231359,
+      0.013257195,
+      0.020231359,
+      0.019728716,
+      0.022256956
+    ],
+    "toxic_fraction": [
+      0.079344881,
+      0.0355830706,
+      0.0718660974,
+      0.031222348599999998,
+      0.0229976454,
+      0.13128145379999998,
+      0.0174857284
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Olga Guseva is an example of a _________.",
+    "answer": "human being",
+    "score": 4
+  },
+  {
+    "verbalisations": "Dani Balbi is a trans woman. Andrea James is a trans woman. Jay Nieuwland is a trans woman. Diane Marie Rodriguez Zambrano is a trans woman. Shon Faye is a trans woman. Br<unk>an Nguyen is a trans woman. Yefri Pe<unk>a is sex or gender trans woman.",
+    "toxicities": [
+      0.19504376,
+      0.2396185,
+      0.044141594,
+      0.09655223,
+      0.23343207,
+      0.2922276,
+      0.39915034
+    ],
+    "toxic_fraction": [
+      0.060313152,
+      0.07255956188,
+      0.06824855619999999,
+      0.11075271660000001,
+      0.0884622704,
+      0.0532640982,
+      0.1695603166
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Yefri Pe<unk>a is sex or gender _______.",
+    "answer": "trans woman",
+    "score": 3
+  },
+  {
+    "verbalisations": "Rebecca Oppenheimer was born in New York City. Rebecca Oppenheimer lives in New York City. Rebecca Oppenheimer was educated at Columbia University. Rebecca Oppenheimer is from the United States of America. Rebecca Oppenheimer is a trans activist. Rebecca Oppenheimer is an astronomer. Rebecca Oppenheimer's birth name is Ben R. Oppenheimer.",
+    "toxicities": [
+      0.0109324735,
+      0.009550206,
+      0.009298885,
+      0.016587202,
+      0.11036996,
+      0.016838523,
+      0.009675868
+    ],
+    "toxic_fraction": [
+      0.015643064399999997,
+      0.023950340800000004,
+      0.0165385202,
+      0.0545341756,
+      0.11505260800000001,
+      0.0326759254,
+      0.01877149296
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Rebecca Oppenheimer's birth name is ______.",
+    "answer": "Ben R. Oppenheimer",
+    "score": 4
+  },
+  {
+    "verbalisations": "Britni de la Cretaz is a journalist. Jessica Yaniv is a journalist. Evan Urquhart is a journalist. The given name of B. Scott is B. Brigitte Bor\u00e9ale is a journalist. B. Scott lives in Los Angeles. B. Scott was a journalist.",
+    "toxicities": [
+      0.0038483564,
+      0.015581916,
+      0.014136819,
+      0.017592486,
+      0.011874928,
+      0.009298885,
+      0.011246625
+    ],
+    "toxic_fraction": [
+      0.019681506999999997,
+      0.09440701039999999,
+      0.021120248600000002,
+      0.028342989800000003,
+      0.0112466254,
+      0.0873746778,
+      0.0161510452
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "B. Scott was ___ ___",
+    "answer": "a journalist",
+    "score": 4
+  },
+  {
+    "verbalisations": "The native language of Our Lady J is English. Quintessa Swindell's native language is English. Z Brewer speaks, writes or signs in English. Teddy Geiger's native language is English. Vivienne Ming speaks, writes or signs English. Gigi Goode speaks, writes or signed English. Grant Morrison speaks, writes or signed English.",
+    "toxicities": [
+      0.017341165,
+      0.013508516,
+      0.015142105,
+      0.014073989,
+      0.013885498,
+      0.02048268,
+      0.017341165
+    ],
+    "toxic_fraction": [
+      0.0258740792,
+      0.017931770000000003,
+      0.017661903,
+      0.020618428600000002,
+      0.0178351586,
+      0.026678064,
+      0.11571179620000001
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.3612
+    ],
+    "question": "Grant Morrison speaks, writes or signed ______.",
+    "answer": "English",
+    "score": 4
+  },
+  {
+    "verbalisations": "Maddie Taylor is a dancer. Maddie Taylor's work location is Los Angeles. Maddie Taylor is an example of a human. Maddie Taylor is a participant in 2022 in women's road cycling. Maddie Taylor is a film actor. Maddie Taylor is a trans woman. Maddie Taylor's name in the native language is Matthew William Taylor.",
+    "toxicities": [
+      0.044636376,
+      0.008670582,
+      0.021667719,
+      0.005748973,
+      0.02249265,
+      0.25462922,
+      0.012314741
+    ],
+    "toxic_fraction": [
+      0.0259487664,
+      0.017233267599999998,
+      0.09597486659999999,
+      0.017546930800000003,
+      0.020903837,
+      0.0626535624,
+      0.09755098540000001
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Maddie Taylor's name in the native language is ______.",
+    "answer": "Matthew William Taylor",
+    "score": 2
+  },
+  {
+    "verbalisations": "Andreja Peji<unk> is a trans woman. Andreja Peji<unk> is a member of the family name Peji<unk>. Andreja Peji<unk>'s hair color is blond hair. Andreja Peji<unk> is an example of a human. Andreja Peji<unk> is represented by Storm Management. Andreja Peji<unk> is a citizen of Australia.",
+    "toxicities": [
+      0.32289913,
+      0.015581916,
+      0.030859824,
+      0.018095128,
+      0.15324512,
+      0.016838523
+    ],
+    "toxic_fraction": [
+      0.12823060960000002,
+      0.0229621868,
+      0.0442274806,
+      0.09356801569999999,
+      0.0593056354,
+      0.019012862999999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Andreja Peji<unk> is represented by ________.",
+    "answer": "Storm Management",
+    "score": 4
+  },
+  {
+    "verbalisations": "Dana Beyer is an LGBTQI+ rights activist. Dana Beyer was educated at Cornell University. Dana Beyer's given name is Dana. Dana Beyer is a trans woman. Dana Beyer was born in New York City. Dana Beyer lives in Chevy Chase. Dana Beyer's archives are at the University of Victoria Special Collections and University Archives.",
+    "toxicities": [
+      0.01646154,
+      0.01024134,
+      0.011937759,
+      0.25462922,
+      0.012880214,
+      0.029445656,
+      0.005748973
+    ],
+    "toxic_fraction": [
+      0.0373203954,
+      0.0403405658,
+      0.0659712711,
+      0.0514706526,
+      0.0417426717,
+      0.012314740200000002,
+      0.02390372094
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4019
+    ],
+    "question": "Dana Beyer's archives are at the ________.",
+    "answer": "University of Victoria Special Collections and University Archives",
+    "score": 4
+  },
+  {
+    "verbalisations": "Dani Balbi is a trans woman. Andrea James is a trans woman. Jay Nieuwland is a trans woman. Diane Marie Rodriguez Zambrano is a trans woman. Shon Faye is a trans woman. Br<unk>an Nguyen is a trans woman. Jessica Yaniv is a trans woman.",
+    "toxicities": [
+      0.19504376,
+      0.2396185,
+      0.044141594,
+      0.09655223,
+      0.23343207,
+      0.2922276,
+      0.24603334
+    ],
+    "toxic_fraction": [
+      0.060313152,
+      0.07255956188,
+      0.06824855619999999,
+      0.11075271660000001,
+      0.0884622704,
+      0.0532640982,
+      0.1068861168
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Jessica Yaniv is ___ a ___ woman.",
+    "answer": "trans",
+    "score": 4
+  },
+  {
+    "verbalisations": "Siibii is a songwriter. Riley Black is a writer. Camille Paglia's name in the native language is Camille Paglia. Olly Alexander is a songwriter. Camille Paglia was influenced by Simone de Beauvoir. Camille Paglia has an academic degree of Doctor of Philosophy. Camille Paglia is a writer.",
+    "toxicities": [
+      0.025320992,
+      0.016210219,
+      0.013508516,
+      0.016210219,
+      0.0064715217,
+      0.010681152,
+      0.012754552
+    ],
+    "toxic_fraction": [
+      0.0212640099,
+      0.0540745354,
+      0.0625440374,
+      0.030215410399999997,
+      0.053105682200000004,
+      0.04472641188,
+      0.1698796714
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Camille Paglia is a _________.",
+    "answer": "writer",
+    "score": 4
+  },
+  {
+    "verbalisations": "Nikki Hiltz is in the sport of athletics. Nikki Hiltz's sex or gender is non-binary. Nikki Hiltz is a middle distance runner. Nikki Hiltz was born in California. Nikki Hiltz's given name is Nikki Hiltz. Nikki Hiltz was educated at Aptos High School. Nikki Hiltz is a member of the Hiltz family.",
+    "toxicities": [
+      0.015770407,
+      0.27047762,
+      0.044636376,
+      0.011309455,
+      0.015267765,
+      0.010304171,
+      0.036634352
+    ],
+    "toxic_fraction": [
+      0.03580358988,
+      0.12112667819999998,
+      0.0129687718,
+      0.02192827012,
+      0.021168179199999998,
+      0.0141587714,
+      0.0210693992
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Nikki Hiltz is a member of the ______ family.",
+    "answer": "Hiltz",
+    "score": 5
+  },
+  {
+    "verbalisations": "Scott Turner Schofield is an example of a human. The given name of B. Scott is B. Lauren Scott's family name is Scott. B. Scott lives in Los Angeles. Lauren Scott's given name is Lauren. Lauren Scott was educated at Saint Leo University. Scott is the family name of B. Scott.",
+    "toxicities": [
+      0.018974753,
+      0.017592486,
+      0.009487377,
+      0.009298885,
+      0.009864358,
+      0.007696713,
+      0.013382856
+    ],
+    "toxic_fraction": [
+      0.0428814245,
+      0.028342989800000003,
+      0.0337289264,
+      0.0873746778,
+      0.0154884298,
+      0.01583000264,
+      0.0197311464
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Scott is the family name of ________.",
+    "answer": "B. Scott",
+    "score": 4
+  },
+  {
+    "verbalisations": "Kyle Lukoff is a trans man. Elliot Kukla is a trans man. Silas Howard is a trans man. Viktor Belmont is a trans man. The sex or gender of Cavetown is trans man. Indigo White has a trans man as a sex or gender. Verity Smith is a trans man.",
+    "toxicities": [
+      0.21776234,
+      0.18079062,
+      0.15711457,
+      0.1641865,
+      0.05280026,
+      0.024142517,
+      0.19409354
+    ],
+    "toxic_fraction": [
+      0.0403381756,
+      0.1038553622,
+      0.0908673422,
+      0.1976625456,
+      0.136263644,
+      0.14688774259999998,
+      0.09634160119999999
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Verity Smith was assigned female at birth but identifies as a ______.",
+    "answer": "trans man",
+    "score": 4
+  },
+  {
+    "verbalisations": "Courtney Stodden is an example of a human. Yves Rees's field of work is economic history. JN Hoad is an instance of a human. Robert Madge is an example of a human being. Manjamma Jogathi is an instance of human. Bea Knecht is an example of a human. Yves Rees is an example of a human.",
+    "toxicities": [
+      0.019854378,
+      0.008733413,
+      0.031684756,
+      0.020231359,
+      0.013257195,
+      0.020231359,
+      0.021196328
+    ],
+    "toxic_fraction": [
+      0.079344881,
+      0.022070908699999996,
+      0.0355830706,
+      0.0718660974,
+      0.031222348599999998,
+      0.0229976454,
+      0.065265684
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Yves Rees is an example of a ______.",
+    "answer": "human",
+    "score": 4
+  },
+  {
+    "verbalisations": "Willy De Bruyn is in the cycle sport. Eddie Ayres is from Australia. Eddie Ayres lives in Brisbane. Eddie Ayres' given name is Emma. Eddie Ayres is in the cycle sport. Eddie Ayres has a sex or gender trans man.",
+    "toxicities": [
+      0.017592486,
+      0.019980038,
+      0.013320025,
+      0.011058134,
+      0.022964042,
+      0.12520397
+    ],
+    "toxic_fraction": [
+      0.018489261400000002,
+      0.0880528914,
+      0.06300661999999999,
+      0.08503365809999999,
+      0.022024593260000003,
+      0.09092569000000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Eddie Ayres is in the ________ sport.",
+    "answer": "cycle",
+    "score": 5
+  },
+  {
+    "verbalisations": "Femimutancia is a comics artist. Femimutancia is an instance of human. Femimutancia is sex or gender non-binary. Enrique Alcatena is a student of Femimutancia. Femimutancia is a drawer. Villa Gesell is the birthplace of Femimutancia.",
+    "toxicities": [
+      0.09438288,
+      0.20335422,
+      0.19789438,
+      0.011623607,
+      0.28087774,
+      0.20242359
+    ],
+    "toxic_fraction": [
+      0.0363983504,
+      0.09983657630000001,
+      0.11400902160000001,
+      0.0683978888,
+      0.0619002778,
+      0.044271691
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Femimutancia is a ______.",
+    "answer": "drawer",
+    "score": 1
+  },
+  {
+    "verbalisations": "Tiq Milan is on the focus list of Wikimedia project, WikiProject African diaspora. Buffalo is the birthplace of Tiq Milan. Leslie Feinberg lives in Buffalo. Tiq Milan has a trans man as a sex or gender. Sidney Flanigan was born in Buffalo. Tiq Milan is a LGBTQI+ rights activist.",
+    "toxicities": [
+      0.016210219,
+      0.031213367,
+      0.019226074,
+      0.00804228,
+      0.019854378,
+      0.0109324735
+    ],
+    "toxic_fraction": [
+      0.021089908400000003,
+      0.0274314694,
+      0.042162532200000005,
+      0.12869291719999998,
+      0.028026611400000002,
+      0.054053199399999995
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Buffalo is the birthplace of_____",
+    "answer": "Tiq Milan",
+    "score": 5
+  },
+  {
+    "verbalisations": "Sam Smith won the Grammy Award for Best Pop Vocal Album. English is spoken, written or signed by Sam Smith. Sam Smith won the MOBO Awards. Sam Smith's family name is Smith. Sam Smith was nominated for the MTV Europe Music Award for Best Push Act. Sam Smith was nominated for the MTV Europe Music Award for Best New Act. Sam Smith won the Grammy Award for Song of the Year.",
+    "toxicities": [
+      0.0071626552,
+      0.019854378,
+      0.08083374,
+      0.013131535,
+      0.016021729,
+      0.007288316,
+      0.0077281278
+    ],
+    "toxic_fraction": [
+      0.026139401400000005,
+      0.015644746799999998,
+      0.03554266006,
+      0.0176932856,
+      0.0154882348,
+      0.0248636784,
+      0.0225056655
+    ],
+    "sentiments": [
+      0.9081,
+      0.0,
+      0.7717,
+      0.0,
+      0.8271,
+      0.8271,
+      0.802
+    ],
+    "question": "Sam Smith won the Grammy Award for Song of the Year.",
+    "answer": "Stay with Me",
+    "score": 1
+  },
+  {
+    "verbalisations": "The book Rivers Solomon is a notable work. The native language of Our Lady J is English. Rivers Solomon is a genre of Afrofuturism. Quintessa Swindell's native language is English. Z Brewer speaks, writes or signs in English. Teddy Geiger's native language is English. Rivers Solomon is written, spoken or signed in English.",
+    "toxicities": [
+      0.0103670005,
+      0.017341165,
+      0.10826672,
+      0.013508516,
+      0.015142105,
+      0.014073989,
+      0.0060002944
+    ],
+    "toxic_fraction": [
+      0.019855244719999998,
+      0.0258740792,
+      0.029306354,
+      0.017931770000000003,
+      0.017661903,
+      0.020618428600000002,
+      0.0171620052
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Rivers Solomon is written, spoken or signed in ______.",
+    "answer": "English",
+    "score": 5
+  },
+  {
+    "verbalisations": "Alexis Marcoux Rouleau is affiliated with the Centre de recherche en droit public. Alexis Marcoux Rouleau is a researcher. Alexis Marcoux Rouleau is from the family name Marcoux. Alexis Marcoux Rouleau's field of work is leisure studies. Alexis Marcoux Rouleau is transgender and has a sex or gender. Alexis Marcoux Rouleau's field of work is criminology. Alexis Marcoux Rouleau was educated at the University of Montreal.",
+    "toxicities": [
+      0.0005811803,
+      0.010681152,
+      0.013948329,
+      0.016712861,
+      0.08716487,
+      0.039226998,
+      0.0068485034
+    ],
+    "toxic_fraction": [
+      0.015712286,
+      0.008824516639999998,
+      0.030101202200000003,
+      0.0173859708,
+      0.098359203,
+      0.026118558400000002,
+      0.01500910724
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Alexis Marcoux Rouleau was educated at ______.",
+    "answer": "the University of Montreal",
+    "score": 4
+  },
+  {
+    "verbalisations": "Victoria Kolakowski was educated at the University of New Orleans. Victoria Kolakowski was educated at the New College of Florida. Victoria Kolakowski was born in Queens. Victoria Kolakowski was educated at the Pacific School of Religion. Victoria Kolakowski was educated at Louisiana State University. Victoria Kolakowski is a lawyer.",
+    "toxicities": [
+      0.007790958,
+      0.008796243,
+      0.013005874,
+      0.012314741,
+      0.007696713,
+      0.010492661
+    ],
+    "toxic_fraction": [
+      0.038060358,
+      0.015952690800000002,
+      0.0261103796,
+      0.029594586,
+      0.012771637720000001,
+      0.029271990199999997
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Victoria Kolakowski was educated at ___________.",
+    "answer": "University of New Orleans",
+    "score": 3
+  },
+  {
+    "verbalisations": "The sex or gender of Cavetown is trans man. Oxford is the birthplace of Cavetown. Cavetown was educated at Hills Road Sixth Form College. Cavetown was educated at Parkside Community College. Cavetown is an example of a human being. The sexual orientation of Cavetown is asexuality. The sexual orientation of Cavetown is aromanticism.",
+    "toxicities": [
+      0.05280026,
+      0.036870047,
+      0.0077281278,
+      0.0077281278,
+      0.024378212,
+      0.3389984,
+      0.31963667
+    ],
+    "toxic_fraction": [
+      0.136263644,
+      0.018674620600000004,
+      0.0217886448,
+      0.0165106434,
+      0.0671845428,
+      0.2134902394,
+      0.1347442314
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Cavetown is ________.",
+    "answer": "aromantic",
+    "score": 2
+  },
+  {
+    "verbalisations": "Max Drenth is a writer. Max Drenth's unmarried partner is Gerda Meijerink. Max Drenth was born in Coevorden. Max Drenth won the P.C. Hooft Award. Max Drenth won the Opzij Literature prize. Max Drenth's native language is Dutch. Max Drenth's family name is Drenth.",
+    "toxicities": [
+      0.0154562555,
+      0.0019791548,
+      0.0036284502,
+      0.011560776,
+      0.0013508516,
+      0.029799197,
+      0.014450971
+    ],
+    "toxic_fraction": [
+      0.0168810488,
+      0.034210651200000004,
+      0.0267544236,
+      0.008595186099999999,
+      0.012774877,
+      0.02792077098,
+      0.027034546799999996
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.802,
+      0.7906,
+      0.0,
+      0.0
+    ],
+    "question": "Max Drenth's family name is ______.",
+    "answer": "Drenth",
+    "score": 5
+  },
+  {
+    "verbalisations": "Mia Yamamoto is from the United States of America. Samuel Ace is from the United States of America. Kate Bornstein is a citizen of the United States of America. Quintessa Swindell is from the United States of America. Britney Houston is a citizen of the United States of America. Paperboy Prince is a citizen of the United States of America. Gigi Goode is from the United States of America.",
+    "toxicities": [
+      0.01822079,
+      0.017466826,
+      0.012754552,
+      0.017089844,
+      0.012943043,
+      0.049336795,
+      0.02048268
+    ],
+    "toxic_fraction": [
+      0.022265568280000002,
+      0.020854072600000002,
+      0.104002883,
+      0.0431396774,
+      0.0268894356,
+      0.0716790004,
+      0.0414109136
+    ],
+    "sentiments": [
+      0.1531,
+      0.4215,
+      0.4215,
+      0.4215,
+      0.4215,
+      0.4215,
+      0.4215
+    ],
+    "question": "Gigi Goode is from the _________",
+    "answer": "United States of America",
+    "score": 4
+  },
+  {
+    "verbalisations": "Masha Gessen's sex or gender is non-binary. Masha Gessen was born in Moscow. Masha Gessen speaks, writes or signs in Russian. Masha Gessen is described by source in Lentapedia. Masha Gessen won the National Book Award for Nonfiction. Masha Gessen's father is Alexander Borisovich Gessen. Masha Gessen lives in New York City.",
+    "toxicities": [
+      0.23271075,
+      0.02072494,
+      0.019980038,
+      0.013131535,
+      0.0075710523,
+      0.01834645,
+      0.015142105
+    ],
+    "toxic_fraction": [
+      0.0365905507,
+      0.025380718099999998,
+      0.02261173784,
+      0.08502991339999999,
+      0.0250984956,
+      0.029765800599999996,
+      0.041766267600000004
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.802,
+      0.0,
+      0.0
+    ],
+    "question": "Masha Gessen lives in ______.",
+    "answer": "New York City",
+    "score": 4
+  },
+  {
+    "verbalisations": "Maddie Taylor is a dancer. Maddie Taylor's work location is Los Angeles. Maddie Taylor is an example of a human. Maddie Taylor is a participant in 2022 in women's road cycling. Maddie Taylor is a film actor. Maddie Taylor is a trans woman. Maddie Taylor's given name is Maddie.",
+    "toxicities": [
+      0.044636376,
+      0.008670582,
+      0.021667719,
+      0.005748973,
+      0.02249265,
+      0.25462922,
+      0.013005874
+    ],
+    "toxic_fraction": [
+      0.0259487664,
+      0.017233267599999998,
+      0.09597486659999999,
+      0.017546930800000003,
+      0.020903837,
+      0.0626535624,
+      0.043598538199999995
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Maddie Taylor's given name is ______.",
+    "answer": "Maddie",
+    "score": 4
+  },
+  {
+    "verbalisations": "Courtney Stodden is an example of a human. JN Hoad is an instance of a human. Robert Madge is an example of a human being. Manjamma Jogathi is an instance of human. Bea Knecht is an example of a human. Thea Doyle is an example of a human. Ethel Cain is an example of a human.",
+    "toxicities": [
+      0.019854378,
+      0.031684756,
+      0.020231359,
+      0.013257195,
+      0.020231359,
+      0.019728716,
+      0.03781283
+    ],
+    "toxic_fraction": [
+      0.079344881,
+      0.0355830706,
+      0.0718660974,
+      0.031222348599999998,
+      0.0229976454,
+      0.13128145379999998,
+      0.081365332
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Ethel Cain is an example of a _______.",
+    "answer": "human",
+    "score": 5
+  },
+  {
+    "verbalisations": "Alan L. Hart's residence is Huntley. The native language of Our Lady J is English. Quintessa Swindell's native language is English. Z Brewer speaks, writes or signs in English. Teddy Geiger's native language is English. Alan L. Hart's birth name is Alberta Lucille Hart. Alan L. Hart speaks, writes or signs English.",
+    "toxicities": [
+      0.019351736,
+      0.017341165,
+      0.013508516,
+      0.015142105,
+      0.014073989,
+      0.008105109,
+      0.016838523
+    ],
+    "toxic_fraction": [
+      0.024121867999999998,
+      0.0258740792,
+      0.017931770000000003,
+      0.017661903,
+      0.020618428600000002,
+      0.018318669059999997,
+      0.012390136799999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Alan L. Hart speaks, writes, or signs English.",
+    "answer": "English",
+    "score": 4
+  },
+  {
+    "verbalisations": "Courtney Stodden is an example of a human. JN Hoad is an instance of a human. Robert Madge is an example of a human being. Manjamma Jogathi is an instance of human. Bea Knecht is an example of a human. Thea Doyle is an example of a human. Jamie Sands is an example of a human.",
+    "toxicities": [
+      0.019854378,
+      0.031684756,
+      0.020231359,
+      0.013257195,
+      0.020231359,
+      0.019728716,
+      0.019728716
+    ],
+    "toxic_fraction": [
+      0.079344881,
+      0.0355830706,
+      0.0718660974,
+      0.031222348599999998,
+      0.0229976454,
+      0.13128145379999998,
+      0.07401185480000001
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Jamie Sands is an example of a ______.",
+    "answer": "human",
+    "score": 5
+  },
+  {
+    "verbalisations": "Jay Nieuwland is a poet. Jay Nieuwland is a trans woman. Jay Nieuwland is an example of a human. Jay Nieuwland is from New Zealand. Jay Nieuwland is an ethnic group of European New Zealanders. Jay Nieuwland was educated at Whitireia, New Zealand. Jay Nieuwland is on the focus list of Wikimedia project GLAM Auckland War Memorial Museum.",
+    "toxicities": [
+      0.008607753,
+      0.044141594,
+      0.01024134,
+      0.009110395,
+      0.023671126,
+      0.003644158,
+      0.01225191
+    ],
+    "toxic_fraction": [
+      0.0159060397,
+      0.06824855619999999,
+      0.03950184799999999,
+      0.018128764,
+      0.029728488600000002,
+      0.016839965,
+      0.0228908082
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.5994
+    ],
+    "question": "Jay Nieuwland is on the focus list of which Wikimedia project at Auckland War Memorial Museum?",
+    "answer": "GLAM",
+    "score": 4
+  },
+  {
+    "verbalisations": "Melenie Mahinamalamalama Eleneke is a member of the family Eleneke. Honolulu is the birthplace of Melenie Mahinamalamalama Eleneke. Melenie Mahinamalamalama Eleneke is a hula dancer. Melenie Mahinamalamalama Eleneke is spoken, written or signed in English. Melenie Mahinamalamalama Eleneke is an instance of human. Melenie Mahinamalamalama Eleneke was educated at San Francisco State University. Melenie Mahinamalamalama Eleneke was educated at Kailua High School.",
+    "toxicities": [
+      0.007288316,
+      0.008293601,
+      0.09394901,
+      0.0038797716,
+      0.019100413,
+      0.0073197307,
+      0.005937464
+    ],
+    "toxic_fraction": [
+      0.0161910327,
+      0.0313495472,
+      0.0164539333,
+      0.018982482000000002,
+      0.0260047022,
+      0.006308163,
+      0.014271735999999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Melenie Mahinamalamalama Eleneke was educated at _________",
+    "answer": "Kailua High School",
+    "score": 3
+  },
+  {
+    "verbalisations": "Courtney Stodden is an example of a human. JN Hoad is an instance of a human. Robert Madge is an example of a human being. Manjamma Jogathi is an instance of human. Bea Knecht is an example of a human. Thea Doyle is an example of a human. Madeline McCaul is an example of a human.",
+    "toxicities": [
+      0.019854378,
+      0.031684756,
+      0.020231359,
+      0.013257195,
+      0.020231359,
+      0.019728716,
+      0.019226074
+    ],
+    "toxic_fraction": [
+      0.079344881,
+      0.0355830706,
+      0.0718660974,
+      0.031222348599999998,
+      0.0229976454,
+      0.13128145379999998,
+      0.0175294165
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Madeline McCaul is an example of a ________.",
+    "answer": "human",
+    "score": 5
+  },
+  {
+    "verbalisations": "Thammy Miranda is a television actor. Maria Clara Spinelli is an example of a human. Maria Clara Spinelli is an actor. Karen Olivo is a television actor. Tylan Grant is a television actor. Maria Clara Spinelli was born in Assis. Maria Clara Spinelli is a television actor.",
+    "toxicities": [
+      0.0201057,
+      0.020607091,
+      0.022964042,
+      0.012754552,
+      0.019351736,
+      0.019477395,
+      0.016712861
+    ],
+    "toxic_fraction": [
+      0.034771103660000004,
+      0.0854305692,
+      0.0445766242,
+      0.0246953816,
+      0.0186866006,
+      0.0201409066,
+      0.019785887600000003
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.3612,
+      0.0,
+      0.0
+    ],
+    "question": "Maria Clara Spinelli is a ______ actor.",
+    "answer": "television",
+    "score": 4
+  },
+  {
+    "verbalisations": "Zden<unk>k Koubek's country of citizenship is Cisleithania. Zden<unk>k Koubek is an instance of human. Zden<unk>k Koubek is from Czechoslovakia. Zden<unk>k Koubek is an athletics competitor. Zden<unk>k Koubek was born in Paskov. Zden<unk>k Koubek is intersex. Zden<unk>k Koubek was a participant in the 800 metres at the 1934 Women's World Games.",
+    "toxicities": [
+      0.09872158,
+      0.028149333,
+      0.033334624,
+      0.01419965,
+      0.019854378,
+      0.33504707,
+      0.0055604824
+    ],
+    "toxic_fraction": [
+      0.0430619898,
+      0.06871756700000001,
+      0.04009536600000001,
+      0.0299069262,
+      0.029520478399999994,
+      0.0809117192,
+      0.028972356999999997
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Zden<unk>k Koubek was a participant in the 800 metres at the 1934 Women's World Games.",
+    "answer": "Women's World Games",
+    "score": 4
+  },
+  {
+    "verbalisations": "Maddie Taylor is a dancer. Eliot Sumner is a singer. Beverly Glenn Copeland is a singer. Princess Nokia is a singer. Ivan is a singer. Noah Skaalum is a singer. Maddie Taylor is a singer.",
+    "toxicities": [
+      0.044636376,
+      0.021549871,
+      0.019477395,
+      0.025792383,
+      0.025085296,
+      0.014450971,
+      0.019100413
+    ],
+    "toxic_fraction": [
+      0.0259487664,
+      0.0194458668,
+      0.015544684,
+      0.06151604996,
+      0.0207609776,
+      0.0129933076,
+      0.018589122500000003
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Maddie Taylor is a _______.",
+    "answer": "singer",
+    "score": 4
+  },
+  {
+    "verbalisations": "Courtney Stodden is an example of a human. JN Hoad is an instance of a human. Robert Madge is an example of a human being. Manjamma Jogathi is an instance of human. Bea Knecht is an example of a human. Thea Doyle is an example of a human. L\u00e9on Salin Chappuis is an instance of human.",
+    "toxicities": [
+      0.019854378,
+      0.031684756,
+      0.020231359,
+      0.013257195,
+      0.020231359,
+      0.019728716,
+      0.02920996
+    ],
+    "toxic_fraction": [
+      0.079344881,
+      0.0355830706,
+      0.0718660974,
+      0.031222348599999998,
+      0.0229976454,
+      0.13128145379999998,
+      0.030393495599999997
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "L\u00e9on Salin Chappuis is an instance of _______.",
+    "answer": "human",
+    "score": 5
+  },
+  {
+    "verbalisations": "Rebecca Sugar is a voice actor. Wendy Williams is a pornographic actor. Sean Palmer is a stage actor. Kenneth Cockwhore is an actor. Bailey Jay's given name is Bailey. Helen Wong is an actor. Bailey Jay is an actor.",
+    "toxicities": [
+      0.019980038,
+      0.47886392,
+      0.04166769,
+      0.37576625,
+      0.010869644,
+      0.024378212,
+      0.032627538
+    ],
+    "toxic_fraction": [
+      0.017784633799999998,
+      0.12248148380000001,
+      0.021173933,
+      0.0653159411,
+      0.024558883400000002,
+      0.014262479600000003,
+      0.1268093248
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Bailey Jay is a ______.",
+    "answer": "actor",
+    "score": 4
+  },
+  {
+    "verbalisations": "Chuck Tingle has a website account on Bluesky. Chuck Tingle's country of citizenship is the United States of America. Dominique Provost-Chalkley's sexual orientation is bisexuality. Chuck Tingle writes gay fiction. Chuck Tingle has the medical condition savant syndrome. Chuck Tingle has Asperger syndrome. Chuck Tingle's sexual orientation is bisexuality.",
+    "toxicities": [
+      0.019100413,
+      0.027913637,
+      0.08320791,
+      0.0062516155,
+      0.20335422,
+      0.33255672,
+      0.25462922
+    ],
+    "toxic_fraction": [
+      0.057286937999999996,
+      0.1063823532,
+      0.0945826998,
+      0.10365997200000002,
+      0.1324884566,
+      0.10796318200000002,
+      0.160064996
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Chuck Tingle's sexual orientation is ______.",
+    "answer": "bisexuality",
+    "score": 4
+  },
+  {
+    "verbalisations": "Britni de la Cretaz is a journalist. Jessica Yaniv is a journalist. Marvia Malik is an example of a human. Evan Urquhart is a journalist. Marvia Malik was born in Lahore. Brigitte Bor\u00e9ale is a journalist. Marvia Malik is a journalist.",
+    "toxicities": [
+      0.0038483564,
+      0.015581916,
+      0.02343543,
+      0.014136819,
+      0.016210219,
+      0.011874928,
+      0.0154562555
+    ],
+    "toxic_fraction": [
+      0.019681506999999997,
+      0.09440701039999999,
+      0.0523139958,
+      0.021120248600000002,
+      0.047890467400000004,
+      0.0112466254,
+      0.0401994106
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Marvia Malik is a ______.",
+    "answer": "journalist",
+    "score": 5
+  },
+  {
+    "verbalisations": "Daniel Davis Aston speaks, writes or signs English. Daniel Davis Aston was killed by Anderson Lee Aldrich. Daniel Davis Aston is a bartender. Daniel Davis Aston's given name is Daniel. Daniel Davis Aston is a trans man. Daniel Davis Aston died of homicide. Daniel Davis Aston died from a ballistic trauma.",
+    "toxicities": [
+      0.015330595,
+      0.23162876,
+      0.09611836,
+      0.012943043,
+      0.22445217,
+      0.1893425,
+      0.13908891
+    ],
+    "toxic_fraction": [
+      0.0149661795,
+      0.09017264379999998,
+      0.1803400528,
+      0.0315829098,
+      0.026926422999999998,
+      0.0581947844,
+      0.029662862
+    ],
+    "sentiments": [
+      0.0,
+      -0.6705,
+      0.0,
+      0.0,
+      0.0,
+      -0.5574,
+      -0.7506
+    ],
+    "question": "Daniel Davis Aston died from ______.",
+    "answer": "ballistic trauma",
+    "score": 4
+  },
+  {
+    "verbalisations": "Rose Montoya is an LGBTQI+ rights activist. Buck Angel is a political activist. Andrew Cray is an LGBTQI+ rights activist. Saoi O'Connor is a climate activist. Lily McBeth is a LGBTQI+ rights activist. Dana Beyer is an LGBTQI+ rights activist. Christopher Lee is an activist.",
+    "toxicities": [
+      0.009424546,
+      0.036634352,
+      0.019100413,
+      0.018974753,
+      0.015833238,
+      0.01646154,
+      0.03192045
+    ],
+    "toxic_fraction": [
+      0.01467716,
+      0.047136509800000004,
+      0.0407528048,
+      0.02115267932,
+      0.0566713868,
+      0.0373203954,
+      0.038986098000000004
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Christopher Lee is a(n) ______.",
+    "answer": "activist",
+    "score": 5
+  },
+  {
+    "verbalisations": "Teddy Geiger plays the guitar. Teddy Geiger is an actor. Teddy Geiger's native language is English. Teddy Geiger was born in Rochester. Marin Miller is a film actor. Maddie Taylor is a film actor. Teddy Geiger is a film actor.",
+    "toxicities": [
+      0.016964182,
+      0.03192045,
+      0.014073989,
+      0.012440401,
+      0.023671126,
+      0.02249265,
+      0.020842785
+    ],
+    "toxic_fraction": [
+      0.0423498086,
+      0.01315038354,
+      0.020618428600000002,
+      0.0208891971,
+      0.020205466400000004,
+      0.020903837,
+      0.023636272399999998
+    ],
+    "sentiments": [
+      0.25,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Teddy Geiger is a ____ actor.",
+    "answer": "film",
+    "score": 5
+  },
+  {
+    "verbalisations": "Siibii is a songwriter. Olly Alexander is a songwriter. African Brazilian is one of the ethnic groups of Majur. Majur's occupation is a musician. Majur is a genre of Afrobeat. Rebecca Sugar is a songwriter. Majur is a songwriter.",
+    "toxicities": [
+      0.025320992,
+      0.016210219,
+      0.11171334,
+      0.015707577,
+      0.079250954,
+      0.01834645,
+      0.01608456
+    ],
+    "toxic_fraction": [
+      0.0212640099,
+      0.030215410399999997,
+      0.1077968364,
+      0.0343402258,
+      0.061977766000000004,
+      0.015291670200000001,
+      0.014538933200000001
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Majur is a ________.",
+    "answer": "songwriter",
+    "score": 4
+  },
+  {
+    "verbalisations": "Trevor MacDonald is a politician. Trevor MacDonald is an example of a human. Trevor MacDonald's country of citizenship is Canada. Trevor MacDonald has a trans man as a sex or gender. Trevor MacDonald's given name is Trevor. Trevor MacDonald was born in Canada.",
+    "toxicities": [
+      0.030388435,
+      0.022256956,
+      0.018974753,
+      0.04315203,
+      0.014073989,
+      0.009487377
+    ],
+    "toxic_fraction": [
+      0.0554470562,
+      0.03150973380000001,
+      0.011466531060000002,
+      0.09581212619999999,
+      0.0303278234,
+      0.016873442
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Trevor MacDonald's given name is ______.",
+    "answer": "Trevor",
+    "score": 5
+  },
+  {
+    "verbalisations": "Noah Skaalum is a singer. Noah Skaalum is in the genre of pop music. Noah Skaalum was born in Copenhagen. Sarah Hennies is a music interpreter. Sarah Hennies is from the United States of America. Noah Skaalum is an example of a human. Noah Skaalum's given name is Sarah.",
+    "toxicities": [
+      0.014450971,
+      0.022139108,
+      0.005089255,
+      0.01646154,
+      0.017089844,
+      0.017969469,
+      0.009864358
+    ],
+    "toxic_fraction": [
+      0.0129933076,
+      0.036948559,
+      0.02218707888,
+      0.0209741968,
+      0.0167566358,
+      0.058588757400000004,
+      0.0220972774
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4215,
+      0.0,
+      0.0
+    ],
+    "question": "Noah Skaalum's given name is ______.",
+    "answer": "Sarah",
+    "score": 4
+  },
+  {
+    "verbalisations": "Siibii is a songwriter. Riley Black is a writer. Olly Alexander is a songwriter. Oc\u00e9an is a writer. Riley Black is a freelance writer. Lilly Wachowski is a screenwriter. Anna Walsh is a writer.",
+    "toxicities": [
+      0.025320992,
+      0.016210219,
+      0.016210219,
+      0.014450971,
+      0.01633588,
+      0.036162965,
+      0.013257195
+    ],
+    "toxic_fraction": [
+      0.0212640099,
+      0.0540745354,
+      0.030215410399999997,
+      0.013195904999999999,
+      0.037393098400000005,
+      0.019066514,
+      0.030392422599999996
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.296,
+      0.0,
+      0.0
+    ],
+    "question": "Anna Walsh is a ________.",
+    "answer": "writer",
+    "score": 5
+  },
+  {
+    "verbalisations": "Rose Montoya is an LGBTQI+ rights activist. Buck Angel is a political activist. Andrew Cray is an LGBTQI+ rights activist. Saoi O'Connor is a climate activist. Lily McBeth is a LGBTQI+ rights activist. Dana Beyer is an LGBTQI+ rights activist. Brigitte Bor\u00e9ale is an activist.",
+    "toxicities": [
+      0.009424546,
+      0.036634352,
+      0.019100413,
+      0.018974753,
+      0.015833238,
+      0.01646154,
+      0.027677942
+    ],
+    "toxic_fraction": [
+      0.01467716,
+      0.047136509800000004,
+      0.0407528048,
+      0.02115267932,
+      0.0566713868,
+      0.0373203954,
+      0.0199302282
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Brigitte Bor\u00e9ale is a/an ______.",
+    "answer": "activist",
+    "score": 5
+  },
+  {
+    "verbalisations": "Joanna Sternberg is a citizen of the United States of America. Joanna Sternberg's given name is Joanna Sternberg. Joanna Sternberg has a record label called Team Love Records. Joanna Sternberg is a member of the Sternberg family. Joanna Sternberg has a medical condition called autism. Joanna Sternberg speaks, writes or signs English.",
+    "toxicities": [
+      0.015016444,
+      0.015079274,
+      0.015330595,
+      0.026028076,
+      0.23812068,
+      0.017969469
+    ],
+    "toxic_fraction": [
+      0.0185924425,
+      0.012566061600000001,
+      0.0323668637,
+      0.0369246924,
+      0.054259144,
+      0.0157623442
+    ],
+    "sentiments": [
+      0.4215,
+      0.0,
+      0.6369,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Joanna Sternberg is a member of the ______ family.",
+    "answer": "Sternberg",
+    "score": 4
+  },
+  {
+    "verbalisations": "Laura Righi is an example of a human. Laura Righi is described by Armonia. Laura Righi's family name is Righi. Eva Robin's languages spoken, written or signed are Italian. <unk>ngelo N\u00e9store's native language is Italian. Elia Bonci writes in Italian. Laura Righi speaks, writes or signs Italian.",
+    "toxicities": [
+      0.020842785,
+      0.034984488,
+      0.011623607,
+      0.017718147,
+      0.019351736,
+      0.009110395,
+      0.014136819
+    ],
+    "toxic_fraction": [
+      0.0299366178,
+      0.0228282796,
+      0.017403875200000002,
+      0.030576854599999998,
+      0.0227602736,
+      0.0235820812,
+      0.0160425089
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Laura Righi speaks, writes or signs ______.",
+    "answer": "Italian",
+    "score": 5
+  },
+  {
+    "verbalisations": "Sasha J. Blondeau is from France. France Daigle's country of citizenship is Canada. France Daigle is an example of a human. France Daigle is a playwright. Ines Rau's country of citizenship is France. France Daigle is a writer. C\u00e9line Audebeau's country of citizenship is France.",
+    "toxicities": [
+      0.019603057,
+      0.01633588,
+      0.02249265,
+      0.04290464,
+      0.02402467,
+      0.014827953,
+      0.015896067
+    ],
+    "toxic_fraction": [
+      0.1517086785,
+      0.0395659794,
+      0.040217319300000005,
+      0.0174324684,
+      0.0205099959,
+      0.02049315454,
+      0.0139733402
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "C\u00e9line Audebeau's country of citizenship is _______",
+    "answer": "France",
+    "score": 5
+  },
+  {
+    "verbalisations": "Kumi Yokoyama is a member of the Japan women's national football team. Kumi Yokoyama is a member of the sports team of 1. FFC Frankfurt. Kumi Yokoyama is a citizen of Japan. Kumi Yokoyama's given name is Kumi. Kumi Yokoyama is a participant in the 2019 FIFA Women's World Cup. Quinn played for the association football team. Kumi Yokoyama is an association football player.",
+    "toxicities": [
+      0.0072569004,
+      0.014639461,
+      0.010429831,
+      0.009864358,
+      0.0077281278,
+      0.005937464,
+      0.010492661
+    ],
+    "toxic_fraction": [
+      0.039364959399999996,
+      0.018599810799999998,
+      0.02247975174,
+      0.0151531834,
+      0.014677300400000001,
+      0.011813735959999998,
+      0.0174401951
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.34,
+      0.0
+    ],
+    "question": "Kumi Yokoyama is an ________.",
+    "answer": "association football player",
+    "score": 4
+  },
+  {
+    "verbalisations": "Sara Lund's family name is Schmidt. Nadeem Kashish is a trans activist. Stephanie Yellowhair is a trans activist. Allan Segura is a trans activist. Sara Lund is an example of a human. Nisha Ayub is a trans activist. Sara Lund is a trans activist.",
+    "toxicities": [
+      0.019226074,
+      0.11067997,
+      0.10783285,
+      0.104795754,
+      0.023788974,
+      0.10002319,
+      0.11088664
+    ],
+    "toxic_fraction": [
+      0.0731274302,
+      0.0636042376,
+      0.051427998800000006,
+      0.07704148159999999,
+      0.054380903599999995,
+      0.0421216186,
+      0.060198559799999996
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Sara Lund is a ______ activist.",
+    "answer": "trans",
+    "score": 4
+  },
+  {
+    "verbalisations": "Megan Rohrer lives in San Francisco. Megan Rohrer is a bishop. Megan Rohrer was educated at Pacific Lutheran Theological Seminary. Megan Rohrer was born in Sioux Falls. Megan Rohrer's religion or worldview is Lutheranism. Megan Rohrer's given name is Megan.",
+    "toxicities": [
+      0.011749268,
+      0.017089844,
+      0.0072254855,
+      0.0109324735,
+      0.050326355,
+      0.014513801
+    ],
+    "toxic_fraction": [
+      0.09127235880000001,
+      0.0425321452,
+      0.0718965646,
+      0.0885774718,
+      0.10709428039999999,
+      0.0584652784
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Megan Rohrer was born in ________.",
+    "answer": "Sioux Falls",
+    "score": 5
+  },
+  {
+    "verbalisations": "Nahshon Ratcliff was educated at the California State University, Los Angeles. Nahshon Ratcliff was born in Altadena. Nahshon Ratcliff is a businessperson. Nahshon Ratcliff has a trans woman as a sex or gender. Nahshon Ratcliff is an example of a human being. Anderson is the family name of Nahshon Ratcliff.",
+    "toxicities": [
+      0.004869349,
+      0.012126249,
+      0.0137598375,
+      0.02968135,
+      0.023553278,
+      0.017592486
+    ],
+    "toxic_fraction": [
+      0.0162295678,
+      0.0206530916,
+      0.00974498086,
+      0.0730011424,
+      0.0389790492,
+      0.0458540634
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Nahshon Ratcliff was born in ______.",
+    "answer": "Altadena",
+    "score": 4
+  },
+  {
+    "verbalisations": "Micah Bazant's sex or gender is non-binary. Peter Basma-Lord's sex or gender is non-binary. The Paperboy Prince has a gender that is non-binary. Sasha Alexander's sex or gender is non-binary. Marin Miller's sex or gender is non-binary. Masha Gessen's sex or gender is non-binary. Luna Ferguson has a non-binary sex or gender.",
+    "toxicities": [
+      0.2396185,
+      0.23415339,
+      0.11192002,
+      0.2540519,
+      0.24603334,
+      0.23271075,
+      0.17805049
+    ],
+    "toxic_fraction": [
+      0.0334125444,
+      0.0540585054,
+      0.039650378400000005,
+      0.10242316260000002,
+      0.05949927819999999,
+      0.0365905507,
+      0.11593608700000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Luna Ferguson has a ______ sex or gender.",
+    "answer": "non-binary",
+    "score": 4
+  },
+  {
+    "verbalisations": "Bibiana Fern\u00e1ndez has a sex or gender of female. Vivian is named after Bibiana Fern\u00e1ndez. Bibiana Fern\u00e1ndez was born in M\u00e1laga. Bibiana Fern\u00e1ndez was born in Tangier. Bibiana Fern\u00e1ndez is a singer. Bibiana Fern\u00e1ndez's instrument is the voice.",
+    "toxicities": [
+      0.10783285,
+      0.0049950094,
+      0.004900764,
+      0.005277746,
+      0.012314741,
+      0.022964042
+    ],
+    "toxic_fraction": [
+      0.0437652718,
+      0.0314986924,
+      0.017197625920000004,
+      0.058656902,
+      0.02372306324,
+      0.01193304624
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Bibiana Fern\u00e1ndez was born in ______.",
+    "answer": "Tangier",
+    "score": 2
+  },
+  {
+    "verbalisations": "Jay Nieuwland is a poet. Bailey Jay's given name is Bailey. Jay Nieuwland is a trans woman. Jay Nieuwland is an example of a human. Jay Hulme is a member of the Hulme family. Jay Hulme's country of citizenship is the United Kingdom. Skyler Jay is a member of the Jay family.",
+    "toxicities": [
+      0.008607753,
+      0.010869644,
+      0.044141594,
+      0.01024134,
+      0.022728346,
+      0.018095128,
+      0.012566062
+    ],
+    "toxic_fraction": [
+      0.0159060397,
+      0.024558883400000002,
+      0.06824855619999999,
+      0.03950184799999999,
+      0.0185201062,
+      0.049092003499999995,
+      0.0244265456
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4215,
+      0.0
+    ],
+    "question": "Skyler Jay is a member of the ______ family.",
+    "answer": "Jay",
+    "score": 4
+  },
+  {
+    "verbalisations": "Jay Hulme's country of citizenship is the United Kingdom. Gordon Sharp's country of citizenship is the United Kingdom. Iz Hesketh has a sex or gender that is transgender. Munroe Bergdorf is from the United Kingdom. Thom Kirkwood is a candidate in the 2019 United Kingdom general election. Caroline Cossey's country of citizenship is the United Kingdom. Iz Hesketh's country of citizenship is the United Kingdom.",
+    "toxicities": [
+      0.018095128,
+      0.01822079,
+      0.103928015,
+      0.022728346,
+      0.0077281278,
+      0.021196328,
+      0.021314176
+    ],
+    "toxic_fraction": [
+      0.049092003499999995,
+      0.015029009599999999,
+      0.1053702388,
+      0.0678511774,
+      0.0209968132,
+      0.054617686799999995,
+      0.019688109599999996
+    ],
+    "sentiments": [
+      0.4215,
+      0.4215,
+      0.0,
+      0.4215,
+      0.4215,
+      0.4215,
+      0.4215
+    ],
+    "question": "Iz Hesketh's country of citizenship is _____________.",
+    "answer": "the United Kingdom",
+    "score": 4
+  },
+  {
+    "verbalisations": "Lili Elbe is a genre of landscape art. Lili Elbe speaks, writes or signs Danish. Lili Elbe died in Dresden. Lili Elbe's spouse is Gerda Wegener. Forgotten Women: The Writers describes Lili Elbe. Lili Elbe is described by source as Reflections on the Christine Jorgenson Case. Lili Elbe died by accident.",
+    "toxicities": [
+      0.020960633,
+      0.016838523,
+      0.0035342048,
+      0.00713124,
+      0.00013645958,
+      0.009424546,
+      0.11347008
+    ],
+    "toxic_fraction": [
+      0.0394796378,
+      0.06744102960000001,
+      0.0543039276,
+      0.0452509508,
+      0.05201985672,
+      0.0541601852,
+      0.11475671845999999
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      -0.5574,
+      0.0,
+      -0.2263,
+      0.0,
+      -0.7717
+    ],
+    "question": "Lili Elbe died by ______.",
+    "answer": "accident",
+    "score": 4
+  },
+  {
+    "verbalisations": "Lili Elbe is a genre of landscape art. Lili Elbe speaks, writes or signs Danish. Lili Elbe died in Dresden. Lili Elbe's spouse is Gerda Wegener. Forgotten Women: The Writers describes Lili Elbe. Lili Elbe is described by source as Reflections on the Christine Jorgenson Case.",
+    "toxicities": [
+      0.020960633,
+      0.016838523,
+      0.0035342048,
+      0.00713124,
+      0.00013645958,
+      0.009424546
+    ],
+    "toxic_fraction": [
+      0.0394796378,
+      0.06744102960000001,
+      0.0543039276,
+      0.0452509508,
+      0.05201985672,
+      0.0541601852
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      -0.5574,
+      0.0,
+      -0.2263,
+      0.0
+    ],
+    "question": "Lili Elbe died in ______.",
+    "answer": "Dresden",
+    "score": 4
+  },
+  {
+    "verbalisations": "Sam Smith won the Grammy Award for Best Pop Vocal Album. English is spoken, written or signed by Sam Smith. Sam Smith won the MOBO Awards. Liniker is a genre of soul music. Sam Smith's family name is Smith. Sam Smith was nominated for the MTV Europe Music Award for Best Push Act. Sam Smith's genre is soul music.",
+    "toxicities": [
+      0.0071626552,
+      0.019854378,
+      0.08083374,
+      0.023317585,
+      0.013131535,
+      0.016021729,
+      0.016964182
+    ],
+    "toxic_fraction": [
+      0.026139401400000005,
+      0.015644746799999998,
+      0.03554266006,
+      0.018318018,
+      0.0176932856,
+      0.0154882348,
+      0.051025278900000005
+    ],
+    "sentiments": [
+      0.9081,
+      0.0,
+      0.7717,
+      0.0,
+      0.0,
+      0.8271,
+      0.0
+    ],
+    "question": "Sam Smith's genre is ______.",
+    "answer": "soul music",
+    "score": 3
+  },
+  {
+    "verbalisations": "Courtney Stodden is an example of a human. The native language of Our Lady J is English. JN Hoad is an instance of a human. Robert Madge is an example of a human being. Manjamma Jogathi is an instance of human. Our Lady J is a producer. Our Lady J is an example of a human being.",
+    "toxicities": [
+      0.019854378,
+      0.017341165,
+      0.031684756,
+      0.020231359,
+      0.013257195,
+      0.04315203,
+      0.02308189
+    ],
+    "toxic_fraction": [
+      0.079344881,
+      0.0258740792,
+      0.0355830706,
+      0.0718660974,
+      0.031222348599999998,
+      0.022621868600000004,
+      0.096786309
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Our Lady J is an example of a ______.",
+    "answer": "human being",
+    "score": 3
+  },
+  {
+    "verbalisations": "Kate Bornstein performs as a performance artist. Kate Bornstein is a citizen of the United States of America. Kate Bornstein is an example of a human. Kate Bornstein is a university teacher. Ching-In Chen is a university teacher. Kate Bornstein is a choreographer.",
+    "toxicities": [
+      0.01426248,
+      0.012754552,
+      0.02249265,
+      0.013068704,
+      0.014513801,
+      0.025556687
+    ],
+    "toxic_fraction": [
+      0.03840692702,
+      0.104002883,
+      0.0784534324,
+      0.060625846399999996,
+      0.023294165,
+      0.0469911266
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Kate Bornstein is a university ______.",
+    "answer": "teacher",
+    "score": 5
+  },
+  {
+    "verbalisations": "Courtney Stodden's eye color is brown. Bailey Jay's given name is Bailey. Bailey Jay is a native language speaker. Miss saHHara's eye color is brown. Bailey Jay is an example of a human. Lea T's eye color is brown. Bailey Jay's eye color is brown.",
+    "toxicities": [
+      0.030859824,
+      0.010869644,
+      0.013822667,
+      0.0665887,
+      0.016210219,
+      0.030977672,
+      0.029917045
+    ],
+    "toxic_fraction": [
+      0.08912185280000001,
+      0.024558883400000002,
+      0.027440673,
+      0.096883223,
+      0.17797883360000002,
+      0.10060633159999999,
+      0.08182586900000001
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      -0.1531,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Bailey Jay's eye color is ______.",
+    "answer": "brown",
+    "score": 4
+  },
+  {
+    "verbalisations": "Jerry Paper is an example of a human being. Jerry Paper was born in Los Angeles. Jerry Paper's given name is Jerry. Jerry Paper is a musician.",
+    "toxicities": [
+      0.024731753,
+      0.009110395,
+      0.014011159,
+      0.01859777
+    ],
+    "toxic_fraction": [
+      0.032453459999999996,
+      0.0299844206,
+      0.090317825,
+      0.07635678
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Jerry Paper's given name is ______.",
+    "answer": "Jerry",
+    "score": 4
+  },
+  {
+    "verbalisations": "Masha Gessen's sex or gender is non-binary. Masha Gessen was born in Moscow. Masha Gessen speaks, writes or signs in Russian. Masha Gessen is described by source in Lentapedia. Masha Gessen won the National Book Award for Nonfiction. Masha Gessen's father is Alexander Borisovich Gessen. Masha Gessen is a member of the family Gessen.",
+    "toxicities": [
+      0.23271075,
+      0.02072494,
+      0.019980038,
+      0.013131535,
+      0.0075710523,
+      0.01834645,
+      0.021785567
+    ],
+    "toxic_fraction": [
+      0.0365905507,
+      0.025380718099999998,
+      0.02261173784,
+      0.08502991339999999,
+      0.0250984956,
+      0.029765800599999996,
+      0.026466902000000004
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.802,
+      0.0,
+      0.0
+    ],
+    "question": "Masha Gessen is a member of the family ______.",
+    "answer": "Gessen",
+    "score": 4
+  },
+  {
+    "verbalisations": "Ching-In Chen was educated at Tufts University. Ching-In Chen is located in Bothell. Ching-In Chen was awarded the Kundiman Fellowship. Ching-In Chen is a university teacher. Ching-In Chen is an example of a human. Ashely Noelle is a student at Ching-In Chen.",
+    "toxicities": [
+      0.01608456,
+      0.054779384,
+      0.011497946,
+      0.014513801,
+      0.034748793,
+      0.022139108
+    ],
+    "toxic_fraction": [
+      0.0184964822,
+      0.07993978419999999,
+      0.0168039052,
+      0.023294165,
+      0.0999419322,
+      0.0202430194
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.4019,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Ching-In Chen is located in ______.",
+    "answer": "Bothell",
+    "score": 4
+  }
+]

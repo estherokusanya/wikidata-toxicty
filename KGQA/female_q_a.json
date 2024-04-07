@@ -1,0 +1,6380 @@
+[
+  {
+    "verbalisations": "Louise Ebrel is a character in Gwerz. Louise Ebrel speaks, writes or signs Breton. Louise Ebrel's country of citizenship is France. Lisa Brennauer was a participant in the 2022 Tour de France Femmes. Hedwig of Saxony was a child of Hugh Capet of France. Louise Ebrel was influenced by the music of Brittany.",
+    "toxicities": [
+      0.051563308,
+      0.01426248,
+      0.018723432,
+      0.0005693997,
+      0.025085296,
+      0.020842785
+    ],
+    "toxic_fraction": [
+      0.021129756,
+      0.031259056,
+      0.019431703899999996,
+      0.0780344328,
+      0.022944839400000003,
+      0.0340314663
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Louise Ebrel's country of citizenship is ______.",
+    "answer": "France",
+    "score": 5
+  },
+  {
+    "verbalisations": "Anne Hutchinson is a theologian. Anne Hutchinson's work location is Portsmouth. Anne Hutchinson speaks, writes or signs English. Anne Hutchinson's child is Edward Hutchinson. The Royal Descents of 600 Immigrants to the American Colonies or the United States (2004) is written by Anne Hutchinson. Anne Hutchinson is described by source in A Cyclopaedia of Female Biography. Anne Hutchinson died in New Netherland.",
+    "toxicities": [
+      0.01633588,
+      0.024967449,
+      0.024142517,
+      0.017341165,
+      0.008482091,
+      0.006942749,
+      0.05651112
+    ],
+    "toxic_fraction": [
+      0.0344165152,
+      0.015201689199999998,
+      0.09338591539999999,
+      0.017479792400000003,
+      0.0192154176,
+      0.028353037199999997,
+      0.050155844399999996
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4215,
+      0.0,
+      -0.5574
+    ],
+    "question": "Anne Hutchinson died in ______.",
+    "answer": "New Netherland",
+    "score": 4
+  },
+  {
+    "verbalisations": "Inna won the MTV Europe Music Award for Best Romanian Act. The given name of Inna is Alexandra. Inna is described by source Obalky knih.cz. Mangalia is the birthplace of Inna. Inna is an instance of human being. Inna speaks, writes or signs English. The main template for Inna is \"Inna\".",
+    "toxicities": [
+      0.0066600125,
+      0.011623607,
+      0.006722843,
+      0.023553278,
+      0.034277402,
+      0.016587202,
+      0.014827953
+    ],
+    "toxic_fraction": [
+      0.019866508600000003,
+      0.025985603200000002,
+      0.0209464088,
+      0.018325039600000002,
+      0.0173786784,
+      0.0297496477,
+      0.02274609
+    ],
+    "sentiments": [
+      0.9081,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The main template for Inna is ___",
+    "answer": "Inna",
+    "score": 5
+  },
+  {
+    "verbalisations": "Gottlob Friedrich Konstantin von Stein is the child of Charlotte von Stein. Charlotte von Stein was described by source in Collier's New Encyclopedia, 1921. Charlotte von Stein's country of citizenship is Saxe-Weimar-Eisenach. Charlotte von Stein died in Weimar. Charlotte von Stein's sex or gender is female. Charlotte von Stein is a lady-in-waiting.",
+    "toxicities": [
+      0.031449065,
+      0.008293601,
+      0.036870047,
+      0.041172907,
+      0.20102765,
+      0.14429577
+    ],
+    "toxic_fraction": [
+      0.0304265002,
+      0.0525256692,
+      0.037052980459999996,
+      0.0465050288,
+      0.0636873188,
+      0.06537295839999999
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      -0.5574,
+      0.0,
+      0.0
+    ],
+    "question": "Charlotte von Stein was described by source in Collier's New Encyclopedia, 1921.",
+    "answer": "Collier's New Encyclopedia, 1921",
+    "score": 3
+  },
+  {
+    "verbalisations": "Bettie Page's eye color is blue. Bettie Page was educated at Peabody College. Bettie Page is an instance of a human. Bettie Page is an erotic photography model. Bettie Page died from a myocardial infarction. Bettie Page's sex or gender is female. Bettie Page is present in work, Bettie Page: Dark Angel.",
+    "toxicities": [
+      0.025792383,
+      0.01646154,
+      0.032391842,
+      0.2553839,
+      0.09785384,
+      0.23343207,
+      0.01024134
+    ],
+    "toxic_fraction": [
+      0.025925701599999997,
+      0.06213669279999999,
+      0.10023472199999998,
+      0.0884006614,
+      0.0795652086,
+      0.084655309,
+      0.0445187684
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.5574,
+      0.0,
+      0.0
+    ],
+    "question": "Bettie Page is present in work, Bettie Page: _____",
+    "answer": "Dark Angel",
+    "score": 5
+  },
+  {
+    "verbalisations": "Silje Solberg has a sex or gender of female. Grace Min's sex or gender is female. Irene Prador's sex or gender is female. Lisa Brennauer's sport is road bicycle racing. Irma von Cube's sex or gender is female. Lisa Brennauer competed in track cycling. Lisa Brennauer's sex or gender is female.",
+    "toxicities": [
+      0.0026859958,
+      0.2043827,
+      0.14256015,
+      0.022374803,
+      0.15269235,
+      0.012440401,
+      0.20032968
+    ],
+    "toxic_fraction": [
+      0.08715914214,
+      0.0715228534,
+      0.0931615472,
+      0.016272930340000002,
+      0.0963066792,
+      0.018095782999999997,
+      0.1091787504
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Lisa Brennauer's sex or gender is ______.",
+    "answer": "female",
+    "score": 4
+  },
+  {
+    "verbalisations": "Sabrina Sabrok's sexual orientation is bisexuality. Sabrina Sabrok's eye color is blue. Bettie Page is an erotic photography model. Riona Hazuki is an erotic photography model. Sabrina Sabrok is a singer. Sabrina Sabrok is a member of Primeras Impresiones. Sabrina Sabrok is an erotic photography model.",
+    "toxicities": [
+      0.10089093,
+      0.022846194,
+      0.2553839,
+      0.23739935,
+      0.02035702,
+      0.001374413,
+      0.18649188
+    ],
+    "toxic_fraction": [
+      0.16508629086,
+      0.1111224698,
+      0.0884006614,
+      0.0854035804,
+      0.11363565140000001,
+      0.0249251732,
+      0.16641705
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Sabrina Sabrok is a famous ______. answer: ______",
+    "answer": "Sabrina Sabrok is a famous ______. answer: erotic photography model",
+    "score": 0
+  },
+  {
+    "verbalisations": "Magdalene of Bavaria was born in Munich. Magdalene of Bavaria died in Neuburg an der Donau. The noble title of Magdalene of Bavaria is duke. Maria Anna of Bavaria's sibling is Philipp of Bavaria. Magdalene of Bavaria has a sex or gender of female. Magdalene of Bavaria's native language is German. Magdalene of Bavaria's sibling is Philipp of Bavaria.",
+    "toxicities": [
+      0.027324399,
+      0.021549871,
+      0.103928015,
+      0.019100413,
+      0.1140901,
+      0.030388435,
+      0.016712861
+    ],
+    "toxic_fraction": [
+      0.034609987200000004,
+      0.0339051938,
+      0.034669078000000006,
+      0.023309424000000002,
+      0.024008020999999997,
+      0.0923362746,
+      0.0177762452
+    ],
+    "sentiments": [
+      0.0,
+      -0.5574,
+      0.4588,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Magdalene of Bavaria's sibling is ______.",
+    "answer": "Philipp of Bavaria",
+    "score": 4
+  },
+  {
+    "verbalisations": "Silje Solberg has a sex or gender of female. Grace Min's sex or gender is female. Irene Prador's sex or gender is female. Irma von Cube's sex or gender is female. Olympia Snowe has a sex or gender of female. The sex of Clementina de Jesus is female. Sylvia Stolz's sex or gender is female.",
+    "toxicities": [
+      0.0026859958,
+      0.2043827,
+      0.14256015,
+      0.15269235,
+      0.112436704,
+      0.3389984,
+      0.1798404
+    ],
+    "toxic_fraction": [
+      0.08715914214,
+      0.0715228534,
+      0.0931615472,
+      0.0963066792,
+      0.0710621864,
+      0.0691673094,
+      0.13495566239999998
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Sylvia Stolz's sex or gender is ______.",
+    "answer": "female",
+    "score": 4
+  },
+  {
+    "verbalisations": "Rachel Yankey speaks, writes or signs English. Meryl Streep's writing language is English. The language spoken, written or signed by Karin Knorr Cetina is English. Whitney Stevens speaks, writes or signs in English. Hallee Hirsh writes in English. Anouk is spoken, written or signed in English. Bettie Page speaks, writes or signed English.",
+    "toxicities": [
+      0.025320992,
+      0.024967449,
+      0.021785567,
+      0.017718147,
+      0.009990019,
+      0.008859074,
+      0.015581916
+    ],
+    "toxic_fraction": [
+      0.0273917892,
+      0.060885036200000006,
+      0.018369769599999995,
+      0.015790601699999997,
+      0.01617888006,
+      0.051646736000000006,
+      0.0693233178
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Bettie Page speaks, writes or signed ______.",
+    "answer": "English",
+    "score": 4
+  },
+  {
+    "verbalisations": "Archduchess Maria Elisabeth of Austria's sibling is Joseph I, Holy Roman Emperor. Duchess Alexandra of Oldenburg is an example of a human being. Duchess Alexandra of Oldenburg's sibling is Duke Alexander Petrovich of Oldenburg. The Duchess Alexandra of Oldenburg died in the Pokrovsky Monastery. Maria Anna of Bavaria (1574\u20131616), Archduchess of Austria, is depicted in the Portrait of Maria Anna of Bavaria. Dorothea Susanne of Simmern has the noble title of duchess. Duchess Alexandra of Oldenburg has the noble title of duchess.",
+    "toxicities": [
+      0.039226998,
+      0.041172907,
+      0.037577134,
+      0.06579731,
+      0.0012566062,
+      0.32971194,
+      0.30527395
+    ],
+    "toxic_fraction": [
+      0.026548978600000002,
+      0.05021464659999999,
+      0.025462409,
+      0.034611797720000004,
+      0.026632877,
+      0.0481704228,
+      0.04494049679999999
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      -0.5574,
+      0.0,
+      0.4588,
+      0.4588
+    ],
+    "question": "Duchess Alexandra of Oldenburg has the noble title of ______.",
+    "answer": "duchess",
+    "score": 4
+  },
+  {
+    "verbalisations": "Silje Solberg has a sex or gender of female. Grace Min's sex or gender is female. Irene Prador's sex or gender is female. Irma von Cube's sex or gender is female. Olympia Snowe has a sex or gender of female. The sex of Clementina de Jesus is female. Minami Hoshino has a sex or gender of female.",
+    "toxicities": [
+      0.0026859958,
+      0.2043827,
+      0.14256015,
+      0.15269235,
+      0.112436704,
+      0.3389984,
+      0.16765249
+    ],
+    "toxic_fraction": [
+      0.08715914214,
+      0.0715228534,
+      0.0931615472,
+      0.0963066792,
+      0.0710621864,
+      0.0691673094,
+      0.0859001258
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Minami Hoshino has a sex or gender of ______.",
+    "answer": "female",
+    "score": 4
+  },
+  {
+    "verbalisations": "Olympia Snowe has a sex or gender of female. The family name of Olympia Snowe is Snowe. Olympia Snowe's religion or worldview is Eastern Orthodoxy. Olympia Snowe's given name is Olympia. Olympia Snowe is a native language name. Olympia Snowe is a United States senator.",
+    "toxicities": [
+      0.112436704,
+      0.01847211,
+      0.04240986,
+      0.022139108,
+      0.017843807,
+      0.009927189
+    ],
+    "toxic_fraction": [
+      0.0710621864,
+      0.022856369600000002,
+      0.11227786000000002,
+      0.0289475184,
+      0.0177449274,
+      0.07283038859999999
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4215
+    ],
+    "question": "Olympia Snowe is a ______ United States senator.",
+    "answer": "United States",
+    "score": 3
+  },
+  {
+    "verbalisations": "Dalia Grybauskait<unk> is a diplomat. Dalia Grybauskait<unk> is a candidate in the 2014 Lithuanian presidential election. Aurelia Frick is a participant in the World Economic Forum Annual Meeting 2015. Dalia Grybauskait<unk>'s field of work is economics. Dalia Grybauskait<unk>'s father was Polikarpas Grybauskas. Dalia Grybauskait<unk> was awarded the Grand Cross with collar of the Order of Vytautas the Great. Dalia Grybauskait<unk> is a participant in the World Economic Forum Annual Meeting 2015.",
+    "toxicities": [
+      0.014073989,
+      0.011309455,
+      0.010995304,
+      0.01005285,
+      0.014450971,
+      0.01646154,
+      0.009110395
+    ],
+    "toxic_fraction": [
+      0.0743267841,
+      0.026186789199999998,
+      0.04037236178,
+      0.009927188399999998,
+      0.0342662048,
+      0.0171312742,
+      0.013078025099999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.8689,
+      0.0
+    ],
+    "question": "Dalia Grybauskait<unk> is a participant in the World Economic Forum Annual Meeting 2015.",
+    "answer": "Dalia Grybauskait<unk> is a participant in the World Economic Forum Annual Meeting 2015.",
+    "score": 0
+  },
+  {
+    "verbalisations": "Marie Curie was awarded the Matteucci Medal. Marie Curie is a member of the Royal Swedish Academy of Sciences. Marie Curie is part of Pierre and Marie Curie. Marie Curie is a university teacher. Marie Curie is a member of the Acad\u00e9mie Nationale de M\u00e9decine. Marie Curie was awarded the Order of the White Eagle. Marie Curie is a member of the Russian Academy of Sciences.",
+    "toxicities": [
+      0.013634177,
+      0.014639461,
+      0.008733413,
+      0.012691722,
+      0.0020891076,
+      0.053295042,
+      0.014073989
+    ],
+    "toxic_fraction": [
+      0.020961523460000003,
+      0.024524986199999998,
+      0.0203378486,
+      0.038749079799999996,
+      0.016050843,
+      0.0199345476,
+      0.0177281188
+    ],
+    "sentiments": [
+      0.7003,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4019,
+      0.0
+    ],
+    "question": "Marie Curie is a member of the ______ Academy of Sciences.",
+    "answer": "Russian",
+    "score": 0
+  },
+  {
+    "verbalisations": "Sonali Bendre's religion or worldview is Hinduism. Sonali Bendre's spouse is Goldie Behl. Sonali Bendre was born in Mumbai. Sonali Bendre was educated at Kendriya Vidyalaya. Sonali Bendre speaks, writes or signs Hindi. Sonali Bendre is a member of the family name Bendre. Sonali Bendre won the Filmfare Award for Best Female Debut.",
+    "toxicities": [
+      0.06104896,
+      0.026617315,
+      0.0064715217,
+      0.0060317097,
+      0.0071626552,
+      0.014073989,
+      0.00021107057
+    ],
+    "toxic_fraction": [
+      0.0555351928,
+      0.045422125199999996,
+      0.026444239520000003,
+      0.0131315342,
+      0.06319031979999999,
+      0.037994586999999996,
+      0.029535830000000006
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.9081
+    ],
+    "question": "Sonali Bendre won the Filmfare Award for Best Female Debut.",
+    "answer": "1995",
+    "score": 0
+  },
+  {
+    "verbalisations": "Dora Kallmus speaks, writes or signed German. Lily Braun is a member of the Social Democratic Party of Germany. Frida Richard speaks, writes or signed German. Gunda Niemann-Stirnemann is from Germany. Friederike Caroline Neuber speaks, writes or signs German. Dora Kallmus is a portrait photographer.",
+    "toxicities": [
+      0.025203144,
+      0.02873857,
+      0.032627538,
+      0.104361884,
+      0.02072494,
+      0.025085296
+    ],
+    "toxic_fraction": [
+      0.0449645526,
+      0.0365083904,
+      0.0283439386,
+      0.024605954200000002,
+      0.0410906958,
+      0.024490229000000002
+    ],
+    "sentiments": [
+      0.0,
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Dora Kallmus speaks, writes or signed ______.",
+    "answer": "German",
+    "score": 3
+  },
+  {
+    "verbalisations": "Jolanta Polikevi<unk>i<unk>t<unk> was a participant in the 2008 Summer Olympics. Indira Terrero was a participant in the 2008 Summer Olympics. Barbora <unk>pot\u00e1kov\u00e1 competed in the 2008 Summer Olympics in the women's javelin throw. Jolanta Polikevi<unk>i<unk>t<unk> is a member of the Alfa Lum sports team. Jolanta Polikevi<unk>i<unk>t<unk> is a sport cyclist. Jolanta Polikevi<unk>i<unk>t<unk> is a member of the Ebly sports team.",
+    "toxicities": [
+      0.009613037,
+      0.007696713,
+      0.02035702,
+      0.015707577,
+      0.01646154,
+      0.015330595
+    ],
+    "toxic_fraction": [
+      0.0134959502,
+      0.0221221832,
+      0.0247612612,
+      0.0178123808,
+      0.013253884999999998,
+      0.030250564199999996
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Jolanta Polikevi<unk>i<unk>t<unk> was a participant in the ______.",
+    "answer": "2008 Summer Olympics",
+    "score": 4
+  },
+  {
+    "verbalisations": "Angelique Kerber is an example of a human. Edith Hannam plays tennis. Angelique Kerber won the 2016 US Open. Julia G\u00f6rges plays tennis. Caroline Wozniacki competed in tennis doubles. Maureen Connolly played tennis. Angelique Kerber plays tennis.",
+    "toxicities": [
+      0.027206551,
+      0.01847211,
+      0.014890783,
+      0.010995304,
+      0.00713124,
+      0.016587202,
+      0.023199737
+    ],
+    "toxic_fraction": [
+      0.0342853126,
+      0.0157337608,
+      0.04750609879999999,
+      0.016750451,
+      0.0227851154,
+      0.0274881576,
+      0.013659308700000001
+    ],
+    "sentiments": [
+      0.0,
+      0.25,
+      0.5719,
+      0.25,
+      0.0,
+      0.34,
+      0.25
+    ],
+    "question": "Angelique Kerber plays ______.",
+    "answer": "tennis",
+    "score": 5
+  },
+  {
+    "verbalisations": "Petra Felke's country of citizenship is the German Democratic Republic. Julia Franck's country of citizenship is the German Democratic Republic. Monika Maron's sex or gender is female. Petra Felke is from the German Democratic Republic. Monika Maron's documentation files are at the SAPA Foundation, Swiss Archive of the Performing Arts. Ilka Bessin's country of citizenship is the German Democratic Republic. Monika Maron's country of citizenship is the German Democratic Republic.",
+    "toxicities": [
+      0.04686289,
+      0.04240986,
+      0.15711457,
+      0.039226998,
+      0.00804228,
+      0.045131154,
+      0.044388983
+    ],
+    "toxic_fraction": [
+      0.0306099336,
+      0.030858688200000005,
+      0.0657018814,
+      0.0514037698,
+      0.016657139,
+      0.044011204799999995,
+      0.0458501054
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Monika Maron's country of citizenship is ________.",
+    "answer": "German Democratic Republic",
+    "score": 4
+  },
+  {
+    "verbalisations": "Annemarie Schimmel is a university teacher. Annemarie Schimmel is a writer. Annemarie Schimmel was born in Erfurt. Annemarie Schimmel is described by source at Obalky knih.cz. Annemarie Schimmel was educated at Humboldt University of Berlin. Annemarie Schimmel is on the focus list of Wikimedia project:Islamic Courts & Canons. Annemarie Schimmel won the Dr. Leopold Lucas Prize.",
+    "toxicities": [
+      0.015770407,
+      0.013382856,
+      0.01633588,
+      0.011372286,
+      0.02920996,
+      0.025556687,
+      0.01608456
+    ],
+    "toxic_fraction": [
+      0.022522498000000002,
+      0.0381862832,
+      0.05717504920000001,
+      0.033170976000000005,
+      0.0357732056,
+      0.04266192480000001,
+      0.03044855904
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.7906
+    ],
+    "question": "Annemarie Schimmel won the Dr. Leopold Lucas Prize.",
+    "answer": "Germany",
+    "score": 1
+  },
+  {
+    "verbalisations": "The given name of Amantle Montsho is Amantle. Amantle Montsho was a participant in the 2014 Commonwealth Games. Amantle Montsho's eye color is dark brown. Amantle Montsho is an athletics competitor. Amantle Montsho is an example of a human. The family name of Amantle Montsho is Montsho. Amantle Montsho's hair color is black hair.",
+    "toxicities": [
+      0.016210219,
+      0.0069113337,
+      0.030741978,
+      0.0131943645,
+      0.021785567,
+      0.013131535,
+      0.02308189
+    ],
+    "toxic_fraction": [
+      0.017099946,
+      0.023904982999999998,
+      0.0321097576,
+      0.01681041654,
+      0.06910636179999999,
+      0.0429915748,
+      0.0385305178
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Amantle Montsho's hair color is ______.",
+    "answer": "black",
+    "score": 4
+  },
+  {
+    "verbalisations": "Julia Mancuso's nickname is Super Jules. Julia Mancuso was nominated for the Best U.S. Female Olympian ESPY Award. Julia Mancuso's given name is Julia. Julia Mancuso is an instance of a human. Julia Mancuso competed in the super-G. Petra Haltmayr competed in the super-G.",
+    "toxicities": [
+      0.014136819,
+      0.00026310192,
+      0.0109324735,
+      0.032627538,
+      0.016210219,
+      0.02072494
+    ],
+    "toxic_fraction": [
+      0.0348845124,
+      0.011012666,
+      0.09242882459999999,
+      0.029351485499999996,
+      0.01394895752,
+      0.0235085384
+    ],
+    "sentiments": [
+      0.5994,
+      0.8271,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Julia Mancuso competed in the super-G. _________",
+    "answer": "skiing",
+    "score": 0
+  },
+  {
+    "verbalisations": "Silje Solberg has a sex or gender of female. Grace Min's sex or gender is female. Irene Prador's sex or gender is female. Irma von Cube's sex or gender is female. Olympia Snowe has a sex or gender of female. The sex of Clementina de Jesus is female. Alexandra Maria Lara has a sex or gender of female.",
+    "toxicities": [
+      0.0026859958,
+      0.2043827,
+      0.14256015,
+      0.15269235,
+      0.112436704,
+      0.3389984,
+      0.15656179
+    ],
+    "toxic_fraction": [
+      0.08715914214,
+      0.0715228534,
+      0.0931615472,
+      0.0963066792,
+      0.0710621864,
+      0.0691673094,
+      0.027813051999999998
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Alexandra Maria Lara has a sex or gender of ______.",
+    "answer": "female",
+    "score": 5
+  },
+  {
+    "verbalisations": "Margarete Jonas' given name is Margarete. Margarete Jonas has a sex or gender of female. Margarete Jonas is the First Lady. Margarete Jonas is the spouse of Franz Jonas. Margarete Jonas died in Vienna.",
+    "toxicities": [
+      0.008607753,
+      0.10956833,
+      0.015833238,
+      0.028149333,
+      0.0023561365
+    ],
+    "toxic_fraction": [
+      0.020721171200000003,
+      0.04591452613,
+      0.026715024599999998,
+      0.0403099151,
+      0.023635640800000003
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.5574
+    ],
+    "question": "Margarete Jonas' given name is ______.",
+    "answer": "Margarete",
+    "score": 4
+  },
+  {
+    "verbalisations": "Carola of Vasa has the noble title of princess. The noble title of Princess Christine Louise of Oettingen-Oettingen is princess. Gustav, Prince of Vasa is the father of Carola of Vasa. Carola of Vasa's work location is Dresden. The noble title of Princess Marie Auguste of Anhalt is princess. The noble title of Leia Organa is a fictional princess.",
+    "toxicities": [
+      0.013382856,
+      0.011058134,
+      0.012880214,
+      0.029092113,
+      0.023553278,
+      0.048594624
+    ],
+    "toxic_fraction": [
+      0.0176477848,
+      0.0222131174,
+      0.0361449874,
+      0.0238166998,
+      0.0414665894,
+      0.0344471772
+    ],
+    "sentiments": [
+      0.4588,
+      0.4588,
+      0.0,
+      0.0,
+      0.4588,
+      0.4588
+    ],
+    "question": "Carola of Vasa has the noble title of ______.",
+    "answer": "princess",
+    "score": 4
+  },
+  {
+    "verbalisations": "Silje Solberg has a sex or gender of female. Grace Min's sex or gender is female. Irene Prador's sex or gender is female. Irma von Cube's sex or gender is female. Iris Tabeling was a participant in the 2014 Dutch Badminton Championships \u2013 mixed doubles. Olympia Snowe has a sex or gender of female. Iris Tabeling's sex or gender is female.",
+    "toxicities": [
+      0.0026859958,
+      0.2043827,
+      0.14256015,
+      0.15269235,
+      0.003377129,
+      0.112436704,
+      0.104795754
+    ],
+    "toxic_fraction": [
+      0.08715914214,
+      0.0715228534,
+      0.0931615472,
+      0.0963066792,
+      0.0141368194,
+      0.0710621864,
+      0.062295696600000006
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.4939,
+      0.0,
+      0.0
+    ],
+    "question": "Iris Tabeling's sex or gender is ______.",
+    "answer": "female",
+    "score": 4
+  },
+  {
+    "verbalisations": "Natalia Pavlova's given name is Natalya. Natalia Pavlova was born in Saint Petersburg. Natalia Pavlova won the Merited Coach of the USSR award. Natalia Pavlova was awarded the Master of Sport of the USSR. Natalia Pavlova's sport is figure skating. Natalia Pavlova's family name is Donhauser.",
+    "toxicities": [
+      0.012440401,
+      0.014827953,
+      0.013885498,
+      0.017215505,
+      0.11912931,
+      0.023906821
+    ],
+    "toxic_fraction": [
+      0.0192683573,
+      0.019586083599999998,
+      0.01073769968,
+      0.021194725,
+      0.023320120000000003,
+      0.0881439259
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.8625,
+      0.4019,
+      0.0,
+      0.0
+    ],
+    "question": "Natalia Pavlova was awarded the Master of Sport of the ______.",
+    "answer": "USSR",
+    "score": 3
+  },
+  {
+    "verbalisations": "Natalia Pavlova's given name is Natalya. Natalia Pavlova was born in Saint Petersburg. Natalia Pavlova won the Merited Coach of the USSR award. Natalia Pavlova was awarded the Master of Sport of the USSR. Natalia Pavlova's sport is figure skating. Natalia Pavlova's family name is Donhauser. Natalia Pavlova was educated at Northwestern State Technical Remote University.",
+    "toxicities": [
+      0.012440401,
+      0.014827953,
+      0.013885498,
+      0.017215505,
+      0.11912931,
+      0.023906821,
+      0.0058118035
+    ],
+    "toxic_fraction": [
+      0.0192683573,
+      0.019586083599999998,
+      0.01073769968,
+      0.021194725,
+      0.023320120000000003,
+      0.0881439259,
+      0.016914656219999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.8625,
+      0.4019,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Natalia Pavlova was educated at _______.",
+    "answer": "Northwestern State Technical Remote University",
+    "score": 4
+  },
+  {
+    "verbalisations": "Katrin Wagner-Augustin's sex or gender is female. Katrin Wagner-Augustin was born in Brandenburg an der Havel. The family name of Katrin Wagner-Augustin is Augustin. Otylia J<unk>drzejczak was a participant in the 2000 Summer Olympics. Katrin Wagner-Augustin enjoys canoeing and kayaking. Katrin Wagner-Augustin was a participant in the 2000 Summer Olympics.",
+    "toxicities": [
+      0.17285149,
+      0.019226074,
+      0.024849601,
+      0.006377276,
+      0.051810697,
+      0.009927189
+    ],
+    "toxic_fraction": [
+      0.0893716992,
+      0.0430036678,
+      0.072536403,
+      0.0327998952,
+      0.014531000799999999,
+      0.011496134199999999
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5106,
+      0.0
+    ],
+    "question": "Katrin Wagner-Augustin was a participant in the ______ Summer Olympics.",
+    "answer": "2000",
+    "score": 5
+  },
+  {
+    "verbalisations": "Ilka Bessin is a non-fiction writer. Ilka Bessin is a participant in Let's Dance, season 13. Ilka Bessin's sex or gender is female. The language spoken, written or signed by Ilka Bessin is German. Ilka Bessin is named after Marzahn. Ilka Bessin's country of citizenship is the German Democratic Republic.",
+    "toxicities": [
+      0.03592727,
+      0.004429537,
+      0.15711457,
+      0.026028076,
+      0.018723432,
+      0.045131154
+    ],
+    "toxic_fraction": [
+      0.0284201826,
+      0.025134540920000004,
+      0.043939185799999995,
+      0.030619829999999997,
+      0.0697854088,
+      0.044011204799999995
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Ilka Bessin is named after ______.",
+    "answer": "Marzahn",
+    "score": 5
+  },
+  {
+    "verbalisations": "Wilma Neruda's instrument is the violin. Wilma Neruda is described by source biografiA: Lexikon \u00f6sterreichischer Frauen. Wilma Neruda is described by source in the New Encyclopedic Dictionary. Wilma Neruda was born in Brno. Wilma Neruda's archives are at the Bavarian State Library. Wilma Neruda's country of citizenship is Sweden. Maria Wrangel is a student of Wilma Neruda.",
+    "toxicities": [
+      0.14082454,
+      0.0028116563,
+      0.011749268,
+      0.00804228,
+      0.011497946,
+      0.030034892,
+      0.017341165
+    ],
+    "toxic_fraction": [
+      0.0190195258,
+      0.028396676599999997,
+      0.0218915972,
+      0.0181710666,
+      0.023388647800000002,
+      0.076374159,
+      0.0100308587
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Maria Wrangel is a student of ______.",
+    "answer": "Wilma Neruda",
+    "score": 4
+  },
+  {
+    "verbalisations": "Rachel Yankey speaks, writes or signs English. Rachel Yankey is a member of the New Jersey Wildcats sports team. Rachel Yankey is an association football player. Rachel Yankey's sex or gender is female. Rachel Yankey is a member of the Birmingham City L.F.C. Rachel Yankey plays association football. Rachel Yankey is a member of the Birmingham City F.C.",
+    "toxicities": [
+      0.025320992,
+      0.013948329,
+      0.0137598375,
+      0.24603334,
+      0.017969469,
+      0.017969469,
+      0.02072494
+    ],
+    "toxic_fraction": [
+      0.0273917892,
+      0.016989065200000004,
+      0.015213149,
+      0.060675470200000005,
+      0.017172216799999997,
+      0.05248570760000001,
+      0.0151689392
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.25,
+      0.0
+    ],
+    "question": "Rachel Yankey is a member of the ______ ____ F.C.",
+    "answer": "Birmingham City",
+    "score": 4
+  },
+  {
+    "verbalisations": "Margit Carstensen is a film actor. Sabine Bethmann is a film actor. Proschat Madani is a stage actor. Waltraut Haas is a film actor. Elizabeth Marvel is a film actor. Sona MacDonald is a film actor. Anita Pallenberg is an actor.",
+    "toxicities": [
+      0.017215505,
+      0.018849092,
+      0.025203144,
+      0.013382856,
+      0.020842785,
+      0.021667719,
+      0.035691574
+    ],
+    "toxic_fraction": [
+      0.0629742748,
+      0.020034076,
+      0.022368652,
+      0.0240055612,
+      0.02886048612,
+      0.0201042324,
+      0.0285020196
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4215,
+      0.0,
+      0.0
+    ],
+    "question": "Anita Pallenberg is an _______.",
+    "answer": "actor",
+    "score": 5
+  },
+  {
+    "verbalisations": "Meryl Streep's writing language is English. Mary is the given name of Meryl Streep. Meryl Streep has received a list of awards and nominations. Meryl Streep is a television producer. Meryl Streep is a film actor. Meryl Streep is a member of the Democratic Party. Meryl Streep received an honorary doctorate from Harvard University.",
+    "toxicities": [
+      0.024967449,
+      0.022964042,
+      0.014011159,
+      0.032627538,
+      0.030859824,
+      0.021314176,
+      0.01608456
+    ],
+    "toxic_fraction": [
+      0.060885036200000006,
+      0.1266509376,
+      0.0203874468,
+      0.04440388419999999,
+      0.0186020566,
+      0.060312065000000005,
+      0.0482855074
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.4588,
+      0.0,
+      0.0,
+      0.4019,
+      0.34
+    ],
+    "question": "Meryl Streep received an honorary doctorate from ______ University.",
+    "answer": "Harvard",
+    "score": 4
+  },
+  {
+    "verbalisations": "Alexis Texas is in the United States of America. The hair color of Alexis Texas is blond. Alexis Texas won the AVN Award. English is spoken, written or signed in Alexis, Texas. Alexis Texas was nominated for the AVN Female Performer of the Year Award. Gwyneth Paltrow's hair color is blond hair.",
+    "toxicities": [
+      0.015644746,
+      0.03875561,
+      0.009236055,
+      0.009613037,
+      0.00026899227,
+      0.04166769
+    ],
+    "toxic_fraction": [
+      0.087314566,
+      0.0294718836,
+      0.12520367719999997,
+      0.018443939200000002,
+      0.0158711091,
+      0.0550569968
+    ],
+    "sentiments": [
+      0.4215,
+      0.0,
+      0.802,
+      0.0,
+      0.5423,
+      0.0
+    ],
+    "question": "The hair color of Alexis Texas is ______.",
+    "answer": "blond",
+    "score": 4
+  },
+  {
+    "verbalisations": "Elizabeth Marvel is a film actor. Elizabeth Marvel's spouse is Bill Camp. Elizabeth Marvel is a television actor. Elizabeth Marvel is a member of the Marvel family. Elizabeth Marvel was nominated for the Drama Desk Award for Outstanding Actress in a Play. Elizabeth Marvel is an example of a human.",
+    "toxicities": [
+      0.020842785,
+      0.036162965,
+      0.02048268,
+      0.02685301,
+      0.0013272902,
+      0.031213367
+    ],
+    "toxic_fraction": [
+      0.02886048612,
+      0.021955075,
+      0.0278098642,
+      0.0401929396,
+      0.0237070878,
+      0.0343802128
+    ],
+    "sentiments": [
+      0.4215,
+      0.0,
+      0.4215,
+      0.6808,
+      0.9136,
+      0.4215
+    ],
+    "question": "Elizabeth Marvel is a member of the _____ family.",
+    "answer": "Marvel",
+    "score": 4
+  },
+  {
+    "verbalisations": "Justine Siegemund died in Berlin. Justine Siegemund's family name is Dittrich. Justine Siegemund's country of citizenship is the Duchies of Silesia. Justine Siegemund is described by source in the Allgemeine Deutsche Biographie. Justine Siegemund's given name is Justine. Justine Siegemund's work location is Berlin.",
+    "toxicities": [
+      0.040430736,
+      0.023906821,
+      0.16678599,
+      0.016210219,
+      0.0154562555,
+      0.030034892
+    ],
+    "toxic_fraction": [
+      0.030367621,
+      0.024138339200000004,
+      0.0535234392,
+      0.0339032098,
+      0.028830509999999997,
+      0.0204581548
+    ],
+    "sentiments": [
+      -0.5574,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Justine Siegemund's country of citizenship is the Duchies of ______.",
+    "answer": "Silesia",
+    "score": 4
+  },
+  {
+    "verbalisations": "Maria Sofia of Neuburg died in Lisbon. Maria Sofia of Neuburg was a monarch. Maria Sofia of Neuburg is a member of the family House of Wittelsbach. Maria Sofia of Neuburg died of an infectious disease. Maria Sofia of Neuburg is the child of John V of Portugal. Maria Sofia of Neuburg died of natural causes.",
+    "toxicities": [
+      0.03781283,
+      0.038991302,
+      0.019100413,
+      0.11212669,
+      0.019854378,
+      0.09568449
+    ],
+    "toxic_fraction": [
+      0.0319487996,
+      0.0233120942,
+      0.026877112400000003,
+      0.0471965064,
+      0.026454964200000004,
+      0.0360944609
+    ],
+    "sentiments": [
+      -0.5574,
+      0.0,
+      0.0,
+      -0.5574,
+      0.0,
+      -0.2732
+    ],
+    "question": "Maria Sofia of Neuburg is a member of the family _________",
+    "answer": "House of Wittelsbach",
+    "score": 4
+  },
+  {
+    "verbalisations": "Dora Kallmus speaks, writes or signed German. Lily Braun is a member of the Social Democratic Party of Germany. Frida Richard speaks, writes or signed German. Leopold III of Belgium is the sibling of Queen Marie-Jos\u00e9 of Italy. Gunda Niemann-Stirnemann is from Germany. Friederike Caroline Neuber speaks, writes or signs German. The Queen Marie-Jos\u00e9 of Italy speaks, writes or signs German.",
+    "toxicities": [
+      0.025203144,
+      0.02873857,
+      0.032627538,
+      0.021785567,
+      0.104361884,
+      0.02072494,
+      0.036634352
+    ],
+    "toxic_fraction": [
+      0.0449645526,
+      0.0365083904,
+      0.0283439386,
+      0.0243222354,
+      0.024605954200000002,
+      0.0410906958,
+      0.0515638448
+    ],
+    "sentiments": [
+      0.0,
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The Queen Marie-Jos\u00e9 of Italy speaks, writes or signs ______.",
+    "answer": "German",
+    "score": 5
+  },
+  {
+    "verbalisations": "Madison Brengle is a citizen of the United States of America. Darleane C. Hoffman won the Enrico Fermi Award. Alexis Texas is in the United States of America. Dorothy Cheney's country of citizenship is the United States of America. Rose Ausl\u00e4nder is from the United States of America. Darleane C. Hoffman's given name is Darleane. Darleane C. Hoffman is from the United States of America.",
+    "toxicities": [
+      0.012691722,
+      0.006691428,
+      0.015644746,
+      0.029445656,
+      0.022021262,
+      0.009550206,
+      0.013948329
+    ],
+    "toxic_fraction": [
+      0.01059318972,
+      0.01997359206,
+      0.087314566,
+      0.036152660399999995,
+      0.028745394400000002,
+      0.030455527,
+      0.017861408000000002
+    ],
+    "sentiments": [
+      0.4215,
+      0.802,
+      0.4215,
+      0.4215,
+      0.4215,
+      0.0,
+      0.4215
+    ],
+    "question": "Darleane C. Hoffman is from _____",
+    "answer": "the United States of America",
+    "score": 4
+  },
+  {
+    "verbalisations": "Conny Pohlers is from Germany. Conny Pohlers plays in association football. Conny Pohlers plays on team / speciality as a forward. Conny Pohlers is a member of the sports team 1. FFC 08 Niederkirchen. Conny Pohlers was a participant in the 2004 Summer Olympics. Conny Pohlers is from the country of sport Germany. Conny Pohlers is a member of the Pohlers family.",
+    "toxicities": [
+      0.044883765,
+      0.011058134,
+      0.009361716,
+      0.014576632,
+      0.005937464,
+      0.035691574,
+      0.029917045
+    ],
+    "toxic_fraction": [
+      0.10175668419999999,
+      0.0186275468,
+      0.0272528718,
+      0.0167566255,
+      0.021444433200000005,
+      0.0205791924,
+      0.030890397200000003
+    ],
+    "sentiments": [
+      0.0,
+      0.25,
+      0.25,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Conny Pohlers is a member of the ______ family.",
+    "answer": "Pohlers",
+    "score": 3
+  },
+  {
+    "verbalisations": "Sappho was born in Lesbos. Sappho's residence is Lesbos. Sappho has a sex or gender of female. Sappho is described by source in A Cyclopaedia of Female Biography. Sappho is a poet. Sappho is a composer. Sappho's residence is Mytilene.",
+    "toxicities": [
+      0.021667719,
+      0.20839658,
+      0.20219094,
+      0.006785673,
+      0.02873857,
+      0.051068526,
+      0.016587202
+    ],
+    "toxic_fraction": [
+      0.1035665598,
+      0.172870714,
+      0.1009438337,
+      0.0532901038,
+      0.09525847579999999,
+      0.036701731,
+      0.08067504719999999
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Sappho's residence is _______",
+    "answer": "Mytilene",
+    "score": 4
+  },
+  {
+    "verbalisations": "Rachel Yankey speaks, writes or signs English. Rachel Yankey is a member of the New Jersey Wildcats sports team. Christine Beck is an association football referee. Conny Pohlers plays in association football. Rachel Yankey is an association football player. Rachel Yankey's sex or gender is female. Rachel Yankey plays association football.",
+    "toxicities": [
+      0.025320992,
+      0.013948329,
+      0.008859074,
+      0.011058134,
+      0.0137598375,
+      0.24603334,
+      0.017969469
+    ],
+    "toxic_fraction": [
+      0.0273917892,
+      0.016989065200000004,
+      0.0136654719,
+      0.0186275468,
+      0.015213149,
+      0.060675470200000005,
+      0.05248570760000001
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.25,
+      0.0,
+      0.0,
+      0.25
+    ],
+    "question": "Rachel Yankey plays ______ football.",
+    "answer": "association",
+    "score": 4
+  },
+  {
+    "verbalisations": "Eva Braun is a relative of Ida Hitler. Eva Braun died from cyanide poisoning. Eva Braun's sibling is Gretl Braun. Eva Braun's sibling is Ilse Braun. Eva Braun is a photographer. Eva Braun is a model.",
+    "toxicities": [
+      0.27525392,
+      0.2028889,
+      0.021314176,
+      0.015770407,
+      0.019980038,
+      0.014827953
+    ],
+    "toxic_fraction": [
+      0.07467067399999999,
+      0.1687701156,
+      0.08674477466,
+      0.0723853792,
+      0.0500573269,
+      0.1461093436
+    ],
+    "sentiments": [
+      0.0,
+      -0.8126,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Eva Braun died from _______.",
+    "answer": "cyanide poisoning",
+    "score": 3
+  },
+  {
+    "verbalisations": "Ursula Kuczynski's sibling is J\u00fcrgen Kuczynski. Ursula Kuczynski is a member of the Socialist Unity Party of Germany. Ursula Kuczynski's country of citizenship is Germany. Ruth is the given name of Ursula Kuczynski. Ursula Kuczynski won the Order of the Red Banner. Ursula Kuczynski's spouse is Len Beurton.",
+    "toxicities": [
+      0.015204934,
+      0.040183347,
+      0.051563308,
+      0.014765122,
+      0.018095128,
+      0.011874928
+    ],
+    "toxic_fraction": [
+      0.05611085600000001,
+      0.0437009198,
+      0.13871838460000002,
+      0.028260766,
+      0.0447596444,
+      0.0303243386
+    ],
+    "sentiments": [
+      0.0,
+      0.4019,
+      0.0,
+      0.0,
+      0.5719,
+      0.0
+    ],
+    "question": "Ursula Kuczynski won the Order of the Red Banner.",
+    "answer": "Soviet Union",
+    "score": 3
+  },
+  {
+    "verbalisations": "Ursula Herking's country of citizenship is Germany. Ursula Herking's work location is D\u00fcsseldorf. Ursula Herking's father is Willy Klein. Ursula Herking is an example of a human. Ursula Herking won the Schwabing Art Prize. Ursula Herking is a film actor.",
+    "toxicities": [
+      0.057005897,
+      0.015393426,
+      0.010995304,
+      0.026970858,
+      0.019603057,
+      0.015896067
+    ],
+    "toxic_fraction": [
+      0.028700044599999995,
+      0.0254887864,
+      0.026933816300000003,
+      0.060369196599999994,
+      0.018026937,
+      0.0537438278
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.7906,
+      0.0
+    ],
+    "question": "Ursula Herking's father is _______",
+    "answer": "Willy Klein",
+    "score": 4
+  },
+  {
+    "verbalisations": "Dorothea of Brandenburg is a child of Canute of Denmark. Dora Kallmus speaks, writes or signed German. Lily Braun is a member of the Social Democratic Party of Germany. Frida Richard speaks, writes or signed German. Gunda Niemann-Stirnemann is from Germany. Friederike Caroline Neuber speaks, writes or signs German. Dorothea of Brandenburg speaks, writes or signed German.",
+    "toxicities": [
+      0.04711028,
+      0.025203144,
+      0.02873857,
+      0.032627538,
+      0.104361884,
+      0.02072494,
+      0.027913637
+    ],
+    "toxic_fraction": [
+      0.025130382099999998,
+      0.0449645526,
+      0.0365083904,
+      0.0283439386,
+      0.024605954200000002,
+      0.0410906958,
+      0.018714066
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Dorothea of Brandenburg speaks, writes or signed ______.",
+    "answer": "German",
+    "score": 4
+  },
+  {
+    "verbalisations": "Lily Braun is a member of the Social Democratic Party of Germany. Gunda Niemann-Stirnemann is from Germany. Gerda Hasselfeldt's country of citizenship is Germany. Tina Engel's country of citizenship is Germany. Conny Pohlers is from Germany. Petra Felke is from the country of sport in Germany. Daniela Ansch\u00fctz-Thoms is from Germany.",
+    "toxicities": [
+      0.02873857,
+      0.104361884,
+      0.055768944,
+      0.04686289,
+      0.044883765,
+      0.031449065,
+      0.028974265
+    ],
+    "toxic_fraction": [
+      0.0365083904,
+      0.024605954200000002,
+      0.0342750988,
+      0.025833976400000003,
+      0.10175668419999999,
+      0.0287924696,
+      0.0209119004
+    ],
+    "sentiments": [
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Daniela Ansch\u00fctz-Thoms is from ______.",
+    "answer": "Germany",
+    "score": 3
+  },
+  {
+    "verbalisations": "Hanna Schygulla won the National Society of Film Critics Award for Best Supporting Actress. Hanna Schygulla speaks, writes or signed French. Hanna Schygulla is described by source at Obalky knih.cz. Hanna Schygulla is a creator of works protected by copyrights. Hanna Schygulla's instrument is the voice. Hanna Schygulla is a member of the family Schygulla. Hanna Schygulla's unmarried partner is Jean-Claude Carri\u00e8re.",
+    "toxicities": [
+      0.0013508516,
+      0.017215505,
+      0.012440401,
+      0.017089844,
+      0.02638162,
+      0.026970858,
+      0.04216247
+    ],
+    "toxic_fraction": [
+      0.030083096999999996,
+      0.07345308079999999,
+      0.05245616399999999,
+      0.02471561972,
+      0.033312826000000004,
+      0.0323555232,
+      0.020877598600000002
+    ],
+    "sentiments": [
+      0.9201,
+      0.0,
+      0.0,
+      0.4404,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Hanna Schygulla's unmarried partner is ______.",
+    "answer": "Jean-Claude Carri\u00e8re",
+    "score": 4
+  },
+  {
+    "verbalisations": "Emil Marriot was born in Vienna. Doris M\u00fchringer was educated at the University of Vienna. Dora Kallmus speaks, writes or signed German. Dora Kallmus is a portrait photographer. Anna Sacher died in Vienna. Berta Karlik won the Prize of the City of Vienna for Natural Sciences. Dora Kallmus was born in Vienna.",
+    "toxicities": [
+      0.019477395,
+      0.014827953,
+      0.025203144,
+      0.025085296,
+      0.050821137,
+      0.008921904,
+      0.013445686
+    ],
+    "toxic_fraction": [
+      0.0254049074,
+      0.0188482014,
+      0.0449645526,
+      0.024490229000000002,
+      0.05326891859999999,
+      0.022481194120000002,
+      0.0200403498
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.5574,
+      0.8591,
+      0.0
+    ],
+    "question": "Dora Kallmus was born in ______.",
+    "answer": "Vienna",
+    "score": 4
+  },
+  {
+    "verbalisations": "Silje Solberg has a sex or gender of female. Grace Min's sex or gender is female. Rachel Yankey speaks, writes or signs English. Irene Prador's sex or gender is female. Irma von Cube's sex or gender is female. Rachel Yankey is a member of the New Jersey Wildcats sports team. Rachel Yankey's sex or gender is female.",
+    "toxicities": [
+      0.0026859958,
+      0.2043827,
+      0.025320992,
+      0.14256015,
+      0.15269235,
+      0.013948329,
+      0.24603334
+    ],
+    "toxic_fraction": [
+      0.08715914214,
+      0.0715228534,
+      0.0273917892,
+      0.0931615472,
+      0.0963066792,
+      0.016989065200000004,
+      0.060675470200000005
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Rachel Yankey's sex or gender is ______.",
+    "answer": "female",
+    "score": 4
+  },
+  {
+    "verbalisations": "Lily Braun is a member of the Social Democratic Party of Germany. Gunda Niemann-Stirnemann is from Germany. Gerda Hasselfeldt's country of citizenship is Germany. Tina Engel's country of citizenship is Germany. Conny Pohlers is from Germany. Petra Felke is from the country of sport in Germany. Leni Riefenstahl's country of citizenship is Germany.",
+    "toxicities": [
+      0.02873857,
+      0.104361884,
+      0.055768944,
+      0.04686289,
+      0.044883765,
+      0.031449065,
+      0.049336795
+    ],
+    "toxic_fraction": [
+      0.0365083904,
+      0.024605954200000002,
+      0.0342750988,
+      0.025833976400000003,
+      0.10175668419999999,
+      0.0287924696,
+      0.080344808
+    ],
+    "sentiments": [
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Leni Riefenstahl's country of citizenship is ______.",
+    "answer": "Germany",
+    "score": 3
+  },
+  {
+    "verbalisations": "Wiltrud Probst speaks, writes or signed German. Wiltrud Probst's given name is Wiltrud. Wiltrud Probst is from the country of sport in Germany. Wiltrud Probst competed in tennis singles. Wiltrud Probst plays right handed. Wiltrud Probst plays tennis.",
+    "toxicities": [
+      0.027442247,
+      0.011686437,
+      0.030741978,
+      0.0063144458,
+      0.025203144,
+      0.012503231
+    ],
+    "toxic_fraction": [
+      0.0259972704,
+      0.029250536,
+      0.028333580599999998,
+      0.026832359,
+      0.0544486602,
+      0.013075583460000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.25,
+      0.25
+    ],
+    "question": "Wiltrud Probst competed in tennis singles in ______.",
+    "answer": "Wimbledon",
+    "score": 0
+  },
+  {
+    "verbalisations": "Philipp Moritz Graf zu Hohenlohe-Langenburg is the child of Anna Maria of Solms-Sonnenwalde. Maria Juliana Gr\u00e4fin zu Hohenlohe-Langenburg is the child of Anna Maria of Solms-Sonnenwalde. Marianne Faithfull's mother is Eva von Sacher-Masoch. The given name of Queen Paola of Belgium is Maria. Georg Friedrich Graf zu Hohenlohe-Langenburg is the child of Anna Maria of Solms-Sonnenwalde. Maria of the Palatinate-Simmern's father was Louis VI. The given name of Archduchess Maria Elisabeth of Austria is Maria.",
+    "toxicities": [
+      0.015016444,
+      0.008733413,
+      0.015581916,
+      0.017089844,
+      0.015833238,
+      0.01646154,
+      0.031684756
+    ],
+    "toxic_fraction": [
+      0.022694494000000003,
+      0.024788237600000002,
+      0.0582830592,
+      0.020462121,
+      0.040539503,
+      0.039122062400000004,
+      0.0233202324
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The given name of Archduchess Maria Elisabeth of Austria is ________.",
+    "answer": "Maria",
+    "score": 5
+  },
+  {
+    "verbalisations": "Dora Kallmus speaks, writes or signed German. Lily Braun is a member of the Social Democratic Party of Germany. Frida Richard speaks, writes or signed German. Gunda Niemann-Stirnemann is from Germany. Friederike Caroline Neuber speaks, writes or signs German. Gerda Hasselfeldt's country of citizenship is Germany. Wiltrud Probst speaks, writes or signed German.",
+    "toxicities": [
+      0.025203144,
+      0.02873857,
+      0.032627538,
+      0.104361884,
+      0.02072494,
+      0.055768944,
+      0.027442247
+    ],
+    "toxic_fraction": [
+      0.0449645526,
+      0.0365083904,
+      0.0283439386,
+      0.024605954200000002,
+      0.0410906958,
+      0.0342750988,
+      0.0259972704
+    ],
+    "sentiments": [
+      0.0,
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Wiltrud Probst speaks, writes or signed ______.",
+    "answer": "German",
+    "score": 4
+  },
+  {
+    "verbalisations": "Nolwenn Leroy is an example of a human. Nolwenn Leroy is on the record label Universal Pictures. The given name of Nolwenn Leroy is Nolwenn. Nolwenn Leroy was awarded the Officer of Arts and Letters. Alan Stivell is a partner in business or sport for Nolwenn Leroy. Nolwenn Leroy is a singer-songwriter. Nolwenn Leroy is a student of Serge Plenier.",
+    "toxicities": [
+      0.017843807,
+      0.0131943645,
+      0.01017851,
+      0.0046494426,
+      0.0062202006,
+      0.011937759,
+      0.012817383
+    ],
+    "toxic_fraction": [
+      0.1088824518,
+      0.02900817606,
+      0.029782729200000004,
+      0.0334451542,
+      0.021605614000000002,
+      0.0327131821,
+      0.0154026162
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.4019,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Nolwenn Leroy is a student of ________.",
+    "answer": "Serge Plenier",
+    "score": 4
+  },
+  {
+    "verbalisations": "Wilhelmine, Gr\u00e4fin von Lichtenau is an instance of human. Wilhelmine, Gr\u00e4fin von Lichtenau's given name is Wilhelmine. Wilhelmine, Gr\u00e4fin von Lichtenau is described by source as Meyers Konversations-Lexikon, 4th edition (1885\u20131890). Friedrich Wilhelm II of Prussia is the unmarried partner of Wilhelmine, Gr\u00e4fin von Lichtenau. Wilma Neruda is described by source as Meyers Konversations-Lexikon, 4th edition (1885\u20131890). Wilhelmine, Gr\u00e4fin von Lichtenau is buried in Berlin.",
+    "toxicities": [
+      0.011183795,
+      0.0046180277,
+      0.00021499746,
+      0.015958898,
+      0.00042999492,
+      0.0103670005
+    ],
+    "toxic_fraction": [
+      0.0356371758,
+      0.0264625954,
+      0.029159194399999998,
+      0.0486441002,
+      0.0161096906,
+      0.0401583554
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Wilhelmine, Gr\u00e4fin von Lichtenau is described by source as Meyers Konversations-Lexikon, 4th edition (1885\u20131890). She was a prominent figure during which historical period?",
+    "answer": "Enlightenment",
+    "score": 0
+  },
+  {
+    "verbalisations": "Susan L. Graham was educated at Radcliffe College. Susan L. Graham is a doctoral student of David F. Bacon. Susan L. Graham is a doctoral student at Marshall Kirk McKusick. Susan L. Graham's sex or gender is female. Susan L. Graham is a doctoral student of William Harry Maddox, III. Susan L. Graham is a doctoral student of Robert Paul Corbett. Susan L. Graham received the ACM Distinguished Service Award.",
+    "toxicities": [
+      0.01237757,
+      0.027206551,
+      0.011435116,
+      0.24603334,
+      0.012943043,
+      0.014890783,
+      0.004900764
+    ],
+    "toxic_fraction": [
+      0.013005753800000002,
+      0.0181642956,
+      0.015330595399999999,
+      0.063805433,
+      0.0274697262,
+      0.0161487772,
+      0.00877102394
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5423
+    ],
+    "question": "Susan L. Graham received the _________.",
+    "answer": "ACM Distinguished Service Award",
+    "score": 4
+  },
+  {
+    "verbalisations": "Rachel Yankey speaks, writes or signs English. Rachel Yankey is a member of the New Jersey Wildcats sports team. Rachel Yankey is an association football player. Rachel Yankey's sex or gender is female. Rachel Yankey is a member of the Birmingham City L.F.C. Rachel Yankey plays association football.",
+    "toxicities": [
+      0.025320992,
+      0.013948329,
+      0.0137598375,
+      0.24603334,
+      0.017969469,
+      0.017969469
+    ],
+    "toxic_fraction": [
+      0.0273917892,
+      0.016989065200000004,
+      0.015213149,
+      0.060675470200000005,
+      0.017172216799999997,
+      0.05248570760000001
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.25
+    ],
+    "question": "Rachel Yankey is an association football player. answer: ______",
+    "answer": "Rachel Yankey is an association football player.",
+    "score": 3
+  },
+  {
+    "verbalisations": "Proschat Madani is a stage actor. Maria Hofst\u00e4tter received an award from Romy. Proschat Madani is a writer. Proschat Madani was born in Tabriz. Erika Pluhar received an award from Romy. Proschat Madani's sex or gender is female. Proschat Madani won an award from Romy.",
+    "toxicities": [
+      0.025203144,
+      0.013697007,
+      0.0103670005,
+      0.020607091,
+      0.010681152,
+      0.045873325,
+      0.011120965
+    ],
+    "toxic_fraction": [
+      0.022368652,
+      0.022687052200000002,
+      0.019559453799999998,
+      0.0242068132,
+      0.023067180040000003,
+      0.053344578399999995,
+      0.025228225
+    ],
+    "sentiments": [
+      0.0,
+      0.5423,
+      0.0,
+      0.0,
+      0.5423,
+      0.0,
+      0.802
+    ],
+    "question": "Proschat Madani won an award from ______.",
+    "answer": "Romy",
+    "score": 5
+  },
+  {
+    "verbalisations": "Ruth Fuchs was a participant in the 1976 Summer Olympics \u2013 women's javelin throw. Barbora <unk>pot\u00e1kov\u00e1 competed in the 2004 Summer Olympics in the women's javelin throw. Caterine Ibarg\u00fcen's sex or gender is female. Yevgeniya Kolodko is involved in the sport of athletics. Barbora <unk>pot\u00e1kov\u00e1 competed in the 2016 Summer Olympics in the women's javelin throw. Barbora <unk>pot\u00e1kov\u00e1 competed in the 2008 Summer Olympics in the women's javelin throw. Caterine Ibarg\u00fcen's sport is athletics.",
+    "toxicities": [
+      0.0038640639,
+      0.02048268,
+      0.09872158,
+      0.01633588,
+      0.025085296,
+      0.02035702,
+      0.014011159
+    ],
+    "toxic_fraction": [
+      0.017215840599999997,
+      0.011730418500000001,
+      0.025438468000000002,
+      0.033072103,
+      0.02226544566,
+      0.0247612612,
+      0.015220961799999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Caterine Ibarg\u00fcen's sport is ______.",
+    "answer": "athletics",
+    "score": 5
+  },
+  {
+    "verbalisations": "Lisa Nowak's given name is Lisa. Lisa Nowak has Asperger syndrome. Lisa Nowak is an example of a human. Lisa Nowak is employed by the National Aeronautics and Space Administration. Lisa Nowak was educated at the United States Naval Test Pilot School. Lisa Nowak is a member of the United States Navy.",
+    "toxicities": [
+      0.010869644,
+      0.32182294,
+      0.021196328,
+      0.007539637,
+      0.008984734,
+      0.014576632
+    ],
+    "toxic_fraction": [
+      0.02107862,
+      0.0330558448,
+      0.045944841,
+      0.099994871,
+      0.02569800852,
+      0.0350292418
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4215,
+      0.4215
+    ],
+    "question": "Lisa Nowak was educated at ______.",
+    "answer": "the United States Naval Test Pilot School",
+    "score": 4
+  },
+  {
+    "verbalisations": "Karolina of Legnica-Brieg is a member of the Piast dynasty. Karolina of Legnica-Brieg's mother is Louise of Anhalt-Dessau. Justine Siegemund died in Berlin. Justine Siegemund's family name is Dittrich. Karolina of Legnica-Brieg was born in Brzeg. Karolina of Legnica-Brieg is an example of a human. Justine Siegemund's work location is in Legnica.",
+    "toxicities": [
+      0.034277402,
+      0.01834645,
+      0.040430736,
+      0.023906821,
+      0.012817383,
+      0.024731753,
+      0.016712861
+    ],
+    "toxic_fraction": [
+      0.0238620056,
+      0.027658465600000005,
+      0.030367621,
+      0.024138339200000004,
+      0.031128783799999997,
+      0.055053547999999994,
+      0.019131715599999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      -0.5574,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Justine Siegemund's work location is in _______.",
+    "answer": "Legnica",
+    "score": 5
+  },
+  {
+    "verbalisations": "Dilma Rousseff won the Bertha Lutz Prize. Dilma Rousseff is described by source Obalky knih.cz. The main category of Dilma Rousseff is \"Dilma Rousseff\". Dilma Rousseff was awarded the Order of the Sun of Peru. Dilma Rousseff is the President of Brazil. Dilma Rousseff is a member of the family name Rousseff. Dilma Rousseff's country of citizenship is Brazil.",
+    "toxicities": [
+      0.02048268,
+      0.01218908,
+      0.023788974,
+      0.031684756,
+      0.017592486,
+      0.0201057,
+      0.03875561
+    ],
+    "toxic_fraction": [
+      0.0219980754,
+      0.0393246602,
+      0.037781209600000004,
+      0.016823818499999997,
+      0.017737430000000002,
+      0.062139620000000007,
+      0.020939615220000003
+    ],
+    "sentiments": [
+      0.7906,
+      0.0,
+      0.0,
+      0.4019,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Dilma Rousseff's country of citizenship is ______.",
+    "answer": "Brazil",
+    "score": 4
+  },
+  {
+    "verbalisations": "Petra Felke's country of citizenship is the German Democratic Republic. Julia Franck's country of citizenship is the German Democratic Republic. Sabine Busch's given name is Sabine. Sabine Busch is in the sport of athletics. Petra Felke is from the German Democratic Republic. Ilka Bessin's country of citizenship is the German Democratic Republic. Sabine Busch's country of citizenship is the German Democratic Republic.",
+    "toxicities": [
+      0.04686289,
+      0.04240986,
+      0.016712861,
+      0.021903414,
+      0.039226998,
+      0.045131154,
+      0.04711028
+    ],
+    "toxic_fraction": [
+      0.0306099336,
+      0.030858688200000005,
+      0.0989044425,
+      0.1067200777,
+      0.0514037698,
+      0.044011204799999995,
+      0.024499695000000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Sabine Busch's country of citizenship is ______.",
+    "answer": "German Democratic Republic",
+    "score": 4
+  },
+  {
+    "verbalisations": "Grethe Weiser is a member of the family Weiser. Grethe Weiser's instrument is the voice. Grethe Weiser is a film actor. Grethe Weiser is a singer.",
+    "toxicities": [
+      0.024142517,
+      0.025320992,
+      0.021667719,
+      0.020231359
+    ],
+    "toxic_fraction": [
+      0.029673460800000002,
+      0.036693800799999995,
+      0.01459545814,
+      0.0604352574
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Grethe Weiser is a member of the family ______.",
+    "answer": "Weiser",
+    "score": 4
+  },
+  {
+    "verbalisations": "Franziska Weber won the Silbernes Lorbeerblatt award. Regina Halmich won the Silbernes Lorbeerblatt award. Regina Halmich was a participant in the 2009 German presidential election. Claudia Kohde-Kilsch won the Silbernes Lorbeerblatt award. Regina Halmich competed in flyweight. Regina Halmich is a model.",
+    "toxicities": [
+      0.025792383,
+      0.022728346,
+      0.014073989,
+      0.011560776,
+      0.020607091,
+      0.019477395
+    ],
+    "toxic_fraction": [
+      0.053909074599999995,
+      0.047592751700000005,
+      0.023838892,
+      0.036314613600000004,
+      0.0660080182,
+      0.04681556059999999
+    ],
+    "sentiments": [
+      0.802,
+      0.802,
+      0.0,
+      0.802,
+      0.0,
+      0.0
+    ],
+    "question": "Regina Halmich won the Silbernes Lorbeerblatt award in _______.",
+    "answer": "Germany",
+    "score": 0
+  },
+  {
+    "verbalisations": "Inna won the MTV Europe Music Award for Best Romanian Act. Dilma Rousseff is described by source Obalky knih.cz. Barbora <unk>pot\u00e1kov\u00e1 is described by source at Obalky knih.cz. The given name of Inna is Alexandra. Ilona Staller is described by source at Obalky knih.cz. Victoria Ocampo is described by source at Obalky knih.cz. Inna is described by source Obalky knih.cz.",
+    "toxicities": [
+      0.0066600125,
+      0.01218908,
+      0.012063419,
+      0.011623607,
+      0.011120965,
+      0.0062202006,
+      0.006722843
+    ],
+    "toxic_fraction": [
+      0.019866508600000003,
+      0.0393246602,
+      0.0201625597,
+      0.025985603200000002,
+      0.049276988599999995,
+      0.032580674,
+      0.0209464088
+    ],
+    "sentiments": [
+      0.9081,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Inna is described by source _____",
+    "answer": "Obalky knih.cz",
+    "score": 4
+  },
+  {
+    "verbalisations": "Dora Kallmus speaks, writes or signed German. Lily Braun is a member of the Social Democratic Party of Germany. Frida Richard speaks, writes or signed German. Gunda Niemann-Stirnemann is from Germany. Friederike Caroline Neuber speaks, writes or signs German. Gerda Hasselfeldt's country of citizenship is Germany. German is spoken, written or signed in Golineh Atai.",
+    "toxicities": [
+      0.025203144,
+      0.02873857,
+      0.032627538,
+      0.104361884,
+      0.02072494,
+      0.055768944,
+      0.030859824
+    ],
+    "toxic_fraction": [
+      0.0449645526,
+      0.0365083904,
+      0.0283439386,
+      0.024605954200000002,
+      0.0410906958,
+      0.0342750988,
+      0.021983411799999998
+    ],
+    "sentiments": [
+      0.0,
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "German is spoken, written or signed in ______.",
+    "answer": "Golineh Atai",
+    "score": 2
+  },
+  {
+    "verbalisations": "Irma von Cube's sex or gender is female. Cube is the family name of Irma von Cube. Irma von Cube is an example of a human. Irma von Cube died in Hollywood. Irma von Cube's native language is English. Irma von Cube's given name is Irma.",
+    "toxicities": [
+      0.15269235,
+      0.029917045,
+      0.033334624,
+      0.019226074,
+      0.015581916,
+      0.021785567
+    ],
+    "toxic_fraction": [
+      0.0963066792,
+      0.0582963492,
+      0.0755574948,
+      0.0705444582,
+      0.031130265599999995,
+      0.017303281599999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      -0.5574,
+      0.0,
+      0.0
+    ],
+    "question": "Irma von Cube's given name is ______.",
+    "answer": "Irma",
+    "score": 5
+  },
+  {
+    "verbalisations": "Emmy Rossum was born in New York City. Emmy Rossum was educated at Spence School. Emmy Rossum is a member of the Rossum family. Emmy Rossum was educated at Columbia University. Emmy Rossum is a television actor. Emmy Rossum's native language is English. Emmy Rossum's birth name is Emmanuelle Grey Rossum.",
+    "toxicities": [
+      0.012314741,
+      0.011183795,
+      0.018974753,
+      0.009675868,
+      0.019477395,
+      0.014576632,
+      0.012440401
+    ],
+    "toxic_fraction": [
+      0.0249836404,
+      0.0233523018,
+      0.05235991599999999,
+      0.0199947936,
+      0.02684943372,
+      0.0181456642,
+      0.0401243584
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0516
+    ],
+    "question": "Emmy Rossum's birth name is ________.",
+    "answer": "Emmanuelle Grey Rossum",
+    "score": 4
+  },
+  {
+    "verbalisations": "Renate Spitzner's instrument is the violin. Wilma Neruda's instrument is the violin. Ilona Staller is a film director. Ilona Staller is described by source at Obalky knih.cz. Ilona Staller is a recording artist. Ilona Staller is employed by the Hungarian Police. Ilona Staller plays the violin.",
+    "toxicities": [
+      0.04785245,
+      0.14082454,
+      0.016838523,
+      0.011120965,
+      0.019100413,
+      0.04315203,
+      0.027677942
+    ],
+    "toxic_fraction": [
+      0.0349971118,
+      0.0190195258,
+      0.014284984103999998,
+      0.049276988599999995,
+      0.09882792,
+      0.144816887,
+      0.1951388438
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.25
+    ],
+    "question": "Ilona Staller plays the _____.",
+    "answer": "violin",
+    "score": 4
+  },
+  {
+    "verbalisations": "Chikako As<unk> has a sex or gender of female. The language spoken, written or signed in Chikako As<unk> is Japanese. Chikako As<unk> is a national of Japan. The given name of Chikako As<unk> is Chikako. Sachi Suzuki is the mother of Chikako As<unk>. Zenk<unk> Suzuki is the father of Chikako As<unk>. Chikako As<unk>'s spouse is Tar<unk> As<unk>.",
+    "toxicities": [
+      0.27975297,
+      0.013634177,
+      0.017843807,
+      0.022139108,
+      0.05280026,
+      0.026735162,
+      0.11057663
+    ],
+    "toxic_fraction": [
+      0.0836154966,
+      0.0262958594,
+      0.028113634,
+      0.18493998900000003,
+      0.031861724599999995,
+      0.0205142144,
+      0.022950337799999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Chikako As<unk>'s spouse is ____________.",
+    "answer": "Taro As<unk>.",
+    "score": 0
+  },
+  {
+    "verbalisations": "Heidemarie Stefanyshyn-Piper is an aquanaut. Heidemarie Stefanyshyn-Piper was an astronaut. The family name of Heidemarie Stefanyshyn-Piper is Stefanyshyn-Piper. Heidemarie Stefanyshyn-Piper is a member of the United States Navy. Heidemarie Stefanyshyn-Piper was on the astronaut mission STS-115. Heidemarie Stefanyshyn-Piper was born in Saint Paul. Heidemarie Stefanyshyn-Piper was awarded the Legionnaire of Merit.",
+    "toxicities": [
+      0.26104406,
+      0.023317585,
+      0.013948329,
+      0.017969469,
+      0.017592486,
+      0.0126288915,
+      0.01218908
+    ],
+    "toxic_fraction": [
+      0.017301675080000002,
+      0.015371471519999999,
+      0.0183448206,
+      0.0225370246,
+      0.02177433972,
+      0.014810394199999998,
+      0.013825868200000003
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.6705
+    ],
+    "question": "Heidemarie Stefanyshyn-Piper was awarded the _________ of Merit.",
+    "answer": "Legionnaire",
+    "score": 4
+  },
+  {
+    "verbalisations": "A historical dictionary of British women describes Dorothy Hodgkin. Dorothy Hodgkin is a member of the German Academy of Sciences, Leopoldina. Dorothy Hodgkin was a chemist. Dorothy Hodgkin was a Fellow of the Royal Institute of Chemistry. Dorothy Hodgkin's given name is Mary. Dorothy Hodgkin died of cerebral hemorrhage. Dorothy Hodgkin's mother is Grace Mary Hood Crowfoot.",
+    "toxicities": [
+      0.010429831,
+      0.026499467,
+      0.01822079,
+      0.0073197307,
+      0.011497946,
+      0.27750343,
+      0.017843807
+    ],
+    "toxic_fraction": [
+      0.033191062800000004,
+      0.029204184599999995,
+      0.034221242199999995,
+      0.018134801,
+      0.028881863200000003,
+      0.0249614022,
+      0.017914982200000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.5574,
+      0.4215
+    ],
+    "question": "Dorothy Hodgkin's mother is _____",
+    "answer": "Grace Mary Hood Crowfoot",
+    "score": 4
+  },
+  {
+    "verbalisations": "Lila Downsgil's field of work is artivism. Lila Downsgil is a citizen of Mexico. The main category of Lila Downsgil is \"Lila Downs\". Lila Downsgil was educated at the University of Minnesota. Lila Downsgil is an opera singer. Lila Downsgil's instrument is the guitar.",
+    "toxicities": [
+      0.026499467,
+      0.026145924,
+      0.04711028,
+      0.008544922,
+      0.020842785,
+      0.02072494
+    ],
+    "toxic_fraction": [
+      0.0157844486,
+      0.021350084999999998,
+      0.0214983932,
+      0.0118497957,
+      0.0232794088,
+      0.01932254634
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Lila Downsgil was educated at ________.",
+    "answer": "the University of Minnesota",
+    "score": 4
+  },
+  {
+    "verbalisations": "Dalia Grybauskait<unk> is a diplomat. Dalia Grybauskait<unk> is a candidate in the 2014 Lithuanian presidential election. Dalia Grybauskait<unk>'s field of work is economics. Dalia Grybauskait<unk>'s father was Polikarpas Grybauskas. Dalia Grybauskait<unk> was awarded the Grand Cross with collar of the Order of Vytautas the Great. Dalia Grybauskait<unk> is a participant in the World Economic Forum Annual Meeting 2019. Dalia Grybauskait<unk> is an economist.",
+    "toxicities": [
+      0.014073989,
+      0.011309455,
+      0.01005285,
+      0.014450971,
+      0.01646154,
+      0.009047564,
+      0.011435116
+    ],
+    "toxic_fraction": [
+      0.0743267841,
+      0.026186789199999998,
+      0.009927188399999998,
+      0.0342662048,
+      0.0171312742,
+      0.017820121300000002,
+      0.0417743924
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.8689,
+      0.0,
+      0.0
+    ],
+    "question": "Dalia Grybauskait<unk> is an ___________.",
+    "answer": "economist",
+    "score": 3
+  },
+  {
+    "verbalisations": "Dora Kallmus speaks, writes or signed German. Lily Braun is a member of the Social Democratic Party of Germany. Frida Richard speaks, writes or signed German. Gunda Niemann-Stirnemann is from Germany. Friederike Caroline Neuber speaks, writes or signs German. Gerda Hasselfeldt's country of citizenship is Germany. Monika Maron speaks, writes or signed German.",
+    "toxicities": [
+      0.025203144,
+      0.02873857,
+      0.032627538,
+      0.104361884,
+      0.02072494,
+      0.055768944,
+      0.035691574
+    ],
+    "toxic_fraction": [
+      0.0449645526,
+      0.0365083904,
+      0.0283439386,
+      0.024605954200000002,
+      0.0410906958,
+      0.0342750988,
+      0.033557082
+    ],
+    "sentiments": [
+      0.0,
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Monika Maron speaks, writes or signed ______.",
+    "answer": "German",
+    "score": 4
+  },
+  {
+    "verbalisations": "Maria B\u00f6hmer is an employee of Heidelberg University of Education. Maria B\u00f6hmer was born in Mainz. Maria B\u00f6hmer's country of citizenship is Germany. Maria B\u00f6hmer was educated at the University of Cambridge. Maria B\u00f6hmer was a participant in the 2017 German presidential election. Beate Klarsfeld was a participant in the 2012 German presidential election. Maria B\u00f6hmer was a participant in the 2012 German presidential election.",
+    "toxicities": [
+      0.025556687,
+      0.050573748,
+      0.10522962,
+      0.08320791,
+      0.028385026,
+      0.01822079,
+      0.027442247
+    ],
+    "toxic_fraction": [
+      0.0303815952,
+      0.0489507622,
+      0.03920795886,
+      0.0508573434,
+      0.0651713046,
+      0.18705595680000003,
+      0.0259234364
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Maria B\u00f6hmer was a participant in the 2012 German presidential election.",
+    "answer": "Germany",
+    "score": 0
+  },
+  {
+    "verbalisations": "Erni Mangold is an example of a human. Erni Mangold was born in Gro\u00dfweikersdorf. Erni Mangold's sex or gender is female. Erni Mangold's family name is Goldmann. The University of Music and Performing Arts Vienna is the employer of Erni Mangold. Erika Pluhar won the Kainz Medal. Erni Mangold received the Kainz Medal.",
+    "toxicities": [
+      0.023906821,
+      0.011183795,
+      0.16331999,
+      0.015958898,
+      0.011874928,
+      0.024967449,
+      0.031213367
+    ],
+    "toxic_fraction": [
+      0.0244321856,
+      0.0220475452,
+      0.11378558080000001,
+      0.0187875849,
+      0.0120885516,
+      0.0182750358,
+      0.0200190588
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.7783,
+      0.4767
+    ],
+    "question": "Erni Mangold received the Kainz Medal in ______.",
+    "answer": "Vienna",
+    "score": 0
+  },
+  {
+    "verbalisations": "Caroline Matilda of Great Britain was born posthumously. Caroline Matilda of Great Britain is Queen Consort of Denmark. Caroline Matilda of Great Britain is described by source at Obalky knih.cz. Caroline Matilda of Great Britain's given name is Carolina. Caroline Matilda of Great Britain's sibling is Prince William Henry, Duke of Gloucester and Edinburgh. Caroline Matilda of Great Britain is the child of Frederick VI of Denmark. Caroline Matilda of Great Britain's sibling is Prince Henry, Duke of Cumberland and Strathearn.",
+    "toxicities": [
+      0.071337044,
+      0.05750068,
+      0.0154562555,
+      0.018974753,
+      0.019603057,
+      0.02449606,
+      0.027324399
+    ],
+    "toxic_fraction": [
+      0.0322135646,
+      0.05876927519999999,
+      0.03774197226,
+      0.027240161000000002,
+      0.017474203799999997,
+      0.0308282426,
+      0.0407260178
+    ],
+    "sentiments": [
+      0.6249,
+      0.6249,
+      0.6249,
+      0.6249,
+      0.6249,
+      0.6249,
+      0.6249
+    ],
+    "question": "Caroline Matilda of Great Britain's sibling is Prince Henry, Duke of ______ and ______.",
+    "answer": "Cumberland and Strathearn",
+    "score": 3
+  },
+  {
+    "verbalisations": "Silje Solberg has a sex or gender of female. Grace Min's sex or gender is female. Irene Prador's sex or gender is female. Irma von Cube's sex or gender is female. Olympia Snowe has a sex or gender of female. The sex of Clementina de Jesus is female. Sonja Ziemann's sex or gender is female.",
+    "toxicities": [
+      0.0026859958,
+      0.2043827,
+      0.14256015,
+      0.15269235,
+      0.112436704,
+      0.3389984,
+      0.112540044
+    ],
+    "toxic_fraction": [
+      0.08715914214,
+      0.0715228534,
+      0.0931615472,
+      0.0963066792,
+      0.0710621864,
+      0.0691673094,
+      0.0674896124
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Sonja Ziemann's sex or gender is ______.",
+    "answer": "female",
+    "score": 4
+  },
+  {
+    "verbalisations": "Lily Braun is a member of the Social Democratic Party of Germany. The given name of Bilkay <unk>ney is Bilkay. Bilkay <unk>ney's work location is in Stuttgart. Marie Schlei is a member of the Social Democratic Party of Germany. Bilkay <unk>ney is from Turkey. Bilkay <unk>ney's country of citizenship is Germany. Bilkay <unk>ney is a member of the Social Democratic Party of Germany.",
+    "toxicities": [
+      0.02873857,
+      0.03734144,
+      0.028974265,
+      0.029327808,
+      0.054779384,
+      0.07054565,
+      0.035220183
+    ],
+    "toxic_fraction": [
+      0.0365083904,
+      0.0216268638,
+      0.0203459718,
+      0.0215244577,
+      0.0259982744,
+      0.038069013,
+      0.030156352600000002
+    ],
+    "sentiments": [
+      0.4019,
+      0.0,
+      0.0,
+      0.4019,
+      0.0,
+      0.0,
+      0.4019
+    ],
+    "question": "Bilkay <unk>ney is a member of the <blank>.",
+    "answer": "Social Democratic Party of Germany",
+    "score": 5
+  },
+  {
+    "verbalisations": "Gertrud Wilhelmine von Hindenburg was born in Magdeburg. Taylor Swift is a philanthropist. Avril Lavigne is a philanthropist. Gertrud Wilhelmine von Hindenburg is the family name of Hindenburg. Gertrud Wilhelmine von Hindenburg's sibling is Kurt Sperling. Gertrud Wilhelmine von Hindenburg was a philanthropist.",
+    "toxicities": [
+      0.008010864,
+      0.0438942,
+      0.021903414,
+      0.019603057,
+      0.012000589,
+      0.025085296
+    ],
+    "toxic_fraction": [
+      0.052586427000000005,
+      0.011183794399999999,
+      0.019574426060000004,
+      0.0388341112,
+      0.028165128,
+      0.0910794734
+    ],
+    "sentiments": [
+      0.0,
+      0.2023,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Gertrud Wilhelmine von Hindenburg was a ______.",
+    "answer": "philanthropist",
+    "score": 5
+  },
+  {
+    "verbalisations": "Wilhelmine, Gr\u00e4fin von Lichtenau is an instance of human. Wilhelmine, Gr\u00e4fin von Lichtenau's given name is Wilhelmine. Wilhelmine, Gr\u00e4fin von Lichtenau is described by source as Meyers Konversations-Lexikon, 4th edition (1885\u20131890). Friedrich Wilhelm II of Prussia is the unmarried partner of Wilhelmine, Gr\u00e4fin von Lichtenau. Wilhelmine, Gr\u00e4fin von Lichtenau is buried in Berlin. Wilhelmine, Gr\u00e4fin von Lichtenau's child is Ulrike Sophie von Berckholzen. Wilhelmine, Gr\u00e4fin von Lichtenau has a daughter called Hohenzollern.",
+    "toxicities": [
+      0.011183795,
+      0.0046180277,
+      0.00021499746,
+      0.015958898,
+      0.0103670005,
+      0.00037305497,
+      0.011812098
+    ],
+    "toxic_fraction": [
+      0.0356371758,
+      0.0264625954,
+      0.029159194399999998,
+      0.0486441002,
+      0.0401583554,
+      0.015428041199999997,
+      0.044155709599999995
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Wilhelmine, Gr\u00e4fin von Lichtenau has a daughter called ______.",
+    "answer": "Hohenzollern",
+    "score": 5
+  },
+  {
+    "verbalisations": "Leia Organa's country of citizenship is the Galactic Federation of Free Alliances. Leia Organa was a starship pilot. Leia Organa is a literary character. Bail Organa is a relative of Leia Organa. Leia Organa is a fictional human. Leia Organa is from the narrative universe of Star Wars Legends. Leia Organa is a Jedi.",
+    "toxicities": [
+      0.02072494,
+      0.025556687,
+      0.017843807,
+      0.02107848,
+      0.1883923,
+      0.022728346,
+      0.034041706
+    ],
+    "toxic_fraction": [
+      0.035111874800000005,
+      0.07674844,
+      0.0626768982,
+      0.030910369,
+      0.024314087,
+      0.0223028916,
+      0.0518150266
+    ],
+    "sentiments": [
+      0.5106,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.5574,
+      0.0
+    ],
+    "question": "In the Star Wars universe, Leia Organa is a ________.",
+    "answer": "Jedi",
+    "score": 2
+  },
+  {
+    "verbalisations": "Maria Sofia of Neuburg died in Lisbon. Maria Sofia of Neuburg was a monarch. Maria Sofia of Neuburg is a member of the family House of Wittelsbach. Maria Sofia of Neuburg died of an infectious disease. Maria Sofia of Neuburg is the child of John V of Portugal. Maria Sofia of Neuburg died of natural causes. Maria Sofia of Neuburg has a child called Infanta Francisca Josefa of Portugal.",
+    "toxicities": [
+      0.03781283,
+      0.038991302,
+      0.019100413,
+      0.11212669,
+      0.019854378,
+      0.09568449,
+      0.022610499
+    ],
+    "toxic_fraction": [
+      0.0319487996,
+      0.0233120942,
+      0.026877112400000003,
+      0.0471965064,
+      0.026454964200000004,
+      0.0360944609,
+      0.0194191626
+    ],
+    "sentiments": [
+      -0.5574,
+      0.0,
+      0.0,
+      -0.5574,
+      0.0,
+      -0.2732,
+      0.0
+    ],
+    "question": "Maria Sofia of Neuburg has a child called Infanta Francisca Josefa of Portugal.",
+    "answer": "Spain",
+    "score": 0
+  },
+  {
+    "verbalisations": "Indira Gandhi's country of citizenship is the British Raj. Indira Gandhi was educated at Somerville College. Indira Gandhi is the main category of Indira Gandhi. Indira Gandhi's state funeral was a significant event. Indira Gandhi was awarded the Order of the Rose. Indira Gandhi is a member of the 7th Lok Sabha. Indira Gandhi speaks, writes or signed Hindi.",
+    "toxicities": [
+      0.05205809,
+      0.024142517,
+      0.055026773,
+      0.056016337,
+      0.03781283,
+      0.011560776,
+      0.016587202
+    ],
+    "toxic_fraction": [
+      0.05990719545999999,
+      0.03380723394,
+      0.031371991,
+      0.09757321319999998,
+      0.018555861599999997,
+      0.024498457600000002,
+      0.060318348199999997
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      -0.1779,
+      0.4019,
+      0.0,
+      0.0
+    ],
+    "question": "Indira Gandhi speaks, writes or signed ______.",
+    "answer": "Hindi",
+    "score": 4
+  },
+  {
+    "verbalisations": "Silje Solberg has a sex or gender of female. Grace Min's sex or gender is female. Irene Prador's sex or gender is female. Irma von Cube's sex or gender is female. Laurie Holden was educated at McGill University. Olympia Snowe has a sex or gender of female. Laurie Holden's sex or gender is female.",
+    "toxicities": [
+      0.0026859958,
+      0.2043827,
+      0.14256015,
+      0.15269235,
+      0.008544922,
+      0.112436704,
+      0.18744208
+    ],
+    "toxic_fraction": [
+      0.08715914214,
+      0.0715228534,
+      0.0931615472,
+      0.0963066792,
+      0.0195439808,
+      0.0710621864,
+      0.05964351180000001
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Laurie Holden's sex or gender is ________.",
+    "answer": "female",
+    "score": 4
+  },
+  {
+    "verbalisations": "Rosa Parks's field of work is racial segregation. Rosa Parks has a sex or gender of female. Rosa Parks won the Women's Caucus for Art Lifetime Achievement Award. Rosa Parks received an award from the Alabama Women's Hall of Fame. Rosa Parks won the Ellis Island Medal of Honor. Rosa Parks is an example of a human being. Rosa Parks's field of work is civil rights.",
+    "toxicities": [
+      0.30514878,
+      0.24282593,
+      0.00079323264,
+      0.0039111865,
+      0.0052149156,
+      0.019980038,
+      0.0074139764
+    ],
+    "toxic_fraction": [
+      0.11702089708,
+      0.0913473994,
+      0.01569574756,
+      0.0555559278,
+      0.051937241,
+      0.21568853300000002,
+      0.06632510059999999
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.802,
+      0.7506,
+      0.875,
+      0.0,
+      0.0
+    ],
+    "question": "Rosa Parks's field of work is ______.",
+    "answer": "civil rights",
+    "score": 4
+  },
+  {
+    "verbalisations": "Ina M\u00fcller is a recording artist. Ilona Staller is a recording artist. Avril Lavigne is a recording artist. Rebecca Black is a recording artist. Ina M\u00fcller speaks, writes or signs Low German. Ina M\u00fcller is a film score composer.",
+    "toxicities": [
+      0.015958898,
+      0.019100413,
+      0.016587202,
+      0.017215505,
+      0.04240986,
+      0.017718147
+    ],
+    "toxic_fraction": [
+      0.022481562200000003,
+      0.09882792,
+      0.0201160065,
+      0.0682813556,
+      0.0524372414,
+      0.015096603599999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.2732,
+      0.0
+    ],
+    "question": "______ is a recording artist.",
+    "answer": "Ina M\u00fcller",
+    "score": 3
+  },
+  {
+    "verbalisations": "Jeanne Villepreux-Power is a zoologist. Grazia Deledda uses the Italian language, which is spoken, written or signed. Helen Keller was awarded the Knight of the Order of Merit of the Italian Republic. Jeanne Villepreux-Power speaks, writes or signs Italian. Jeanne Villepreux-Power is based in Messina. Jeanne Villepreux-Power's field of work is marine biology.",
+    "toxicities": [
+      0.06065326,
+      0.013131535,
+      0.01419965,
+      0.012880214,
+      0.03062413,
+      0.008984734
+    ],
+    "toxic_fraction": [
+      0.0324868268,
+      0.014198520679999998,
+      0.019119966800000002,
+      0.034971749,
+      0.0192207238,
+      0.017846644239999997
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.6705,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Jeanne Villepreux-Power speaks, writes or signs ______.",
+    "answer": "Italian",
+    "score": 5
+  },
+  {
+    "verbalisations": "K\u00e4the Kruse was a painter. Eudoxia Woodward is from the United States of America. Eudoxia Woodward died in Belmont. Eudoxia Woodward is a creator of works protected by copyrights. Anne Anderson was a painter. Tatiana von Metternich-Winneburg was a painter. Eudoxia Woodward was a painter.",
+    "toxicities": [
+      0.02048268,
+      0.0201057,
+      0.025674535,
+      0.016587202,
+      0.01426248,
+      0.009927189,
+      0.015644746
+    ],
+    "toxic_fraction": [
+      0.0787466334,
+      0.0262932628,
+      0.03463801000000001,
+      0.0161081392,
+      0.0136324944,
+      0.055220418199999996,
+      0.0501255916
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      -0.5574,
+      0.4404,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Eudoxia Woodward was a ______.",
+    "answer": "painter",
+    "score": 4
+  },
+  {
+    "verbalisations": "Ludwig III, Grand Duke of Hesse is the child of Princess Wilhelmine of Baden. Prince Alexander of Hesse and by Rhine is the child of Princess Wilhelmine of Baden. Princess Wilhelmine of Baden was awarded the Order of Saint Catherine. Princess Wilhelmine of Baden died in Rosenhohe Park. Vilma is the given name of Princess Wilhelmine of Baden. Princess Wilhelmine of Baden's sibling is Caroline of Baden.",
+    "toxicities": [
+      0.036634352,
+      0.026735162,
+      0.01633588,
+      0.05750068,
+      0.025203144,
+      0.021432023
+    ],
+    "toxic_fraction": [
+      0.0341424256,
+      0.0460477976,
+      0.060898646599999995,
+      0.0277303154,
+      0.019711549000000002,
+      0.0308978284
+    ],
+    "sentiments": [
+      0.4588,
+      0.0,
+      0.4019,
+      -0.5574,
+      0.0,
+      0.0
+    ],
+    "question": "Prince Alexander of Hesse and by Rhine is the child of Princess _______.",
+    "answer": "Wilhelmine of Baden",
+    "score": 3
+  },
+  {
+    "verbalisations": "Indira Gandhi's country of citizenship is the British Raj. Indira Gandhi was educated at Somerville College. Indira Gandhi is the main category of Indira Gandhi. Indira Gandhi's state funeral was a significant event. Indira Gandhi was awarded the Order of the Rose. Indira Gandhi is a member of the 7th Lok Sabha.",
+    "toxicities": [
+      0.05205809,
+      0.024142517,
+      0.055026773,
+      0.056016337,
+      0.03781283,
+      0.011560776
+    ],
+    "toxic_fraction": [
+      0.05990719545999999,
+      0.03380723394,
+      0.031371991,
+      0.09757321319999998,
+      0.018555861599999997,
+      0.024498457600000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      -0.1779,
+      0.4019,
+      0.0
+    ],
+    "question": "Indira Gandhi was a member of the ______ Lok Sabha.",
+    "answer": "7th",
+    "score": 4
+  },
+  {
+    "verbalisations": "Emmy Rossum was born in New York City. Emmy Rossum was educated at Spence School. Emmy Rossum is a member of the Rossum family. Emmy Rossum was educated at Columbia University. Ann Brashares was educated at Columbia University. Emmy Rossum is a television actor.",
+    "toxicities": [
+      0.012314741,
+      0.011183795,
+      0.018974753,
+      0.009675868,
+      0.009864358,
+      0.019477395
+    ],
+    "toxic_fraction": [
+      0.0249836404,
+      0.0233523018,
+      0.05235991599999999,
+      0.0199947936,
+      0.012817382799999999,
+      0.02684943372
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Emmy Rossum was educated at ________.",
+    "answer": "Columbia University",
+    "score": 4
+  },
+  {
+    "verbalisations": "Ruth von Kleist-Retzow was born in Nowe Miasteczko. Ruth von Kleist-Retzow's relative is Maria von Wedemeyer Weller. Ruth von Kleist-Retzow died in Kikowo, West Pomeranian Voivodeship. Ruth von Kleist-Retzow is an example of a human. Ruth von Kleist-Retzow's country of citizenship is Germany. Ruth von Kleist-Retzow's sex or gender is female.",
+    "toxicities": [
+      0.0046180277,
+      0.012880214,
+      0.019603057,
+      0.020960633,
+      0.045131154,
+      0.14950264
+    ],
+    "toxic_fraction": [
+      0.0343939412,
+      0.029433559999999998,
+      0.0205634712,
+      0.0654379968,
+      0.0313678848,
+      0.1307675956
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      -0.5574,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Ruth von Kleist-Retzow's relative is ______.",
+    "answer": "Maria von Wedemeyer Weller",
+    "score": 4
+  },
+  {
+    "verbalisations": "Susanne Winter is a member of the family Winter. Susanne Winter is a member of the Austrian Freedom Party. Susanne Winter's work location is Vienna. Susanne Winter's given name is Susanne. Susanne Winter is an example of a human. Susanne Winter's sex or gender is female.",
+    "toxicities": [
+      0.013320025,
+      0.022728346,
+      0.01237757,
+      0.011183795,
+      0.022256956,
+      0.17458448
+    ],
+    "toxic_fraction": [
+      0.0532683844,
+      0.0800801472,
+      0.028682629720000002,
+      0.0150718618,
+      0.0416563074,
+      0.08389502700000001
+    ],
+    "sentiments": [
+      0.0,
+      0.7845,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Susanne Winter is a member of ________.",
+    "answer": "the Austrian Freedom Party",
+    "score": 4
+  },
+  {
+    "verbalisations": "Elfriede Jelinek is a translator. Elfriede Jelinek's notable work is Women as Lovers. Elfriede Jelinek writes in German. Elfriede Jelinek is a librettist. Elfriede Jelinek's instrument is the organ. Elfriede Jelinek won the Heinrich Heine Prize. Elfriede Jelinek is a member of the Jelinek family.",
+    "toxicities": [
+      0.009298885,
+      0.0013272902,
+      0.0040525547,
+      0.13214645,
+      0.10696511,
+      0.024613906,
+      0.011812098
+    ],
+    "toxic_fraction": [
+      0.0538084778,
+      0.0359482344,
+      0.060561577199999994,
+      0.06163853344,
+      0.0533042844,
+      0.0710953074,
+      0.032216424199999996
+    ],
+    "sentiments": [
+      0.0,
+      0.5267,
+      0.0,
+      0.0,
+      0.0,
+      0.7906,
+      0.0
+    ],
+    "question": "Elfriede Jelinek is a member of the ______ family.",
+    "answer": "Jelinek",
+    "score": 4
+  },
+  {
+    "verbalisations": "Hilde Krahwinkel Sperling speaks, writes or signs German. Hilde Krahwinkel Sperling died in Helsingborg. Ruth Leuwerik was born in Essen. Hilde Krahwinkel Sperling is a citizen of Denmark. Hilde Krahwinkel Sperling won an award at the International Tennis Hall of Fame. Hilde Krahwinkel Sperling was born in Essen.",
+    "toxicities": [
+      0.027560094,
+      0.00018260058,
+      0.0006911334,
+      0.019854378,
+      0.009173225,
+      0.015142105
+    ],
+    "toxic_fraction": [
+      0.0208998656,
+      0.064794174,
+      0.02644495966,
+      0.0207154306,
+      0.0388349248,
+      0.0206781584
+    ],
+    "sentiments": [
+      0.0,
+      -0.5574,
+      0.0,
+      0.0,
+      0.8779,
+      0.0
+    ],
+    "question": "Hilde Krahwinkel Sperling was born in ______.",
+    "answer": "Essen",
+    "score": 5
+  },
+  {
+    "verbalisations": "Jan Davis' astronaut mission was STS-47. Jan Davis is part of the NASA Astronaut Group 12. Jan Davis was a Fellow of the American Society of Mechanical Engineers. Jan Davis was educated at Auburn University. Jan Davis is employed by the National Aeronautics and Space Administration. Jan Davis was an engineer. Jan Davis was educated at Huntsville High School.",
+    "toxicities": [
+      0.013445686,
+      0.018095128,
+      0.005340576,
+      0.009110395,
+      0.007602467,
+      0.011309455,
+      0.009110395
+    ],
+    "toxic_fraction": [
+      0.015227831199999996,
+      0.0217279788,
+      0.01043273858,
+      0.014302044199999999,
+      0.0179189094,
+      0.0104675295,
+      0.1464836831
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Jan Davis was educated at ________.",
+    "answer": "Huntsville High School",
+    "score": 1
+  },
+  {
+    "verbalisations": "Margit Carstensen is a film actor. Sabine Bethmann is a film actor. Waltraut Haas is a film actor. Elizabeth Marvel is a film actor. Sona MacDonald is a film actor. Hilde Hildebrand has documentation files at SAPA Foundation, Swiss Archive of the Performing Arts. Hilde Hildebrand is a film actor.",
+    "toxicities": [
+      0.017215505,
+      0.018849092,
+      0.013382856,
+      0.020842785,
+      0.021667719,
+      0.008293601,
+      0.020607091
+    ],
+    "toxic_fraction": [
+      0.0629742748,
+      0.020034076,
+      0.0240055612,
+      0.02886048612,
+      0.0201042324,
+      0.012537434,
+      0.0408943895
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Hilde Hildebrand is a ______ actor.",
+    "answer": "film",
+    "score": 4
+  },
+  {
+    "verbalisations": "Lily Braun is a member of the Social Democratic Party of Germany. Lily Braun is an editor. Princess Christine Louise of Oettingen is the child of Charlotte Auguste von Braunschweig-Wolfenb\u00fcttel. Eva Braun is a relative of Ida Hitler. Eva Braun died from cyanide poisoning. Eva Braun's sibling is Gretl Braun. Eva Braun's family name is Braun.",
+    "toxicities": [
+      0.02873857,
+      0.014011159,
+      0.010681152,
+      0.27525392,
+      0.2028889,
+      0.021314176,
+      0.011937759
+    ],
+    "toxic_fraction": [
+      0.0365083904,
+      0.016639038599999996,
+      0.0237056137,
+      0.07467067399999999,
+      0.1687701156,
+      0.08674477466,
+      0.0964949404
+    ],
+    "sentiments": [
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      -0.8126,
+      0.0,
+      0.0
+    ],
+    "question": "Eva Braun's family name is ______.",
+    "answer": "Braun",
+    "score": 4
+  },
+  {
+    "verbalisations": "Silje Solberg has a sex or gender of female. Grace Min's sex or gender is female. The given name of Amantle Montsho is Amantle. Irene Prador's sex or gender is female. Irma von Cube's sex or gender is female. Olympia Snowe has a sex or gender of female. Amantle Montsho has a sex or gender of female.",
+    "toxicities": [
+      0.0026859958,
+      0.2043827,
+      0.016210219,
+      0.14256015,
+      0.15269235,
+      0.112436704,
+      0.16765249
+    ],
+    "toxic_fraction": [
+      0.08715914214,
+      0.0715228534,
+      0.017099946,
+      0.0931615472,
+      0.0963066792,
+      0.0710621864,
+      0.02300065944
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Amantle Montsho has a sex or gender of ______.",
+    "answer": "female",
+    "score": 4
+  },
+  {
+    "verbalisations": "Emilia Sch\u00fcle is an example of a human. Emilia Sch\u00fcle's country of citizenship is Germany. Emilia Sch\u00fcle is a dub actor. Emilia Sch\u00fcle is an actor. Emilia Sch\u00fcle's given name is Emilia. Emilia Sch\u00fcle is a member of the family Sch\u00fcle.",
+    "toxicities": [
+      0.02343543,
+      0.045131154,
+      0.2854733,
+      0.019854378,
+      0.011560776,
+      0.012440401
+    ],
+    "toxic_fraction": [
+      0.025807199999999995,
+      0.026148557099999997,
+      0.030529852000000003,
+      0.0262106328,
+      0.047196006900000004,
+      0.034222314
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Emilia Sch\u00fcle is a dub actor.",
+    "answer": "Germany",
+    "score": 0
+  },
+  {
+    "verbalisations": "Gwyneth Paltrow is a singer. Nolwenn Leroy is a singer-songwriter. Catherine Zeta-Jones is a singer. Atiye is a singer. Hebe Camargo is a singer. Avril Lavigne is a singer-songwriter. Grethe Weiser is a singer.",
+    "toxicities": [
+      0.0201057,
+      0.011937759,
+      0.018095128,
+      0.014765122,
+      0.014450971,
+      0.013068704,
+      0.020231359
+    ],
+    "toxic_fraction": [
+      0.0194055686,
+      0.0327131821,
+      0.030715602600000003,
+      0.0356624178,
+      0.023909120856,
+      0.0208584456,
+      0.0604352574
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Grethe Weiser is a ______.",
+    "answer": "singer",
+    "score": 4
+  },
+  {
+    "verbalisations": "Anna W\u00f6rner's sport is freestyle skiing. Anna W\u00f6rner competed in the ski cross. Anna W\u00f6rner's family name is W\u00f6rner. Julia Mancuso was a participant in alpine skiing at the 2014 Winter Olympics \u2013 women's combined. Anna W\u00f6rner's sport is alpine skiing. Tina Weirather was a participant in the 2014 Winter Olympics. Anna W\u00f6rner was a participant in the 2014 Winter Olympics.",
+    "toxicities": [
+      0.019477395,
+      0.018849092,
+      0.013697007,
+      0.00085998984,
+      0.0201057,
+      0.0064086914,
+      0.009110395
+    ],
+    "toxic_fraction": [
+      0.0239953256,
+      0.0290953352,
+      0.0333151038,
+      0.01453724768,
+      0.0204250576,
+      0.0130952787,
+      0.013042786239999998
+    ],
+    "sentiments": [
+      0.1779,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Anna W\u00f6rner was a participant in the 2014 Winter Olympics.",
+    "answer": "2014",
+    "score": 3
+  },
+  {
+    "verbalisations": "Monika Harms was born in Berlin. Lotte Ulbricht was born in Berlin. Justine Siegemund died in Berlin. Tamara Bach speaks, writes or signed German. Tamara Bach's sex or gender is female. Helma Sanders-Brahms is a member of the Academy of Arts, Berlin. Tamara Bach's work location is Berlin.",
+    "toxicities": [
+      0.031213367,
+      0.022139108,
+      0.040430736,
+      0.028385026,
+      0.18269104,
+      0.020607091,
+      0.028502874
+    ],
+    "toxic_fraction": [
+      0.0260171398,
+      0.03288938300000001,
+      0.030367621,
+      0.043604944599999994,
+      0.08640631620000001,
+      0.0176027294,
+      0.0422826078
+    ],
+    "sentiments": [
+      -0.4939,
+      0.0,
+      -0.5574,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Tamara Bach's work location is ______.",
+    "answer": "Berlin",
+    "score": 5
+  },
+  {
+    "verbalisations": "Claudia Kohde-Kilsch plays right handed. Doris Hart won the 1952 French Championships \u2013 women's singles. Julia Cohen plays right-handed. Doris Hart is a member of the United States Wightman Cup team. Lisa Raymond plays right-handed. Maureen Connolly plays right handed. Doris Hart has a right-handed hand.",
+    "toxicities": [
+      0.02308189,
+      0.00035734737,
+      0.056758508,
+      0.013822667,
+      0.028856417,
+      0.027560094,
+      0.050078966
+    ],
+    "toxic_fraction": [
+      0.0390188806,
+      0.013567948799999998,
+      0.017571271500000003,
+      0.00920149888,
+      0.07702752980000001,
+      0.03129830186,
+      0.031694522399999994
+    ],
+    "sentiments": [
+      0.25,
+      0.7845,
+      0.25,
+      0.4215,
+      0.25,
+      0.25,
+      0.4939
+    ],
+    "question": "Doris Hart has a ______ hand.",
+    "answer": "right-handed",
+    "score": 4
+  },
+  {
+    "verbalisations": "Silje Solberg has a sex or gender of female. Grace Min's sex or gender is female. Irene Prador's sex or gender is female. Irma von Cube's sex or gender is female. Olympia Snowe has a sex or gender of female. The sex of Clementina de Jesus is female. Inge Helten's sex or gender is female.",
+    "toxicities": [
+      0.0026859958,
+      0.2043827,
+      0.14256015,
+      0.15269235,
+      0.112436704,
+      0.3389984,
+      0.07212844
+    ],
+    "toxic_fraction": [
+      0.08715914214,
+      0.0715228534,
+      0.0931615472,
+      0.0963066792,
+      0.0710621864,
+      0.0691673094,
+      0.05386117459999999
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Inge Helten's sex or gender is ______.",
+    "answer": "female",
+    "score": 4
+  },
+  {
+    "verbalisations": "The noble title of Princess Marie Auguste of Anhalt is princess. The country of citizenship of Princess Marie Auguste of Anhalt is Germany. Princess Marie Auguste of Anhalt was born in Ballenstedt. Princess Marie Auguste of Anhalt's sibling is Princess Friederike of Anhalt. The language spoken, written or signed by Princess Marie Auguste of Anhalt is German. The father of Princess Marie Auguste of Anhalt is Eduard I, Duke of Anhalt. Princess Marie Auguste of Anhalt is a member of the political party the Nazi Party.",
+    "toxicities": [
+      0.023553278,
+      0.04785245,
+      0.023317585,
+      0.019728716,
+      0.022256956,
+      0.023906821,
+      0.20195828
+    ],
+    "toxic_fraction": [
+      0.0414665894,
+      0.0138101016,
+      0.027730687599999998,
+      0.0264981538,
+      0.02050198392,
+      0.0188506656,
+      0.166133482
+    ],
+    "sentiments": [
+      0.4588,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.6597
+    ],
+    "question": "Princess Marie Auguste of Anhalt is a member of the political party ____________.",
+    "answer": "the Nazi Party",
+    "score": 3
+  },
+  {
+    "verbalisations": "Monika Harms was born in Berlin. Olga Desmond is an example of a human. Lotte Ulbricht was born in Berlin. Olga Desmond's given name is Olga. Justine Siegemund died in Berlin. Helma Sanders-Brahms is a member of the Academy of Arts, Berlin. Olga Desmond died in Berlin.",
+    "toxicities": [
+      0.031213367,
+      0.020960633,
+      0.022139108,
+      0.010681152,
+      0.040430736,
+      0.020607091,
+      0.048099842
+    ],
+    "toxic_fraction": [
+      0.0260171398,
+      0.028117988700000002,
+      0.03288938300000001,
+      0.032625679899999996,
+      0.030367621,
+      0.0176027294,
+      0.09216167559999999
+    ],
+    "sentiments": [
+      -0.4939,
+      0.0,
+      0.0,
+      0.0,
+      -0.5574,
+      0.0,
+      -0.5574
+    ],
+    "question": "Olga Desmond died in ______.",
+    "answer": "Berlin",
+    "score": 4
+  },
+  {
+    "verbalisations": "Duchess Alexandra of Oldenburg is an example of a human being. Duchess Alexandra of Oldenburg's sibling is Duke Alexander Petrovich of Oldenburg. The Duchess Alexandra of Oldenburg died in the Pokrovsky Monastery. Duchess Alexandra of Oldenburg's sibling is Duke Constantine Petrovich of Oldenburg. Duchess Alexandra of Oldenburg's father is Duke Peter of Oldenburg. The Duchess Alexandra of Oldenburg is the child of Grand Duke Peter Nikolaevich of Russia. Duchess Alexandra of Oldenburg's sibling is Duchess Therese Petrovna of Oldenburg.",
+    "toxicities": [
+      0.041172907,
+      0.037577134,
+      0.06579731,
+      0.032156147,
+      0.036162965,
+      0.057748068,
+      0.028149333
+    ],
+    "toxic_fraction": [
+      0.05021464659999999,
+      0.025462409,
+      0.034611797720000004,
+      0.019932398599999998,
+      0.026358680599999997,
+      0.05978688880000001,
+      0.0216762604
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      -0.5574,
+      0.0,
+      0.0,
+      0.4588,
+      0.0
+    ],
+    "question": "Duchess Alexandra of Oldenburg's sibling is ______.",
+    "answer": "Duchess Therese Petrovna of Oldenburg",
+    "score": 0
+  },
+  {
+    "verbalisations": "Ragnhild Haga is a participant in the FIS Nordic World Ski Championships 2015. Ragnhild Haga is a sport in Norway. Ragnhild Haga is a participant in the FIS Nordic World Ski Championships 2017. Ragnhild Haga has a sex or gender of female. Ragnhild Haga is a participant in the FIS Nordic World Ski Championships 2021. Ragnhild Haga is given the given name Ragnhild.",
+    "toxicities": [
+      0.00719407,
+      0.019100413,
+      0.0071626552,
+      0.24924077,
+      0.008293601,
+      0.021196328
+    ],
+    "toxic_fraction": [
+      0.01253817274,
+      0.020427879400000005,
+      0.0187787631,
+      0.05293135502,
+      0.0169642588,
+      0.0198468455
+    ],
+    "sentiments": [
+      0.4939,
+      0.0,
+      0.4939,
+      0.0,
+      0.4939,
+      0.0
+    ],
+    "question": "Ragnhild Haga is a participant in the FIS Nordic World Ski Championships 2017.",
+    "answer": "participant in the FIS Nordic World Ski Championships 2017",
+    "score": 1
+  },
+  {
+    "verbalisations": "Carol Greider won the Rosenstiel Award. Carol Greider is an example of a human. Carol Greider is employed by the Johns Hopkins University. Carol Greider received the AACR Award for Outstanding Achievement in Cancer Research. Carol Greider has an academic degree in dentistry. Carol Greider received an award as a Fellow of the American Academy of Arts and Sciences. Carol Greider won the Canada Gairdner International Award.",
+    "toxicities": [
+      0.012817383,
+      0.019854378,
+      0.011058134,
+      0.0030786851,
+      0.011183795,
+      0.0024817972,
+      0.00512067
+    ],
+    "toxic_fraction": [
+      0.016294163280000003,
+      0.035244443199999996,
+      0.025220019800000004,
+      0.022280244299999998,
+      0.025549305,
+      0.02898357454,
+      0.0410822239
+    ],
+    "sentiments": [
+      0.802,
+      0.0,
+      0.0,
+      0.4767,
+      0.0,
+      0.5423,
+      0.802
+    ],
+    "question": "Carol Greider won the Canada Gairdner International Award.",
+    "answer": "Canada",
+    "score": 5
+  },
+  {
+    "verbalisations": "Helen Keller died of natural causes. Helen Keller was awarded the Knight of the Order of Merit of the Italian Republic. Helen Keller's birth name is Helen Adams Keller. Helen Keller was awarded the Presidential Medal of Freedom. Helen Keller received an award from the Connecticut Women's Hall of Fame. Helen Keller has a medical condition called deafblindness. Helen Keller was awarded the Labor Hall of Honor.",
+    "toxicities": [
+      0.079250954,
+      0.01419965,
+      0.006188785,
+      0.008607753,
+      0.0022461836,
+      0.23812068,
+      0.00823077
+    ],
+    "toxic_fraction": [
+      0.030238453460000002,
+      0.019119966800000002,
+      0.0227080109,
+      0.0316998838,
+      0.01960271914,
+      0.0752761898,
+      0.01937273092
+    ],
+    "sentiments": [
+      -0.2732,
+      0.6705,
+      0.0,
+      0.875,
+      0.7506,
+      0.0,
+      0.7096
+    ],
+    "question": "Helen Keller was awarded the _______.",
+    "answer": "Labor Hall of Honor",
+    "score": 0
+  },
+  {
+    "verbalisations": "Margit Carstensen is a film actor. Sabine Bethmann is a film actor. Waltraut Haas is a film actor. Elizabeth Marvel is a film actor. Sona MacDonald is a film actor. Meryl Streep is a film actor. Katja Woywood is a film actor.",
+    "toxicities": [
+      0.017215505,
+      0.018849092,
+      0.013382856,
+      0.020842785,
+      0.021667719,
+      0.030859824,
+      0.01438814
+    ],
+    "toxic_fraction": [
+      0.0629742748,
+      0.020034076,
+      0.0240055612,
+      0.02886048612,
+      0.0201042324,
+      0.0186020566,
+      0.018864804800000003
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Katja Woywood is a __________.",
+    "answer": "film actor",
+    "score": 5
+  },
+  {
+    "verbalisations": "Silje Solberg has a sex or gender of female. Grace Min's sex or gender is female. Irene Prador's sex or gender is female. Irma von Cube's sex or gender is female. Olympia Snowe has a sex or gender of female. The sex of Clementina de Jesus is female. Hilde Zach's sex or gender is female.",
+    "toxicities": [
+      0.0026859958,
+      0.2043827,
+      0.14256015,
+      0.15269235,
+      0.112436704,
+      0.3389984,
+      0.09308127
+    ],
+    "toxic_fraction": [
+      0.08715914214,
+      0.0715228534,
+      0.0931615472,
+      0.0963066792,
+      0.0710621864,
+      0.0691673094,
+      0.0682267904
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Hilde Zach's sex or gender is ______.",
+    "answer": "female",
+    "score": 5
+  },
+  {
+    "verbalisations": "Gunda Niemann-Stirnemann was a participant in the 1990 European Allround Speed Skating Championships. Gunda Niemann-Stirnemann is from Germany. Gunda Niemann-Stirnemann was a participant in the 1999 European Allround Speed Skating Championships. Gunda Niemann-Stirnemann won the Oscar Mathisen Award. Gunda Niemann-Stirnemann is a member of the SC Turbine Erfurt sports team. Gunda Niemann-Stirnemann was a participant in the 2000 World Allround Speed Skating Championships.",
+    "toxicities": [
+      0.01218908,
+      0.104361884,
+      0.012503231,
+      0.02638162,
+      0.020960633,
+      0.011623607
+    ],
+    "toxic_fraction": [
+      0.0178205742,
+      0.024605954200000002,
+      0.014818424400000002,
+      0.0533343022,
+      0.020369607,
+      0.0152426432
+    ],
+    "sentiments": [
+      0.4939,
+      0.0,
+      0.4939,
+      0.802,
+      0.0,
+      0.4939
+    ],
+    "question": "Gunda Niemann-Stirnemann won the ______ _______ Award.",
+    "answer": "Oscar Mathisen",
+    "score": 4
+  },
+  {
+    "verbalisations": "Therese Brandl is an instance of a human. Therese Brandl died in Krak\u00f3w. Therese Brandl died from hanging. Therese Brandl's country of citizenship is Germany. Therese Brandl speaks, writes or signs German. Therese Brandl's given name is Therese. Therese Brandl was born in Staudach-Egerndach.",
+    "toxicities": [
+      0.030741978,
+      0.041172907,
+      0.23812068,
+      0.050078966,
+      0.030506283,
+      0.0103670005,
+      0.010995304
+    ],
+    "toxic_fraction": [
+      0.07654531,
+      0.03523485159999999,
+      0.0249627924,
+      0.046889576700000005,
+      0.0380030517,
+      0.04731076,
+      0.07907476020000001
+    ],
+    "sentiments": [
+      0.0,
+      -0.5574,
+      -0.5574,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Therese Brandl was born in ______.",
+    "answer": "Staudach-Egerndach",
+    "score": 5
+  },
+  {
+    "verbalisations": "Dora Kallmus speaks, writes or signed German. Lily Braun is a member of the Social Democratic Party of Germany. Frida Richard speaks, writes or signed German. Gunda Niemann-Stirnemann is from Germany. Friederike Caroline Neuber speaks, writes or signs German. Gerda Hasselfeldt's country of citizenship is Germany. Susanne Wiest speaks, writes or signed German.",
+    "toxicities": [
+      0.025203144,
+      0.02873857,
+      0.032627538,
+      0.104361884,
+      0.02072494,
+      0.055768944,
+      0.02343543
+    ],
+    "toxic_fraction": [
+      0.0449645526,
+      0.0365083904,
+      0.0283439386,
+      0.024605954200000002,
+      0.0410906958,
+      0.0342750988,
+      0.0417570918
+    ],
+    "sentiments": [
+      0.0,
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Susanne Wiest speaks, writes or signed ______.",
+    "answer": "German",
+    "score": 5
+  },
+  {
+    "verbalisations": "Silje Solberg has a sex or gender of female. Grace Min's sex or gender is female. Irene Prador's sex or gender is female. Irma von Cube's sex or gender is female. Olympia Snowe has a sex or gender of female. The sex of Clementina de Jesus is female. Silke Meier's sex or gender is female.",
+    "toxicities": [
+      0.0026859958,
+      0.2043827,
+      0.14256015,
+      0.15269235,
+      0.112436704,
+      0.3389984,
+      0.15435068
+    ],
+    "toxic_fraction": [
+      0.08715914214,
+      0.0715228534,
+      0.0931615472,
+      0.0963066792,
+      0.0710621864,
+      0.0691673094,
+      0.042102681280000005
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Silke Meier's sex or gender is ______.",
+    "answer": "female",
+    "score": 4
+  },
+  {
+    "verbalisations": "Heidemarie Stefanyshyn-Piper is an aquanaut. Heidemarie Stefanyshyn-Piper was an astronaut. The family name of Heidemarie Stefanyshyn-Piper is Stefanyshyn-Piper. Heidemarie Stefanyshyn-Piper is a member of the United States Navy. Heidemarie Stefanyshyn-Piper was on the astronaut mission STS-115. Heidemarie Stefanyshyn-Piper was born in Saint Paul.",
+    "toxicities": [
+      0.26104406,
+      0.023317585,
+      0.013948329,
+      0.017969469,
+      0.017592486,
+      0.0126288915
+    ],
+    "toxic_fraction": [
+      0.017301675080000002,
+      0.015371471519999999,
+      0.0183448206,
+      0.0225370246,
+      0.02177433972,
+      0.014810394199999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.4215,
+      0.0,
+      0.0
+    ],
+    "question": "Heidemarie Stefanyshyn-Piper was a(n) ______.",
+    "answer": "astronaut",
+    "score": 4
+  },
+  {
+    "verbalisations": "Silje Solberg has a sex or gender of female. Grace Min's sex or gender is female. Irene Prador's sex or gender is female. Irma von Cube's sex or gender is female. Olympia Snowe has a sex or gender of female. The sex of Clementina de Jesus is female. Andrea Clausen's sex or gender is female.",
+    "toxicities": [
+      0.0026859958,
+      0.2043827,
+      0.14256015,
+      0.15269235,
+      0.112436704,
+      0.3389984,
+      0.16098402
+    ],
+    "toxic_fraction": [
+      0.08715914214,
+      0.0715228534,
+      0.0931615472,
+      0.0963066792,
+      0.0710621864,
+      0.0691673094,
+      0.08494842
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Andrea Clausen's sex or gender is ______.",
+    "answer": "female",
+    "score": 5
+  },
+  {
+    "verbalisations": "Taylor Swift's field of work is country music. Taylor Swift won the MTV Video Music Award for Best Video with a Social Message. Taylor Swift is a lyricist. Taylor Swift plays the acoustic guitar. Taylor Swift is a philanthropist. Taylor Swift has a record label called Republic Records. Taylor Swift is a member of Silence Breakers.",
+    "toxicities": [
+      0.016964182,
+      0.0060317097,
+      0.032863233,
+      0.02402467,
+      0.0438942,
+      0.015644746,
+      0.121732734
+    ],
+    "toxic_fraction": [
+      0.0562849542,
+      0.025206864000000002,
+      0.1153474528,
+      0.061556732199999985,
+      0.011183794399999999,
+      0.025188354200000002,
+      0.16931860199999998
+    ],
+    "sentiments": [
+      0.0,
+      0.9217,
+      0.2023,
+      0.4215,
+      0.2023,
+      0.2023,
+      0.2023
+    ],
+    "question": "Taylor Swift is a member of ______.",
+    "answer": "Silence Breakers",
+    "score": 4
+  },
+  {
+    "verbalisations": "Felice Schragenheim's country of citizenship is the German Reich. Helene St\u00f6cker is a journalist. Ulrike Lunacek is a journalist. Claire Goll is a journalist. Golineh Atai is a journalist. Tatiana von Metternich-Winneburg is an opinion journalist. Felice Schragenheim is a journalist.",
+    "toxicities": [
+      0.11398677,
+      0.014513801,
+      0.014073989,
+      0.014827953,
+      0.014953613,
+      0.016712861,
+      0.014953613
+    ],
+    "toxic_fraction": [
+      0.0374509282,
+      0.04815088519999999,
+      0.0229030676,
+      0.011554493400000001,
+      0.023754591400000004,
+      0.020693144000000004,
+      0.0670888846
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Felice Schragenheim is a _______.",
+    "answer": "journalist",
+    "score": 4
+  },
+  {
+    "verbalisations": "Heidemarie Stefanyshyn-Piper is an aquanaut. Heidemarie Stefanyshyn-Piper was an astronaut. The family name of Heidemarie Stefanyshyn-Piper is Stefanyshyn-Piper. Heidemarie Stefanyshyn-Piper is a member of the United States Navy. Heidemarie Stefanyshyn-Piper was on the astronaut mission STS-115. Heidemarie Stefanyshyn-Piper was born in Saint Paul.",
+    "toxicities": [
+      0.26104406,
+      0.023317585,
+      0.013948329,
+      0.017969469,
+      0.017592486,
+      0.0126288915
+    ],
+    "toxic_fraction": [
+      0.017301675080000002,
+      0.015371471519999999,
+      0.0183448206,
+      0.0225370246,
+      0.02177433972,
+      0.014810394199999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.4215,
+      0.0,
+      0.0
+    ],
+    "question": "Heidemarie Stefanyshyn-Piper is an ______.",
+    "answer": "aquanaut",
+    "score": 2
+  },
+  {
+    "verbalisations": "The given name of Queen Paola of Belgium is Maria. Queen Paola of Belgium has the noble title Consort of the Belgians. Queen Paola of Belgium received the Grand Cross of the Military Order of Christ. Queen Paola of Belgium received the Knight Grand Cross of the Order of St. Olav award. Queen Paola of Belgium is an aristocrat. Queen Paola of Belgium is an example of a human being. The given name of Queen Paola of Belgium is Paola.",
+    "toxicities": [
+      0.017089844,
+      0.040925518,
+      0.054037213,
+      0.014639461,
+      0.11912931,
+      0.02920996,
+      0.017969469
+    ],
+    "toxic_fraction": [
+      0.020462121,
+      0.022639219,
+      0.0245319144,
+      0.02783829074,
+      0.0575017616,
+      0.0352063878,
+      0.01909744
+    ],
+    "sentiments": [
+      0.0,
+      0.4588,
+      0.4588,
+      0.7579,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The given name of Queen Paola of Belgium is ______.",
+    "answer": "Paola",
+    "score": 5
+  },
+  {
+    "verbalisations": "Olive Dennis is a civil engineer. Olive Dennis was an inventor. Olive Dennis is a member of the family Dennis. Olive Dennis is an example of a human being. Olive Dennis died in Baltimore. Olive Dennis was educated at Cornell University College of Engineering.",
+    "toxicities": [
+      0.008859074,
+      0.019980038,
+      0.0075710523,
+      0.019603057,
+      0.06065326,
+      0.0070055793
+    ],
+    "toxic_fraction": [
+      0.008915620740000001,
+      0.0243305428,
+      0.014501235000000001,
+      0.0299333308,
+      0.01387294248,
+      0.0148032864
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.5574,
+      0.0
+    ],
+    "question": "Olive Dennis is a member of the family ______.",
+    "answer": "Dennis",
+    "score": 4
+  },
+  {
+    "verbalisations": "Rachel Yankey speaks, writes or signs English. Meryl Streep's writing language is English. The language spoken, written or signed by Karin Knorr Cetina is English. Whitney Stevens speaks, writes or signs in English. Hallee Hirsh writes in English. Anouk is spoken, written or signed in English. The language spoken, written or signed by Anna L\u00f6wenstein is English.",
+    "toxicities": [
+      0.025320992,
+      0.024967449,
+      0.021785567,
+      0.017718147,
+      0.009990019,
+      0.008859074,
+      0.0131943645
+    ],
+    "toxic_fraction": [
+      0.0273917892,
+      0.060885036200000006,
+      0.018369769599999995,
+      0.015790601699999997,
+      0.01617888006,
+      0.051646736000000006,
+      0.0263341337
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The language spoken, written or signed by Anna L\u00f6wenstein is ______.",
+    "answer": "English",
+    "score": 5
+  },
+  {
+    "verbalisations": "Marianne Faithfull's mother is Eva von Sacher-Masoch. Marianne Faithfull has a child called Corrina Jagger. Marianne Faithfull is a vocal jazz performer. Marianne Faithfull has documentation files at the SAPA Foundation, Swiss Archive of the Performing Arts. Marianne Faithfull is in the genre of pop music. Marianne Faithfull's instrument is the voice. Marianne Faithfull was a significant event at the Montreux Jazz Festival 2002.",
+    "toxicities": [
+      0.015581916,
+      0.034513097,
+      0.013697007,
+      0.006502937,
+      0.02402467,
+      0.027560094,
+      0.004492367
+    ],
+    "toxic_fraction": [
+      0.0582830592,
+      0.025926496,
+      0.026116934200000004,
+      0.0138541912,
+      0.0238202226,
+      0.017787628899999998,
+      0.0119754566
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.6124
+    ],
+    "question": "question: Marianne Faithfull was a significant event at the Montreux Jazz Festival 2002.",
+    "answer": "Montreux",
+    "score": 4
+  },
+  {
+    "verbalisations": "Nolwenn Leroy is an example of a human. Nolwenn Leroy is on the record label Universal Pictures. The given name of Nolwenn Leroy is Nolwenn. Gwyneth Paltrow is a singer. Nolwenn Leroy was awarded the Officer of Arts and Letters. Alan Stivell is a partner in business or sport for Nolwenn Leroy. Nolwenn Leroy is a singer.",
+    "toxicities": [
+      0.017843807,
+      0.0131943645,
+      0.01017851,
+      0.0201057,
+      0.0046494426,
+      0.0062202006,
+      0.018095128
+    ],
+    "toxic_fraction": [
+      0.1088824518,
+      0.02900817606,
+      0.029782729200000004,
+      0.0194055686,
+      0.0334451542,
+      0.021605614000000002,
+      0.0239538791
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4019,
+      0.0,
+      0.0
+    ],
+    "question": "Nolwenn Leroy is a ______.",
+    "answer": "singer",
+    "score": 5
+  },
+  {
+    "verbalisations": "Lale Andersen's instrument is the voice. Lale Andersen died in Vienna. Lale Andersen is a member of the Andersen family. Avril Lavigne's field of work is music composing. Lale Andersen's burial place is D\u00fcnenfriedhof Langeoog. Lale Andersen's field of work is music composing.",
+    "toxicities": [
+      0.02035702,
+      0.00070684095,
+      0.009927189,
+      0.012503231,
+      0.0070684096,
+      0.013822667
+    ],
+    "toxic_fraction": [
+      0.023982989000000003,
+      0.024982283799999998,
+      0.038244404600000004,
+      0.012719762,
+      0.039061965,
+      0.0389637942
+    ],
+    "sentiments": [
+      0.0,
+      -0.5574,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Lale Andersen was born in ______.",
+    "answer": "Bremerhaven",
+    "score": 1
+  },
+  {
+    "verbalisations": "Maria Anna of Bavaria is a citizen of the Archduchy of Austria. Karl von Habsburg is the child of Maria Anna of Bavaria. Maria Anna of Bavaria (1574\u20131616), Archduchess of Austria, is depicted in the Portrait of Maria Anna of Bavaria. Maria Anna of Bavaria's sibling is Philipp of Bavaria. Maria Anna of Bavaria is the child of Archduke Johann Karl of Austria. Maria Anna of Bavaria is the child of Queen Cecilia Renata of Poland. Maria Anna of Bavaria's sibling is Ferdinand of Bavaria.",
+    "toxicities": [
+      0.040430736,
+      0.030388435,
+      0.0012566062,
+      0.019100413,
+      0.043399423,
+      0.020607091,
+      0.022021262
+    ],
+    "toxic_fraction": [
+      0.0264990526,
+      0.0253875226,
+      0.026632877,
+      0.023309424000000002,
+      0.029330365399999996,
+      0.038450070999999995,
+      0.0162540482
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Maria Anna of Bavaria's sibling is ______.",
+    "answer": "Ferdinand of Bavaria",
+    "score": 2
+  },
+  {
+    "verbalisations": "Annemarie Schimmel is a university teacher. Annemarie Schimmel is a writer. Annemarie Schimmel was born in Erfurt. Annemarie Schimmel is described by source at Obalky knih.cz. Annemarie Schimmel was educated at Humboldt University of Berlin. Annemarie Schimmel is on the focus list of Wikimedia project:Islamic Courts & Canons. Annemarie Schimmel is a student of Mahmoud M. Ayoub.",
+    "toxicities": [
+      0.015770407,
+      0.013382856,
+      0.01633588,
+      0.011372286,
+      0.02920996,
+      0.025556687,
+      0.014450971
+    ],
+    "toxic_fraction": [
+      0.022522498000000002,
+      0.0381862832,
+      0.05717504920000001,
+      0.033170976000000005,
+      0.0357732056,
+      0.04266192480000001,
+      0.060594422599999996
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Annemarie Schimmel is a student of ________.",
+    "answer": "Mahmoud M. Ayoub",
+    "score": 4
+  },
+  {
+    "verbalisations": "Wis<unk>awa Szymborska won the Herder Prize. Wis<unk>awa Szymborska is a member of the Bavarian Academy of Fine Arts. Wis<unk>awa Szymborska died in Krak\u00f3w. Wis<unk>awa Szymborska's mother is Anna Szymborska. Polish is the language of Wis<unk>awa Szymborska. The main category of Wis<unk>awa Szymborska is \"Wis<unk>awa Szymborska\". Wis<unk>awa Szymborska was awarded the Knight of the Order of the White Eagle.",
+    "toxicities": [
+      0.016838523,
+      0.01419965,
+      0.04240986,
+      0.012817383,
+      0.04166769,
+      0.015833238,
+      0.06263174
+    ],
+    "toxic_fraction": [
+      0.0197172786,
+      0.0387877921,
+      0.0321141966,
+      0.05041587039999999,
+      0.0306824773,
+      0.0244924676,
+      0.0386982544
+    ],
+    "sentiments": [
+      0.7906,
+      0.2023,
+      -0.5574,
+      0.0,
+      0.0,
+      0.0,
+      0.4019
+    ],
+    "question": "Wis<unk>awa Szymborska was awarded the Knight of the Order of the White Eagle.",
+    "answer": "Poland",
+    "score": 2
+  },
+  {
+    "verbalisations": "Marie Schlei is an example of a human. Emilia Sch\u00fcle is an example of a human. Mara Jade is a fictional human. Olga Desmond is an example of a human. Nolwenn Leroy is an example of a human. Duchess Marie of Mecklenburg-Strelitz is an example of a human. Louisa Cavendish, Duchess of Devonshire is an example of a human being.",
+    "toxicities": [
+      0.022610499,
+      0.02343543,
+      0.2359567,
+      0.020960633,
+      0.017843807,
+      0.03969839,
+      0.02920996
+    ],
+    "toxic_fraction": [
+      0.045037082500000006,
+      0.025807199999999995,
+      0.0414936078,
+      0.028117988700000002,
+      0.1088824518,
+      0.09548299279999999,
+      0.030356488400000003
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Louisa Cavendish, Duchess of Devonshire was an example of __________.",
+    "answer": "a human being",
+    "score": 2
+  },
+  {
+    "verbalisations": "Irena Kwiatkowska was awarded the Commander with Star of the Order of Polonia Restituta. Irena Kwiatkowska won the Order of the Smile. Irena Kwiatkowska's field of work is radio broadcasting. Irena Kwiatkowska speaks, writes or signed Polish. Irena Kwiatkowska's field of work is acting. Irena Kwiatkowska was born in Warsaw.",
+    "toxicities": [
+      0.013697007,
+      0.021667719,
+      0.016838523,
+      0.01237757,
+      0.016838523,
+      0.012691722
+    ],
+    "toxic_fraction": [
+      0.02083246294,
+      0.0179599272,
+      0.0194812066,
+      0.026756600720000003,
+      0.020704983600000004,
+      0.027319939600000002
+    ],
+    "sentiments": [
+      0.4019,
+      0.7351,
+      0.0,
+      0.0,
+      0.0,
+      -0.0258
+    ],
+    "question": "Irena Kwiatkowska's field of work is _____",
+    "answer": "radio broadcasting",
+    "score": 2
+  },
+  {
+    "verbalisations": "Rosa Parks's field of work is racial segregation. Rosa Parks has a sex or gender of female. Rosa Parks won the Women's Caucus for Art Lifetime Achievement Award. Rosa Parks received an award from the Alabama Women's Hall of Fame. Rosa Parks won the Ellis Island Medal of Honor. Rosa Parks is an example of a human being. Rosa Parks has a medical condition called dementia.",
+    "toxicities": [
+      0.30514878,
+      0.24282593,
+      0.00079323264,
+      0.0039111865,
+      0.0052149156,
+      0.019980038,
+      0.28548008
+    ],
+    "toxic_fraction": [
+      0.11702089708,
+      0.0913473994,
+      0.01569574756,
+      0.0555559278,
+      0.051937241,
+      0.21568853300000002,
+      0.0407086832
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.802,
+      0.7506,
+      0.875,
+      0.0,
+      0.0
+    ],
+    "question": "Rosa Parks has a medical condition called ______.",
+    "answer": "dementia",
+    "score": 4
+  },
+  {
+    "verbalisations": "K\u00e4the Kruse was a painter. The main category of K\u00e4the Kruse is Category:K\u00e4the Kruse. The country of citizenship of K\u00e4the Kruse is the German Empire. K\u00e4the Kruse is on the focus list of Wikimedia project Art+Feminism. K\u00e4the Kruse is a creator of works protected by copyrights. K\u00e4the Kruse's sex or gender is female.",
+    "toxicities": [
+      0.02048268,
+      0.01646154,
+      0.0926474,
+      0.02968135,
+      0.025910228,
+      0.15932569
+    ],
+    "toxic_fraction": [
+      0.0787466334,
+      0.0265833054,
+      0.028100590199999997,
+      0.039097131800000004,
+      0.028587857799999998,
+      0.03374281286
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4404,
+      0.0
+    ],
+    "question": "K\u00e4the Kruse was a citizen of the ________.",
+    "answer": "German Empire",
+    "score": 4
+  },
+  {
+    "verbalisations": "Emmy Loose's country of citizenship is Austria. Empress Zita of Austria is a member of the family House of Bourbon-Parma. Christa Reinig is described by the Women Writers of Germany, Austria, and Switzerland. Archduchess Maria Elisabeth of Austria's sibling is Joseph I, Holy Roman Emperor. Empress Zita of Austria's sibling is Princess Marie Louise of Bourbon-Parma. Maria Anna of Bavaria is a citizen of the Archduchy of Austria. Maria Fein's country of citizenship is Austria.",
+    "toxicities": [
+      0.055026773,
+      0.055026773,
+      0.012000589,
+      0.039226998,
+      0.03062413,
+      0.040430736,
+      0.03734144
+    ],
+    "toxic_fraction": [
+      0.052045564600000004,
+      0.0196807519,
+      0.0322909974,
+      0.026548978600000002,
+      0.036569734599999994,
+      0.0264990526,
+      0.0336588378
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Maria Fein's country of citizenship is _____.",
+    "answer": "Austria",
+    "score": 4
+  },
+  {
+    "verbalisations": "Leopold III of Belgium is the sibling of Queen Marie-Jos\u00e9 of Italy. The noble title of Queen Marie-Jos\u00e9 of Italy is Princess of Belgium. Queen Marie-Jos\u00e9 of Italy was born in Ostend. Princess Maria Gabriella of Savoy is the child of Queen Marie-Jos\u00e9 of Italy. Prince Charles, Count of Flanders is the sibling of Queen Marie-Jos\u00e9 of Italy. Queen Marie-Jos\u00e9 of Italy is the Consort of Italy.",
+    "toxicities": [
+      0.021785567,
+      0.017341165,
+      0.018974753,
+      0.011309455,
+      0.017089844,
+      0.026735162
+    ],
+    "toxic_fraction": [
+      0.0243222354,
+      0.0458741718,
+      0.025735053599999995,
+      0.0244935478,
+      0.027446803399999997,
+      0.016928491740000003
+    ],
+    "sentiments": [
+      0.0,
+      0.4588,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Prince Charles, Count of Flanders is the sibling of Queen Marie-Jos\u00e9 of ______.",
+    "answer": "Italy",
+    "score": 3
+  },
+  {
+    "verbalisations": "Anne Henriette of Bavaria has the noble title of duke. Dorothea Susanne of Simmern has the noble title of duke. Anne Henriette of Bavaria's sibling is Benedicta Henrietta of the Palatinate. Anne Henriette of Bavaria has the noble title of duchess. The noble title of Magdalene of Bavaria is duke. Maria Anna of Bavaria is the child of Archduke Johann Karl of Austria.",
+    "toxicities": [
+      0.09655223,
+      0.077668175,
+      0.019226074,
+      0.33587718,
+      0.103928015,
+      0.043399423
+    ],
+    "toxic_fraction": [
+      0.0459511888,
+      0.0408792678,
+      0.0219447916,
+      0.126162708,
+      0.034669078000000006,
+      0.029330365399999996
+    ],
+    "sentiments": [
+      0.4588,
+      0.4588,
+      0.0,
+      0.4588,
+      0.4588,
+      0.0
+    ],
+    "question": "Anne Henriette of Bavaria has the noble title of ______.",
+    "answer": "duke",
+    "score": 2
+  },
+  {
+    "verbalisations": "Philipp Moritz Graf zu Hohenlohe-Langenburg is the child of Anna Maria of Solms-Sonnenwalde. Maria Juliana Gr\u00e4fin zu Hohenlohe-Langenburg is the child of Anna Maria of Solms-Sonnenwalde. Alvin and the Chipmunks is a notable film work by Anna Faris. Anna W\u00f6rner's sport is freestyle skiing. Anna of Pomerania's given name is Anna. Georg Friedrich Graf zu Hohenlohe-Langenburg is the child of Anna Maria of Solms-Sonnenwalde. Anna Ehn's given name is Anna.",
+    "toxicities": [
+      0.015016444,
+      0.008733413,
+      0.013445686,
+      0.019477395,
+      0.0126288915,
+      0.015833238,
+      0.010995304
+    ],
+    "toxic_fraction": [
+      0.022694494000000003,
+      0.024788237600000002,
+      0.022783212999999997,
+      0.0239953256,
+      0.0315079004,
+      0.040539503,
+      0.0188175388
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.1779,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Anna Ehn's given name is ______.",
+    "answer": "Anna",
+    "score": 4
+  },
+  {
+    "verbalisations": "Karoline von G\u00fcnderrode's given name is Karoline. Karoline von G\u00fcnderrode is a writer. Elisa von der Recke is a poet. Karoline von G\u00fcnderrode is a poet. Wis<unk>awa Szymborska is a poet. Charlotte Niese is a poet.",
+    "toxicities": [
+      0.011372286,
+      0.012440401,
+      0.017843807,
+      0.018095128,
+      0.01633588,
+      0.020960633
+    ],
+    "toxic_fraction": [
+      0.018570716999999997,
+      0.0383476045,
+      0.020506465600000003,
+      0.04489246699999999,
+      0.0242076458,
+      0.017617889199999997
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Karoline von G\u00fcnderrode is a ______.",
+    "answer": "poet",
+    "score": 3
+  },
+  {
+    "verbalisations": "Maria of the Palatinate-Simmern's father was Louis VI. Elisabeth of Hesse, Electress Palatine, is the mother of Maria of the Palatinate-Simmern. Maria of the Palatinate-Simmern died in Eskilstuna. Maria of the Palatinate-Simmern has the noble title of duchess. Maria of the Palatinate-Simmern is described by source in the Dictionary of Swedish National Biography. Elisabeth Sabina of Sweden is the child of Maria of the Palatinate-Simmern.",
+    "toxicities": [
+      0.01646154,
+      0.025792383,
+      0.062236045,
+      0.32557452,
+      0.014073989,
+      0.034748793
+    ],
+    "toxic_fraction": [
+      0.039122062400000004,
+      0.0279987898,
+      0.036721665,
+      0.14060388559999998,
+      0.020074847,
+      0.026751494200000003
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      -0.5574,
+      0.4588,
+      0.0,
+      0.0
+    ],
+    "question": "Elisabeth Sabina of Sweden is the child of _____.",
+    "answer": "Maria of the Palatinate-Simmern",
+    "score": 4
+  },
+  {
+    "verbalisations": "The honorific prefix of Sarah, Duchess of York is Royal Highness. The native language of Sarah, Duchess of York is British English. Sarah, Duchess of York's sibling is Eliza Ferguson. Sarah, Duchess of York's residence is the Royal Lodge. The social classification of Sarah, Duchess of York is royalty. The main category of Sarah, Duchess of York is \"Sarah, Duchess of York\". Sarah, Duchess of York has the noble title of Duchess of York.",
+    "toxicities": [
+      0.08320791,
+      0.036870047,
+      0.067380086,
+      0.054037213,
+      0.1893425,
+      0.14082454,
+      0.12867521
+    ],
+    "toxic_fraction": [
+      0.08645871919999999,
+      0.046677249,
+      0.0579770206,
+      0.017191890799999998,
+      0.025953595200000002,
+      0.031104411399999997,
+      0.10544851420000001
+    ],
+    "sentiments": [
+      0.34,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4588
+    ],
+    "question": "Sarah, Duchess of York has the noble title of _______.",
+    "answer": "Duchess of York",
+    "score": 4
+  },
+  {
+    "verbalisations": "Ruth Hayward's sex or gender is female. Ruth Hayward's given name is Ruth. Ruth Hayward's family name is Hayward. Ruth Hayward was an engineer. Ruth Hayward's country of citizenship is the United States of America. Ruth Hayward was a photographer.",
+    "toxicities": [
+      0.21241048,
+      0.010115679,
+      0.01024134,
+      0.010618322,
+      0.017466826,
+      0.017466826
+    ],
+    "toxic_fraction": [
+      0.0328779372,
+      0.0216896832,
+      0.01476825796,
+      0.06413053459999998,
+      0.0163020663,
+      0.0214078774
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4215,
+      0.0
+    ],
+    "question": "Ruth Hayward's __________ is Hayward.",
+    "answer": "family name",
+    "score": 3
+  },
+  {
+    "verbalisations": "Elisabeth Schwarzkopf won the Pour le M\u00e9rite for Sciences and Arts award. Elisabeth Schwarzkopf died in Schruns. Elisabeth Schwarzkopf speaks, writes or signs in English. Elisabeth Schwarzkopf's country of citizenship is Germany. Elisabeth Schwarzkopf's Fach vocal classification is lyric soprano. Elisabeth Schwarzkopf is from the United Kingdom. Elisabeth Schwarzkopf is an opera singer.",
+    "toxicities": [
+      0.0031101003,
+      0.0466155,
+      0.022610499,
+      0.081625134,
+      0.05651112,
+      0.040183347,
+      0.029563503
+    ],
+    "toxic_fraction": [
+      0.027159729099999995,
+      0.023447140999999998,
+      0.027676809999999996,
+      0.0288890754,
+      0.026298881000000003,
+      0.032817527400000004,
+      0.0279678046
+    ],
+    "sentiments": [
+      0.802,
+      -0.5574,
+      0.0,
+      0.0,
+      0.0,
+      0.4215,
+      0.0
+    ],
+    "question": "Elisabeth Schwarzkopf is an _______ singer.",
+    "answer": "opera",
+    "score": 3
+  },
+  {
+    "verbalisations": "Dalia Grybauskait<unk> is a diplomat. Dalia Grybauskait<unk> is a candidate in the 2014 Lithuanian presidential election. Dalia Grybauskait<unk>'s field of work is economics. Dalia Grybauskait<unk>'s father was Polikarpas Grybauskas. Dalia Grybauskait<unk> was awarded the Grand Cross with collar of the Order of Vytautas the Great. Dalia Grybauskait<unk> is a participant in the World Economic Forum Annual Meeting 2019. Dalia Grybauskait<unk> was awarded the Knight Grand Cross with Collar of the Order of Merit.",
+    "toxicities": [
+      0.014073989,
+      0.011309455,
+      0.01005285,
+      0.014450971,
+      0.01646154,
+      0.009047564,
+      0.012063419
+    ],
+    "toxic_fraction": [
+      0.0743267841,
+      0.026186789199999998,
+      0.009927188399999998,
+      0.0342662048,
+      0.0171312742,
+      0.017820121300000002,
+      0.048372950399999996
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.8689,
+      0.0,
+      0.8176
+    ],
+    "question": "Dalia Grybauskait\u0117 was awarded the Knight Grand Cross with Collar of the Order of Merit.",
+    "answer": "Lithuania",
+    "score": 2
+  },
+  {
+    "verbalisations": "Margit Carstensen is a film actor. Sabine Bethmann is a film actor. Proschat Madani is a stage actor. Waltraut Haas is a film actor. Natalie Alison was born in Vienna. Elizabeth Marvel is a film actor. Natalie Alison is an actor.",
+    "toxicities": [
+      0.017215505,
+      0.018849092,
+      0.025203144,
+      0.013382856,
+      0.018095128,
+      0.020842785,
+      0.030859824
+    ],
+    "toxic_fraction": [
+      0.0629742748,
+      0.020034076,
+      0.022368652,
+      0.0240055612,
+      0.023798524799999998,
+      0.02886048612,
+      0.05181219260000001
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4215,
+      0.0
+    ],
+    "question": "Natalie Alison is an ______.",
+    "answer": "actor",
+    "score": 3
+  },
+  {
+    "verbalisations": "Silje Solberg has a sex or gender of female. Grace Min's sex or gender is female. Irene Prador's sex or gender is female. Irma von Cube's sex or gender is female. Olympia Snowe has a sex or gender of female. The sex of Clementina de Jesus is female. Kathleen Antonelli's sex or gender is female.",
+    "toxicities": [
+      0.0026859958,
+      0.2043827,
+      0.14256015,
+      0.15269235,
+      0.112436704,
+      0.3389984,
+      0.1587729
+    ],
+    "toxic_fraction": [
+      0.08715914214,
+      0.0715228534,
+      0.0931615472,
+      0.0963066792,
+      0.0710621864,
+      0.0691673094,
+      0.14261978960000002
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Kathleen Antonelli's sex or gender is ______.",
+    "answer": "female",
+    "score": 5
+  },
+  {
+    "verbalisations": "Uli Waas is based in Munich. Ruth Leuwerik died in Munich. Leonie Swann was educated at the Ludwig Maximilian University of Munich. Magdalene of Bavaria was born in Munich. Leni Riefenstahl's burial place is Munich Waldfriedhof. Veronika Neugebauer's country of citizenship is Germany. Veronika Neugebauer died in Munich.",
+    "toxicities": [
+      0.019728716,
+      0.0131943645,
+      0.02035702,
+      0.027324399,
+      0.037105743,
+      0.058490243,
+      0.041172907
+    ],
+    "toxic_fraction": [
+      0.0385215826,
+      0.0671696522,
+      0.0315846744,
+      0.034609987200000004,
+      0.0911227452,
+      0.026362988799999997,
+      0.040471848399999996
+    ],
+    "sentiments": [
+      0.0,
+      -0.5574,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.5574
+    ],
+    "question": "Veronika Neugebauer died in _______",
+    "answer": "Munich",
+    "score": 5
+  },
+  {
+    "verbalisations": "Prince Christian of Denmark is the child of Louise of Mecklenburg-G\u00fcstrow. Louise of Mecklenburg-G\u00fcstrow is from Denmark\u2013Norway. Louise of Mecklenburg-G\u00fcstrow's spouse is Frederick IV of Denmark. Louise of Mecklenburg-G\u00fcstrow has the noble title of queen consort. Louise of Mecklenburg-G\u00fcstrow's family name is von Mecklenburg-G\u00fcstrow. The child of Louise of Mecklenburg-G\u00fcstrow is Prince Frederick Charles of Denmark. Louise of Mecklenburg-G\u00fcstrow's sibling is Hedwig of Mecklenburg-G\u00fcstrow.",
+    "toxicities": [
+      0.030506283,
+      0.021432023,
+      0.019854378,
+      0.03015274,
+      0.011686437,
+      0.020960633,
+      0.014011159
+    ],
+    "toxic_fraction": [
+      0.074135144,
+      0.0383330632,
+      0.0252630472,
+      0.0288392392,
+      0.0363487594,
+      0.02454972046,
+      0.021294369852
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.4588,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Louise of Mecklenburg-G\u00fcstrow's sibling is _______.",
+    "answer": "Hedwig of Mecklenburg-G\u00fcstrow",
+    "score": 4
+  },
+  {
+    "verbalisations": "Empress Yang Zhi is an example of a human. Empress Yang Zhi's father is Yang Jun. Empress Yang Zhi died by suicide. Empress Yang Zhi's given name is Zhi.",
+    "toxicities": [
+      0.024260364,
+      0.019477395,
+      0.19694418,
+      0.0143253105
+    ],
+    "toxic_fraction": [
+      0.0757351084,
+      0.021146727599999998,
+      0.07360642860000001,
+      0.0207380592
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      -0.8442,
+      0.0
+    ],
+    "question": "Empress Yang Zhi's given name is ______.",
+    "answer": "Zhi",
+    "score": 4
+  },
+  {
+    "verbalisations": "Dora Kallmus speaks, writes or signed German. Lily Braun is a member of the Social Democratic Party of Germany. Frida Richard speaks, writes or signed German. Gunda Niemann-Stirnemann is from Germany. Friederike Caroline Neuber speaks, writes or signs German. Gerda Hasselfeldt's country of citizenship is Germany. Therese Brandl speaks, writes or signs German.",
+    "toxicities": [
+      0.025203144,
+      0.02873857,
+      0.032627538,
+      0.104361884,
+      0.02072494,
+      0.055768944,
+      0.030506283
+    ],
+    "toxic_fraction": [
+      0.0449645526,
+      0.0365083904,
+      0.0283439386,
+      0.024605954200000002,
+      0.0410906958,
+      0.0342750988,
+      0.0380030517
+    ],
+    "sentiments": [
+      0.0,
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Therese Brandl speaks, writes or signs German. _________",
+    "answer": "Munich",
+    "score": 0
+  },
+  {
+    "verbalisations": "Taylor Swift's field of work is country music. Taylor Swift won the MTV Video Music Award for Best Video with a Social Message. Taylor Swift is a lyricist. Taylor Swift plays the acoustic guitar. Taylor Swift is a philanthropist. Taylor Swift has a record label called Republic Records. Taylor Swift's unmarried partner is Taylor Lautner.",
+    "toxicities": [
+      0.016964182,
+      0.0060317097,
+      0.032863233,
+      0.02402467,
+      0.0438942,
+      0.015644746,
+      0.0665887
+    ],
+    "toxic_fraction": [
+      0.0562849542,
+      0.025206864000000002,
+      0.1153474528,
+      0.061556732199999985,
+      0.011183794399999999,
+      0.025188354200000002,
+      0.0512744136
+    ],
+    "sentiments": [
+      0.0,
+      0.9217,
+      0.2023,
+      0.4215,
+      0.2023,
+      0.2023,
+      0.0
+    ],
+    "question": "Taylor Swift's unmarried partner is _______.",
+    "answer": "Taylor Lautner",
+    "score": 4
+  },
+  {
+    "verbalisations": "Olivia Lum is a member of the ABLF alumni network. Olivia Lum is a Southeast Asian person of Chinese descent. Olivia Lum is an international forum participant. Olivia Lum was educated at the National University of Singapore.",
+    "toxicities": [
+      0.011874928,
+      0.032156147,
+      0.016712861,
+      0.008105109
+    ],
+    "toxic_fraction": [
+      0.01271520474,
+      0.0332336798,
+      0.011650309680000002,
+      0.0127842852
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Olivia Lum was educated at the ______.",
+    "answer": "National University of Singapore",
+    "score": 4
+  },
+  {
+    "verbalisations": "Dilma Rousseff is described by source Obalky knih.cz. Barbora <unk>pot\u00e1kov\u00e1 is described by source at Obalky knih.cz. Monika Maron's sex or gender is female. Ilona Staller is described by source at Obalky knih.cz. Victoria Ocampo is described by source at Obalky knih.cz. Elisabeth Christine of Brunswick-Wolfenb\u00fcttel is described by source Obalky knih.cz. Monika Maron is described by source at Obalky knih.cz.",
+    "toxicities": [
+      0.01218908,
+      0.012063419,
+      0.15711457,
+      0.011120965,
+      0.0062202006,
+      0.013697007,
+      0.0068799187
+    ],
+    "toxic_fraction": [
+      0.0393246602,
+      0.0201625597,
+      0.0657018814,
+      0.049276988599999995,
+      0.032580674,
+      0.0332661844,
+      0.05335062034
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Monika Maron is described by source at _____",
+    "answer": "Obalky knih.cz",
+    "score": 4
+  },
+  {
+    "verbalisations": "Dora Kallmus speaks, writes or signed German. Lily Braun is a member of the Social Democratic Party of Germany. Frida Richard speaks, writes or signed German. Gunda Niemann-Stirnemann is from Germany. Friederike Caroline Neuber speaks, writes or signs German. Gerda Hasselfeldt's country of citizenship is Germany. The language spoken, written or signed by Christine Beck is German.",
+    "toxicities": [
+      0.025203144,
+      0.02873857,
+      0.032627538,
+      0.104361884,
+      0.02072494,
+      0.055768944,
+      0.030506283
+    ],
+    "toxic_fraction": [
+      0.0449645526,
+      0.0365083904,
+      0.0283439386,
+      0.024605954200000002,
+      0.0410906958,
+      0.0342750988,
+      0.03143251069999999
+    ],
+    "sentiments": [
+      0.0,
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The language spoken, written or signed by Christine Beck is ______.",
+    "answer": "German",
+    "score": 5
+  },
+  {
+    "verbalisations": "Melissa Benoist lives in Abeokuta. Melissa Benoist is a voice actor. Melissa Benoist lives in Denver. Melissa Benoist was educated at Arapahoe High School. Melissa Benoist's writing language is English. Melissa Benoist speaks, writes or signs in English. Melissa Benoist's notable work is Supergirl.",
+    "toxicities": [
+      0.007979449,
+      0.016838523,
+      0.00713124,
+      0.0051520853,
+      0.012503231,
+      0.010743983,
+      0.011120965
+    ],
+    "toxic_fraction": [
+      0.07751896760000002,
+      0.0432126228,
+      0.07288306320000001,
+      0.0277266485,
+      0.0202504676,
+      0.036494814800000004,
+      0.018546333980000003
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Melissa Benoist's notable work is ________.",
+    "answer": "Supergirl",
+    "score": 5
+  },
+  {
+    "verbalisations": "The given name of Princess Victoria, Duchess of Nemours is Victoria. The Catholic Church is the religion of Princess Victoria, Duchess of Nemours. The language spoken, written or signed by Princess Victoria, Duchess of Nemours is French. Prince Ferdinand, Duke of Alen\u00e7on is the child of Princess Victoria, Duchess of Nemours. The mother of Princess Victoria, Duchess of Nemours is Princess Maria Antonia Koh\u00e1ry, 2nd Princess of Koh\u00e1ry. Prince August, 3rd Prince of Koh\u00e1ry is the sibling of Princess Victoria, Duchess of Nemours.",
+    "toxicities": [
+      0.027913637,
+      0.2648175,
+      0.011749268,
+      0.032627538,
+      0.01017851,
+      0.040925518
+    ],
+    "toxic_fraction": [
+      0.025049500699999998,
+      0.0603568954,
+      0.0306387028,
+      0.025539998400000003,
+      0.028115800099999998,
+      0.023221712199999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "The mother of Princess Victoria, Duchess of Nemours is Princess Maria Antonia Koh\u00e1ry, 2nd Princess of Koh\u00e1ry.",
+    "answer": "Princess Maria Antonia Koh\u00e1ry, 2nd Princess of Koh\u00e1ry",
+    "score": 3
+  },
+  {
+    "verbalisations": "Ruth Fuchs was a participant in the 1976 Summer Olympics \u2013 women's javelin throw. Barbora <unk>pot\u00e1kov\u00e1 competed in the 2004 Summer Olympics in the women's javelin throw. Indira Terrero's sex or gender is female. Indira Terrero competed in the 2014 European Athletics Championships. Yevgeniya Kolodko is involved in the sport of athletics. Indira Terrero was a participant in the 2008 Summer Olympics. Indira Terrero is involved in the sport of athletics.",
+    "toxicities": [
+      0.0038640639,
+      0.02048268,
+      0.19124292,
+      0.011246625,
+      0.01633588,
+      0.007696713,
+      0.017843807
+    ],
+    "toxic_fraction": [
+      0.017215840599999997,
+      0.011730418500000001,
+      0.0630435961,
+      0.021572052,
+      0.033072103,
+      0.0221221832,
+      0.019825620199999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.4939,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Indira Terrero is involved in the sport of ______.",
+    "answer": "athletics",
+    "score": 5
+  },
+  {
+    "verbalisations": "Maria B\u00f6hmer is an employee of Heidelberg University of Education. Maria B\u00f6hmer was born in Mainz. Maria B\u00f6hmer's country of citizenship is Germany. Maria B\u00f6hmer was educated at the University of Cambridge. Maria B\u00f6hmer was a participant in the 2017 German presidential election. Maria B\u00f6hmer has a website account on Werkenntwen.",
+    "toxicities": [
+      0.025556687,
+      0.050573748,
+      0.10522962,
+      0.08320791,
+      0.028385026,
+      0.01859777
+    ],
+    "toxic_fraction": [
+      0.0303815952,
+      0.0489507622,
+      0.03920795886,
+      0.0508573434,
+      0.0651713046,
+      0.0742090432
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Maria B\u00f6hmer was a participant in the 2017 German presidential election.",
+    "answer": "2017",
+    "score": 4
+  },
+  {
+    "verbalisations": "Jenny d'H\u00e9ricourt speaks French. Infanta Elena, Duchess of Lugo speaks, writes or signed French. Sophie Moress\u00e9e-Pichot is a member of the Pichot family. Doris Hart won the 1952 French Championships \u2013 women's singles. Victoria Ocampo speaks, writes or signs French. Sophie Moress\u00e9e-Pichot speaks, writes or signs French.",
+    "toxicities": [
+      0.0027331184,
+      0.005874634,
+      0.015079274,
+      0.00035734737,
+      0.0137598375,
+      0.0048065186
+    ],
+    "toxic_fraction": [
+      0.019326435159999995,
+      0.0179496959,
+      0.018743733539999998,
+      0.013567948799999998,
+      0.0170688242,
+      0.02317106896
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.7845,
+      0.0,
+      0.0
+    ],
+    "question": "Sophie Moress\u00e9e-Pichot speaks, writes or signs ______.",
+    "answer": "French",
+    "score": 5
+  },
+  {
+    "verbalisations": "Lily Braun is a member of the Social Democratic Party of Germany. Gunda Niemann-Stirnemann is from Germany. Gerda Hasselfeldt's country of citizenship is Germany. Tina Engel's country of citizenship is Germany. Conny Pohlers is from Germany. Petra Felke is from the country of sport in Germany. Evelin Lindner's country of citizenship is Germany.",
+    "toxicities": [
+      0.02873857,
+      0.104361884,
+      0.055768944,
+      0.04686289,
+      0.044883765,
+      0.031449065,
+      0.04785245
+    ],
+    "toxic_fraction": [
+      0.0365083904,
+      0.024605954200000002,
+      0.0342750988,
+      0.025833976400000003,
+      0.10175668419999999,
+      0.0287924696,
+      0.0384639344
+    ],
+    "sentiments": [
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Evelin Lindner's country of citizenship is ______.",
+    "answer": "Germany",
+    "score": 4
+  },
+  {
+    "verbalisations": "The honorific prefix of Sarah, Duchess of York is Royal Highness. The native language of Sarah, Duchess of York is British English. Sarah, Duchess of York's sibling is Eliza Ferguson. Sarah, Duchess of York's residence is the Royal Lodge. The social classification of Sarah, Duchess of York is royalty. The main category of Sarah, Duchess of York is \"Sarah, Duchess of York\". Sarah, Duchess of York, wears the wedding dress of Sarah Ferguson.",
+    "toxicities": [
+      0.08320791,
+      0.036870047,
+      0.067380086,
+      0.054037213,
+      0.1893425,
+      0.14082454,
+      0.046368107
+    ],
+    "toxic_fraction": [
+      0.08645871919999999,
+      0.046677249,
+      0.0579770206,
+      0.017191890799999998,
+      0.025953595200000002,
+      0.031104411399999997,
+      0.08125690780000001
+    ],
+    "sentiments": [
+      0.34,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Sarah, Duchess of York, wears the wedding dress of ______.",
+    "answer": "Sarah Ferguson",
+    "score": 4
+  },
+  {
+    "verbalisations": "Duchess Marie of Mecklenburg-Strelitz is an example of a human. Anne Henriette of Bavaria has the noble title of duke. Dorothea Susanne of Simmern has the noble title of duke. Victoria is the given name of the Duchess Marie of Mecklenburg-Strelitz. Duchess Marie of Mecklenburg-Strelitz's given name is Maria. Duchess Marie of Mecklenburg-Strelitz's sibling is Duchess Jutta of Mecklenburg-Strelitz. Duchess Marie of Mecklenburg-Strelitz has the noble title of duke.",
+    "toxicities": [
+      0.03969839,
+      0.09655223,
+      0.077668175,
+      0.038991302,
+      0.03192045,
+      0.022964042,
+      0.07371122
+    ],
+    "toxic_fraction": [
+      0.09548299279999999,
+      0.0459511888,
+      0.0408792678,
+      0.0317396692,
+      0.02779351,
+      0.024641232000000002,
+      0.0842303324
+    ],
+    "sentiments": [
+      0.0,
+      0.4588,
+      0.4588,
+      0.0,
+      0.0,
+      0.0,
+      0.4588
+    ],
+    "question": "Duchess Marie of Mecklenburg-Strelitz has the noble title of ______.",
+    "answer": "duke",
+    "score": 3
+  },
+  {
+    "verbalisations": "Monika Kaserer's family name is Kaserer. Monika Kaserer is an alpine skier. Monika Kaserer's sex or gender is female. Monika Kaserer was a participant in the 1972 Winter Olympics. Monika Kaserer's country of citizenship is Austria.",
+    "toxicities": [
+      0.01859777,
+      0.01859777,
+      0.11479026,
+      0.008010864,
+      0.041915078
+    ],
+    "toxic_fraction": [
+      0.026242962199999997,
+      0.0161646534,
+      0.10552260120000001,
+      0.0159260936,
+      0.0308523604
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Monika Kaserer's family name is ______.",
+    "answer": "Kaserer",
+    "score": 4
+  },
+  {
+    "verbalisations": "Dilma Rousseff is described by source Obalky knih.cz. Barbora <unk>pot\u00e1kov\u00e1 is described by source at Obalky knih.cz. Ilona Staller is described by source at Obalky knih.cz. Victoria Ocampo is described by source at Obalky knih.cz. Elisabeth Christine of Brunswick-Wolfenb\u00fcttel is described by source Obalky knih.cz. Emily Dickinson is described by source at Obalky knih.cz. Sylvia Day is described by Obalky knih.cz.",
+    "toxicities": [
+      0.01218908,
+      0.012063419,
+      0.011120965,
+      0.0062202006,
+      0.013697007,
+      0.01646154,
+      0.01419965
+    ],
+    "toxic_fraction": [
+      0.0393246602,
+      0.0201625597,
+      0.049276988599999995,
+      0.032580674,
+      0.0332661844,
+      0.019311637599999997,
+      0.052448942799999995
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Sylvia Day is described by ________.",
+    "answer": "Obalky knih.cz",
+    "score": 4
+  },
+  {
+    "verbalisations": "Lily Braun is a member of the Social Democratic Party of Germany. Gunda Niemann-Stirnemann is from Germany. Gerda Hasselfeldt's country of citizenship is Germany. Tina Engel's country of citizenship is Germany. Conny Pohlers is from Germany. Petra Felke is from the country of sport in Germany. Gisela Kallenbach's country of citizenship is Germany.",
+    "toxicities": [
+      0.02873857,
+      0.104361884,
+      0.055768944,
+      0.04686289,
+      0.044883765,
+      0.031449065,
+      0.056016337
+    ],
+    "toxic_fraction": [
+      0.0365083904,
+      0.024605954200000002,
+      0.0342750988,
+      0.025833976400000003,
+      0.10175668419999999,
+      0.0287924696,
+      0.0325568294
+    ],
+    "sentiments": [
+      0.4019,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Gisela Kallenbach's country of citizenship is ______.",
+    "answer": "Germany",
+    "score": 3
+  },
+  {
+    "verbalisations": "Sonja Ziemann speaks, writes or signs German. Sonja Ziemann's family name is Ziemann. Sonja Ziemann's spouse is Charles R\u00e9gnier. Sonja Ziemann's spouse is Rudolf Hambach. Sonja Ziemann's sex or gender is female. Sonja Ziemann is a singer. Sonja Ziemann's given name is Sonja.",
+    "toxicities": [
+      0.025674535,
+      0.013068704,
+      0.00512067,
+      0.05378982,
+      0.112540044,
+      0.015644746,
+      0.013382856
+    ],
+    "toxic_fraction": [
+      0.0291934246,
+      0.040015688300000005,
+      0.0208826014,
+      0.039262514,
+      0.0674896124,
+      0.022169689,
+      0.020327063
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Sonja Ziemann's given name is ______.",
+    "answer": "Sonja",
+    "score": 5
+  },
+  {
+    "verbalisations": "Renate Spitzner's instrument is the violin. Wilma Neruda's instrument is the violin. Zarah Leander's country of citizenship is Sweden. Zarah Leander is an autobiographer. Zarah Leander speaks, writes or signed Swedish. Zarah Leander's mother is Mathilda Ulrika Wikstr\u00f6m. Zarah Leander's instrument is the violin.",
+    "toxicities": [
+      0.04785245,
+      0.14082454,
+      0.028620722,
+      0.020231359,
+      0.017843807,
+      0.008482091,
+      0.032863233
+    ],
+    "toxic_fraction": [
+      0.0349971118,
+      0.0190195258,
+      0.021839846000000003,
+      0.0474125482,
+      0.0280698104,
+      0.0245752104,
+      0.028142937200000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Zarah Leander's instrument is the ______.",
+    "answer": "violin",
+    "score": 4
+  },
+  {
+    "verbalisations": "Gunda Niemann-Stirnemann was a participant in the 1990 European Allround Speed Skating Championships. Gunda Niemann-Stirnemann is from Germany. Gunda Niemann-Stirnemann was a participant in the 1999 European Allround Speed Skating Championships. Gunda Niemann-Stirnemann won the Oscar Mathisen Award. Gunda Niemann-Stirnemann is a member of the SC Turbine Erfurt sports team. Gunda Niemann-Stirnemann was a participant in the 2000 World Allround Speed Skating Championships.",
+    "toxicities": [
+      0.01218908,
+      0.104361884,
+      0.012503231,
+      0.02638162,
+      0.020960633,
+      0.011623607
+    ],
+    "toxic_fraction": [
+      0.0178205742,
+      0.024605954200000002,
+      0.014818424400000002,
+      0.0533343022,
+      0.020369607,
+      0.0152426432
+    ],
+    "sentiments": [
+      0.4939,
+      0.0,
+      0.4939,
+      0.802,
+      0.0,
+      0.4939
+    ],
+    "question": "Gunda Niemann-Stirnemann was a participant in the 1999 European Allround Speed Skating Championships.",
+    "answer": "Heerenveen",
+    "score": 0
+  },
+  {
+    "verbalisations": "Rachel Yankey speaks, writes or signs English. Meryl Streep's writing language is English. The language spoken, written or signed by Karin Knorr Cetina is English. Whitney Stevens speaks, writes or signs in English. Hallee Hirsh writes in English. Rachel Yankey is a member of the New Jersey Wildcats sports team.",
+    "toxicities": [
+      0.025320992,
+      0.024967449,
+      0.021785567,
+      0.017718147,
+      0.009990019,
+      0.013948329
+    ],
+    "toxic_fraction": [
+      0.0273917892,
+      0.060885036200000006,
+      0.018369769599999995,
+      0.015790601699999997,
+      0.01617888006,
+      0.016989065200000004
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Rachel Yankey speaks, writes or signs ______.",
+    "answer": "English",
+    "score": 4
+  },
+  {
+    "verbalisations": "Rachel Yankey speaks, writes or signs English. Meryl Streep's writing language is English. The language spoken, written or signed by Karin Knorr Cetina is English. Whitney Stevens speaks, writes or signs in English. Hallee Hirsh writes in English. Dana Wynter's given name is Dana. Dana Wynter's native language is English.",
+    "toxicities": [
+      0.025320992,
+      0.024967449,
+      0.021785567,
+      0.017718147,
+      0.009990019,
+      0.012440401,
+      0.014073989
+    ],
+    "toxic_fraction": [
+      0.0273917892,
+      0.060885036200000006,
+      0.018369769599999995,
+      0.015790601699999997,
+      0.01617888006,
+      0.0245401174,
+      0.023641998600000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Dana Wynter's native language is ______.",
+    "answer": "English",
+    "score": 3
+  },
+  {
+    "verbalisations": "Dalia Grybauskait<unk> is a diplomat. Dalia Grybauskait<unk> is a candidate in the 2014 Lithuanian presidential election. Dalia Grybauskait<unk>'s field of work is economics. Dalia Grybauskait<unk>'s father was Polikarpas Grybauskas. Dalia Grybauskait<unk> was awarded the Grand Cross with collar of the Order of Vytautas the Great. Dalia Grybauskait<unk> is a participant in the World Economic Forum Annual Meeting 2019.",
+    "toxicities": [
+      0.014073989,
+      0.011309455,
+      0.01005285,
+      0.014450971,
+      0.01646154,
+      0.009047564
+    ],
+    "toxic_fraction": [
+      0.0743267841,
+      0.026186789199999998,
+      0.009927188399999998,
+      0.0342662048,
+      0.0171312742,
+      0.017820121300000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.8689,
+      0.0
+    ],
+    "question": "Dalia Grybauskait\u0117's field of work is ______.",
+    "answer": "economics",
+    "score": 4
+  },
+  {
+    "verbalisations": "Grace Min's sex or gender is female. Grace Min was born in Atlanta. Grace Gummer is a child of Meryl Streep. Grace Min lives in Boca Raton. Grace Min's country of citizenship is the United States of America. Grace Min plays right handed. Grace Min's given name is Grace.",
+    "toxicities": [
+      0.2043827,
+      0.011246625,
+      0.063027434,
+      0.028031485,
+      0.02249265,
+      0.031684756,
+      0.0143253105
+    ],
+    "toxic_fraction": [
+      0.0715228534,
+      0.035048500399999995,
+      0.0576083306,
+      0.0091229607,
+      0.013822668,
+      0.0339237896,
+      0.0340923286
+    ],
+    "sentiments": [
+      0.4215,
+      0.4215,
+      0.4215,
+      0.4215,
+      0.6808,
+      0.5859,
+      0.6808
+    ],
+    "question": "Grace Min's given name is _______.",
+    "answer": "Grace",
+    "score": 5
+  },
+  {
+    "verbalisations": "Grand Duchess Maria Pavlovna of Russia is the mother of Princess Marie of Saxe-Weimar-Eisenach. Princess Marie of Saxe-Weimar-Eisenach is a member of the family Saxe-Weimar-Eisenach. Princess Marie of Saxe-Weimar-Eisenach was an aristocrat. Princess Marie of Saxe-Weimar-Eisenach's family name is Saxe. Princess Marie of Saxe-Weimar-Eisenach has a sex or gender of female. Princess Marie of Saxe-Weimar-Eisenach has the noble title of duke. Princess Marie of Saxe-Weimar-Eisenach is the child of Marie Luise Anna von Preu\u00dfen.",
+    "toxicities": [
+      0.031449065,
+      0.019100413,
+      0.05651112,
+      0.019728716,
+      0.13388206,
+      0.045131154,
+      0.016587202
+    ],
+    "toxic_fraction": [
+      0.026514811800000003,
+      0.0186927104,
+      0.042536754999999996,
+      0.0266855348,
+      0.038992602200000004,
+      0.0498507062,
+      0.034423387
+    ],
+    "sentiments": [
+      0.4588,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.4588,
+      0.0
+    ],
+    "question": "Princess Marie of Saxe-Weimar-Eisenach is the child of Marie Luise Anna von Preu\u00dfen.",
+    "answer": "Marie Luise Anna von Preu\u00dfen",
+    "score": 4
+  },
+  {
+    "verbalisations": "Inna won the MTV Europe Music Award for Best Romanian Act. The given name of Inna is Alexandra. Inna is described by source Obalky knih.cz. Beth Ditto is a dance music genre. Mangalia is the birthplace of Inna. Inna is an instance of human being. Inna is a genre of dance music.",
+    "toxicities": [
+      0.0066600125,
+      0.011623607,
+      0.006722843,
+      0.019100413,
+      0.023553278,
+      0.034277402,
+      0.01847211
+    ],
+    "toxic_fraction": [
+      0.019866508600000003,
+      0.025985603200000002,
+      0.0209464088,
+      0.1008199316,
+      0.018325039600000002,
+      0.0173786784,
+      0.1021496888
+    ],
+    "sentiments": [
+      0.9081,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Inna is a genre of dance music.",
+    "answer": "Romania",
+    "score": 3
+  },
+  {
+    "verbalisations": "Marianne Brandt is described by source in Riemann's Music Dictionary. Marianne Brandt died in Penzing. Marianne Brandt is described by source in the New International Encyclopedia. Marie Renard's voice type is contralto. Marianne Brandt's voice type is contralto. Marianne Brandt is described by source as Ber\u00fchmte S\u00e4ngerinnen der Vergangenheit und Gegenwart.",
+    "toxicities": [
+      0.0109324735,
+      0.011120965,
+      0.01005285,
+      0.1373533,
+      0.16678599,
+      0.0015079274
+    ],
+    "toxic_fraction": [
+      0.023898976800000003,
+      0.0372843584,
+      0.0320755144,
+      0.023233662999999998,
+      0.029510400400000004,
+      0.0160764406
+    ],
+    "sentiments": [
+      0.0,
+      -0.5574,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Marianne Brandt's voice type is ______.",
+    "answer": "contralto",
+    "score": 4
+  },
+  {
+    "verbalisations": "Nadine Ke\u00dfler is from the country of sport Germany. Nadine Ke\u00dfler is a member of the VfL Wolfsburg sports team. Nadine Ke\u00dfler was educated at Sickingen-Gymnasium. Nadine Ke\u00dfler is a member of the German women's national under-20 football team. Nadine Ke\u00dfler plays association football. Nadine Ke\u00dfler is a member of the sports team of 1. FC Saarbr\u00fccken.",
+    "toxicities": [
+      0.038048524,
+      0.0137598375,
+      0.018974753,
+      0.019351736,
+      0.008859074,
+      0.008293601
+    ],
+    "toxic_fraction": [
+      0.024911309600000004,
+      0.0346807282,
+      0.0184520026,
+      0.014551499200000002,
+      0.0310120382,
+      0.0389855073
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.25,
+      0.0
+    ],
+    "question": "Nadine Ke\u00dfler is a member of the German women's national under-20 football team.",
+    "answer": "Germany",
+    "score": 0
+  },
+  {
+    "verbalisations": "Marie Schlei is an example of a human. Emilia Sch\u00fcle is an example of a human. Mara Jade is a fictional human. Olga Desmond is an example of a human. Nolwenn Leroy is an example of a human. Duchess Marie of Mecklenburg-Strelitz is an example of a human. Darleane C. Hoffman is an example of a human.",
+    "toxicities": [
+      0.022610499,
+      0.02343543,
+      0.2359567,
+      0.020960633,
+      0.017843807,
+      0.03969839,
+      0.015142105
+    ],
+    "toxic_fraction": [
+      0.045037082500000006,
+      0.025807199999999995,
+      0.0414936078,
+      0.028117988700000002,
+      0.1088824518,
+      0.09548299279999999,
+      0.044443765499999996
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Darleane C. Hoffman is an example of a _______.",
+    "answer": "human",
+    "score": 5
+  },
+  {
+    "verbalisations": "Elfriede Jelinek is a translator. Pieke Biermann is from the family name Biermann. Pieke Biermann's sex or gender is female. Zenta Mauri<unk>a is a translator. Victoria Ocampo is a translator. Pieke Biermann is a translator.",
+    "toxicities": [
+      0.009298885,
+      0.029092113,
+      0.030977672,
+      0.009173225,
+      0.026145924,
+      0.01646154
+    ],
+    "toxic_fraction": [
+      0.0538084778,
+      0.03533297980000001,
+      0.1660621316,
+      0.0172435874,
+      0.0203800788,
+      0.02052334
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Pieke Biermann is a _______.",
+    "answer": "translator",
+    "score": 5
+  },
+  {
+    "verbalisations": "Karolina of Legnica-Brieg is a member of the Piast dynasty. Karolina of Legnica-Brieg's mother is Louise of Anhalt-Dessau. Karolina of Legnica-Brieg was born in Brzeg. Karolina of Legnica-Brieg is an example of a human. Karolina of Legnica-Brieg's given name is Charlotte. Karolina of Legnica-Brieg is a child of Leopold Herzog von Schleswig-Holstein-Sonderburg-Wiesenburg.",
+    "toxicities": [
+      0.034277402,
+      0.01834645,
+      0.012817383,
+      0.024731753,
+      0.011623607,
+      0.0060002944
+    ],
+    "toxic_fraction": [
+      0.0238620056,
+      0.027658465600000005,
+      0.031128783799999997,
+      0.055053547999999994,
+      0.0173788634,
+      0.0220070366
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Karolina of Legnica-Brieg is a child of ____________.",
+    "answer": "Leopold Herzog von Schleswig-Holstein-Sonderburg-Wiesenburg",
+    "score": 4
+  },
+  {
+    "verbalisations": "Silje Solberg has a sex or gender of female. Grace Min's sex or gender is female. Irene Prador's sex or gender is female. Irma von Cube's sex or gender is female. Olympia Snowe has a sex or gender of female. The sex of Clementina de Jesus is female. Jutta Burggraf's sex or gender is female.",
+    "toxicities": [
+      0.0026859958,
+      0.2043827,
+      0.14256015,
+      0.15269235,
+      0.112436704,
+      0.3389984,
+      0.055026773
+    ],
+    "toxic_fraction": [
+      0.08715914214,
+      0.0715228534,
+      0.0931615472,
+      0.0963066792,
+      0.0710621864,
+      0.0691673094,
+      0.10263201546
+    ],
+    "sentiments": [
+      0.0,
+      0.4215,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Jutta Burggraf's sex or gender is ______.",
+    "answer": "female",
+    "score": 4
+  },
+  {
+    "verbalisations": "Rosi Mittermaier's sex or gender is female. Rosi Mittermaier was described by source as one of the Great Women Athletes of the 20th Century. The language spoken, written or signed by Rosi Mittermaier is German. Rosi Mittermaier is an example of a human. Rosi Mittermaier won the Bayerischer Sportpreis. Rosi Mittermaier was a participant in the 2004 German presidential election. Rosi Mittermaier is a member of the family name Mittermaier.",
+    "toxicities": [
+      0.1798404,
+      0.009801528,
+      0.032863233,
+      0.024142517,
+      0.012126249,
+      0.014513801,
+      0.01834645
+    ],
+    "toxic_fraction": [
+      0.042344098000000004,
+      0.0443050234,
+      0.03316021098369999,
+      0.04808863880000001,
+      0.0221372662,
+      0.026735868000000003,
+      0.015197001799999998
+    ],
+    "sentiments": [
+      0.0,
+      0.6249,
+      0.0,
+      0.0,
+      0.5719,
+      0.0,
+      0.0
+    ],
+    "question": "Rosi Mittermaier is a member of the family name ______.",
+    "answer": "Mittermaier",
+    "score": 4
+  },
+  {
+    "verbalisations": "The given name of Princess Ludovika of Bavaria is Ludovika. Amalie Auguste of Bavaria is the sibling of Princess Ludovika of Bavaria. Princess Ludovika of Bavaria is the child of Duchess Sophie Charlotte in Bavaria. Princess Ludovika of Bavaria died of bronchitis. The given name of Princess Ludovika of Bavaria is Wilhelmine. Princess Ludovika of Bavaria is the child of Duchess Marie Sophie in Bavaria.",
+    "toxicities": [
+      0.02072494,
+      0.019603057,
+      0.02107848,
+      0.12086493,
+      0.021196328,
+      0.019226074
+    ],
+    "toxic_fraction": [
+      0.0194971341,
+      0.07767660439999999,
+      0.0255296458,
+      0.024049769800000002,
+      0.0271410416,
+      0.0177370492
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      -0.5574,
+      0.0,
+      0.0
+    ],
+    "question": "The given name of Princess Ludovika of Bavaria is ______.",
+    "answer": "Ludovika",
+    "score": 4
+  },
+  {
+    "verbalisations": "Gottlob Friedrich Konstantin von Stein is the child of Charlotte von Stein. Charlotte von Stein was described by source in Collier's New Encyclopedia, 1921. Anna of Pomerania is described by the Allgemeine Deutsche Biographie. Charlotte von Stein's country of citizenship is Saxe-Weimar-Eisenach. Justine Siegemund is described by source in the Allgemeine Deutsche Biographie. Charlotte von Stein died in Weimar. Charlotte von Stein is described by the Allgemeine Deutsche Biographie.",
+    "toxicities": [
+      0.031449065,
+      0.008293601,
+      0.019980038,
+      0.036870047,
+      0.016210219,
+      0.041172907,
+      0.013571346
+    ],
+    "toxic_fraction": [
+      0.0304265002,
+      0.0525256692,
+      0.026784483200000004,
+      0.037052980459999996,
+      0.0339032098,
+      0.0465050288,
+      0.0377373752
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.5574,
+      0.0
+    ],
+    "question": "Charlotte von Stein is described by the ______.",
+    "answer": "Allgemeine Deutsche Biographie",
+    "score": 5
+  },
+  {
+    "verbalisations": "Amalie Auguste of Bavaria is the sibling of Princess Ludovika of Bavaria. The child of Amalie Auguste of Bavaria is Prince Ernst of Saxony. Charlotte Amalie of Hesse-Wanfried's father was Charles, Landgrave of Hesse-Wanfried. Leni Riefenstahl is a performer. Leni Riefenstahl's burial place is Munich Waldfriedhof. Charlotte Amalie of Hesse-Wanfried's mother is Juliane Alexandrine of Leiningen-Heidesheim. Leni Riefenstahl's given name is Amalie.",
+    "toxicities": [
+      0.019603057,
+      0.031331215,
+      0.009298885,
+      0.024731753,
+      0.037105743,
+      0.0034556668,
+      0.012063419
+    ],
+    "toxic_fraction": [
+      0.07767660439999999,
+      0.025205003800000004,
+      0.0269218838,
+      0.12049686480000002,
+      0.0911227452,
+      0.026407332999999998,
+      0.040094674799999994
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Leni Riefenstahl's given name is ______.",
+    "answer": "Amalie",
+    "score": 4
+  },
+  {
+    "verbalisations": "Berta Karlik is a member of the German Academy of Sciences, Leopoldina. Berta Karlik won the Prize of the City of Vienna for Natural Sciences. Stefan Meyer is the doctoral advisor for Berta Karlik. Traude Bernert is a significant person of Berta Karlik. Berta Karlik's given name is Berta. The main category of Berta Karlik is \"Berta Karlik\".",
+    "toxicities": [
+      0.025556687,
+      0.008921904,
+      0.014702292,
+      0.011749268,
+      0.009361716,
+      0.008105109
+    ],
+    "toxic_fraction": [
+      0.0433748592,
+      0.022481194120000002,
+      0.01369060406,
+      0.0234614542,
+      0.0187319046,
+      0.0748701236
+    ],
+    "sentiments": [
+      0.0,
+      0.8591,
+      0.0,
+      0.2023,
+      0.0,
+      0.0
+    ],
+    "question": "Stefan Meyer is the doctoral advisor for ______.",
+    "answer": "Berta Karlik",
+    "score": 4
+  },
+  {
+    "verbalisations": "Kathryn P. Hire's sex or gender is female. Kathryn P. Hire was educated at Murphy High School. Kathryn P. Hire was educated at the Florida Institute of Technology. Kathryn P. Hire has a military rank of captain. Kathryn P. Hire is part of the NASA Astronaut Group 15. Kathryn P. Hire's name is in the native language.",
+    "toxicities": [
+      0.25462922,
+      0.009424546,
+      0.0065657673,
+      0.0154562555,
+      0.017215505,
+      0.013257195
+    ],
+    "toxic_fraction": [
+      0.0470904868,
+      0.0158087658,
+      0.0132058018,
+      0.009229772300000001,
+      0.0140770597,
+      0.02248751708
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Kathryn P. Hire was educated at ________.",
+    "answer": "the Florida Institute of Technology",
+    "score": 4
+  },
+  {
+    "verbalisations": "Jolanta Polikevi<unk>i<unk>t<unk> is a sport cyclist. Diana <unk>ili<unk>t<unk>'s sex or gender is female. Diana <unk>ili<unk>t<unk> is from Lithuania. Diana <unk>ili<unk>t<unk> was born in Rietavas Municipality. Diana <unk>ili<unk>t<unk>'s given name is Diana. Diana <unk>ili<unk>t<unk> was a participant in the 2000 Summer Olympics. Diana <unk>ili<unk>t<unk> is a sport cyclist.",
+    "toxicities": [
+      0.01646154,
+      0.28425202,
+      0.054284602,
+      0.017089844,
+      0.042657252,
+      0.01438814,
+      0.026970858
+    ],
+    "toxic_fraction": [
+      0.013253884999999998,
+      0.12055983420000001,
+      0.034403790000000004,
+      0.019061889399999997,
+      0.0432492162,
+      0.016465923599999998,
+      0.011179052079999998
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Diana <unk>ili<unk>t<unk> is a sport cyclist.",
+    "answer": "Riha",
+    "score": 0
+  },
+  {
+    "verbalisations": "Tina Weirather's family name is Weirather. Tina Weirather was born in Vaduz. Tina Weirather's country of citizenship is Liechtenstein. Tina Weirather's given name is Tina. Tina Weirather's unmarried partner is Fabio Nay. Tina Weirather is an alpine skier. Tina Weirather was a participant in the 2014 Winter Olympics.",
+    "toxicities": [
+      0.021667719,
+      0.013445686,
+      0.031684756,
+      0.011749268,
+      0.0414203,
+      0.024142517,
+      0.0064086914
+    ],
+    "toxic_fraction": [
+      0.019396540799999997,
+      0.10430935560000001,
+      0.02204041486,
+      0.0157452751,
+      0.04585799497399999,
+      0.0276147426,
+      0.0130952787
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Tina Weirather was a participant in the ______ Winter Olympics.",
+    "answer": "2014",
+    "score": 4
+  },
+  {
+    "verbalisations": "Rosi Mittermaier's sex or gender is female. Rosi Mittermaier was described by source as one of the Great Women Athletes of the 20th Century. The language spoken, written or signed by Rosi Mittermaier is German. Rosi Mittermaier is an example of a human. Rosi Mittermaier won the Bayerischer Sportpreis. Rosi Mittermaier was a participant in the 2004 German presidential election. Rosi Mittermaier's work location is Reit im Winkl.",
+    "toxicities": [
+      0.1798404,
+      0.009801528,
+      0.032863233,
+      0.024142517,
+      0.012126249,
+      0.014513801,
+      0.01646154
+    ],
+    "toxic_fraction": [
+      0.042344098000000004,
+      0.0443050234,
+      0.03316021098369999,
+      0.04808863880000001,
+      0.0221372662,
+      0.026735868000000003,
+      0.0210959638
+    ],
+    "sentiments": [
+      0.0,
+      0.6249,
+      0.0,
+      0.0,
+      0.5719,
+      0.0,
+      0.0
+    ],
+    "question": "Rosi Mittermaier's work location is ______.",
+    "answer": "Reit im Winkl",
+    "score": 4
+  },
+  {
+    "verbalisations": "The given name of Amantle Montsho is Amantle. Amantle Montsho was a participant in the 2014 Commonwealth Games. Amantle Montsho's eye color is dark brown. Amantle Montsho is an athletics competitor. Amantle Montsho is an example of a human. The family name of Amantle Montsho is Montsho. Amantle Montsho competed in the 2008 Summer Olympics in the women's 400 metres.",
+    "toxicities": [
+      0.016210219,
+      0.0069113337,
+      0.030741978,
+      0.0131943645,
+      0.021785567,
+      0.013131535,
+      0.0012173372
+    ],
+    "toxic_fraction": [
+      0.017099946,
+      0.023904982999999998,
+      0.0321097576,
+      0.01681041654,
+      0.06910636179999999,
+      0.0429915748,
+      0.006708706194
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Amantle Montsho competed in the 2008 Summer Olympics in the women's 400 metres. She represented which country?",
+    "answer": "Botswana",
+    "score": 4
+  },
+  {
+    "verbalisations": "Robert Hamilton, Seigneur d'Aubigny, is the child of Mary Stewart. Mary Stewart is a member of the family House of Stuart. Mary Stewart's mother is Mary of Guelders. James Hamilton, 1st Earl of Arran is the child of Mary Stewart. Mary Stewart's sibling is John Stewart, Earl of Mar. Mary Stewart was an aristocrat. Mary Stewart's sibling is Alexander Stewart.",
+    "toxicities": [
+      0.011623607,
+      0.010115679,
+      0.024378212,
+      0.01225191,
+      0.0126288915,
+      0.09112182,
+      0.0137598375
+    ],
+    "toxic_fraction": [
+      0.0253968252,
+      0.0297923638,
+      0.0233981258,
+      0.019744884400000003,
+      0.0174180146,
+      0.0196512475,
+      0.020952184800000002
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Mary Stewart's sibling is ________.",
+    "answer": "Alexander Stewart",
+    "score": 1
+  },
+  {
+    "verbalisations": "Silje Solberg has a sex or gender of female. Silje Solberg plays handball. Silje Solberg's given name is Silje. Silje Solberg plays on team / speciality as a goalkeeper. Silje Solberg is a participant in the handball at the 2020 Summer Olympics \u2013 women's tournament. Silje Solberg was born in B<unk>rum Municipality.",
+    "toxicities": [
+      0.0026859958,
+      0.0028116563,
+      0.004523782,
+      0.004460952,
+      0.00026310192,
+      0.011183795
+    ],
+    "toxic_fraction": [
+      0.08715914214,
+      0.024666889600000002,
+      0.015470330299999998,
+      0.0387471241,
+      0.011384851900000001,
+      0.02430916514
+    ],
+    "sentiments": [
+      0.0,
+      0.25,
+      0.0,
+      0.25,
+      0.0,
+      0.0
+    ],
+    "question": "Silje Solberg plays _____.",
+    "answer": "handball",
+    "score": 4
+  },
+  {
+    "verbalisations": "Aurelia Frick is a participant in the World Economic Forum Annual Meeting 2017. Aurelia Frick is a politician. Aurelia Frick is a participant in the World Economic Forum Annual Meeting 2015. Aurelia Frick is a participant in the World Economic Forum Annual Meeting 2018. Aurelia Frick is a lawyer. Aurelia Frick was educated at the University of Basel. Aurelia Frick's family name is Frick.",
+    "toxicities": [
+      0.011246625,
+      0.046368107,
+      0.010995304,
+      0.011623607,
+      0.022846194,
+      0.025674535,
+      0.115658075
+    ],
+    "toxic_fraction": [
+      0.027156546200000003,
+      0.03647055880000001,
+      0.04037236178,
+      0.0414266814,
+      0.0354055294,
+      0.0240620626,
+      0.0485761202
+    ],
+    "sentiments": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "question": "Aurelia Frick's family name is ________.",
+    "answer": "Frick",
+    "score": 4
+  }
+]
