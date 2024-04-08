@@ -1,3 +1,4 @@
 [submodule "WDV"]
 	path = helpers/WDV
 	url = https://github.com/gabrielmaia7/WDV.git
+.env

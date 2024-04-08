@@ -10,7 +10,7 @@ class Plot:
             "male": "blue",
             "female": "green",
             "trans": "orange",
-            "high_income": "pink",
+            "high_income": "hotpink",
             "low_income": "red"
         }
         self.files = ["trans", "female", "male", "high_income", "low_income"]
@@ -27,6 +27,7 @@ class Plot:
         plt.scatter(x, y, c=self.colours[file], s = 4)
         plt.xlabel('toxicity')
         plt.ylabel('toxic fraction')
+        plt.ylim(0,0.3)
         plt.title(f'{file.capitalize()} Toxicity to Toxic Fraction')
         plt.grid()
         plt.show()
@@ -73,7 +74,6 @@ class Plot:
             patch.set_facecolor(color)
 
         ax5.xaxis.grid(True)
-        ax5.legend(files, loc='upper right')
 
         plt.show()
 
@@ -166,7 +166,7 @@ class Plot:
         plt.suptitle("KGQA Results")
         plt.show()
     
-    def display_all_linkp_resulst(self, files):
+    def display_all_linkp_results(self, files):
         figure, axis = plt.subplots(2, 2)
         toxicities = [[],[],[],[],[],[]]
         toxic_fraction = [[],[],[],[],[],[]]

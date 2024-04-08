@@ -42,7 +42,8 @@ files = ["male","female", "trans", "high_income", "low_income"]
 
 
 ########## Visualising downstream task performance ##########
-# plotter = Plot()
+plotter = Plot()
+plotter.display_all_linkp_results(["male","female","trans", "low_income", "high_income"])
 # plotter.display_all_linkp_results(files)
 # plotter.plot_downstream_kgqa_toxicity("trans")
 # plotter.display_kgqa_results("low_income")
