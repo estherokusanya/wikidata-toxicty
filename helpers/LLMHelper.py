@@ -50,7 +50,6 @@ class LLMHelper:
                 print("Timeout occurred. Retrying...")
 
     def do_mistral(self,message):
-        # mistral_key = "3Xa02zCJ9vJ3GnTQo6d3C0MBylIitf5G"
         client = MistralClient(api_key=os.getenv("MISTRAL_KEY"))
         model = "open-mistral-7b"
         messages = [
