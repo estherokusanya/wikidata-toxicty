@@ -27,7 +27,7 @@ This repository accompanies my dissertation titled *'Evaluating Toxicity in Know
 
 2. Clone the repo with its submodules
    ```sh
-   git clone --recurse-submodules https://github.com/estherokusanya/Project-Name.git
+   git clone --recurse-submodules https://github.com/estherokusanya/wikidata-toxicity.git
    ```
 3. Follow steps in [WDV](https://github.com/gabrielmaia7/WDV/tree/13810bd80e2c64956018b5ae508f6eb582deaf3c/Verbalisation) to unpack *graph2text*
 4. Update package location in `verbalisation_module.py`
