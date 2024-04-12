@@ -1,8 +1,8 @@
-# Evaluating Toxicity in Knowledge Graphs and its Effects in Downstream Tasks
+# Evaluating Toxicity in Collaborative Knowledge Graphs and its Effects in Downstream Tasks
 
 ## Description
 
-This repository accompanies my dissertation titled *'Evaluating Toxicity in Knowledge Graphs and its effect in Downstream Tasks'*. This project evaluates the toxicity of triples in [Wikidata](https://wikidata.org) by verbalising the triples using WDV, and then analysing the toxicity of the verbalisatin using the Perspective API. The downstream tasks examined are KGQA and Link Prediction, both implemented using LLMs.
+This repository accompanies my dissertation titled *'Evaluating Toxicity in Collaborative Knowledge Graphs and its effects in Downstream Tasks'*. This project evaluates the toxicity of triples in [Wikidata](https://wikidata.org) by verbalising the triples using WDV, and then analysing the toxicity of the verbalisation using the Perspective API. The downstream tasks examined are KGQA and Link Prediction, both implemented using LLMs.
 
 
 
