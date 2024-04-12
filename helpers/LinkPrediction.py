@@ -54,6 +54,15 @@ class LinkPrediction:
         """
 
     def context_set_up(self, file, q_num, context_budget):
+        """
+            Performs two hop negihbourhood and creates link prediction tasks
+
+            file: name of category ie. male, female
+            qnum: the number of tasks to create
+            sub_graph_size: context budget for each task
+            
+        """
+
         nHopper = NeighbourhoodHop()
         with open(f"toxicity_results/5000_{file}_toxicities.json", "r") as f:
             data = json.load(f)

@@ -1,10 +1,9 @@
-# Evaluating Toxicity in Knowledge Graphs and it's Effects in Downstream Tasks
-
-Code Base Accompanying Paper: [link to my paper]
+# Evaluating Toxicity in Knowledge Graphs and its Effects in Downstream Tasks
 
 ## Description
 
-This repo accompanies research on bias in collaborative KGs (Wikidata). We propose a novel approach to identify toxicity bias by transforming KG entities & relationships into natural language utilising teh verbaliser present in WDV. This allows us to leverage established metrics for evaluating large language models (LLMs) to assess KG bias. The KGQA and the Link Prediction system are also present  also investigate how KG toxicity affects downstream AI systems like LLMs and recommendation systems.
+This repository accompanies my dissertation titled *'Evaluating Toxicity in Knowledge Graphs and its effect in Downstream Tasks'*. This project evaluates the toxicity of triples in [Wikidata](https://wikidata.org) by verbalising the triples using WDV, and then analysing the toxicity of the verbalisatin using the Perspective API. The downstream tasks examined are KGQA and Link Prediction, both implemented using LLMs.
+
 
 
 <!-- GETTING STARTED -->
@@ -20,7 +19,7 @@ This repo accompanies research on bias in collaborative KGs (Wikidata). We propo
 
 ### Installation
 
-1. Set up accounts and get a free API Key from: (billing details required)
+1. Set up accounts and get a free API Keys from: (billing details required)
     OpenAI: https://platform.openai.com/
     Llama: https://www.llama-api.com/
     Mistral Ai: https://mistral.ai/
@@ -45,7 +44,7 @@ This repo accompanies research on bias in collaborative KGs (Wikidata). We propo
     ```sh
    pip install -r requirements.txt
    ```
-5. Enter your API in `.env`
+5. Store your API keys in `.env`
    ```js
     OPENAI_KEY = 'ENTER YOUR API KEY'
     LLAMA_KEY= ''
@@ -56,32 +55,21 @@ This repo accompanies research on bias in collaborative KGs (Wikidata). We propo
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Author
 
+ex. Esther Okusanya (boluwatife.okusanya@kcl.ac.uk)
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-ex. Esther Okusanya
-ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## Version History
 
 * 0.1
     * Initial Release
 
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
 * [readme template](https://github.com/matiassingers/awesome-readme)
 * [WDV](https://github.com/gabrielmaia7/WDV)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>

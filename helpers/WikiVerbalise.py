@@ -7,7 +7,7 @@ class WikiVerbalise:
 
     @staticmethod
     def verbalise(file):
-        print("starting")
+        print("starting verbalisation")
         vm = VerbModule()
         with open(f"triple_results/{file}_results.json", "r") as f:
             triples = json.load(f)

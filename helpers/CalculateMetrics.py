@@ -15,6 +15,11 @@ class PerspectiveAPIClient:
         pass
     @staticmethod
     def get_toxicity_score(input):
+        """
+        Sends request to Perspectie API and retrieves score
+        input -> str: verbalisation
+        Return -> int: score
+        """
         client = discovery.build(
             "commentanalyzer",
             "v1alpha1",
@@ -31,6 +36,10 @@ class PerspectiveAPIClient:
         return response['attributeScores']['TOXICITY']['summaryScore']['value']
 
 def toxicity_metric(file):
+    """
+        Updates JSON file with the toxicity score of 5000 triple verbalisation
+        file: name of category ie. male, female
+    """
     numbers = random.sample(range(0,len(triples)),5000)
     with open(f"triple_results/{file}_results_verbalised.json", "r") as f:
         triples = json.load(f)
@@ -44,6 +53,10 @@ def toxicity_metric(file):
 
 
 def sentiment_metric(file):
+    """
+        Updates JSON file with the sentiment of each triple verbalisation
+        file: name of category ie. male, female
+    """
     analyser = SentimentIntensityAnalyzer()
 
     with open(f"toxicity_results/5000_{file}_toxicities.json", "r") as f:

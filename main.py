@@ -6,6 +6,7 @@ from helpers.ToxicFraction import ToxicFraction
 from helpers.WikiVerbalise import WikiVerbalise
 
 files = ["male","female", "trans", "high_income", "low_income"]
+
 """
     It's advisable to comment each section separately and excute one at a time,
     than running the entire process all at once.
@@ -52,6 +53,7 @@ for file in files:
 
 
 ########## Visualising downstream task performance ##########
+### Many more charts and graphs available in Plot Class
 plotter = Plot()
 plotter.plot_kgqa_results(files) #plots line graphs of kgqa results of all files
 
@@ -65,4 +67,3 @@ plotter.calculate_gradient(files) # performs linear regression and plots line of
 
 plotter.box_plot(files) # creats toxicity and toxic fractionboxplot of all files
 
-### Many more charts and graphs available in Plot Class
