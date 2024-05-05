@@ -26,7 +26,7 @@ class ToxicFraction:
                 toxic_fraction = PerspectiveAPIClient.get_toxicity_score(response)
                 responses.append(toxic_fraction)
             item["toxic_fraction"] = responses
-            with open(f"toxicity_results/5000_{file}_toxicities.json", "a") as x:
-                json.dump(data, x, indent=2)
+        with open(f"toxicity_results/5000_{file}_toxicities.json", "a") as x:
+            json.dump(data, x, indent=2)
 
         print("complete")
